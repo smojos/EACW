@@ -12,6 +12,14 @@ authors:
   - family-names: Smolders
     given-names: "Joshua A. G."
 version: "2026-10-24"
+doi: 10.5281/zenodo.23677135
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23677135
+    description: "All editions (always the newest)"
+  - type: doi
+    value: 10.5281/zenodo.23677136
+    description: "Edition 2026-10-24"
 date-released: 2026-10-26
 license: CC-BY-4.0
 repository-code: "https://github.com/smojos/EACW"

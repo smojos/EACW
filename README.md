@@ -1,5 +1,7 @@
 # The Extended African Comparative Wordlist (EACW)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23677135.svg)](https://doi.org/10.5281/zenodo.23677135)
+
 *The Extended African Comparative Wordlist: A digital lexical organization system for field linguists.*
 
 The EACW is a comparative wordlist and a system of lexical reference for field linguists: 2,556 items in nineteen semantic sections, 2,274 of which make up its default list. Every item has a reference that says something about it (C001f *mother*: C for kinship, 001 for *parent*, f for female), a default word class, a clarification where the gloss needs one, a taxon for animals and plants, a regional code, and its numbers in the SIL Comparative African Wordlist (CAWL) and the Swadesh list.
@@ -8,13 +10,14 @@ The EACW is a comparative wordlist and a system of lexical reference for field l
 
 - **Current edition:** 2026-10-24
 - **Licence:** Creative Commons Attribution 4.0 International ([CC BY 4.0](LICENSE)), © 2026 Joshua A. G. Smolders
-- **DOI:** to come (Zenodo)
+- **DOI (all editions, always the newest):** [10.5281/zenodo.23677135](https://doi.org/10.5281/zenodo.23677135)
+- **DOI of edition 2026-10-24:** [10.5281/zenodo.23677136](https://doi.org/10.5281/zenodo.23677136)
 
 ## Citing it
 
-> Smolders, Joshua A. G. 2026. *The Extended African Comparative Wordlist (EACW)*, edition 2026-10-24 [dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Smolders, Joshua A. G. 2026. *The Extended African Comparative Wordlist (EACW)*, edition 2026-10-24 [dataset]. Zenodo. https://doi.org/10.5281/zenodo.23677136
 
-Cite the edition you used. The concept DOI (once there is one) always points to the newest edition; each edition also has a DOI of its own. The paper that explains the list:
+Cite the edition you used: each edition has a DOI of its own. To refer to the EACW in general, use the DOI for all editions, [10.5281/zenodo.23677135](https://doi.org/10.5281/zenodo.23677135), which always points to the newest. The paper that explains the list:
 
 > Smolders, Joshua A. G. 2026. The Extended African Comparative Wordlist: A digital lexical organization system for field linguists. Manuscript.
 
