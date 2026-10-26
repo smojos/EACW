@@ -1,0 +1,14 @@
+{
+  "upload_type": "dataset",
+  "title": "The Extended African Comparative Wordlist (EACW)",
+  "creators": [
+    {"name": "Smolders, Joshua A. G."}
+  ],
+  "version": "2026-10-24",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "description": "<p>The Extended African Comparative Wordlist (EACW): a digital lexical organization system for field linguists. A comparative wordlist and system of lexical reference with 2,556 items in nineteen semantic sections, 2,274 of which make up its default list. Every item has a meaningful reference (C001f 'mother': C for kinship, 001 for 'parent', f for female), a default word class, a clarification where the gloss needs one, a taxon for animals and plants, a regional code, and its numbers in the SIL Comparative African Wordlist (CAWL) and the Swadesh list.</p><p>Tab-separated files: eacw.tsv (the list), cawl.tsv and swadesh.tsv (the correspondences; the CAWL's own glosses are not included). The list is maintained in dated editions; EDITIONS.md records what each one changed.</p>",
+  "keywords": ["comparative wordlist", "lexical reference system", "field methods", "lexicography", "African languages"],
+  "notes": "Licensed under CC BY 4.0, © 2026 Joshua A. G. Smolders. The CAWL's item and section numbers are SIL International's (Snider & Roberts 2006) and are included only for the correspondences.",
+  "language": "eng"
+}

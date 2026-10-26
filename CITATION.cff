@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use the EACW, please cite the edition you used."
+type: dataset
+title: "The Extended African Comparative Wordlist (EACW)"
+abstract: >-
+  A comparative wordlist and system of lexical reference for field linguists:
+  2,556 items in nineteen semantic sections (2,274 in the default list), each with a
+  meaningful reference, a default word class, clarifications, taxa for animals and plants,
+  regional codes, and correspondences with the SIL Comparative African Wordlist and the
+  Swadesh list. Maintained in dated editions.
+authors:
+  - family-names: Smolders
+    given-names: "Joshua A. G."
+version: "2026-10-24"
+date-released: 2026-10-26
+license: CC-BY-4.0
+repository-code: "https://github.com/smojos/EACW"
+keywords:
+  - comparative wordlist
+  - lexical reference system
+  - field methods
+  - lexicography
+  - African languages
