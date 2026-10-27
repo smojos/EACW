@@ -385,7 +385,7 @@ C013m	paternal great grandfather	NOUN	yes
 C014	paternal pibling	NOUN	no		father's sibling, aunt or uncle	
 C014f	paternal aunt	NOUN	yes			
 C014m	paternal uncle	NOUN	yes			
-C015	paternal cousin	NOUN	no			
+C015	paternal cousin	NOUN	no		child of father's sibling; either (a) father's brother's child, or (b) father's sister's child	
 C015f	female paternal cousin	NOUN	yes			
 C015m	male paternal cousin	NOUN	yes			
 C016	maternal grandparent	NOUN	no			
@@ -397,7 +397,7 @@ C017m	maternal great grandfather	NOUN	yes
 C018	maternal pibling	NOUN	no		mother's sibling, aunt or uncle	
 C018f	maternal aunt	NOUN	yes			
 C018m	maternal uncle	NOUN	yes			
-C019	maternal cousin	NOUN	no			
+C019	maternal cousin	NOUN	no		child of mother's sibling; either (a) mother's sister's child, or (b) mother's brother's child	
 C019f	female maternal cousin	NOUN	yes			
 C019m	male maternal cousin	NOUN	yes			
 C020	marital parent-in-law	NOUN	no		husband's parent	
@@ -467,7 +467,7 @@ C043m	male black person	NOUN	no
 C044	red person	NOUN	yes	E	light-skinned person, described as red	
 C044f	female red person	NOUN	no	E		
 C044m	male red person	NOUN	no	E		
-C045	white person	NOUN	yes			
+C045	white person	NOUN	yes		person of European appearance, described as white	
 C045f	female white person	NOUN	no			
 C045m	male white person	NOUN	no			
 D001	animal	NOUN	yes			Animalia
