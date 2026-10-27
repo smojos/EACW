@@ -1860,3 +1860,118 @@ P163	absent		machine		be absent
 P164	proche (d'ici), tout près d'ici		machine		be near (here), be close to here	
 P165	proche de là-bas, près de là-bas	Près d'un endroit éloigné du locuteur.	machine		be near there, be close to over there	
 P166	éloigné, lointain		machine		be far, be distant	
+Q001	un (1)		machine		one (1)	
+Q001b	premier		machine		first	
+Q001c	une fois		machine		once, one time	
+Q002	deux (2)		machine		two (2)	
+Q002b	deuxième, second		machine		second	
+Q003	trois (3)		machine		three (3)	
+Q003b	troisième		machine		third	
+Q004	quatre (4)		machine		four (4)	
+Q005	cinq (5)		machine		five (5)	
+Q006	six (6)		machine		six (6)	
+Q007	sept (7)		machine		seven (7)	
+Q008	huit (8)		machine		eight (8)	
+Q009	neuf (9)		machine		nine (9)	
+Q010	dix (10)		machine		ten (10)	
+Q011	onze (11)		machine		eleven (11)	
+Q012	douze (12)		machine		twelve (12)	
+Q013	treize (13)		machine		thirteen (13)	
+Q014	quatorze (14)		machine		fourteen (14)	
+Q015	quinze (15)		machine		fifteen (15)	
+Q016	seize (16)		machine		sixteen (16)	
+Q017	dix-sept (17)		machine		seventeen (17)	
+Q018	dix-huit (18)		machine		eighteen (18)	
+Q019	dix-neuf (19)		machine		nineteen (19)	
+Q020	vingt (20)		machine		twenty (20)	
+Q021	vingt et un (21)		machine		twenty-one (21)	
+Q022	vingt-deux (22)		machine		twenty-two (22)	
+Q023	vingt-trois (23)		machine		twenty-three (23)	
+Q024	vingt-quatre (24)		machine		twenty-four (24)	
+Q030	trente (30)		machine		thirty (30)	
+Q035	trente-cinq (35)		machine		thirty-five (35)	
+Q036	trente-six (36)		machine		thirty-six (36)	
+Q040	quarante (40)		machine		forty (40)	
+Q047	quarante-sept (47)		machine		forty-seven (47)	
+Q048	quarante-huit (48)		machine		forty-eight (48)	
+Q050	cinquante (50)		machine		fifty (50)	
+Q059	cinquante-neuf (59)		machine		fifty-nine (59)	
+Q060	soixante (60)		machine		sixty (60)	
+Q070	soixante-dix (70)		machine		seventy (70)	
+Q080	quatre-vingts (80)		machine		eighty (80)	
+Q090	quatre-vingt-dix (90)		machine		ninety (90)	
+Q100	cent (100)		machine		one hundred (100)	
+Q200	deux cents (200)		machine		two hundred (200)	
+Q300	trois cents (300)		machine		three hundred (300)	
+Q400	quatre cents (400)		machine		four hundred (400)	
+Q500	cinq cents (500)		machine		five hundred (500)	
+Q600	six cents (600)		machine		six hundred (600)	
+Q700	sept cents (700)		machine		seven hundred (700)	
+Q800	huit cents (800)		machine		eight hundred (800)	
+Q900	neuf cents (900)		machine		nine hundred (900)	
+Q1000	mille (1000)		machine		one thousand (1000)	
+Q2000	deux mille (2000)		machine		two thousand (2000)	
+Q1736	mille sept cent trente-six (1736)		machine		one thousand seven hundred thirty-six (1736)	
+R1SG	je, moi		machine		I, me	
+R1DU	nous deux		machine		we two, the two of us	
+R1DUIN	nous deux (toi et moi)		machine		we two (you and me): first person dual inclusive	
+R1DUEX	nous deux (lui ou elle et moi, sans toi)		machine		we two (him or her and me, without you): first person dual exclusive	
+R1PC	nous (quelques-uns)		machine		we (a few of us): first person paucal	
+R1PL	nous		machine		we	
+R1PLIN	nous (y compris toi ou vous)		machine		we (including you [pl.]): first person plural inclusive	
+R1PLEX	nous (mais pas toi ni vous)		machine		we (but not you [pl.]): first person plural exclusive	
+R2SG	tu, toi		machine		you (singular, familiar)	
+R2SGM	tu, toi (à un homme)		machine		you (singular, familiar, addressing a man)	
+R2SGF	tu, toi (à une femme)		machine		you (singular, familiar, addressing a woman)	
+R2SGR	vous (de politesse)		machine		you (singular, polite/respectful form)	
+R2DU	vous deux		machine		you two, the two of you	
+R2PC	vous (quelques-uns)		machine		you (a few of you): second person paucal	
+R2PL	vous (pluriel)		machine		you (plural)	
+R2PLM	vous (à des hommes)		machine		you (plural, addressing men)	
+R2PLF	vous (à des femmes)		machine		you (plural, addressing women)	
+R3SG	il, elle		machine		he, she	
+R3SGM	il, lui		machine		he, him	
+R3SGF	elle		machine		she, her	
+R3SGN	il, elle (chose ou animal)		machine		it (thing or animal)	
+R3SGR	il, elle (forme de respect)	Le français n'a pas de pronom de respect à la troisième personne ; il s'agit de la forme honorifique d'autres langues.	machine		he, she (respectful form)	
+R3SGLOG	il, elle (renvoyant à l'auteur des paroles rapportées)	Ex. : « Jean dit qu'il viendra », où il est Jean lui-même.	machine		he, she (referring back to the one who is speaking, in reported speech): logophoric	
+R3DU	eux deux, elles deux		machine		the two of them (masc. or fem.)	
+R3PC	ils, elles (quelques-uns)		machine		they (a few of them): third person paucal	
+R3PL	ils, elles		machine		they (masc. or fem.)	
+R3PLM	ils, eux		machine		they, them (masculine)	
+R3PLF	elles		machine		they, them (feminine)	
+R3PLN	ils, elles (choses ou animaux)		machine		they (things or animals): non-human plural	
+R3PLLOG	ils, elles (renvoyant aux auteurs des paroles rapportées)	Ex. : « Ils disent qu'ils viendront », où ils sont ceux-là mêmes qui parlent.	machine		they (referring back to those who are speaking, in reported speech): plural logophoric	
+R1SGPOSS	le mien, à moi		machine		mine, belonging to me	
+R2SGPOSS	le tien, à toi		machine		yours (sg. familiar), belonging to you	
+R3SGPOSS	le sien, à lui ou à elle		machine		his, hers, belonging to him or to her	
+R1PLPOSS	le nôtre, à nous		machine		ours, belonging to us	
+R2PLPOSS	le vôtre, à vous		machine		yours (pl. or polite), belonging to you	
+R3PLPOSS	le leur, à eux		machine		theirs, belonging to them	
+RREFL	soi-même, se (réfléchi)		machine		oneself, self (reflexive)	
+RRECP	l'un l'autre, se (réciproque)		machine		each other, one another (reciprocal)	
+RLOCDPRX	ici		machine		here (near the speaker)	
+RLOCDADR	là (près de toi)		machine		there (near you, the addressee)	
+RLOCDMED	là (pas loin)		machine		there (not far)	
+RLOCDDST	là-bas		machine		over there (far)	
+RLOCDREM	là-bas (très loin, hors de vue)		machine		over there (very far, out of sight)	
+R3SGDPRX	celui-ci, ceci		machine		this one, this (near the speaker)	
+R3SGDADR	celui-là (près de toi)		machine		that one (near you, the addressee)	
+R3SGDMED	celui-là (pas loin)		machine		that one (not far)	
+R3SGDDST	celui-là, cela		machine		that one, that (far)	
+R3PLDPRX	ceux-ci		machine		these (ones) (near the speaker)	
+R3PLDADR	ceux-là (près de toi)		machine		those (ones) (near you, the addressee)	
+R3PLDMED	ceux-là (pas loin)		machine		those (ones) (not far)	
+R3PLDDST	ceux-là		machine		those (ones) (far)	
+RQ3SG	qui ?		machine		who? (singular)	
+RQ3PL	qui (au pluriel) ?		machine		who? (plural)	
+RQ3SGN	quoi ?		machine		what? (singular)	
+RQ3PLN	quoi (au pluriel) ?		machine		what? (plural)	
+RQ3SGREL	lequel ?		machine		which one? (singular)	
+RQ3PLREL	lesquels ?		machine		which ones? (plural)	
+RQ3SGPOSS	à qui ? (à qui est-ce ?)		machine		whose? (literally 'to whom?')	
+RQLOC	où ?		machine		where?	
+RQTIM	quand ?		machine		when?	
+RQRSN	pourquoi ?		machine		why?	
+RQMAN	comment ?		machine		how?	
+RQQNT	combien ?		machine		how many? how much?	

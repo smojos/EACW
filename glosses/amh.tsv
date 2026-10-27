@@ -1860,3 +1860,118 @@ P163	ያልተገኘ, የቀረ		machine		not found; absent, left behind
 P164	እዚህ ቅርብ		machine		near here	
 P165	እዚያ ቅርብ		machine		near there	
 P166	ሩቅ		machine		far, distant	
+Q001	አንድ		machine		one	
+Q001b	አንደኛ, የመጀመሪያ		machine		first (ordinal 'oneth'); the first, initial	
+Q001c	አንድ ጊዜ		machine		once; one time	
+Q002	ሁለት		machine		two	
+Q002b	ሁለተኛ		machine		second (ordinal)	
+Q003	ሶስት, ሦስት		machine		three	
+Q003b	ሶስተኛ, ሦስተኛ		machine		third (ordinal)	
+Q004	አራት		machine		four	
+Q005	አምስት		machine		five	
+Q006	ስድስት		machine		six	
+Q007	ሰባት		machine		seven	
+Q008	ስምንት		machine		eight	
+Q009	ዘጠኝ		machine		nine	
+Q010	አስር, አሥር		machine		ten	
+Q011	አስራ አንድ, አሥራ አንድ		machine		eleven (lit. ten-and one)	
+Q012	አስራ ሁለት, አሥራ ሁለት		machine		twelve (lit. ten-and two)	
+Q013	አስራ ሶስት, አሥራ ሦስት		machine		thirteen (lit. ten-and three)	
+Q014	አስራ አራት, አሥራ አራት		machine		fourteen (lit. ten-and four)	
+Q015	አስራ አምስት, አሥራ አምስት		machine		fifteen (lit. ten-and five)	
+Q016	አስራ ስድስት, አሥራ ስድስት		machine		sixteen (lit. ten-and six)	
+Q017	አስራ ሰባት, አሥራ ሰባት		machine		seventeen (lit. ten-and seven)	
+Q018	አስራ ስምንት, አሥራ ስምንት		machine		eighteen (lit. ten-and eight)	
+Q019	አስራ ዘጠኝ, አሥራ ዘጠኝ		machine		nineteen (lit. ten-and nine)	
+Q020	ሃያ		machine		twenty	
+Q021	ሃያ አንድ		machine		twenty-one	
+Q022	ሃያ ሁለት		machine		twenty-two	
+Q023	ሃያ ሶስት, ሃያ ሦስት		machine		twenty-three	
+Q024	ሃያ አራት		machine		twenty-four	
+Q030	ሰላሳ, ሠላሳ		machine		thirty	
+Q035	ሰላሳ አምስት, ሠላሳ አምስት		machine		thirty-five	
+Q036	ሰላሳ ስድስት, ሠላሳ ስድስት		machine		thirty-six	
+Q040	አርባ		machine		forty	
+Q047	አርባ ሰባት		machine		forty-seven	
+Q048	አርባ ስምንት		machine		forty-eight	
+Q050	ሃምሳ		machine		fifty	
+Q059	ሃምሳ ዘጠኝ		machine		fifty-nine	
+Q060	ስልሳ		machine		sixty	
+Q070	ሰባ		machine		seventy	
+Q080	ሰማንያ		machine		eighty	
+Q090	ዘጠና		machine		ninety	
+Q100	መቶ		machine		hundred; one hundred	
+Q200	ሁለት መቶ		machine		two hundred	
+Q300	ሶስት መቶ, ሦስት መቶ		machine		three hundred	
+Q400	አራት መቶ		machine		four hundred	
+Q500	አምስት መቶ		machine		five hundred	
+Q600	ስድስት መቶ		machine		six hundred	
+Q700	ሰባት መቶ		machine		seven hundred	
+Q800	ስምንት መቶ		machine		eight hundred	
+Q900	ዘጠኝ መቶ		machine		nine hundred	
+Q1000	ሺህ		machine		thousand; one thousand	
+Q2000	ሁለት ሺህ		machine		two thousand	
+Q1736	አንድ ሺህ ሰባት መቶ ሰላሳ ስድስት, አንድ ሺህ ሰባት መቶ ሠላሳ ስድስት		machine		one thousand seven hundred thirty-six	
+R1SG	እኔ		machine		I	
+R1DU	እኛ ሁለታችን	አማርኛ ጥንድ ቁጥር (dual) የለውም፤ «እኛ ሁለታችን» ይባላል።	machine		we two; the two of us	
+R1DUIN	እኔና አንተ, እኔና አንቺ	አማርኛ አድማጩን የሚጨምር/የማይጨምር «እኛ» አይለይም፤ በሐረግ ተገልጿል።	machine		I and you (masculine singular); I and you (feminine singular)	
+R1DUEX	እኔና እሱ, እኔና እሷ	አድማጩን አይጨምርም። አማርኛ ይህን ልዩነት በተለየ ተውላጠ ስም አያሳይም፤ በሐረግ ተገልጿል።	machine		I and he; I and she	
+R1PC	እኛ (ጥቂት የሆንን)	አማርኛ የጥቂት ቁጥር (paucal) የለውም፤ «እኛ» ይባላል።	machine		we (a few of us)	
+R1PL	እኛ		machine		we	
+R1PLIN	እኛ (እናንተንም ጨምሮ)	አማርኛ ይህን ልዩነት በተለየ ተውላጠ ስም አያሳይም፤ በሐረግ ተገልጿል።	machine		we (including you [plural] too)	
+R1PLEX	እኛ (እናንተን ሳይጨምር)	አማርኛ ይህን ልዩነት በተለየ ተውላጠ ስም አያሳይም፤ በሐረግ ተገልጿል።	machine		we (not including you [plural])	
+R2SG	አንተ, አንቺ		machine		you (singular, polite/honorific)	
+R2SGM	አንተ		machine		you (masculine singular, familiar)	
+R2SGF	አንቺ		machine		you (feminine singular, familiar)	
+R2SGR	እርስዎ, አንቱ	«አንቱ» በአንዳንድ አካባቢዎች (ጎጃም፣ ጎንደር) እንደ ተውላጠ ስም ይነገራል፤ በመደበኛው «እርስዎ» ነው።	machine		you (singular, respectful); you (singular, respectful, older/regional form)	
+R2DU	እናንተ ሁለታችሁ	አማርኛ ጥንድ ቁጥር (dual) የለውም፤ «እናንተ ሁለታችሁ» ይባላል።	machine		you two; the two of you	
+R2PC	እናንተ (ጥቂት የሆናችሁ)	አማርኛ የጥቂት ቁጥር (paucal) የለውም፤ «እናንተ» ይባላል።	machine		you (a few of you)	
+R2PL	እናንተ		machine		you (plural)	
+R2PLM	እናንተ (ወንዶች)	አማርኛ በብዙ ቁጥር ጾታ አይለይም፤ «እናንተ» ለወንዶችም ለሴቶችም ነው።	machine		you (plural, men)	
+R2PLF	እናንተ (ሴቶች)	አማርኛ በብዙ ቁጥር ጾታ አይለይም፤ «እናንተ» ለወንዶችም ለሴቶችም ነው።	machine		you (plural, women)	
+R3SG	እሱ, እሷ		machine		he/she (singular, honorific)	
+R3SGM	እሱ		machine		he (familiar); also 'it'	
+R3SGF	እሷ		machine		she (familiar)	
+R3SGN	እሱ (ለነገር)	ለግዑዝ ነገርና ለእንስሳ «እሱ» ይባላል፤ የተለየ ቅጽ የለም።	machine		it (for a thing)	
+R3SGR	እሳቸው, እርሳቸው		machine		he/she (honorific); he/she (honorific, alternative spelling)	
+R3SGLOG	እሱ ራሱ, እሷ ራሷ	አማርኛ ወደ ንግግሩ ባለቤት የሚመለስ የተለየ ተውላጠ ስም የለውም፤ በተዘዋዋሪ ንግግር ለወንድ «እሱ ራሱ»፣ ለሴት «እሷ ራሷ» ይባላል (ዮሐንስ እሱ ራሱ እንደሚመጣ ተናገረ)።	machine		he (the speaker himself)	
+R3DU	እነሱ ሁለቱ	አማርኛ ጥንድ ቁጥር (dual) የለውም፤ «እነሱ ሁለቱ» ይባላል።	machine		they two; the two of them	
+R3PC	እነሱ (ጥቂት የሆኑት)	አማርኛ የጥቂት ቁጥር (paucal) የለውም፤ «እነሱ» ይባላል።	machine		they (a few of them)	
+R3PL	እነሱ		machine		they	
+R3PLM	እነሱ (ወንዶቹ)	አማርኛ በብዙ ቁጥር ጾታ አይለይም፤ «እነሱ» ለወንዶችም ለሴቶችም ነው።	machine		they (the men)	
+R3PLF	እነሱ (ሴቶቹ)	አማርኛ በብዙ ቁጥር ጾታ አይለይም፤ «እነሱ» ለወንዶችም ለሴቶችም ነው።	machine		they (the women)	
+R3PLN	እነሱ (ለነገሮች)	ለግዑዝ ነገሮችና ለእንስሳት «እነሱ» ይባላል፤ የተለየ ቅጽ የለም።	machine		they (for things)	
+R3PLLOG	እነሱ ራሳቸው (የተናገሩት ሰዎች)	አማርኛ ወደ ንግግሩ ባለቤቶች የሚመለስ የተለየ ተውላጠ ስም የለውም፤ በተዘዋዋሪ ንግግር «እነሱ ራሳቸው» ይባላል።	machine		they (the speakers themselves)	
+R1SGPOSS	የእኔ		machine		my; mine	
+R2SGPOSS	ያንተ, ያንቺ		machine		your; yours (singular, polite)	
+R3SGPOSS	የእሱ, የእሷ		machine		his/her; his/hers (honorific)	
+R1PLPOSS	የእኛ		machine		our; ours	
+R2PLPOSS	የእናንተ		machine		your; yours (plural)	
+R3PLPOSS	የእነሱ		machine		their; theirs	
+RREFL	ራስ	ከባለቤት ቅጥያ ጋር ይመጣል፤ ራሴ፣ ራስህ፣ ራሱ።	machine		self (oneself)	
+RRECP	እርስ በርስ		machine		each other; one another (lit. one with the other)	
+RLOCDPRX	እዚህ		machine		here	
+RLOCDADR	እዚያ (አንተ ጋ)	አማርኛ ሁለት ርቀቶችን ብቻ ይለያል (ይህ/ያ፣ እዚህ/እዚያ)፤ ልዩነቱ በሐረግ ተገልጿል።	machine		there (by you [masculine singular])	
+RLOCDMED	እዚያ (ቅርብ)	አማርኛ ሁለት ርቀቶችን ብቻ ይለያል (ይህ/ያ፣ እዚህ/እዚያ)፤ ልዩነቱ በሐረግ ተገልጿል።	machine		there (near)	
+RLOCDDST	እዚያ		machine		there	
+RLOCDREM	እዚያ ሩቅ, እዚያ ማዶ	«ማዶ» ከወንዝ ወይም ከሸለቆ ባሻገር ያለውን ቦታ ያመለክታል፤ «እዚያ ሩቅ» ርቆ ያለውን ቦታ።	machine		over there, across (on the far side, yonder)	
+R3SGDPRX	ይህ		machine		this (singular, masculine/default)	
+R3SGDADR	ያ (አንተ ጋ ያለው)	አማርኛ ሁለት ርቀቶችን ብቻ ይለያል (ይህ/ያ፣ እዚህ/እዚያ)፤ ልዩነቱ በሐረግ ተገልጿል።	machine		that (the one by you [masculine singular])	
+R3SGDMED	ያ (ቅርብ ያለው)	አማርኛ ሁለት ርቀቶችን ብቻ ይለያል (ይህ/ያ፣ እዚህ/እዚያ)፤ ልዩነቱ በሐረግ ተገልጿል።	machine		that (the one that is near)	
+R3SGDDST	ያ		machine		that (singular, masculine/default)	
+R3PLDPRX	እነዚህ		machine		these	
+R3PLDADR	እነዚያ (አንተ ጋ ያሉት)	አማርኛ ሁለት ርቀቶችን ብቻ ይለያል (ይህ/ያ፣ እዚህ/እዚያ)፤ ልዩነቱ በሐረግ ተገልጿል።	machine		those (the ones by you [masculine singular])	
+R3PLDMED	እነዚያ (ቅርብ ያሉት)	አማርኛ ሁለት ርቀቶችን ብቻ ይለያል (ይህ/ያ፣ እዚህ/እዚያ)፤ ልዩነቱ በሐረግ ተገልጿል።	machine		those (the ones that are near)	
+R3PLDDST	እነዚያ		machine		those	
+RQ3SG	ማን		machine		who? (singular)	
+RQ3PL	እነማን		machine		who? (plural; which people)	
+RQ3SGN	ምን		machine		what?	
+RQ3PLN	ምን ምን		machine		what things? (what all?, plural/distributive)	
+RQ3SGREL	የትኛው		machine		which one? (singular, masculine/default)	
+RQ3PLREL	የትኞቹ		machine		which ones?	
+RQ3SGPOSS	የማን		machine		whose? (lit. of whom)	
+RQLOC	የት		machine		where?	
+RQTIM	መቼ		machine		when?	
+RQRSN	ለምን		machine		why? (lit. for what)	
+RQMAN	እንዴት		machine		how? (in what manner)	
+RQQNT	ስንት		machine		how many?; how much?	

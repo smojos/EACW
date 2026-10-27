@@ -1860,3 +1860,118 @@ P163	غائب		machine		absent
 P164	قريب من هنا		machine		near here, close by	
 P165	قريب من هناك		machine		near there, close to there	
 P166	بعيد		machine		far, distant	
+Q001	واحد		machine		one (masculine)	
+Q001b	أوّل		machine		first (masculine ordinal)	
+Q001c	مرّة واحدة		machine		once; one time	
+Q002	اثنان		machine		two (masculine, nominative)	
+Q002b	ثانٍ		machine		second (masculine ordinal, indefinite)	
+Q003	ثلاثة		machine		three	
+Q003b	ثالث		machine		third (masculine ordinal)	
+Q004	أربعة		machine		four	
+Q005	خمسة		machine		five	
+Q006	ستّة		machine		six	
+Q007	سبعة		machine		seven	
+Q008	ثمانية		machine		eight	
+Q009	تسعة		machine		nine	
+Q010	عشرة		machine		ten	
+Q011	أحد عشر		machine		eleven (lit. 'one-ten')	
+Q012	اثنا عشر		machine		twelve (lit. 'two-ten')	
+Q013	ثلاثة عشر		machine		thirteen	
+Q014	أربعة عشر		machine		fourteen	
+Q015	خمسة عشر		machine		fifteen	
+Q016	ستّة عشر		machine		sixteen	
+Q017	سبعة عشر		machine		seventeen	
+Q018	ثمانية عشر		machine		eighteen	
+Q019	تسعة عشر		machine		nineteen	
+Q020	عشرون		machine		twenty	
+Q021	واحد وعشرون		machine		twenty-one (lit. 'one and twenty')	
+Q022	اثنان وعشرون		machine		twenty-two (lit. 'two and twenty')	
+Q023	ثلاثة وعشرون		machine		twenty-three (lit. 'three and twenty')	
+Q024	أربعة وعشرون		machine		twenty-four (lit. 'four and twenty')	
+Q030	ثلاثون		machine		thirty	
+Q035	خمسة وثلاثون		machine		thirty-five (lit. 'five and thirty')	
+Q036	ستّة وثلاثون		machine		thirty-six (lit. 'six and thirty')	
+Q040	أربعون		machine		forty	
+Q047	سبعة وأربعون		machine		forty-seven (lit. 'seven and forty')	
+Q048	ثمانية وأربعون		machine		forty-eight (lit. 'eight and forty')	
+Q050	خمسون		machine		fifty	
+Q059	تسعة وخمسون		machine		fifty-nine (lit. 'nine and fifty')	
+Q060	ستّون		machine		sixty	
+Q070	سبعون		machine		seventy	
+Q080	ثمانون		machine		eighty	
+Q090	تسعون		machine		ninety	
+Q100	مئة		machine		one hundred; a hundred	
+Q200	مئتان		machine		two hundred (dual of 'hundred')	
+Q300	ثلاثمئة		machine		three hundred	
+Q400	أربعمئة		machine		four hundred	
+Q500	خمسمئة		machine		five hundred	
+Q600	ستّمئة		machine		six hundred	
+Q700	سبعمئة		machine		seven hundred	
+Q800	ثمانمئة		machine		eight hundred	
+Q900	تسعمئة		machine		nine hundred	
+Q1000	ألف		machine		one thousand; a thousand	
+Q2000	ألفان		machine		two thousand (dual of 'thousand')	
+Q1736	ألف وسبعمئة وستّة وثلاثون		machine		one thousand seven hundred thirty-six (lit. 'thousand and seven hundred and six and thirty')	
+R1SG	أنا		machine		I (1st person singular, gender-neutral)	
+R1DU	نحن الاثنان		machine		we two (1st person dual)	
+R1DUIN	نحن الاثنان (أنا وأنت)		machine		we two, inclusive (me and you, singular)	
+R1DUEX	نحن الاثنان (أنا وهو، دونك)		machine		we two, exclusive (me and him, not you)	
+R1PC	نحن (عدد قليل)		machine		we (a small number; 1st person paucal)	
+R1PL	نحن		machine		we (1st person plural)	
+R1PLIN	نحن (ومعنا أنتم)		machine		we, inclusive (with you [plural] among us)	
+R1PLEX	نحن (دونكم)		machine		we, exclusive (without you [plural])	
+R2SG	أنتَ, أنتِ	المذكّر أولًا ثم المؤنّث	machine		you (singular): you (masculine), you (feminine)	
+R2SGM	أنتَ		machine		you (masculine singular)	
+R2SGF	أنتِ		machine		you (feminine singular)	
+R2SGR	حضرتك, أنتم (للاحترام)		machine		you (singular, respectful): 'your honour/your presence', or 'you' (plural used for respect)	
+R2DU	أنتما		machine		you two (2nd person dual)	
+R2PC	أنتم (عدد قليل)		machine		you (plural, a small number; 2nd person paucal)	
+R2PL	أنتم		machine		you (plural)	
+R2PLM	أنتم (للذكور)		machine		you (plural, masculine/for males)	
+R2PLF	أنتنّ		machine		you (plural, feminine)	
+R3SG	هو, هي	المذكّر أولًا ثم المؤنّث	machine		he, she (3rd person singular, gender-unspecified)	
+R3SGM	هو		machine		he (3rd person singular masculine)	
+R3SGF	هي		machine		she (3rd person singular feminine)	
+R3SGN	هو, هي (لغير العاقل)	يُشار إلى غير العاقل بـ«هو» أو «هي» حسب جنس الاسم	machine		it (3rd person singular, non-human/non-rational): he, she used for non-rational referents	
+R3SGR	حضرته, حضرتها		machine		he (respectful): 'his honour/his presence', or he (for respect)	
+R3SGLOG	هو نفسه (أي صاحب القول المنقول)	يعود على قائل الكلام، كما في: قال إنّه هو نفسه سيذهب	machine		he himself (i.e., the one who is speaking/said it; logophoric)	
+R3DU	هما		machine		they two (3rd person dual)	
+R3PC	هم (عدد قليل)		machine		they (a small number; 3rd person paucal)	
+R3PL	هم		machine		they (3rd person plural)	
+R3PLM	هم (للذكور)		machine		they (plural, masculine/for males)	
+R3PLF	هنّ		machine		they (plural, feminine)	
+R3PLN	هي (لجمع غير العاقل)	جمع غير العاقل يُعامَل معاملة المفرد المؤنّث	machine		they (non-human plural), expressed by 'it/she' (hiya)	
+R3PLLOG	هم أنفسهم (أي أصحاب القول المنقول)	يعود على قائلي الكلام، كما في: قالوا إنّهم هم أنفسهم سيذهبون	machine		they themselves (i.e., the ones speaking/who said it; logophoric plural)	
+R1SGPOSS	لي (هذا لي)	ضمير الملكية المستقلّ: «هذا لي»، لا «بيتي»	machine		my (1st singular possessive suffix; e.g., 'my house')	
+R2SGPOSS	لكَ (هذا لكَ), لكِ (هذا لكِ)	ضمير الملكية المستقلّ، المذكّر أولًا ثم المؤنّث	machine		your (singular possessive suffix, masc. -ka / fem. -ki; e.g., 'your house')	
+R3SGPOSS	له (هذا له), لها (هذا لها)	ضمير الملكية المستقلّ	machine		his, her (3rd singular possessive suffix; e.g., 'his house, her house')	
+R1PLPOSS	لنا (هذا لنا)	ضمير الملكية المستقلّ	machine		our (1st plural possessive suffix; e.g., 'our house')	
+R2PLPOSS	لكم (هذا لكم)	ضمير الملكية المستقلّ؛ للمؤنّث لكنّ وللمثنّى لكما	machine		your (plural possessive suffix; e.g., 'your house')	
+R3PLPOSS	لهم (هذا لهم)	ضمير الملكية المستقلّ؛ للمؤنّث لهنّ وللمثنّى لهما	machine		their (3rd plural possessive suffix; e.g., 'their house')	
+RREFL	نفس, ذات	يُستعمل مع الضمير المتّصل: نفسي، نفسه	machine		self (reflexive noun: 'self', 'essence/self')	
+RRECP	بعضهم بعضًا		machine		each other; one another (lit. 'some of them [to] some')	
+RLOCDPRX	هنا		machine		here (near the speaker)	
+RLOCDADR	هناك (عندك)		machine		there (where you are / near you, the addressee)	
+RLOCDMED	هناك (غير بعيد)		machine		there (nearby; at a medium distance)	
+RLOCDDST	هناك		machine		there (distant)	
+RLOCDREM	هنالك (بعيدًا لا يُرى)		machine		over there; yonder (far away, out of sight)	
+R3SGDPRX	هذا, هذه	المذكّر أولًا ثم المؤنّث	machine		this (masculine), this (feminine) (near the speaker)	
+R3SGDADR	ذلك (عندك), تلك (عندك)		machine		that (near you, the addressee)	
+R3SGDMED	ذاك		machine		that (medial distance)	
+R3SGDDST	ذلك, تلك	المذكّر أولًا ثم المؤنّث	machine		that (masculine), that (feminine) (distant)	
+R3PLDPRX	هؤلاء		machine		these (near the speaker)	
+R3PLDADR	أولئك (عندك)		machine		those (near you, the addressee)	
+R3PLDMED	أولاك		machine		those (medial distance)	
+R3PLDDST	أولئك		machine		those (distant)	
+RQ3SG	مَن		machine		who? (singular)	
+RQ3PL	مَن (لجماعة)		machine		who? (of a group; plural)	
+RQ3SGN	ما, ماذا		machine		what? (singular thing)	
+RQ3PLN	ما (لأشياء متعدّدة)		machine		what? (of multiple things)	
+RQ3SGREL	أيّ		machine		which? (singular)	
+RQ3PLREL	أيّ (لجمع)		machine		which? (for plural)	
+RQ3SGPOSS	لِمَن		machine		whose? (lit. 'to/for whom')	
+RQLOC	أين		machine		where?	
+RQTIM	متى		machine		when?	
+RQRSN	لماذا		machine		why?	
+RQMAN	كيف		machine		how?	
+RQQNT	كم		machine		how many? how much?	
