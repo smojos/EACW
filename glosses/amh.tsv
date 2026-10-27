@@ -1412,3 +1412,237 @@ K216c	የጋያ መሳቢያ ቱቦ		machine		drawing tube of the water pipe
 K217	በዱላ የሚገፋ የጨዋታ ቀለበት	በዱላ እየተገፋ የሚንከባለል።	machine		rolling-ring toy	
 K218	ኳስ		machine		ball	
 K219	ገበጣ		machine		gebeta (mancala board game)	
+L001	ሰማይ		machine		sky	
+L002	ጸሐይ		machine		sun	
+L003	ሰዓት		machine		hour	
+L004	ቀን (ሃያ አራት ሰዓት)		machine		day (24 hours)	
+L005	ጨረቃ		machine		moon	
+L006	ወር		machine		month	
+L007	ሙሉ ጨረቃ		machine		full moon	
+L008	አዲስ ጨረቃ		machine		new moon	
+L009	ግርዶሽ		machine		eclipse	
+L009a	የጸሐይ ግርዶሽ		machine		solar eclipse	
+L009b	የጨረቃ ግርዶሽ		machine		lunar eclipse	
+L010	ኮከብ		machine		star	
+L010b	የንጋት ኮከብ, አጥቢያ ኮከብ		machine		morning star	
+L010c	ሰባቱ ከዋክብት (ትንሽ የኮከብ ዘለላ)		machine		the Pleiades (the seven stars, a small cluster)	
+L010d	የታላቁ ድብ ሰባቱ ደማቅ ከዋክብት		machine		the Great Bear / Big Dipper (seven bright stars)	
+L010e	ኦሪዮን (ሦስቱ ተርታ ከዋክብት)		machine		Orion's Belt (three stars in a row)	
+L010g	ተወርዋሪ ኮከብ		machine		shooting star	
+L011	ዓመት		machine		year	
+L012	ንጋት, ጎህ		machine		dawn, daybreak	
+L013	የጸሐይ መውጣት		machine		sunrise	
+L014	ጠዋት		machine		morning	
+L015	ቀትር, እኩለ ቀን		machine		noon, midday	
+L016	ቀን (ከሌሊት በተቃራኒ)		machine		daytime (as opposed to night)	
+L017	ከሰዓት በኋላ		machine		afternoon	
+L018	የጸሐይ መጥለቅ		machine		sunset	
+L019	አመሻሽ, ድንግዝግዝ		machine		dusk, twilight	
+L020	ሌሊት		machine		night	
+L021	እኩለ ሌሊት		machine		midnight	
+L022	ጊዜ		machine		time	
+L023	ወቅት		machine		season	
+L024	ክረምት		machine		rainy season	
+L025	በጋ		machine		dry season	
+L026	የብርድ ወቅት	በኢትዮጵያ ክረምት የዝናብ ወቅት ነው፤ እዚህ የሚፈለገው የዓመቱ ቀዝቃዛ ወቅት ነው።	machine		cold season	
+L027	የመኸር ወቅት		machine		harvest season	
+L028	ነፋስ		machine		wind	
+L028b	ደረቅና አቧራማ የሰሜን ምሥራቅ ነፋስ		machine		dry, dusty northeast wind	
+L029	አየር		machine		air	
+L030	ኃይለኛ ነፋስ (ያለ ዝናብ)		machine		strong wind (without rain)	
+L030b	የአሸዋ አውሎ ነፋስ		machine		sandstorm	
+L031	የአቧራ ሽክርክሪት, አውሎ ነፋስ		machine		dust devil, whirlwind	
+L032	ነጎድጓዳማ ዝናብ, የዝናብ አውሎ		machine		thunderstorm, rainstorm	
+L033	ደመና		machine		cloud	
+L034	ጭጋግ, ጉም		machine		fog, mist	
+L035	የአቧራ ጭጋግ		machine		dust haze	
+L036	ዝናብ		machine		rain	
+L037	የወቅቱ የመጀመሪያ ዝናብ		machine		first rain of the season	
+L038	ካፊያ		machine		drizzle	
+L039	ነጎድጓድ		machine		thunder	
+L040	መብረቅ		machine		lightning	
+L041	ቀስተ ደመና		machine		rainbow	
+L042	በረዶ, የበረዶ ድንጋይ		machine		hail, hailstone	
+L042b	ለስላሳ በረዶ		machine		soft snow	
+L042c	በረዶ (የቀዘቀዘ ውሃ)		machine		ice (frozen water)	
+L043	ጤዛ		machine		dew	
+L043b	ውርጭ		machine		frost	
+L044	ጎርፍ, የውሃ ሙላት		machine		flood	
+L045	ድርቅ		machine		drought	
+L046	ሙቀት, ሐሩር		machine		heat	
+L047	ብርድ		machine		cold	
+L048	ብርሃን		machine		light	
+L049	የጸሐይ ብርሃን		machine		sunlight	
+L050	የጨረቃ ብርሃን		machine		moonlight	
+L051	ጥላ (ከጸሐይ መጠለያ)		machine		shade (shelter from the sun)	
+L052	የነገር ጥላ		machine		shadow (of an object)	
+L053	ነጸብራቅ, በውሃ ላይ የሚታይ ምስል		machine		reflection, image seen on water	
+L054	ጨለማ		machine		darkness	
+L055	እሳት		machine		fire	
+L056	ነበልባል		machine		flame	
+L057	የእሳት ፍንጣሪ		machine		spark	
+L058	ጭስ		machine		smoke	
+L059	አመድ		machine		ash	
+L060	የሰደድ እሳት		machine		wildfire, bushfire	
+L061	የተቃጠለ የሳር ሜዳ		machine		burnt grassland	
+L062	ውሃ		machine		water	
+L063	ወንዝ		machine		river	
+L064	ገባር ወንዝ		machine		tributary	
+L065	የውሃ ፍሰት		machine		current, flow of water	
+L066	ጅረት		machine		stream, brook	
+L067	የደረቀ ወንዝ		machine		dry riverbed	
+L068	ፏፏቴ		machine		waterfall	
+L069	ምንጭ		machine		spring (water source)	
+L070	የወንዝ ዳር		machine		riverbank	
+L071	የወንዝ መሻገሪያ, መልካ		machine		ford, river crossing	
+L072	በወንዝ ውስጥ ያለ የአሸዋ ክምር		machine		sandbank in a river	
+L073	ደሴት		machine		island	
+L074	ሐይቅ		machine		lake	
+L075	ባሕር, ውቅያኖስ		machine		sea, ocean	
+L076	የባሕር ዳርቻ, የሐይቅ ዳርቻ		machine		seashore, lakeshore	
+L077	ኩሬ		machine		pond, pool	
+L078	ትንሽ የዝናብ ውሃ ኩሬ		machine		puddle (small rainwater pool)	
+L079	የእንስሳት ውሃ መጠጫ ኩሬ		machine		watering hole for animals	
+L080	ረግረግ		machine		swamp, marsh	
+L081	ማዕበል		machine		wave	
+L082	የአየር አረፋ		machine		air bubble	
+L083	አረፋ		machine		foam, froth	
+L084	ዝልግልግ ነገር		machine		slimy, sticky substance	
+L085	ዓለም		machine		world	
+L086	ቦታ		machine		place	
+L087	መሬት		machine		ground, land	
+L088	አፈር		machine		soil	
+L089	ለም አፈር		machine		fertile soil	
+L090	ሸክላ, የሸክላ አፈር		machine		clay	
+L090b	የአፈር ጓል, የጭቃ ቁራጭ		machine		clod of earth, lump of mud	
+L091	ጭቃ		machine		mud	
+L092	የደረቀ ጭቃ ስንጥቅ		machine		crack in dried mud	
+L093	አሸዋ		machine		sand	
+L093b	የአሸዋ ኮረብታ, የአሸዋ ክምር		machine		sand dune, sand heap	
+L094	ጠጠር		machine		gravel, pebble	
+L095	አቧራ		machine		dust	
+L096	ትንሽ ድንጋይ		machine		small stone, pebble	
+L097	ቋጥኝ, ትልቅ ድንጋይ		machine		boulder, large rock	
+L098	ወርቅ		machine		gold	
+L099	ብረት		machine		iron	
+L099b	ዝገት		machine		rust	
+L100	ብር (ማዕድኑ)		machine		silver (the metal)	
+L101	መዳብ		machine		copper	
+L102	ድንጋያማ ቦታ		machine		rocky place, rocky ground	
+L103	ተራራ		machine		mountain	
+L104	የተራራ ጫፍ		machine		mountaintop, summit	
+L105	ኮረብታ		machine		hill	
+L106	ገደል (ቀጥ ያለ የድንጋይ ግድግዳ)		machine		cliff, gorge	
+L107	ሸለቆ		machine		valley	
+L108	ቦይ		machine		ditch, channel	
+L109	ጉድጓድ		machine		hole, pit	
+L110	ጉድጓድ, ቀዳዳ		machine		hole, opening	
+L110b	ጎሬ		machine		burrow, den	
+L111	በመሬት መደርመስ የተፈጠረ ጉድጓድ		machine		sinkhole (hole made by the ground collapsing)	
+L112	ስንጥቅ		machine		crack, crevice	
+L113	ዋሻ		machine		cave	
+L114	በወንዝ ሙላት የሚጥለቀለቅ ሜዳ		machine		floodplain	
+L115	ጎርፍ የማይደርስበት ከፍ ያለ ቦታ		machine		high ground above the flood level	
+L116	የሳር ሜዳ		machine		grassland, meadow	
+L117	ደን		machine		forest	
+L117b	በጫካ ውስጥ ያለ ገላጣ ቦታ		machine		clearing in a forest	
+L118	ዱር, ምድረ በዳ		machine		wilderness, the bush	
+L119	በረሃ		machine		desert	
+L119b	በበረሃ ውስጥ ውሃ ያለበት ለምለም ቦታ		machine		oasis	
+L120	የጨው ሜዳ		machine		salt flat, salt pan	
+M001	ቋንቋ		machine		language	
+M002	ድምጽ		machine		voice, sound	
+M003	ጫጫታ, ጩኸት		machine		noise, shouting	
+M004	ስም		machine		name	
+M004b	ዝና		machine		fame, reputation	
+M005	ቃል		machine		word	
+M006	ትርጉም		machine		meaning	
+M007	ታሪክ, ተረት		machine		story, tale	
+M008	ምሳሌያዊ አነጋገር, ተረትና ምሳሌ		machine		proverb, sayings	
+M009	እንቆቅልሽ		machine		riddle	
+M010	ዜና, ወሬ		machine		news, rumour	
+M010b	ማስታወቂያ		machine		announcement	
+M010c	ዘገባ, ሪፖርት		machine		report	
+M011	ምስጢር		machine		secret	
+M012	ሐሳብ		machine		idea, thought	
+M013	እቅድ		machine		plan	
+M014	እውነት		machine		truth	
+M015	ውሸት		machine		lie	
+M016	ስህተት		machine		mistake, error	
+M017	ስእለት		machine		vow (votive offering)	
+M017a	መሐላ		machine		oath	
+M017b	የተገባ ቃል, ቃል ኪዳን		machine		promise, covenant	
+M018	እውቀት		machine		knowledge	
+M018b	ጥበብ		machine		wisdom	
+M019	አደጋ		machine		danger, accident	
+M020	ችግር		machine		problem, trouble	
+M020b	መከራ		machine		suffering, hardship	
+M020c	እንቅፋት		machine		obstacle	
+M021	ዝምታ		machine		silence	
+M022	ማሚቶ		machine		echo	
+N001	ላይ, ወደ ላይ		machine		up, upward	
+N002	ታች, ወደ ታች		machine		down, downward	
+N003	በላይ, ከላይ		machine		above, on top	
+N004	ሥር, በታች		machine		under, beneath	
+N005	ዳገቱን, ሽቅብ		machine		uphill, upward	
+N006	ቁልቁለቱን, ቁልቁል		machine		downhill, downward	
+N007	ወደ ወንዙ ላይኛው ክፍል, ወደ ወንዙ መነሻ		machine		upstream, towards the river's source	
+N008	ወደ ወንዙ ታችኛው ክፍል, ወንዙ ወደሚፈስበት		machine		downstream	
+N009	ምሥራቅ		machine		east	
+N010	ምዕራብ		machine		west	
+N011	ሰሜን		machine		north	
+N012	ደቡብ		machine		south	
+N013	ወደ ፊት		machine		forward, ahead	
+N014	ወደ ኋላ		machine		backward, back	
+N015	ቀኝ, ወደ ቀኝ		machine		right, to the right	
+N016	ግራ, ወደ ግራ		machine		left, to the left	
+N017	በ... ፊት, ፊት ለፊት		machine		in front of	
+N018	በ... ኋላ, ከ... ጀርባ		machine		behind	
+N019	በ... አጠገብ, ከ... ጎን		machine		beside, next to	
+N020	በ... ውስጥ		machine		inside, in	
+N021	ከ... ውጭ		machine		outside, out of	
+N022	በ... መካከል		machine		between, among	
+N023	ወደ		machine		to, towards	
+N024	ከ... ርቆ		machine		from, away from	
+N025	ከ... ጋር		machine		with, together with	
+N026	በ, እ		machine		at, in	
+N027	ከትናንት ወዲያ		machine		the day before yesterday	
+N028	ትናንት		machine		yesterday	
+N029	ዛሬ		machine		today	
+N030	ነገ		machine		tomorrow	
+N031	ከነገ ወዲያ		machine		the day after tomorrow	
+N032	ያለፈ ጊዜ, ድሮ		machine		the past, long ago	
+N033	ቀደም ሲል, ከዚህ በፊት		machine		earlier, before this	
+N034	አሁን		machine		now	
+N035	በኋላ		machine		later, afterwards	
+N036	መጪው ጊዜ, ወደፊት		machine		the future	
+N037	ቀደም ብሎ, በጊዜ		machine		early, in good time	
+N038	ዘግይቶ		machine		late	
+N039	እንደገና		machine		again	
+N040	አንዳንድ ጊዜ		machine		sometimes	
+N041	ብዙ ጊዜ, ደጋግሞ		machine		often	
+N042	አብዛኛውን ጊዜ		machine		usually, mostly	
+N043	ሁልጊዜ		machine		always	
+N044	በጭራሽ, ፈጽሞ	ከአሉታዊ ግስ ጋር ይመጣል (ፈጽሞ አልመጣም)።	machine		never, not at all	
+O001	አዎ		machine		yes	
+O002	አይ, የለም		machine		no	
+O003	አል-...-ም, አይደለም	ግስ በአል-...-ም ይፈርሳል (አልመጣም)፤ ስም ወይም ቅጽል በአይደለም (ቤት አይደለም)።	machine		not (negation)	
+O004	እና, -ና		machine		and	
+O005	ቢ-, ከ-	ቢመጣ፣ ከመጣ።	machine		if	
+O006	ምክንያቱም, ስለ		machine		because	
+O007	ምናልባት		machine		maybe, perhaps	
+O008	በእውነት, በእርግጥ		machine		really, truly	
+O009	ሁሉ		machine		all	
+O009b	ሙሉ, መላ		machine		whole, full	
+O009c	ሁሉም ሰው		machine		everyone	
+O009d	ሁሉም ነገር		machine		everything	
+O009e	በየቦታው, ሁሉም ቦታ		machine		everywhere	
+O010	ብዙ		machine		many, much	
+O011	አንዳንድ, ጥቂት		machine		some, a few	
+O011b	አንድ ሰው		machine		someone	
+O011c	አንድ ነገር		machine		something	
+O012	ምንም, አንድም	ከአሉታዊ ግስ ጋር ይመጣል (ምንም የለም፣ አንድም አልቀረም)።	machine		none, not even one	
+O013	ሁለቱም		machine		both	
+O014	ግማሽ		machine		half	
+O014b	ቁራጭ		machine		piece	
+O015	ብቻ		machine		only	

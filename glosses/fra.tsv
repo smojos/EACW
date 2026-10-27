@@ -1412,3 +1412,237 @@ K216c	tuyau d'aspiration		machine		suction tube, mouthpiece pipe
 K217	cerceau		machine		hoop	
 K218	ballon, balle de jeu	Ballon : grosse balle gonflée ; balle : petite balle pleine.	machine		ball	
 K219	awalé, mancala		machine		awale, mancala (board game)	
+L001	ciel		machine		sky	
+L002	soleil		machine		sun	
+L003	heure		machine		hour	
+L004	jour		machine		day	
+L005	lune		machine		moon	
+L006	mois		machine		month	
+L007	pleine lune		machine		full moon	
+L008	nouvelle lune		machine		new moon	
+L009	éclipse		machine		eclipse	
+L009a	éclipse de soleil		machine		solar eclipse	
+L009b	éclipse de lune		machine		lunar eclipse	
+L010	étoile		machine		star	
+L010b	étoile du matin		machine		morning star	
+L010c	Pléiades		machine		Pleiades	
+L010d	Grand Chariot (sept étoiles de la Grande Ourse)		machine		Great Bear, Big Dipper	
+L010e	Orion, baudrier d'Orion	Le baudrier : les trois étoiles alignées, appelées aussi les Trois Rois.	machine		Orion, Orion's belt	
+L010g	étoile filante		machine		shooting star	
+L011	année, an		machine		year	
+L012	aube		machine		dawn	
+L013	lever du soleil		machine		sunrise	
+L014	matin		machine		morning	
+L015	midi		machine		noon, midday	
+L016	journée, jour (opposé à la nuit)		machine		day, daytime (as opposed to night)	
+L017	après-midi		machine		afternoon	
+L018	coucher du soleil		machine		sunset	
+L019	crépuscule, tombée de la nuit		machine		dusk, nightfall	
+L020	nuit		machine		night	
+L021	minuit		machine		midnight	
+L022	temps (qui passe)	Le temps qui passe, non la météo.	machine		time	
+L023	saison		machine		season	
+L024	saison des pluies		machine		rainy season	
+L025	saison sèche		machine		dry season	
+L026	saison froide, hiver		machine		cold season, winter	
+L027	saison des récoltes, période des moissons		machine		harvest season, harvest	
+L028	vent		machine		wind	
+L028b	harmattan		machine		harmattan	
+L029	air (que l'on respire)		machine		air (that one breathes)	
+L030	tempête de vent (sans pluie)		machine		windstorm (without rain)	
+L030b	tempête de sable		machine		sandstorm	
+L031	tourbillon de poussière, tourbillon		machine		dust devil, whirlwind	
+L032	orage		machine		thunderstorm	
+L033	nuage		machine		cloud	
+L034	brouillard, brume		machine		fog, mist	
+L035	brume sèche		machine		dry haze	
+L036	pluie		machine		rain	
+L037	premières pluies		machine		first rains	
+L038	bruine, pluie fine		machine		drizzle, light rain	
+L039	tonnerre		machine		thunder	
+L040	éclair		machine		lightning	
+L041	arc-en-ciel		machine		rainbow	
+L042	grêle		machine		hail	
+L042b	neige		machine		snow	
+L042c	glace		machine		ice	
+L043	rosée		machine		dew	
+L043b	givre, gelée blanche		machine		frost, hoarfrost	
+L044	inondation, crue		machine		flood, flooding	
+L045	sécheresse		machine		drought	
+L046	chaleur, temps chaud		machine		heat, hot weather	
+L047	froid, temps froid		machine		cold, cold weather	
+L048	lumière		machine		light	
+L049	lumière du soleil		machine		sunlight	
+L050	clair de lune		machine		moonlight	
+L051	ombre (à l'abri du soleil)		machine		shade (out of the sun)	
+L052	ombre (projetée par un objet), ombre portée		machine		shadow (cast by an object)	
+L053	reflet		machine		reflection	
+L054	obscurité, ténèbres		machine		darkness	
+L055	feu		machine		fire	
+L056	flamme		machine		flame	
+L057	étincelle		machine		spark	
+L058	fumée		machine		smoke	
+L059	cendre		machine		ash	
+L060	feu de brousse		machine		bushfire	
+L061	savane brûlée, terrain brûlé		machine		burnt savanna, burnt area	
+L062	eau		machine		water	
+L063	rivière, fleuve		machine		river	
+L064	affluent		machine		tributary	
+L065	courant (de la rivière)		machine		current (of the river)	
+L066	ruisseau		machine		stream, brook	
+L067	lit de rivière à sec, oued		machine		dry riverbed, wadi	
+L068	chute d'eau, cascade		machine		waterfall	
+L069	source		machine		spring	
+L070	rive, berge		machine		riverbank, bank	
+L071	gué		machine		ford	
+L072	banc de sable		machine		sandbank, sandbar	
+L073	île		machine		island	
+L074	lac		machine		lake	
+L075	mer, océan		machine		sea, ocean	
+L076	plage, rivage		machine		beach, shore	
+L077	étang, plan d'eau		machine		pond, body of water	
+L078	flaque (d'eau)		machine		puddle	
+L079	mare, point d'eau naturel		machine		waterhole, pool	
+L080	marais, marécage		machine		swamp, marsh	
+L081	vague		machine		wave	
+L082	bulle		machine		bubble	
+L083	écume, mousse		machine		foam, froth	
+L084	substance visqueuse (algues, bave)	La vase : boue gluante au fond de l'eau.	machine		slime (organic), silt	
+L085	monde		machine		world	
+L086	endroit, lieu		machine		place	
+L087	sol, terre		machine		ground, earth	
+L088	terre (sol)		machine		soil, earth	
+L089	terre fertile		machine		fertile soil	
+L090	argile, glaise		machine		clay	
+L090b	motte (d'argile ou de boue)		machine		clod (of clay or mud)	
+L091	boue		machine		mud	
+L092	fentes de la boue séchée		machine		cracks in dried mud	
+L093	sable		machine		sand	
+L093b	dune (de sable)		machine		sand dune	
+L094	gravier		machine		gravel	
+L095	poussière		machine		dust	
+L096	caillou, petite pierre		machine		pebble, small stone	
+L097	rocher		machine		rock	
+L098	or		machine		gold	
+L099	fer		machine		iron	
+L099b	rouille		machine		rust	
+L100	argent (métal)		machine		silver (metal)	
+L101	cuivre		machine		copper	
+L102	endroit rocailleux, rocaille		machine		rocky place, rocky ground	
+L103	montagne		machine		mountain	
+L104	sommet (de montagne), cime		machine		summit, peak	
+L105	colline		machine		hill	
+L106	falaise		machine		cliff	
+L107	vallée		machine		valley	
+L108	fossé, rigole		machine		ditch, channel	
+L109	fosse		machine		pit	
+L110	trou		machine		hole	
+L110b	tanière, terrier		machine		den, burrow	
+L111	gouffre (effondrement du sol)		machine		sinkhole	
+L112	fissure, crevasse		machine		crack, crevice	
+L113	grotte, caverne		machine		cave, cavern	
+L114	plaine inondable		machine		floodplain	
+L115	terrain élevé (hors des crues)		machine		high ground (above flood level)	
+L116	savane herbeuse, prairie		machine		grassland, grassy savanna	
+L117	forêt		machine		forest	
+L117b	clairière		machine		clearing	
+L118	brousse		machine		bush	
+L119	désert		machine		desert	
+L119b	oasis		machine		oasis	
+L120	plaine salée, sebkha		machine		salt flat, sabkha	
+M001	langue		machine		language	
+M002	voix		machine		voice	
+M003	bruit		machine		noise	
+M004	nom		machine		name	
+M004b	réputation, renommée		machine		reputation, fame	
+M005	mot, parole		machine		word, speech	
+M006	sens, signification		machine		meaning, sense	
+M007	histoire, conte		machine		story, tale	
+M008	proverbe		machine		proverb	
+M009	devinette		machine		riddle	
+M010	nouvelles		machine		news	
+M010b	annonce		machine		announcement	
+M010c	récit des faits, compte rendu		machine		account of events, report	
+M011	secret		machine		secret	
+M012	pensée		machine		thought	
+M013	plan, projet		machine		plan, project	
+M014	vérité		machine		truth	
+M015	mensonge		machine		lie	
+M016	erreur, faute		machine		mistake, error	
+M017	vœu (engagement solennel)		machine		vow (solemn commitment)	
+M017a	serment		machine		oath	
+M017b	promesse		machine		promise	
+M018	connaissance, savoir		machine		knowledge	
+M018b	sagesse		machine		wisdom	
+M019	danger		machine		danger	
+M020	problème, ennui		machine		problem, trouble	
+M020b	épreuve, souffrance		machine		hardship, suffering	
+M020c	obstacle		machine		obstacle	
+M021	silence		machine		silence	
+M022	écho		machine		echo	
+N001	en haut, vers le haut		machine		up, upwards	
+N002	en bas, vers le bas		machine		down, downwards	
+N003	au-dessus		machine		above	
+N004	en dessous, dessous		machine		below, underneath	
+N005	en montant (la pente)		machine		uphill	
+N006	en descendant (la pente)		machine		downhill	
+N007	en amont		machine		upstream	
+N008	en aval		machine		downstream	
+N009	est		machine		east	
+N010	ouest		machine		west	
+N011	nord		machine		north	
+N012	sud		machine		south	
+N013	en avant		machine		forward	
+N014	en arrière		machine		backward	
+N015	à droite		machine		to the right, on the right	
+N016	à gauche		machine		to the left, on the left	
+N017	devant		machine		in front of	
+N018	derrière		machine		behind	
+N019	à côté de		machine		beside, next to	
+N020	dans, à l'intérieur de		machine		in, inside	
+N021	hors de, à l'extérieur de		machine		out of, outside	
+N022	entre		machine		between	
+N023	vers		machine		towards	
+N024	en s'éloignant de		machine		away from, from (origin)	
+N025	avec		machine		with	
+N026	à (un endroit)		machine		at (a place)	
+N027	avant-hier		machine		the day before yesterday	
+N028	hier		machine		yesterday	
+N029	aujourd'hui		machine		today	
+N030	demain		machine		tomorrow	
+N031	après-demain		machine		the day after tomorrow	
+N032	passé, temps d'autrefois		machine		past, formerly	
+N033	auparavant, avant		machine		before, previously	
+N034	maintenant		machine		now	
+N035	plus tard		machine		later	
+N036	avenir, futur		machine		future	
+N037	tôt, de bonne heure		machine		early	
+N038	en retard		machine		late	
+N039	de nouveau, encore		machine		again	
+N040	parfois, quelquefois		machine		sometimes	
+N041	souvent		machine		often	
+N042	d'habitude, habituellement		machine		usually	
+N043	toujours		machine		always	
+N044	jamais		machine		never	
+O001	oui		machine		yes	
+O002	non		machine		no	
+O003	ne... pas		machine		not	
+O004	et		machine		and	
+O005	si		machine		if	
+O006	parce que		machine		because	
+O007	peut-être		machine		maybe, perhaps	
+O008	vraiment, réellement		machine		really, truly	
+O009	tous, tout		machine		all	
+O009b	entier, tout entier		machine		whole, entire	
+O009c	tout le monde		machine		everyone, everybody	
+O009d	tout, toute chose		machine		everything	
+O009e	partout		machine		everywhere	
+O010	beaucoup (de), nombreux		machine		many, a lot (of)	
+O011	quelques, certains		machine		some, a few	
+O011b	quelqu'un		machine		someone, somebody	
+O011c	quelque chose		machine		something	
+O012	aucun, nul		machine		none, no	
+O013	les deux, tous les deux		machine		both	
+O014	moitié		machine		half	
+O014b	morceau		machine		piece	
+O015	seulement		machine		only	

@@ -1412,3 +1412,237 @@ K216c	ليّ الشيشة، نربيج		machine		smoking hose; narbish
 K217	طوق اللعب يُدحرج بعصا		machine		hoop toy rolled with a stick	
 K218	كرة		machine		ball	
 K219	منقلة، لعبة الحفر والحصى		machine		mancala, pit-and-pebble game	
+L001	سماء		machine		sky	
+L002	شمس		machine		sun	
+L003	ساعة (ستون دقيقة)		machine		hour	
+L004	يوم	اليوم الكامل بليله ونهاره	machine		day	
+L005	قمر		machine		moon	
+L006	شهر		machine		month	
+L007	بدر		machine		full moon	
+L008	هلال	أول ظهور للقمر بعد المحاق	machine		crescent moon	
+L009	كسوف, خسوف	الكسوف للشمس والخسوف للقمر	machine		eclipse	
+L009a	كسوف الشمس		machine		solar eclipse	
+L009b	خسوف القمر		machine		lunar eclipse	
+L010	نجم		machine		star	
+L010b	نجمة الصباح, كوكب الزهرة		machine		morning star, Venus	
+L010c	الثريا		machine		the Pleiades	
+L010d	الدب الأكبر, بنات نعش		machine		the Great Bear, the Big Dipper	
+L010e	الجبار, حزام الجبار		machine		Orion, Orion's Belt	
+L010g	شهاب		machine		meteor, shooting star	
+L011	سنة		machine		year	
+L012	فجر		machine		dawn	
+L013	شروق الشمس		machine		sunrise	
+L014	صباح		machine		morning	
+L015	ظهيرة, منتصف النهار		machine		noon, midday	
+L016	نهار		machine		daytime	
+L017	بعد الظهر, العصر		machine		afternoon	
+L018	غروب الشمس		machine		sunset	
+L019	غسق, وقت المغرب		machine		dusk, evening	
+L020	ليل, ليلة		machine		night	
+L021	منتصف الليل		machine		midnight	
+L022	وقت, زمن		machine		time	
+L023	موسم, فصل		machine		season	
+L024	موسم الأمطار, الخريف	في السودان وتشاد «الخريف» هو موسم الأمطار	machine		rainy season	
+L025	موسم الجفاف		machine		dry season	
+L026	شتاء		machine		winter	
+L027	موسم الحصاد		machine		harvest season	
+L028	ريح		machine		wind	
+L028b	رياح الهرمتان الجافة المغبرة		machine		harmattan, the dry dusty wind	
+L029	هواء (الذي نتنفسه)		machine		air	
+L030	عاصفة هوائية, ريح عاتية		machine		windstorm, violent wind	
+L030b	عاصفة رملية, هبوب		machine		sandstorm, haboob	
+L031	زوبعة, دوامة غبار		machine		whirlwind, dust devil	
+L032	عاصفة رعدية, عاصفة ممطرة		machine		thunderstorm, rainstorm	
+L033	سحابة		machine		cloud	
+L034	ضباب		machine		fog, mist	
+L035	غبار عالق في الجو, عجاج		machine		airborne dust, dust haze	
+L036	مطر		machine		rain	
+L037	أول أمطار الموسم		machine		first rains of the season	
+L038	رذاذ		machine		drizzle	
+L039	رعد		machine		thunder	
+L040	برق		machine		lightning	
+L041	قوس قزح		machine		rainbow	
+L042	بَرَد		machine		hail	
+L042b	ثلج		machine		snow	
+L042c	جليد, ثلج		machine		ice	
+L043	ندى		machine		dew	
+L043b	صقيع		machine		frost	
+L044	فيضان, سيل		machine		flood	
+L045	جفاف, قحط		machine		drought	
+L046	حَرّ, حرارة		machine		heat	
+L047	بَرْد, برودة		machine		cold	
+L048	ضوء, نور		machine		light	
+L049	ضوء الشمس		machine		sunlight	
+L050	ضوء القمر		machine		moonlight	
+L051	ظل, مكان ظليل		machine		shade	
+L052	ظل (يلقيه شخص أو شيء)	الظل الذي يلقيه شخص أو شيء	machine		shadow	
+L053	انعكاس, صورة منعكسة		machine		reflection, mirror image	
+L054	ظلام		machine		darkness	
+L055	نار		machine		fire	
+L056	لهب		machine		flame	
+L057	شرارة		machine		spark	
+L058	دخان		machine		smoke	
+L059	رماد		machine		ash	
+L060	حريق البرية, حريق الغابات		machine		bushfire, forest fire	
+L061	أرض عشبية محروقة		machine		burnt grassland	
+L062	ماء		machine		water	
+L063	نهر		machine		river	
+L064	رافد		machine		tributary	
+L065	تيار النهر		machine		river current	
+L066	جدول, نهير		machine		stream, brook	
+L067	وادٍ جاف, خور	الخور في السودان وتشاد: مجرى سيل يجف في الصيف	machine		dry riverbed, wadi	
+L068	شلال		machine		waterfall	
+L069	نبع, عين ماء		machine		spring, water source	
+L070	ضفة النهر, شاطئ النهر		machine		riverbank, river shore	
+L071	مخاضة, معبر ضحل		machine		ford, shallow crossing	
+L072	حاجز رملي, جزيرة رملية		machine		sandbar, sand island	
+L073	جزيرة		machine		island	
+L074	بحيرة		machine		lake	
+L075	بحر, محيط	في السودان قد تعني كلمة «بحر» النهر الكبير	machine		sea, ocean	
+L076	شاطئ		machine		beach, shore	
+L077	بركة, غدير		machine		pond, pool	
+L078	بركة ماء صغيرة		machine		puddle, small pool	
+L079	مورد ماء, حفير		machine		watering place, hafir	
+L080	مستنقع		machine		swamp, marsh	
+L081	موجة		machine		wave	
+L082	فقاعة		machine		bubble	
+L083	رغوة, زبد		machine		foam, froth	
+L084	مادة لزجة عضوية, طحالب		machine		slime, algae	
+L085	عَالَم, دنيا		machine		world	
+L086	مكان		machine		place	
+L087	أرض		machine		land, ground	
+L088	تربة		machine		soil	
+L089	تربة خصبة		machine		fertile soil	
+L090	طين, صلصال		machine		clay	
+L090b	كتلة طين, مَدَرة		machine		clod of earth, lump of clay	
+L091	وحل, طين		machine		mud	
+L092	تشققات الطين الجاف		machine		cracks in dry mud	
+L093	رمل		machine		sand	
+L093b	كثيب رملي, قوز		machine		sand dune	
+L094	حصى		machine		gravel	
+L095	غبار		machine		dust	
+L096	حجر صغير, حصاة		machine		pebble, small stone	
+L097	صخرة		machine		rock	
+L098	ذهب		machine		gold	
+L099	حديد		machine		iron	
+L099b	صدأ		machine		rust	
+L100	فضة		machine		silver	
+L101	نحاس		machine		copper	
+L102	أرض صخرية		machine		rocky ground	
+L103	جبل		machine		mountain	
+L104	قمة الجبل		machine		mountaintop, summit	
+L105	تل, ربوة		machine		hill, hillock	
+L106	جرف, منحدر صخري		machine		cliff, escarpment	
+L107	وادٍ		machine		valley	
+L108	خندق, قناة		machine		ditch, trench	
+L109	حفرة		machine		pit, hole in the ground	
+L110	ثقب, حفرة		machine		hole	
+L110b	جحر, وكر		machine		burrow, den	
+L111	حفرة انهيار أرضي, خسف أرضي		machine		sinkhole	
+L112	شق, صدع		machine		crack, fissure	
+L113	كهف, مغارة		machine		cave, cavern	
+L114	سهل فيضي, أرض يغمرها الفيضان		machine		floodplain	
+L115	أرض مرتفعة عن الفيضان		machine		high ground above floods	
+L116	أرض عشبية, سافانا		machine		grassland, savanna	
+L117	غابة		machine		forest	
+L117b	فسحة في الغابة		machine		forest clearing	
+L118	برية, خلاء		machine		wilderness, the bush	
+L119	صحراء		machine		desert	
+L119b	واحة		machine		oasis	
+L120	سبخة, أرض ملحية		machine		salt flat, salty ground	
+M001	لغة		machine		language	
+M002	صوت الإنسان		machine		sound	
+M003	ضجيج, ضوضاء		machine		noise	
+M004	اسم		machine		name	
+M004b	سمعة		machine		reputation	
+M005	كلمة		machine		word	
+M006	معنى		machine		meaning	
+M007	قصة, حكاية		machine		story, tale	
+M008	مَثَل		machine		proverb	
+M009	لغز, أحجية		machine		riddle, puzzle	
+M010	خبر		machine		news	
+M010b	إعلان		machine		announcement	
+M010c	تقرير		machine		report	
+M011	سر		machine		secret	
+M012	فكرة		machine		idea	
+M013	خطة		machine		plan	
+M014	حقيقة, صدق		machine		truth	
+M015	كذبة		machine		lie	
+M016	خطأ		machine		mistake, error	
+M017	عهد, نذر		machine		vow, pledge	
+M017a	قسم, يمين		machine		oath	
+M017b	وعد		machine		promise	
+M018	معرفة		machine		knowledge	
+M018b	حكمة		machine		wisdom	
+M019	خطر		machine		danger	
+M020	مشكلة		machine		problem	
+M020b	مشقة, شدة		machine		hardship, difficulty	
+M020c	عقبة, عائق		machine		obstacle, hindrance	
+M021	صمت, سكوت		machine		silence	
+M022	صدى		machine		echo	
+N001	إلى أعلى, فوق		machine		upward, up	
+N002	إلى أسفل, تحت		machine		downward, down	
+N003	فوق		machine		above	
+N004	تحت		machine		below	
+N005	صعودًا في المنحدر		machine		uphill	
+N006	نزولًا في المنحدر		machine		downhill	
+N007	إلى أعلى النهر, عكس التيار		machine		upstream, against the current	
+N008	إلى أسفل النهر, مع التيار		machine		downstream, with the current	
+N009	شرق		machine		east	
+N010	غرب		machine		west	
+N011	شمال (الجهة الجغرافية)	«شمال» تعني اليسار أيضًا في عاميات كثيرة	machine		north	
+N012	جنوب		machine		south	
+N013	إلى الأمام		machine		forward	
+N014	إلى الخلف, إلى الوراء		machine		backward, back	
+N015	يمين, إلى اليمين		machine		right, to the right	
+N016	يسار, إلى اليسار	في عاميات كثيرة يقال «شمال» لليسار	machine		left, to the left	
+N017	أمام, قدّام		machine		in front of	
+N018	خلف, وراء		machine		behind	
+N019	بجانب, جنب		machine		beside, next to	
+N020	داخل		machine		inside	
+N021	خارج		machine		outside	
+N022	بين		machine		between	
+N023	نحو, باتجاه		machine		toward	
+N024	بعيدًا عن, من		machine		away from, from	
+N025	مع		machine		with	
+N026	في, عند		machine		in, at	
+N027	أول أمس		machine		the day before yesterday	
+N028	أمس		machine		yesterday	
+N029	اليوم		machine		today	
+N030	غدًا		machine		tomorrow	
+N031	بعد غد		machine		the day after tomorrow	
+N032	الماضي		machine		the past	
+N033	سابقًا, من قبل		machine		previously, before	
+N034	الآن		machine		now	
+N035	لاحقًا, فيما بعد		machine		later, afterwards	
+N036	مستقبل		machine		future	
+N037	مبكرًا, باكرًا		machine		early	
+N038	متأخرًا		machine		late	
+N039	مرة أخرى, من جديد		machine		again, anew	
+N040	أحيانًا		machine		sometimes	
+N041	كثيرًا ما, مرارًا		machine		often, repeatedly	
+N042	عادةً, غالبًا		machine		usually, mostly	
+N043	دائمًا		machine		always	
+N044	لا ... أبدًا, لم ... قطّ		machine		never, ever	
+O001	نعم		machine		yes	
+O002	لا		machine		no	
+O003	لا, ليس	تختلف أداة النفي حسب الزمن: لا، لم، لن، ليس، ما	machine		not	
+O004	و		machine		and	
+O005	إذا, إن		machine		if	
+O006	لأن		machine		because	
+O007	ربما, لعل		machine		perhaps, maybe	
+O008	حقًا, فعلًا		machine		really, indeed	
+O009	كل, جميع		machine		all, every	
+O009b	كامل, بأكمله		machine		whole, entire	
+O009c	الجميع, كل الناس		machine		everyone, everybody	
+O009d	كل شيء		machine		everything	
+O009e	في كل مكان		machine		everywhere	
+O010	كثير, عديد		machine		many, much	
+O011	بعض		machine		some	
+O011b	شخص ما, أحد		machine		someone, somebody	
+O011c	شيء ما		machine		something	
+O012	لا أحد, لا شيء		machine		nobody, nothing	
+O013	كلاهما, الاثنان		machine		both	
+O014	نصف		machine		half	
+O014b	قطعة		machine		piece	
+O015	فقط		machine		only	
