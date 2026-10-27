@@ -110,8 +110,8 @@ A091a	upper arm	NOUN	yes
 A091b	forearm	NOUN	yes			
 A092	arm bone	NOUN	yes		either arm, (a) upper, or (b) fore	
 A093	elbow	NOUN	yes			
-A093a	outer elbow	NOUN	yes			
-A093b	inner elbow	NOUN	yes			
+A093a	outer elbow	NOUN	yes		the hard outer point of the elbow	
+A093b	inner elbow	NOUN	yes		the inner crook of the elbow	
 A094	hand	NOUN	yes			
 A095	palm	NOUN	yes			
 A096	finger	NOUN	yes			
