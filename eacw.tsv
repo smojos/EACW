@@ -1977,7 +1977,7 @@ RQMAN	how	INTERROG	yes
 RQQNT	how many	INTERROG	yes			
 V001	to be	VERB	yes		copula, as in X is Y	
 V002	to exist	VERB	yes			
-V003	to exist apart	VERB	yes			
+V003	to exist apart	VERB	yes		be separate, exist apart from others	
 V004	to not exist	VERB	yes			
 V005	to become	VERB	yes			
 V006	to have	VERB	yes			
@@ -2017,7 +2017,7 @@ V038	to turn round	VERB	yes
 V039	to swing	VERB	yes			
 V040	to slide	VERB	yes			
 V041	to roll	VERB	yes			
-V042	to swim on	VERB	yes			
+V042	to swim on	VERB	yes		swim on the surface or wade	
 V043	to swim in	VERB	yes			
 V044	to dive	VERB	yes			
 V045	to float	VERB	yes			
@@ -2030,7 +2030,7 @@ V050b	to alight	VERB	yes		land, of a bird
 V051	to paddle	VERB	yes			
 V052	to bale out (canoe)	VERB	yes		scoop water out of a canoe	
 V053	to capsize	VERB	yes			
-V054	to ride	VERB	yes			
+V054	to ride	VERB	yes		either ride, (a) on an animal, or (b) in a vehicle	
 V055	to steer	VERB	yes		guide a canoe, vehicle or animal; drive	
 V056	to dwell	VERB	yes			
 V057	to stay	VERB	yes			
@@ -2083,7 +2083,7 @@ V103	to be hurt	VERB	yes		get injured
 V104	to cause hurt	VERB	yes			
 V105	to be healed	VERB	yes			
 V106	to cause healing	VERB	yes			
-V107	to revive	VERB	yes			
+V107	to revive	VERB	yes		either (a) regain consciousness, or (b) come back to life	
 V108	to bark (dog)	VERB	yes			
 V109	to growl	VERB	yes			
 V110	to bare (the teeth)	VERB	yes			
@@ -2111,8 +2111,8 @@ V131	to swell	VERB	yes
 V132	to spread (fire)	VERB	yes			
 V133	to shine	VERB	yes			
 V134	to fade	VERB	yes		lose brightness or colour	
-V135	to become bright	VERB	yes			
-V136	to become dark	VERB	yes			
+V135	to become bright	VERB	yes		either (a) grow light, as the sky at dawn, or (b) become brighter, of a colour	
+V136	to become dark	VERB	yes		either (a) grow dark, as the sky at nightfall, or (b) become darker, of a colour	
 V137	to become dry	VERB	yes			
 V138	to burn	VERB	yes			
 V139	to smolder	VERB	yes			
@@ -2120,7 +2120,7 @@ V140	to melt	VERB	yes
 V141	to freeze	VERB	yes	E N S	turn to ice	
 V142	to singe	VERB	yes			
 V143	to rustle (leaves)	VERB	yes			
-V144	to squeak	VERB	yes			
+V144	to squeak	VERB	yes		either (a) squeak, of an animal such as a mouse, or (b) creak, of a door or hinge	
 V145	to blow (of wind)	VERB	yes			
 V146	to blow down	VERB	yes			
 V147	to blow away	VERB	yes			
@@ -2165,7 +2165,7 @@ V181	to pull	VERB	yes
 V182	to drag	VERB	yes			
 V183	to rub	VERB	yes			
 V184	to scrape	VERB	yes			
-V185	to scratch	VERB	yes			
+V185	to scratch	VERB	yes		either scratch, (a) an itch, or (b) with claws or nails, leaving a mark	
 V186	to shake	VERB	yes			
 V187	to crush	VERB	yes			
 V188	to stab	VERB	yes			
@@ -2194,8 +2194,8 @@ V210	to load	VERB	yes
 V211	to unload	VERB	yes			
 V212	to bring	VERB	yes			
 V213	to give	VERB	yes			
-V214	to lend	VERB	yes			
-V215	to borrow	VERB	yes			
+V214	to lend	VERB	yes		either lend, (a) an object, returned itself, or (b) money, repaid	
+V215	to borrow	VERB	yes		either borrow, (a) an object, returned itself, or (b) money, repaid	
 V216	to offer	VERB	yes			
 V217	to accept	VERB	yes			
 V218	to reject	VERB	yes			
@@ -2227,7 +2227,7 @@ V242	to coil (rope)	VERB	yes
 V243	to stretch (hide)	VERB	yes		stretch an animal skin	
 V244	to spread out	VERB	yes			
 V245	to hang	VERB	yes			
-V246	to turn something	VERB	yes			
+V246	to turn something	VERB	yes		either turn something, (a) over, or (b) around	
 V247	to open	VERB	yes			
 V248	to shut	VERB	yes			
 V249	to cover	VERB	yes			

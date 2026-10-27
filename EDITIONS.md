@@ -12,6 +12,7 @@ Each edition is named by its date. The newest is at the top.
 - **(be) on the property items:** the 168 adjectives of section P read *(be) big*, *(be) red*, … (was *be big*): the item is the property, glossed as an adjective in other languages; *be* in parentheses for languages that say it with a verb. Josh, 27 October, while the EACW has no other users.
 - **Deleted:** P024b *last* (QUANT, *final, opposite of first*): with the property items glossed as adjectives, it was the same word as P024 *(be) last* in every language. It had no CAWL or Swadesh link. The next edition has **2,555 items, 2,273 default** (2,054 in the global base list). Josh, 27 October.
 - Clarifications added from the section Q–R glosses (Josh, 27 October): R1DU *we two* (dual, unspecified for clusivity), R1PLIN *we (and you)* (plural inclusive), R1PLEX *we (not you)* (plural exclusive), RLOCDDST *there* (distal: away from the speaker); and *independent possessive* on R2SGPOSS, R3SGPOSS, R1PLPOSS, R2PLPOSS and R3PLPOSS, as R1SGPOSS has it. No gloss or number changed.
+- Clarifications added from the V001–V250 glosses (Josh, 27 October): V003 *exist apart*, V042 *swim on* (*swim on the surface or wade*), V054 *ride*, V107 *revive*, V135 *become bright*, V136 *become dark*, V144 *squeak*, V185 *scratch*, V214 *lend*, V215 *borrow*, V246 *turn something*. No gloss or number changed.
 - **Taxon corrected:** E105 *flappet lark*, *Mirafra rufocinnamomea* (was misspelled *Amirafra*).
 
 ## 2026-10-24
