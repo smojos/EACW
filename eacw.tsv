@@ -1646,221 +1646,221 @@ O013	both	QUANT	yes
 O014	half	QUANT	yes			
 O014b	piece	NOUN	yes			
 O015	only	ADVERB	yes			
-P001	be big	ADJECTIVE	yes			
+P001	(be) big	ADJECTIVE	yes			
 P001b	size	NOUN	yes			
-P002	be small	ADJECTIVE	yes			
-P003	be tall	ADJECTIVE	yes			
-P004	be short	ADJECTIVE	yes			
-P005	be high	ADJECTIVE	yes			
-P006	be low	ADJECTIVE	yes			
-P007	be deep	ADJECTIVE	yes			
-P008	be shallow	ADJECTIVE	yes			
-P009	be wide	ADJECTIVE	yes			
-P010	be narrow	ADJECTIVE	yes			
-P011	be thin	ADJECTIVE	yes		not thick (of objects)	
-P012	be heavy	ADJECTIVE	yes			
+P002	(be) small	ADJECTIVE	yes			
+P003	(be) tall	ADJECTIVE	yes			
+P004	(be) short	ADJECTIVE	yes			
+P005	(be) high	ADJECTIVE	yes			
+P006	(be) low	ADJECTIVE	yes			
+P007	(be) deep	ADJECTIVE	yes			
+P008	(be) shallow	ADJECTIVE	yes			
+P009	(be) wide	ADJECTIVE	yes			
+P010	(be) narrow	ADJECTIVE	yes			
+P011	(be) thin	ADJECTIVE	yes		not thick (of objects)	
+P012	(be) heavy	ADJECTIVE	yes			
 P012b	weight	NOUN	yes			
-P013	be lightweight	ADJECTIVE	yes			
-P014	be many	ADJECTIVE	yes			
-P014b	be abundant	ADJECTIVE	yes			
-P015	be few	ADJECTIVE	yes			
-P016	be enough	ADJECTIVE	yes			
-P017	be used up	ADJECTIVE	yes			
-P018	be scarce	ADJECTIVE	yes			
-P019	be equal	ADJECTIVE	yes			
-P020	be greater	ADJECTIVE	yes		be more than, exceed (comparative)	
-P021	be comparable	ADJECTIVE	yes		be similar, alike	
-P022	be identical	ADJECTIVE	yes			
-P023	be different	ADJECTIVE	yes			
+P013	(be) lightweight	ADJECTIVE	yes			
+P014	(be) many	ADJECTIVE	yes			
+P014b	(be) abundant	ADJECTIVE	yes			
+P015	(be) few	ADJECTIVE	yes			
+P016	(be) enough	ADJECTIVE	yes			
+P017	(be) used up	ADJECTIVE	yes			
+P018	(be) scarce	ADJECTIVE	yes			
+P019	(be) equal	ADJECTIVE	yes			
+P020	(be) greater	ADJECTIVE	yes		be more than, exceed (comparative)	
+P021	(be) comparable	ADJECTIVE	yes		be similar, alike	
+P022	(be) identical	ADJECTIVE	yes			
+P023	(be) different	ADJECTIVE	yes			
 P023b	other	QUANT	yes			
-P024	be last	ADJECTIVE	yes			
+P024	(be) last	ADJECTIVE	yes			
 P024b	last	QUANT	yes		final, opposite of first	
-P025	be various	ADJECTIVE	yes		be of several kinds, assorted	
-P026	be flat	ADJECTIVE	yes			
-P027	be round	ADJECTIVE	yes			
-P028	be straight	ADJECTIVE	yes			
-P029	be crooked	ADJECTIVE	yes			
-P030	be hollow	ADJECTIVE	yes			
-P031	be hard	ADJECTIVE	yes			
-P032	be soft	ADJECTIVE	yes			
-P033	be tender	ADJECTIVE	yes		soft to chew (meat, young leaves)	
-P034	be sharp	ADJECTIVE	yes		having a cutting edge (as a knife)	
-P035	be blunt	ADJECTIVE	yes			
-P036	be rough	ADJECTIVE	yes			
-P037	be smooth	ADJECTIVE	yes			
-P038	be slippery	ADJECTIVE	yes			
-P039	be sticky	ADJECTIVE	yes			
-P040	be open	ADJECTIVE	yes			
-P041	be closed	ADJECTIVE	yes			
-P042	be tight	ADJECTIVE	yes			
-P043	be loose	ADJECTIVE	yes			
-P044	be full	ADJECTIVE	yes			
-P045	be empty	ADJECTIVE	yes			
-P046	be torn	ADJECTIVE	yes			
-P047	be new	ADJECTIVE	yes			
-P048	be old (not new)	ADJECTIVE	yes			
-P049	be tattered	ADJECTIVE	yes		worn to rags (of cloth)	
-P050	be ruined	ADJECTIVE	yes		damaged, spoiled (not of food)	
-P051	be clean	ADJECTIVE	yes			
-P052	be dirty	ADJECTIVE	yes			
-P053	be wet	ADJECTIVE	yes			
-P054	be dry	ADJECTIVE	yes			
-P055	be hot (objects)	ADJECTIVE	yes			
-P056	be cold (objects)	ADJECTIVE	yes			
-P057	be ripe	ADJECTIVE	yes			
-P058	be unripe	ADJECTIVE	yes			
-P059	be rotten	ADJECTIVE	yes			
-P060	be shrivelled	ADJECTIVE	yes			
-P061	be fertile (land)	ADJECTIVE	yes			
-P062	be infertile (land)	ADJECTIVE	yes			
+P025	(be) various	ADJECTIVE	yes		be of several kinds, assorted	
+P026	(be) flat	ADJECTIVE	yes			
+P027	(be) round	ADJECTIVE	yes			
+P028	(be) straight	ADJECTIVE	yes			
+P029	(be) crooked	ADJECTIVE	yes			
+P030	(be) hollow	ADJECTIVE	yes			
+P031	(be) hard	ADJECTIVE	yes			
+P032	(be) soft	ADJECTIVE	yes			
+P033	(be) tender	ADJECTIVE	yes		soft to chew (meat, young leaves)	
+P034	(be) sharp	ADJECTIVE	yes		having a cutting edge (as a knife)	
+P035	(be) blunt	ADJECTIVE	yes			
+P036	(be) rough	ADJECTIVE	yes			
+P037	(be) smooth	ADJECTIVE	yes			
+P038	(be) slippery	ADJECTIVE	yes			
+P039	(be) sticky	ADJECTIVE	yes			
+P040	(be) open	ADJECTIVE	yes			
+P041	(be) closed	ADJECTIVE	yes			
+P042	(be) tight	ADJECTIVE	yes			
+P043	(be) loose	ADJECTIVE	yes			
+P044	(be) full	ADJECTIVE	yes			
+P045	(be) empty	ADJECTIVE	yes			
+P046	(be) torn	ADJECTIVE	yes			
+P047	(be) new	ADJECTIVE	yes			
+P048	(be) old (not new)	ADJECTIVE	yes			
+P049	(be) tattered	ADJECTIVE	yes		worn to rags (of cloth)	
+P050	(be) ruined	ADJECTIVE	yes		damaged, spoiled (not of food)	
+P051	(be) clean	ADJECTIVE	yes			
+P052	(be) dirty	ADJECTIVE	yes			
+P053	(be) wet	ADJECTIVE	yes			
+P054	(be) dry	ADJECTIVE	yes			
+P055	(be) hot (objects)	ADJECTIVE	yes			
+P056	(be) cold (objects)	ADJECTIVE	yes			
+P057	(be) ripe	ADJECTIVE	yes			
+P058	(be) unripe	ADJECTIVE	yes			
+P059	(be) rotten	ADJECTIVE	yes			
+P060	(be) shrivelled	ADJECTIVE	yes			
+P061	(be) fertile (land)	ADJECTIVE	yes			
+P062	(be) infertile (land)	ADJECTIVE	yes			
 P063	colour	NOUN	yes			
-P064	be red	ADJECTIVE	yes			
+P064	(be) red	ADJECTIVE	yes			
 P064a	red thing	NOUN	yes			
 P064b	very (red)	ADVERB	yes	E	intensified form, often an ideophone	
-P065	be black	ADJECTIVE	yes			
+P065	(be) black	ADJECTIVE	yes			
 P065a	black thing	NOUN	yes			
 P065b	very (black)	ADVERB	yes	E	intensified form, often an ideophone	
-P065c	be dark coloured	ADJECTIVE	yes		of a dark shade, any hue	
-P066	be white	ADJECTIVE	yes			
+P065c	(be) dark coloured	ADJECTIVE	yes		of a dark shade, any hue	
+P066	(be) white	ADJECTIVE	yes			
 P066a	white thing	NOUN	yes			
 P066b	very (white)	ADVERB	yes	E	intensified form, often an ideophone	
-P066c	be light coloured	ADJECTIVE	yes		of a pale shade, any hue	
-P067	be green	ADJECTIVE	yes			
+P066c	(be) light coloured	ADJECTIVE	yes		of a pale shade, any hue	
+P067	(be) green	ADJECTIVE	yes			
 P067a	green thing	NOUN	yes			
 P067b	very (green)	ADVERB	yes	E	intensified form, often an ideophone	
-P068	be yellow	ADJECTIVE	yes			
-P069	be blue	ADJECTIVE	yes			
-P070	be brown	ADJECTIVE	yes			
-P071	be spotted	ADJECTIVE	yes			
+P068	(be) yellow	ADJECTIVE	yes			
+P069	(be) blue	ADJECTIVE	yes			
+P070	(be) brown	ADJECTIVE	yes			
+P071	(be) spotted	ADJECTIVE	yes			
 P071b	very (spotted)	ADVERB	yes	E	intensified form, often an ideophone	
-P072	be solid coloured	ADJECTIVE	yes	E	of one colour, without markings (of hides)	
-P073	be piebald	ADJECTIVE	yes	E	patched black and white (of animals)	
-P074	be savory	ADJECTIVE	yes		tasty, delicious	
-P075	be sweet	ADJECTIVE	yes			
-P076	be sour	ADJECTIVE	yes			
-P077	be bitter	ADJECTIVE	yes			
-P078	be salty	ADJECTIVE	yes			
+P072	(be) solid coloured	ADJECTIVE	yes	E	of one colour, without markings (of hides)	
+P073	(be) piebald	ADJECTIVE	yes	E	patched black and white (of animals)	
+P074	(be) savory	ADJECTIVE	yes		tasty, delicious	
+P075	(be) sweet	ADJECTIVE	yes			
+P076	(be) sour	ADJECTIVE	yes			
+P077	(be) bitter	ADJECTIVE	yes			
+P078	(be) salty	ADJECTIVE	yes			
 P079	smell bad	ADJECTIVE	yes			
 P079b	odour	NOUN	yes		a bad smell	
 P080	smell good	ADJECTIVE	yes			
 P080b	aroma	NOUN	yes			
-P081	be fast	ADJECTIVE	yes			
+P081	(be) fast	ADJECTIVE	yes			
 P081b	speed	NOUN	yes			
-P082	be slow	ADJECTIVE	yes			
-P083	be hot (person)	ADJECTIVE	yes			
-P084	be hungry	ADJECTIVE	yes			
+P082	(be) slow	ADJECTIVE	yes			
+P083	(be) hot (person)	ADJECTIVE	yes			
+P084	(be) hungry	ADJECTIVE	yes			
 P084b	hunger	NOUN	yes			
-P085	be thirsty	ADJECTIVE	yes			
+P085	(be) thirsty	ADJECTIVE	yes			
 P085b	thirst	NOUN	yes			
-P086	be sated	ADJECTIVE	yes		full after eating	
-P087	be tired	ADJECTIVE	yes			
+P086	(be) sated	ADJECTIVE	yes		full after eating	
+P087	(be) tired	ADJECTIVE	yes			
 P087b	tiredness	NOUN	yes			
-P088	be sleepy	ADJECTIVE	yes			
+P088	(be) sleepy	ADJECTIVE	yes			
 P088b	sleepiness	NOUN	yes			
-P089	be awake	ADJECTIVE	yes			
-P090	be drunk	ADJECTIVE	yes			
-P091	be dizzy	ADJECTIVE	yes			
-P092	be naked	ADJECTIVE	yes			
-P093	be healthy	ADJECTIVE	yes			
+P089	(be) awake	ADJECTIVE	yes			
+P090	(be) drunk	ADJECTIVE	yes			
+P091	(be) dizzy	ADJECTIVE	yes			
+P092	(be) naked	ADJECTIVE	yes			
+P093	(be) healthy	ADJECTIVE	yes			
 P093b	health	NOUN	yes			
-P094	be sick	ADJECTIVE	yes			
-P095	be ill	ADJECTIVE	yes			
-P096	be strong	ADJECTIVE	yes			
+P094	(be) sick	ADJECTIVE	yes			
+P095	(be) ill	ADJECTIVE	yes			
+P096	(be) strong	ADJECTIVE	yes			
 P096b	strength	NOUN	yes			
-P096c	be powerful	ADJECTIVE	no		great, mighty	
+P096c	(be) powerful	ADJECTIVE	no		great, mighty	
 P096d	glory	NOUN	no		splendour	
-P097	be muscular	ADJECTIVE	yes			
-P098	be weak	ADJECTIVE	yes			
+P097	(be) muscular	ADJECTIVE	yes			
+P098	(be) weak	ADJECTIVE	yes			
 P098b	weakness	NOUN	yes			
-P099	be fat	ADJECTIVE	yes			
-P100	be skinny	ADJECTIVE	yes			
-P101	be emaciated	ADJECTIVE	yes		extremely thin, wasted	
-P102	be lame	ADJECTIVE	yes		crippled, walking with a limp	
-P103	be blind	ADJECTIVE	yes			
+P099	(be) fat	ADJECTIVE	yes			
+P100	(be) skinny	ADJECTIVE	yes			
+P101	(be) emaciated	ADJECTIVE	yes		extremely thin, wasted	
+P102	(be) lame	ADJECTIVE	yes		crippled, walking with a limp	
+P103	(be) blind	ADJECTIVE	yes			
 P103b	blindness	NOUN	yes			
-P104	be myopic	ADJECTIVE	yes		short-sighted	
-P105	be mute	ADJECTIVE	yes			
-P106	be bald	ADJECTIVE	yes			
-P107	be impotent	ADJECTIVE	yes		unable to have sex (of a man)	
-P108	be alive	ADJECTIVE	yes			
-P109	be dead	ADJECTIVE	yes			
-P110	be young	ADJECTIVE	yes			
-P111	be old (not young)	ADJECTIVE	yes			
-P112	be happy	ADJECTIVE	yes			
+P104	(be) myopic	ADJECTIVE	yes		short-sighted	
+P105	(be) mute	ADJECTIVE	yes			
+P106	(be) bald	ADJECTIVE	yes			
+P107	(be) impotent	ADJECTIVE	yes		unable to have sex (of a man)	
+P108	(be) alive	ADJECTIVE	yes			
+P109	(be) dead	ADJECTIVE	yes			
+P110	(be) young	ADJECTIVE	yes			
+P111	(be) old (not young)	ADJECTIVE	yes			
+P112	(be) happy	ADJECTIVE	yes			
 P112b	happiness	NOUN	yes			
-P113	be sad	ADJECTIVE	yes			
+P113	(be) sad	ADJECTIVE	yes			
 P113b	sadness	NOUN	yes			
-P114	be angry	ADJECTIVE	yes			
+P114	(be) angry	ADJECTIVE	yes			
 P114b	anger	NOUN	yes			
-P115	be afraid	ADJECTIVE	yes			
+P115	(be) afraid	ADJECTIVE	yes			
 P115b	fear	NOUN	yes			
-P116	be proud	ADJECTIVE	yes			
+P116	(be) proud	ADJECTIVE	yes			
 P116b	pride	NOUN	yes			
-P117	be jealous	ADJECTIVE	yes			
+P117	(be) jealous	ADJECTIVE	yes			
 P117b	jealousy	NOUN	yes			
-P118	be shy	ADJECTIVE	yes			
+P118	(be) shy	ADJECTIVE	yes			
 P118b	shame	NOUN	yes			
-P119	be bored	ADJECTIVE	yes			
-P120	be restless	ADJECTIVE	yes			
-P121	be eager	ADJECTIVE	yes			
-P122	be curious	ADJECTIVE	yes		inquisitive, eager to know	
-P123	be alone	ADJECTIVE	yes			
-P124	be brave	ADJECTIVE	yes			
+P119	(be) bored	ADJECTIVE	yes			
+P120	(be) restless	ADJECTIVE	yes			
+P121	(be) eager	ADJECTIVE	yes			
+P122	(be) curious	ADJECTIVE	yes		inquisitive, eager to know	
+P123	(be) alone	ADJECTIVE	yes			
+P124	(be) brave	ADJECTIVE	yes			
 P124b	bravery	NOUN	yes			
-P125	be kind	ADJECTIVE	yes			
+P125	(be) kind	ADJECTIVE	yes			
 P125b	kindness	NOUN	yes			
 P125c	pity	NOUN	yes		compassion	
-P126	be generous	ADJECTIVE	yes			
-P127	be selfish	ADJECTIVE	yes			
-P128	be honest	ADJECTIVE	yes			
-P129	be just	ADJECTIVE	no		fair, righteous	
+P126	(be) generous	ADJECTIVE	yes			
+P127	(be) selfish	ADJECTIVE	yes			
+P128	(be) honest	ADJECTIVE	yes			
+P129	(be) just	ADJECTIVE	no		fair, righteous	
 P129b	justice	NOUN	no			
-P130	be corrupt	ADJECTIVE	yes			
-P131	be wicked	ADJECTIVE	yes			
-P132	be fierce	ADJECTIVE	yes			
-P133	be lazy	ADJECTIVE	yes			
+P130	(be) corrupt	ADJECTIVE	yes			
+P131	(be) wicked	ADJECTIVE	yes			
+P132	(be) fierce	ADJECTIVE	yes			
+P133	(be) lazy	ADJECTIVE	yes			
 P133b	laziness	NOUN	yes			
-P134	be patient	ADJECTIVE	yes			
+P134	(be) patient	ADJECTIVE	yes			
 P134b	patience	NOUN	yes			
-P135	be impatient	ADJECTIVE	yes			
-P136	be stubborn	ADJECTIVE	yes			
+P135	(be) impatient	ADJECTIVE	yes			
+P136	(be) stubborn	ADJECTIVE	yes			
 P136b	stubbornness	NOUN	yes			
-P137	be wise	ADJECTIVE	yes			
-P138	be intelligent	ADJECTIVE	yes			
-P139	be foolish	ADJECTIVE	yes			
+P137	(be) wise	ADJECTIVE	yes			
+P138	(be) intelligent	ADJECTIVE	yes			
+P139	(be) foolish	ADJECTIVE	yes			
 P139b	foolishness	NOUN	yes			
-P140	be confused	ADJECTIVE	yes			
-P141	be ignorant	ADJECTIVE	yes		lacking knowledge, unaware	
-P142	be skilled	ADJECTIVE	yes			
-P143	be able	ADJECTIVE	yes			
+P140	(be) confused	ADJECTIVE	yes			
+P141	(be) ignorant	ADJECTIVE	yes		lacking knowledge, unaware	
+P142	(be) skilled	ADJECTIVE	yes			
+P143	(be) able	ADJECTIVE	yes			
 P143b	ability	NOUN	yes			
-P144	be eloquent	ADJECTIVE	yes			
-P145	be silent	ADJECTIVE	yes			
-P146	be good	ADJECTIVE	yes			
-P146b	be perfect	ADJECTIVE	no			
+P144	(be) eloquent	ADJECTIVE	yes			
+P145	(be) silent	ADJECTIVE	yes			
+P146	(be) good	ADJECTIVE	yes			
+P146b	(be) perfect	ADJECTIVE	no			
 P146c	properly	ADVERB	no		well, in a good way (adverb)	
 P146d	perfection	NOUN	no			
-P147	be bad	ADJECTIVE	yes			
+P147	(be) bad	ADJECTIVE	yes			
 P147b	badly	ADVERB	no		poorly, in a bad way (adverb)	
-P148	be correct	ADJECTIVE	yes			
-P149	be wrong	ADJECTIVE	yes			
-P150	be guilty	ADJECTIVE	yes			
-P151	be innocent	ADJECTIVE	yes			
-P152	be beautiful	ADJECTIVE	yes			
-P153	be ugly	ADJECTIVE	yes			
-P154	be important	ADJECTIVE	yes			
-P155	be amusing	ADJECTIVE	yes			
-P156	be easy	ADJECTIVE	yes			
-P157	be difficult	ADJECTIVE	yes			
-P158	be rich	ADJECTIVE	yes			
-P159	be poor	ADJECTIVE	yes			
-P160	be expensive	ADJECTIVE	yes			
-P161	be inexpensive	ADJECTIVE	yes			
-P162	be lost	ADJECTIVE	yes			
-P163	be absent	ADJECTIVE	yes			
-P164	be near here	ADJECTIVE	yes		near the speaker	
-P165	be near there	ADJECTIVE	yes		near a place away from the speaker	
-P166	be far	ADJECTIVE	yes			
+P148	(be) correct	ADJECTIVE	yes			
+P149	(be) wrong	ADJECTIVE	yes			
+P150	(be) guilty	ADJECTIVE	yes			
+P151	(be) innocent	ADJECTIVE	yes			
+P152	(be) beautiful	ADJECTIVE	yes			
+P153	(be) ugly	ADJECTIVE	yes			
+P154	(be) important	ADJECTIVE	yes			
+P155	(be) amusing	ADJECTIVE	yes			
+P156	(be) easy	ADJECTIVE	yes			
+P157	(be) difficult	ADJECTIVE	yes			
+P158	(be) rich	ADJECTIVE	yes			
+P159	(be) poor	ADJECTIVE	yes			
+P160	(be) expensive	ADJECTIVE	yes			
+P161	(be) inexpensive	ADJECTIVE	yes			
+P162	(be) lost	ADJECTIVE	yes			
+P163	(be) absent	ADJECTIVE	yes			
+P164	(be) near here	ADJECTIVE	yes		near the speaker	
+P165	(be) near there	ADJECTIVE	yes		near a place away from the speaker	
+P166	(be) far	ADJECTIVE	yes			
 Q001	one	QUANT	yes			
 Q001b	first	QUANT	yes			
 Q001c	once	ADVERB	yes		one time, not formerly	
