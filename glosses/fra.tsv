@@ -2017,7 +2017,7 @@ V038	se retourner		machine		to turn around
 V039	se balancer		machine		to swing	
 V040	glisser		machine		to slide	
 V041	rouler		machine		to roll	
-V042	nager (à la surface de l'eau)		machine		to swim (on the surface of the water)	
+V042	nager en surface, patauger		machine		to swim (on the surface of the water)	
 V043	nager (dans l'eau)		machine		to swim (in the water)	
 V044	plonger		machine		to dive	
 V045	flotter		machine		to float	

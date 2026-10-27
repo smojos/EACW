@@ -1977,7 +1977,7 @@ RQMAN	كيف		machine		how?
 RQQNT	كم		machine		how many? how much?	
 V001	كان	فعل الكون؛ يُحذف في الجملة الاسمية في الزمن الحاضر	machine		to be	
 V002	وُجِدَ		machine		to exist, to be found	
-V003	وُجِدَ منفصلًا, انفصل		machine		to exist separately, to separate	
+V003	وُجِدَ منفصلًا عن غيره		machine		to exist separately, to separate	
 V004	لم يوجد, انعدم		machine		to not exist, to cease to exist	
 V005	صار, أصبح		machine		to become	
 V006	كان عنده, مَلَكَ	تُعبَّر الملكية في العربية عادةً بـ«عند»	machine		to own, to have	
@@ -2017,7 +2017,7 @@ V038	استدار, التفت		machine		to turn around
 V039	تأرجح		machine		to swing	
 V040	انزلق, تزحلق		machine		to slip, to slide	
 V041	تدحرج		machine		to roll	
-V042	سبح (على سطح الماء)		machine		to swim (on the surface of the water)	
+V042	سبح على سطح الماء, خاض الماء		machine		to swim (on the surface of the water)	
 V043	سبح (في الماء)		machine		to swim (in the water)	
 V044	غطس		machine		to dive	
 V045	طفا		machine		to float	
@@ -2083,7 +2083,7 @@ V103	أُصيب, تأذّى		machine		to be injured, to get hurt
 V104	آذى, أوجع		machine		to hurt, to cause pain	
 V105	شُفِيَ, برئ		machine		to be healed, to recover	
 V106	شفى, عالج		machine		to heal, to treat	
-V107	أفاق, انتعش		machine		to recover consciousness, to revive	
+V107	أفاق, عاد إلى الحياة		machine		to recover consciousness, to revive	
 V108	نبح		machine		to bark	
 V109	زمجر, هرّ		machine		to growl, to snarl	
 V110	كشّر عن أنيابه		machine		to bare its teeth (fangs)	
@@ -2111,8 +2111,8 @@ V131	انتفخ, تورّم		machine		to swell
 V132	انتشر (الحريق)		machine		to spread (of a fire)	
 V133	لمع, أضاء		machine		to shine, to gleam	
 V134	بهت		machine		to fade	
-V135	أضاء, أشرق		machine		to shine (of the sun), to rise	
-V136	أظلم		machine		to get dark	
+V135	أضاء, صار أفتح		machine		to shine (of the sun), to rise	
+V136	أظلم, صار أغمق		machine		to get dark	
 V137	جفّ, يبس		machine		to dry up	
 V138	احترق		machine		to burn (be burned)	
 V139	اشتعل بلا لهب		machine		to smoulder	
@@ -2165,7 +2165,7 @@ V181	سحب, شدّ		machine		to pull
 V182	جرّ		machine		to drag	
 V183	فرك, دلك		machine		to rub	
 V184	كشط		machine		to scrape, to scratch	
-V185	خدش		machine		to scratch	
+V185	حكّ, خدش		machine		to scratch	
 V186	هزّ, رجّ		machine		to shake	
 V187	سحق, هرس		machine		to crush, to mash	
 V188	طعن		machine		to stab	

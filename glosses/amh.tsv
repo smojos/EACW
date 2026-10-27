@@ -1977,7 +1977,7 @@ RQMAN	እንዴት		machine		how? (in what manner)
 RQQNT	ስንት		machine		how many?; how much?	
 V001	ነው		machine		to be (copula: he/it is)	
 V002	አለ		machine		to exist, to be there	
-V003	ለብቻው ኖረ		machine		to live alone	
+V003	ተለየ, ተነጠለ		machine		to live alone	
 V004	የለም		machine		to not exist, to be absent	
 V005	ሆነ		machine		to become	
 V006	አለው		machine		to have	
@@ -2017,7 +2017,7 @@ V038	ዞር አለ		machine		to turn (aside)
 V039	ተወዛወዘ		machine		to swing	
 V040	ተንሸራተተ		machine		to slide	
 V041	ተንከባለለ		machine		to roll	
-V042	ውሃ ላይ ዋኘ		machine		to swim on the surface of the water	
+V042	ውሃ ላይ ዋኘ, ውሃ ውስጥ ተራመደ		machine		to swim on the surface of the water	
 V043	ውሃ ውስጥ ዋኘ		machine		to swim under water	
 V044	ውሃ ውስጥ ዘሎ ገባ, ጠለቀ		machine		to dive	
 V045	ተንሳፈፈ		machine		to float	
@@ -2111,8 +2111,8 @@ V131	አበጠ		machine		to swell
 V132	ተዛመተ (እሳት)		machine		to spread	
 V133	አበራ		machine		to shine	
 V134	ደበዘዘ, ፈዘዘ		machine		to become dim, to fade	
-V135	በራ		machine		to shine, to light up	
-V136	ጨለመ		machine		to get dark	
+V135	በራ, ደመቀ		machine		to shine, to light up	
+V136	ጨለመ, ጠቆረ		machine		to get dark	
 V137	ደረቀ		machine		to dry, to become dry	
 V138	ተቃጠለ, ነደደ		machine		to burn	
 V139	ሳይነድ ጨሰ		machine		to smoke, to emit smoke	
@@ -2165,7 +2165,7 @@ V181	ሳበ		machine		to pull
 V182	ጎተተ		machine		to drag	
 V183	አሻሸ		machine		to rub	
 V184	ፋቀ		machine		to scrape	
-V185	ቧጨረ		machine		to scratch	
+V185	ቧጨረ, አከከ		machine		to scratch	
 V186	ነቀነቀ		machine		to shake	
 V187	ጨፈለቀ		machine		to crush, to squash	
 V188	በጩቤ ወጋ		machine		to stab with a knife	
@@ -2227,7 +2227,7 @@ V242	ጠመጠመ		machine		to wind, to wrap around
 V243	ወጠረ		machine		to stretch tight	
 V244	ዘረጋ, አሰጣ		machine		to spread out	
 V245	ሰቀለ		machine		to hang	
-V246	ገለበጠ		machine		to turn over	
+V246	ገለበጠ, አዞረ		machine		to turn over	
 V247	ከፈተ		machine		to open	
 V248	ዘጋ		machine		to close	
 V249	ሸፈነ, ከደነ		machine		to cover	
