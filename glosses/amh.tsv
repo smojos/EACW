@@ -305,7 +305,7 @@ B049	መካን		machine		barren person; infertile person
 B049f	መካን ሴት		machine		barren woman	
 B049m	መካን ወንድ, ስንፈተ ወሲብ ያለበት ወንድ		machine		infertile man; sterile man	
 B050	ዓይነ ስውር, ዕውር		machine		blind person	
-B050f	ዓይነ ስውር ሴት		machine		blind woman	
+B050f	ዓይነ ስውሪት		checked	Joshua A. G. Smolders		
 B050m	ዓይነ ስውር ወንድ		machine		blind man	
 B051	መስማት የተሳነው, ደንቆሮ		machine		deaf person	
 B051f	መስማት የተሳናት ሴት		machine		deaf woman	
@@ -358,18 +358,18 @@ C004m	ታናሽ ወንድም		machine		younger brother
 C005	የትዳር ጓደኛ, ባለቤት (ባል ወይም ሚስት)		machine		spouse, husband/wife	
 C005f	ሚስት		machine		wife	
 C005m	ባል		machine		husband	
-C006	የትዳር ጓደኛ ከሌላ ጋር የሚጋራ ሰው		machine		co-wife	
+C006	የትዳር ጓደኛ ከሌላ ጋር የሚጋራ ሰው		checked	Joshua A. G. Smolders	co-wife	
 C006f	ጣውንት	ጣውንት 'ተቀናቃኝ ሴት' የሚል ስሜትም አለው	machine		co-wife	
-C006m	አንዲት ሚስት ከሌላ ባል ጋር የሚጋራ ባል		machine		a woman's other husband; co-husband	
+C006m	አንዲት ሚስት ከሌላ ባል ጋር የሚጋራ ባል		checked	Joshua A. G. Smolders	a woman's other husband; co-husband	
 C007	ሙሽራ ወይም ሙሽሪት		machine		bride or groom; newlywed	
 C007f	ሙሽሪት		machine		bride	
 C007m	ሙሽራ		machine		bridegroom	
 C008	እጮኛ		machine		fiancé(e); betrothed	
 C008f	እጮኛ (ሴት)		machine		fiancée	
 C008m	እጮኛ (ወንድ)		machine		fiancé	
-C009	የራስ ልጅ		machine		child	
-C009f	የራስ ሴት ልጅ		machine		daughter; girl	
-C009m	የራስ ወንድ ልጅ		machine		son; boy	
+C009	የራስ ልጅ		checked	Joshua A. G. Smolders	child	
+C009f	የራስ ሴት ልጅ		checked	Joshua A. G. Smolders	daughter; girl	
+C009m	የራስ ወንድ ልጅ		checked	Joshua A. G. Smolders	son; boy	
 C010	የልጅ ልጅ		machine		grandchild	
 C010f	ሴት የልጅ ልጅ		machine		granddaughter	
 C010m	ወንድ የልጅ ልጅ		machine		grandson	
@@ -379,9 +379,9 @@ C011m	ወንድ ቅድመ አያት (ማንኛውም የቀድሞ ትውልድ)	
 C012	የአባት ወገን አያት		machine		paternal grandparent	
 C012f	የአባት እናት		machine		father's mother; paternal grandmother	
 C012m	የአባት አባት		machine		father's father; paternal grandfather	
-C013	የአባት አያት (ቅድመ አያት)		machine		father's grandparent; paternal great-grandparent	
-C013f	የአባት ሴት አያት (ቅድመ አያት)		machine		father's grandmother; paternal great-grandmother	
-C013m	የአባት ወንድ አያት (ቅድመ አያት)		machine		father's grandfather; paternal great-grandfather	
+C013	ምንጅላት (በአባት በኩል), የአባት አያት		machine			
+C013f	ሴት ምንጅላት (በአባት በኩል), የአባት ሴት አያት		machine			
+C013m	ወንድ ምንጅላት (በአባት በኩል), የአባት ወንድ አያት		machine			
 C014	የአባት ወንድም ወይም እህት		machine		father's sibling; paternal uncle or aunt	
 C014f	የአባት እህት		machine		father's sister; paternal aunt	
 C014m	የአባት ወንድም		machine		father's brother; paternal uncle	
@@ -391,9 +391,9 @@ C015m	የአባት ወንድም ወይም እህት ወንድ ልጅ		machine		s
 C016	የእናት ወገን አያት		machine		maternal grandparent	
 C016f	የእናት እናት		machine		mother's mother; maternal grandmother	
 C016m	የእናት አባት		machine		mother's father; maternal grandfather	
-C017	የእናት አያት (ቅድመ አያት)		machine		mother's grandparent; maternal great-grandparent	
-C017f	የእናት ሴት አያት (ቅድመ አያት)		machine		mother's grandmother; maternal great-grandmother	
-C017m	የእናት ወንድ አያት (ቅድመ አያት)		machine		mother's grandfather; maternal great-grandfather	
+C017	ምንጅላት (በእናት በኩል), የእናት አያት		machine			
+C017f	ሴት ምንጅላት (በእናት በኩል), የእናት ሴት አያት		machine			
+C017m	ወንድ ምንጅላት (በእናት በኩል), የእናት ወንድ አያት		machine			
 C018	የእናት ወንድም ወይም እህት		machine		mother's sibling; maternal uncle or aunt	
 C018f	የእናት እህት		machine		mother's sister; maternal aunt	
 C018m	የእናት ወንድም		machine		mother's brother; maternal uncle	
