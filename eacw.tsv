@@ -1,5 +1,5 @@
 ref	gloss	word_class	default	sub	clarification	taxon
-A001	body	NOUN	yes			
+A001	body	NOUN	yes		the (living) body as a whole, not a corpse	
 A002	skin	NOUN	yes			
 A002b	wrinkle	NOUN	yes			
 A003	hair	NOUN	yes		of either (a) head, or (b) body	
@@ -20,7 +20,7 @@ A013	forehead	NOUN	yes
 A014	face	NOUN	yes			
 A014b	front	NOUN	no		front part of something	
 A015	eye	NOUN	yes			
-A016	pupil	NOUN	yes			
+A016	pupil	NOUN	yes		of the eye	
 A017	iris	NOUN	yes			
 A018	eyebrow	NOUN	yes			
 A019	eyelid	NOUN	yes			
@@ -41,11 +41,11 @@ A031	mouth	NOUN	yes
 A031b	tip	NOUN	no		pointed end of something	
 A032	breath	NOUN	yes			
 A033	lip	NOUN	yes			
-A034	gum	NOUN	yes			
+A034	gum	NOUN	yes		of the teeth	
 A035	tooth	NOUN	yes			
 A035b	edge	NOUN	no		usually a sharp edge	
 A036	molar	NOUN	yes			
-A037	canine	NOUN	yes			
+A037	canine	NOUN	yes		tooth, not the dog	
 A038	incisor	NOUN	yes			
 A038b	lower incisor	NOUN	yes	E		
 A039	bicuspid	NOUN	yes		premolar tooth (between the canine and the molars)	
@@ -84,7 +84,7 @@ A071	side	NOUN	yes
 A071b	side of object	NOUN	no			
 A072	rib	NOUN	yes			
 A073	abdomen	NOUN	yes			
-A073b	middle	NOUN	no		sometimes the inside or flat of something	
+A073b	middle	NOUN	no		either middle, (c) inside, or (d) flat (broad face) of something, as the flat of a blade	
 A074	navel	NOUN	yes			
 A075	innards	NOUN	yes			
 A076	liver	NOUN	yes			
@@ -152,7 +152,7 @@ A125a	outer knee	NOUN	yes		or front of the knee
 A125b	inner knee	NOUN	yes		or back of the knee	
 A126	shin	NOUN	yes		front of the lower leg	
 A127	tibia	NOUN	yes		shinbone	
-A128	calf	NOUN	yes			
+A128	calf	NOUN	yes		of the leg	
 A129	achilles tendon	NOUN	yes			
 A130	foot	NOUN	yes			
 A131	ankle	NOUN	yes			

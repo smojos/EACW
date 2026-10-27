@@ -58,7 +58,7 @@ A045	لوزة الحلق		machine		tonsil
 A046	لعاب		machine		saliva	
 A047	فك		machine		jaw	
 A048	عظم الفك		machine		jawbone, mandible	
-A049	ذقن	أسفل الوجه تحت الفم، لا اللحية.	machine		chin	
+A049	ذَقَن (أسفل الوجه تحت الفم، لا اللحية)		machine		chin (the lower face below the mouth, not the beard)	
 A050	شارب		machine		moustache	
 A051	لحية		machine		beard	
 A052	رقبة		machine		neck	
