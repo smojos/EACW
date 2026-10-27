@@ -473,7 +473,7 @@ C045m	male white person	NOUN	no
 D001	animal	NOUN	yes			Animalia
 D002	domestic animal	NOUN	yes			
 D003	wild animal	NOUN	yes			
-D004	flesh	NOUN	yes			
+D004	flesh	NOUN	yes		either flesh, (c) meat as food, or (d) flesh of a living body	
 D004b	dried meat	NOUN	yes		sun-dried strips of meat, jerky	
 D005	fat	NOUN	yes			
 D006	bone marrow	NOUN	yes			
@@ -497,12 +497,12 @@ D014m	bull	NOUN	yes			Bos taurus (Bovidae)
 D015	steer	NOUN	yes		castrated bull, bullock	Bos taurus (Bovidae)
 D016	heifer	NOUN	yes		young cow that has not calved	Bos taurus (Bovidae)
 D017	dewlap	NOUN	yes		loose skin hanging from the throat of cattle	
-D018	dung	NOUN	yes			
-D019	horn	NOUN	yes			
+D018	dung	NOUN	yes		either dung in general, (a) cow dung, (b) goat or sheep droppings, or (c) horse or donkey dung	
+D019	horn	NOUN	yes		horn of an animal	
 D020	tail	NOUN	yes			
 D021	hide	NOUN	yes		skin of an animal	
 D022	hump	NOUN	yes		hump of cattle, zebu hump	
-D023	hoof	NOUN	yes			
+D023	hoof	NOUN	yes		either hoof, (a) solid hoof of horse or donkey, or (b) cloven hoof of cattle, goats or sheep	
 D024	udder	NOUN	yes			
 D025	teats	NOUN	yes			
 D026	milk	NOUN	yes			
@@ -593,7 +593,7 @@ D091	ground squirrel	NOUN	yes			Sciuridae (part)
 D092	mouse	NOUN	yes			Muroidea (part) (Muridae (mainly))
 D093	rat	NOUN	yes			Muroidea (part) (Muridae (mainly))
 D094	cane rat	NOUN	yes	E W S C	grasscutter, Thryonomys	Thryonomys (Thryonomyidae)
-D095	palm rat	NOUN	yes	E W N C		Euxerus erythropus (Sciuridae)
+D095	palm rat	NOUN	yes	E W N C	the striped ground squirrel, Euxerus erythropus, called palm rat in West Africa; a kind of D091	Euxerus erythropus (Sciuridae)
 D096	shrew	NOUN	yes			Soricidae
 D097	mole	NOUN	yes		burrowing animal; in Africa a mole-rat or golden mole	Bathyergidae, Spalacidae (part), Chrysochloridae (Bathyergidae, Spalacidae, Chrysochloridae)
 D098	hare	NOUN	yes			Lepus (Leporidae)
@@ -718,7 +718,7 @@ E101	paradise flycatcher	NOUN	yes			Terpsiphone (Monarchidae)
 E102	shrike	NOUN	yes			Laniidae
 E103	pied crow	NOUN	yes	E W S C		Corvus albus (Corvidae)
 E104	fan-tailed raven	NOUN	yes			Corvus rhipidurus (Corvidae)
-E105	flappet lark	NOUN	yes	E W S C	savanna lark that claps its wings in flight	Amirafra rufocinnamomea (Alaudidae)
+E105	flappet lark	NOUN	yes	E W S C	savanna lark that claps its wings in flight	Mirafra rufocinnamomea (Alaudidae)
 E106	crombec	NOUN	yes	E W S C	tiny short-tailed warbler	Sylvietta (Macrosphenidae)
 E107	red-pate cisticola	NOUN	yes	E W C	small grass warbler	Cisticola ruficeps (Cisticolidae)
 E108	tawny prinia	NOUN	yes	E W S C	tawny-flanked prinia, small warbler	Prinia subflava (Cisticolidae)
