@@ -1419,7 +1419,7 @@ L004	day	NOUN	yes		24-hour day
 L005	moon	NOUN	yes			
 L006	month	NOUN	yes			
 L007	full moon	NOUN	yes			
-L008	new moon	NOUN	yes			
+L008	new moon	NOUN	yes		either new moon, (a) dark moon, not visible, or (b) first visible crescent	
 L009	eclipse	NOUN	no		of sun or moon	
 L009a	solar eclipse	NOUN	yes			
 L009b	lunar eclipse	NOUN	yes			
@@ -1507,7 +1507,7 @@ L080	swamp	NOUN	yes
 L081	wave	NOUN	yes			
 L082	bubble	NOUN	yes			
 L083	foam	NOUN	yes			
-L084	slime (organic)	NOUN	yes			
+L084	slime (organic)	NOUN	yes		either slime, (a) slimy film of algae on water or stones, or (b) slime of a snail, fish or frog	
 L085	world	NOUN	yes			
 L086	place	NOUN	yes			
 L087	ground	NOUN	yes			
@@ -1536,7 +1536,7 @@ L106	cliff	NOUN	yes
 L107	valley	NOUN	yes			
 L108	ditch	NOUN	yes			
 L109	pit	NOUN	yes			
-L110	hole	NOUN	yes			
+L110	hole	NOUN	yes		either hole, (c) hole in the ground, pit, or (d) hole through something, perforation	
 L110b	den	NOUN	yes		animal den, lair or burrow	
 L111	sinkhole	NOUN	yes		natural collapse hole in the ground	
 L112	crevice	NOUN	yes			
@@ -1603,8 +1603,8 @@ N020	inside	PREP	yes
 N021	outside	PREP	yes			
 N022	between	PREP	yes			
 N023	towards	PREP	yes			
-N024	away from	PREP	yes			
-N025	with	PREP	yes			
+N024	away from	PREP	yes		either away from, (a) moving away from a place, or (b) far from, at a distance from	
+N025	with	PREP	yes		either with, (a) together with someone, or (b) by means of, using	
 N026	at	PREP	yes		general locative, at a place	
 N027	ereyesterday	NOUN	yes		day before yesterday	
 N028	yesterday	NOUN	yes			
@@ -1628,7 +1628,7 @@ O001	yes	INTERJ	yes
 O002	no	INTERJ	yes		negative answer, opposite of yes	
 O003	not	NEG	no		negator	
 O004	and	CONJ	yes			
-O005	if	CONJ	yes			
+O005	if	CONJ	yes		either if, (a) real condition, or (b) unreal, counterfactual condition	
 O006	because	CONJ	yes			
 O007	perhaps	ADVERB	yes			
 O008	really	ADVERB	yes		truly	
@@ -1641,7 +1641,7 @@ O010	many	QUANT	yes
 O011	some	QUANT	yes			
 O011b	someone	PRONOUN	no			
 O011c	something	PRONOUN	no			
-O012	none	QUANT	yes			
+O012	none	QUANT	yes		either none, (a) nobody, or (b) nothing	
 O013	both	QUANT	yes			
 O014	half	QUANT	yes			
 O014b	piece	NOUN	yes			
