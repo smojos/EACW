@@ -953,3 +953,462 @@ I082	ለሙሽሪት ቤተሰብ የሚከፈል የጋብቻ ክፍያ	ጥሎ�
 I083	ሕግ		machine		law	
 I084	ልማድ, ወግ		machine		custom, tradition	
 I085	የባህል ችሎት, ሽምግልና		machine		traditional court, mediation by elders	
+J001	ዛፍ		machine		tree	
+J001b	እንጨት		machine		wood	
+J002	የዛፍ ግንድ		machine		tree trunk	
+J002b	ግንዲላ		machine		log	
+J003	ቅርንጫፍ		machine		branch	
+J004	ቀንበጥ		machine		twig	
+J005	የዛፍ ቅርፊት		machine		tree bark	
+J006	ጉቶ		machine		stump	
+J007	ስንጥር		machine		splinter	
+J008	ሥር		machine		root	
+J009	የእንጨት ቋጠሮ		machine		knot in wood	
+J010	የዛፍ ፈሳሽ		machine		tree fluid (sap)	
+J010b	የዛፍ ወተት	ከአንዳንድ ዛፎች የሚወጣ ወተት የሚመስል ፈሳሽ (ጎማ የሚሠራበት)።	machine		tree milk (milky sap, latex)	
+J011	ቅጠል		machine		leaf	
+J012	እምቡጥ		machine		bud	
+J013	ቡቃያ		machine		sprout	
+J014	አበባ		machine		flower	
+J015	እሾህ		machine		thorn	
+J016	ፍሬ, ፍራፍሬ		machine		fruit	
+J017	የተክል ዘር		machine		seed	
+J018	የፍሬ ውስጥ ጠንካራ ዘር		machine		hard seed inside a fruit (stone, pit)	
+J019	ልጣጭ		machine		peel	
+J020	ጭማቂ		machine		juice	
+J021	ቁጥቋጦ		machine		bush, shrub	
+J022	ኒም		machine		neem	
+J022a	የኒም ዛፍ		machine		neem tree	
+J023	ኢቦኒ (ዛፍና ፍሬ)	ጥቁርና ጠንካራ እንጨት ያለው ዛፍ።	machine		ebony (tree and fruit)	
+J023a	የኢቦኒ ዛፍ		machine		ebony tree	
+J023b	የኢቦኒ ፍሬ		machine		ebony fruit	
+J024	ማሆጋኒ	ቀይ ጠንካራ እንጨት ያለው ትልቅ ዛፍ።	machine		mahogany	
+J024a	የማሆጋኒ ዛፍ		machine		mahogany tree	
+J025	ቲክ እንጨት	ቲክ ለአብዛኛው ተናጋሪ የሚታወቀው በእንጨቱ ነው።	machine		teak	
+J025a	የቲክ ዛፍ		machine		teak tree	
+J026	ካፖክ (ዛፍና ፍሬ)	ፍሬው ጥጥ መሰል ነገር የያዘ ትልቅ ዛፍ።	machine		kapok (tree and fruit)	
+J026a	የካፖክ ዛፍ		machine		kapok tree	
+J026b	የካፖክ ፍሬ	ጥጡ ያለበት።	machine		kapok fruit	
+J027	ኪጌሊያ, የቋሊማ ዛፍ (ዛፍና ፍሬ)	ረጃጅም ከባድ ፍሬዎች የሚንጠለጠሉበት ዛፍ፤ የታወቀ የአማርኛ ስም የለውም።	machine		Kigelia (tree and fruit)	
+J027a	የቋሊማ ዛፍ, የኪጌሊያ ዛፍ	ረጃጅም ከባድ ፍሬዎች የሚንጠለጠሉበት ዛፍ።	machine		sausage tree	
+J027b	የቋሊማ ዛፍ ፍሬ, የኪጌሊያ ፍሬ		machine		sausage-tree fruit	
+J028	ግራር		machine		acacia	
+J029	ነጭ ግራር (ዛፍና ፍሬ)	በበጋ ቅጠል የሚያወጣ፣ በክረምት ቅጠሉን የሚያረግፍ ግራር።	machine		white acacia (tree and fruit)	
+J029a	የነጭ ግራር ዛፍ		machine		white acacia tree	
+J029b	የነጭ ግራር ፍሬ		machine		white acacia fruit	
+J030	ሞፓኔ		machine		mopane	
+J030a	የሞፓኔ ዛፍ		machine		mopane tree	
+J031	ቁልቋል	ዛፍ የሚያህል፣ ቅርንጫፎቹ እንደ መቅረዝ ወደ ላይ የቆሙ ቁልቋል።	machine		cactus	
+J031a	የቁልቋል ዛፍ		machine		cactus tree	
+J032	ጋርዴኒያ (ዛፍና ፍሬ)		machine		gardenia (tree and fruit)	
+J032a	የጋርዴኒያ ዛፍ		machine		gardenia tree	
+J032b	የጋርዴኒያ ፍሬ		machine		gardenia fruit	
+J033	ማራገቢያ ቅጠል ያለው ዘምባባ (ዛፍና ፍሬ)	እንደ ዶም ዘምባባ ቅጠሉ እንደ ማራገቢያ የተዘረጋ ዘምባባ፤ ተምር አይደለም።	machine		palm (tree and fruit)	
+J033a	ማራገቢያ ቅጠል ያለው የዘምባባ ዛፍ		machine		palm tree	
+J033b	ማራገቢያ ቅጠል ያለው የዘምባባ ፍሬ		machine		palm fruit	
+J034	የዘይት ዘምባባ (ዛፍና ፍሬ)		machine		oil palm (tree and fruit)	
+J034a	የዘይት ዘምባባ ዛፍ		machine		oil palm tree	
+J034b	የዘይት ዘምባባ ፍሬ		machine		oil palm fruit	
+J035	ኮላ (ዛፍና ፍሬ)		machine		cola (tree and fruit)	
+J035a	የኮላ ዛፍ		machine		cola tree	
+J035b	የኮላ ፍሬ	ፍሬው ይታኘካል።	machine		cola fruit	
+J036	የዘምባባ ቅጠል		machine		palm leaf	
+J037	የዘምባባ ቅጠል መሀል አገዳ		machine		middle stalk of a palm leaf (midrib)	
+J038	ከዘምባባ ቅጠል የተሰነጠቀ ቅጠል		machine		split strip of palm leaf	
+J039	ራፊያ ዘምባባ		machine		raffia palm	
+J039a	የራፊያ ዘምባባ ዛፍ		machine		raffia palm tree	
+J040	ኮኮናት (ዛፍና ፍሬ)		machine		coconut (tree and fruit)	
+J040a	የኮኮናት ዛፍ		machine		coconut tree	
+J040b	ኮኮናት		machine		coconut	
+J041	ተምር (ዛፍና ፍሬ)		machine		date (tree and fruit)	
+J041a	የተምር ዛፍ		machine		date tree (date palm)	
+J041b	ተምር		machine		date	
+J042	በለስ, ሾላ (ዛፍና ፍሬ)	በአንዳንድ አካባቢዎች (ለምሳሌ በትግራይ) በለስ የቁልቋል ፍሬን ያመለክታል፤ እዚህ የሚፈለገው የበለስ ወይም የሾላ ዛፍ ነው።	machine		fig (tree and fruit)	
+J042a	የበለስ ዛፍ, የሾላ ዛፍ		machine		fig tree	
+J042b	የበለስ ፍሬ, የሾላ ፍሬ		machine		fig	
+J043	ወይራ (ዛፍና ፍሬ)		machine		olive (tree and fruit)	
+J043a	የወይራ ዛፍ		machine		olive tree	
+J043b	የወይራ ፍሬ		machine		olive (fruit)	
+J044	ሆመር (ዛፍና ፍሬ)		machine		tamarind (tree and fruit)	
+J044a	የሆመር ዛፍ		machine		tamarind tree	
+J044b	የሆመር ፍሬ		machine		tamarind fruit	
+J045	ባኦባብ (ዛፍና ፍሬ)		machine		baobab (tree and fruit)	
+J045a	የባኦባብ ዛፍ		machine		baobab tree	
+J045b	የባኦባብ ፍሬ		machine		baobab fruit	
+J046	ማሩላ (ዛፍና ፍሬ)		machine		marula (tree and fruit)	
+J046a	የማሩላ ዛፍ		machine		marula tree	
+J046b	የማሩላ ፍሬ		machine		marula fruit	
+J047	ሺያ (ዛፍ፣ ፍሬና ቅቤ)		machine		shea (tree, fruit and butter)	
+J047a	የሺያ ዛፍ		machine		shea tree	
+J047b	የሺያ ፍሬ		machine		shea fruit	
+J047c	የሺያ ቅቤ	ከፍሬው የሚወጣ ቅባት።	machine		shea butter	
+J048	ሎሚ (ዛፍና ፍሬ)		machine		lemon (tree and fruit)	
+J048a	የሎሚ ዛፍ		machine		lemon tree	
+J048b	ሎሚ		machine		lemon	
+J049	ብርቱካን (ዛፍና ፍሬ)		machine		orange (tree and fruit)	
+J049a	የብርቱካን ዛፍ		machine		orange tree	
+J049b	ብርቱካን		machine		orange	
+J050	ግሬፕፍሩት (ዛፍና ፍሬ)		machine		grapefruit (tree and fruit)	
+J050a	የግሬፕፍሩት ዛፍ		machine		grapefruit tree	
+J050b	ግሬፕፍሩት		machine		grapefruit	
+J051	ማንጎ (ዛፍና ፍሬ)		machine		mango (tree and fruit)	
+J051a	የማንጎ ዛፍ		machine		mango tree	
+J051b	ማንጎ		machine		mango	
+J052	ዘይቱን, ጓቫ (ዛፍና ፍሬ)	በኢትዮጵያ ዘይቱን የሚባለው ጓቫ ነው፤ የወይራ ፍሬ አይደለም።	machine		olive (tree and fruit)	
+J052a	የዘይቱን ዛፍ, የጓቫ ዛፍ		machine		olive tree	
+J052b	ዘይቱን, ጓቫ		machine		olive	
+J053	ፓፓያ (ዛፍና ፍሬ)		machine		papaya (tree and fruit)	
+J053a	የፓፓያ ዛፍ		machine		papaya tree	
+J053b	ፓፓያ		machine		papaya	
+J054	አቮካዶ (ዛፍና ፍሬ)		machine		avocado (tree and fruit)	
+J054a	የአቮካዶ ዛፍ		machine		avocado tree	
+J054b	አቮካዶ		machine		avocado	
+J055	ሙዝ (ተክልና ፍሬ)		machine		banana (plant and fruit)	
+J055a	የሙዝ ተክል		machine		banana plant	
+J055b	ሙዝ		machine		banana	
+J056	የሙዝ ዘለላ		machine		bunch of bananas	
+J057	ድንክ ሙዝ (ተክልና ፍሬ)		machine		dwarf banana (plant and fruit)	
+J057a	የድንክ ሙዝ ተክል		machine		dwarf banana plant	
+J057b	ድንክ ሙዝ		machine		dwarf banana	
+J058	የሚቀቀል ሙዝ (ተክልና ፍሬ)	ጥሬ የማይበላ፣ ተቀቅሎ ወይም ተጠብሶ የሚበላ ሙዝ።	machine		cooking banana (plant and fruit)	
+J058a	የሚቀቀል ሙዝ ተክል		machine		cooking banana plant	
+J058b	የሚቀቀል ሙዝ		machine		cooking banana	
+J059	እንሰት		machine		enset (false banana)	
+J060	አናናስ (ተክልና ፍሬ)		machine		pineapple (plant and fruit)	
+J060a	የአናናስ ተክል		machine		pineapple plant	
+J060b	አናናስ		machine		pineapple	
+J061	ዱባ		machine		pumpkin	
+J062	ሐብሐብ		machine		watermelon	
+J063	ሐረግ		machine		vine	
+J064	የሐረግ መጠምጠሚያ	ሐረጉ ሌላ ነገር የሚይዝበት ቀጭን ጥቅልል።	machine		vine tendril	
+J065	ማሽላ		machine		sorghum	
+J066	ዘንጋዳ, ቀይ ማሽላ		machine		red sorghum	
+J067	ነጭ ማሽላ		machine		white sorghum	
+J068	ዳጉሳ	ዳጉሳና ሌሎች ትናንሽ ፍሬ ያላቸው እህሎች።	machine		finger millet	
+J069	ፎኒዮ		machine		fonio	
+J070	ጤፍ		machine		teff	
+J071	ስንዴ		machine		wheat	
+J072	ገብስ		machine		barley	
+J073	በቆሎ		machine		maize, corn	
+J073b	የበቆሎ አገዳ		machine		maize stalk	
+J073c	የበቆሎ ዛላ		machine		maize cob, ear of maize	
+J073d	የበቆሎ ፍሬ		machine		maize grain, corn kernel	
+J073e	የበቆሎ ሽፋን ቅጠል		machine		maize husk	
+J073g	የበቆሎ ጸጉር		machine		maize silk	
+J073h	የበቆሎ አበባ	በአገዳው ጫፍ ላይ ያለው።	machine		maize tassel	
+J074	እብቅ		machine		chaff, straw	
+J075	ሩዝ		machine		rice	
+J076	ሸንኮራ አገዳ		machine		sugar cane	
+J077	ሰሊጥ		machine		sesame	
+J078	ጥጥ		machine		cotton	
+J079	ቦሎቄ		machine		beans (haricot/kidney beans)	
+J080	ኦቾሎኒ		machine		peanut, groundnut	
+J081	የኦቾሎኒ ቅርፊት		machine		peanut shell	
+J082	ሥራሥር		machine		root vegetable, tuber	
+J083	ድንች		machine		potato	
+J084	ካሳቫ		machine		cassava	
+J085	ቦዬ		machine		yam	
+J086	ጎደሬ		machine		taro, cocoyam	
+J087	ስኳር ድንች		machine		sweet potato	
+J088	ሽንኩርት		machine		onion	
+J089	ነጭ ሽንኩርት		machine		garlic	
+J090	ቲማቲም		machine		tomato	
+J091	ካሮት		machine		carrot	
+J092	ባሚያ		machine		okra	
+J093	ኤግፕላንት		machine		eggplant, aubergine	
+J094	ጣፋጭ ቃሪያ		machine		sweet pepper	
+J095	የሚያቃጥል ቃሪያ	ትኩስም ይሁን የደረቀ (በርበሬ) የሚያቃጥል ቃሪያ፤ የበርበሬ ቅመም ድብልቅ አይደለም።	machine		chilli pepper	
+J096	እንጉዳይ		machine		mushroom	
+J097	ዝንጅብል		machine		ginger	
+J098	ቀረፋ		machine		cinnamon	
+J099	ድንብላል	ድንብላል (ኮሪያንደር)፤ እንስላል አይደለም።	machine		coriander	
+J100	ትምባሆ		machine		tobacco	
+J101	ካናቢስ, ሀሺሽ		machine		cannabis, hashish	
+J102	ቡና		machine		coffee	
+J103	ሻይ		machine		tea	
+J104	ሣር		machine		grass	
+J105	የሣር ቅጠል		machine		blade of grass	
+J106	አረም		machine		weed	
+J107	ሸምበቆ		machine		reed	
+J108	ደንገል		machine		papyrus	
+J109	የውሃ አበባ	ቅጠሉና አበባው በውሃ ላይ የሚንሳፈፍ ተክል።	machine		water lily	
+J110	የቆላ ቀርከሃ		machine		lowland bamboo	
+J111	የደጋ ቀርከሃ		machine		highland bamboo	
+J112	ምግብ		machine		food	
+J113	ዘይት		machine		oil	
+J114	ባህላዊ ዳቦ, እንጀራ	በአካባቢው የተለመደው ዋና የዳቦ ዓይነት (ለምሳሌ እንጀራ ወይም ቂጣ)።	machine		injera	
+J115	ስንቅ		machine		provisions (food for a journey)	
+J116	የዳቦ ቅርፊት		machine		bread crust	
+J117	ዱቄት		machine		flour	
+J118	ጨው		machine		salt	
+J119	ሾርባ		machine		soup	
+J120	ገንፎ		machine		porridge	
+J121	ኩስኩስ		machine		couscous	
+J122	ቁርስ		machine		breakfast	
+J123	እራት		machine		dinner, supper	
+J124	ትራፊ		machine		leftovers	
+J125	ሻጋታ		machine		mould	
+J126	እርሾ		machine		yeast, leaven	
+J127	ለጠላ የሚቦካ ሊጥ		machine		dough fermented (leavened) for beer	
+J128	ጠላ		machine		tella (home-brewed beer)	
+J129	አረቄ		machine		arake (distilled spirit)	
+J130	ጠጅ		machine		tej (honey wine, mead)	
+J131	የዘምባባ ወይን	ከዘምባባ የሚወጣ የሚያሰክር መጠጥ።	machine		palm wine	
+K001	ነገር		machine		thing	
+K002	ቤት		machine		house	
+K002b	ጎጆ		machine		hut	
+K002c	ክፍል		machine		room	
+K002d	መኝታ ቤት		machine		bedroom	
+K002e	ወጥ ቤት		machine		kitchen	
+K003	ግቢ		machine		compound	
+K003b	የግቢ ውስጥ ሜዳ, አጥር ግቢ		machine		open ground inside the compound	
+K003c	የግቢ መግቢያ ጎጆ		machine		entrance hut of the compound	
+K004	ግድግዳ		machine		wall	
+K005	የጭቃ ጡብ		machine		mud brick	
+K006	ምርጊት, ልስን		machine		plaster	
+K007	ኖራ ቅብ		machine		lime (whitewash)	
+K007b	ቀለም		machine		paint	
+K008	ወለል		machine		floor	
+K009	ኮርኒስ		machine		ceiling	
+K010	ጣሪያ		machine		roof	
+K011	የጎጆ ጣሪያ ጉልላት	በሣር ክዳን ጎጆ ጣሪያ ጫፍ ላይ የሚደፋ መክደኛ ወይም ጌጥ።	machine		dome	
+K012	የሣር ክዳን		machine		grass thatch	
+K013	ወደ ጣሪያ ጫፍ የሚወጣ ማገር		machine		rafter running up to the roof apex	
+K014	አግዳሚ ማገር	ማገሮቹን የሚያስር።	machine		horizontal pole (purlin, lath)	
+K015	ባለ መንታ ምሰሶ	ጫፉ መንታ ሆኖ ወጋግራ የሚሸከም ምሰሶ (ባላ)።	machine		forked post	
+K016	ወጋግራ		machine		main beam	
+K017	ሳንቃ		machine		plank, board	
+K018	በር		machine		door	
+K019	መግቢያ, ደጃፍ		machine		entrance, doorway	
+K020	መስኮት		machine		window	
+K021	መሰላል		machine		ladder	
+K022	ባለ አንድ ተዳፋት ጣሪያ መጠለያ		machine		lean-to shelter	
+K023	ድንኳን		machine		tent	
+K024	ርብራብ		machine		raised platform	
+K025	ማስጫ		machine		drying rack	
+K026	ጎተራ		machine		granary	
+K027	በረት		machine		cattle pen, corral	
+K028	የከብት ሰፈር	እረኞች ከብቶቻቸውን ለወቅቱ የሚያሰፍሩበት ቦታ።	machine		cattle camp	
+K029	አጥር		machine		fence	
+K030	ሽንቁር አጥር	በቀዳዳዎቹ ማዶውን ማየት የሚቻልበት አጥር።	machine		see-through fence	
+K031	ካስማ		machine		stake, peg	
+K032	የውሃ ጉድጓድ		machine		well	
+K033	መታጠቢያ ቦታ		machine		bathing place	
+K034	መጸዳጃ ቤት, ሽንት ቤት		machine		toilet, latrine	
+K035	የቆሻሻ መጣያ		machine		rubbish dump	
+K036	ቆሻሻ		machine		rubbish	
+K037	የአትክልት ቦታ		machine		vegetable garden	
+K038	እርሻ, ማሳ		machine		field, farm	
+K038b	የማሳ ወሰን		machine		field boundary	
+K039	መንደር		machine		village	
+K039b	ከተማ		machine		town	
+K039c	ትልቅ ከተማ		machine		big city	
+K040	ጊዜያዊ ሰፈር, ካምፕ		machine		neighbourhood	
+K041	ገበያ		machine		market	
+K042	አገር, ግዛት		machine		country, territory	
+K042b	ድንበር		machine		border	
+K043	የእግር መንገድ		machine		footpath	
+K044	መንታ መንገድ		machine		fork in the road	
+K045	መስቀለኛ መንገድ		machine		crossroads	
+K046	ድልድይ		machine		bridge	
+K047	ጉዞ		machine		journey	
+K048	መኪና		machine		car	
+K049	አልጋ		machine		bed	
+K050	ሰሌን		machine		mat	
+K051	ትራስ		machine		pillow	
+K052	አጎበር		machine		mosquito net	
+K053	በርጩማ		machine		stool	
+K053b	ወንበር		machine		chair	
+K054	የሰፌድ ስፌት	ሰፌድ፣ መሶብና ቅርጫት የሚሠሩበት የሣር ስፌት።	machine		sewing	
+K055	መብራት		machine		lamp	
+K056	ሻማ		machine		candle	
+K057	ማራገቢያ		machine		fan	
+K058	ደወል		machine		bell	
+K059	መጥረጊያ		machine		broom	
+K060	አቧራ መጥረጊያ		machine		duster	
+K061	ምድጃ		machine		hearth, stove	
+K062	ማገዶ		machine		firewood	
+K063	ጉማጅ		machine		firebrand, half-burnt piece of wood	
+K064	እሳት መሞጨሪያ እንጨቶች	እርስ በርስ እየተሻሹ ወይም እየተሾሩ እሳት የሚያስነሱ እንጨቶች።	machine		kindling	
+K065	እሳት መቆስቆሻ		machine		poker	
+K066	ከሰል		machine		charcoal	
+K067	የሸክላ ዕቃ		machine		pottery, clay	
+K068	እንስራ		machine		water jar (clay)	
+K069	የወጥ ምንቸት		machine		cooking pot (clay)	
+K070	ብረት ድስት		machine		iron pot	
+K071	ማንቆርቆሪያ		machine		kettle	
+K072	ጀበና		machine		jebena (clay coffee pot)	
+K073	ማሰሮ, ጆግ		machine		jug	
+K074	ጠርሙስ		machine		bottle	
+K075	ቡሽ		machine		cork	
+K076	ቅል		machine		gourd, calabash	
+K076a	ጎድጓዳ ሳህን		machine		bowl	
+K076b	መሶብ, የእንጀራ መሶብ		machine		mesob (woven basket-table)	
+K076c	የወጥ ሳህን		machine		stew bowl	
+K077	የድስት ማስቀመጫ ቀለበት		machine		pot-stand ring	
+K078	ዝርግ ሳህን		machine		flat plate	
+K079	ሳህን		machine		plate	
+K080	ኩባያ		machine		cup	
+K081	ገል		machine		potsherd	
+K082	ማንኪያ		machine		spoon	
+K083	ጭልፋ		machine		ladle	
+K084	የጠላ ማጥለያ		machine		tella strainer	
+K085	እጀታ		machine		handle	
+K086	ቅርጫት		machine		basket	
+K087	ባልዲ		machine		bucket	
+K088	ሳጥን		machine		box	
+K089	ስልቻ		machine		leather bag	
+K089b	የውሃ አቁማዳ		machine		water skin	
+K090	የፕላስቲክ ኬሻ, የማዳበሪያ ኬሻ		machine		plastic sack	
+K091	የምድጃ ጉልቻ	ድስት በእሳት ላይ የሚያርፍበት ድንጋይ (ከሦስቱ ጉልቻዎች አንዱ)።	machine		hearthstone	
+K092	የድንጋይ ወፍጮ		machine		stone grinding mill	
+K092a	መጅ		machine		upper grinding stone	
+K092b	እናት ወፍጮ		machine		lower grinding stone	
+K093	ሙቀጫ		machine		mortar	
+K094	ዘነዘና		machine		pestle	
+K095	ማማሰያ		machine		stirring stick	
+K096	ማበጠሪያ ሰፌድ		machine		flat woven tray (winnowing tray)	
+K097	መንሽ		machine		winnowing fork	
+K098	አውድማ		machine		threshing floor	
+K099	መቆፈሪያ		machine		digging tool	
+K100	መኮትኮቻ		machine		hoe (for weeding/loosening soil)	
+K101	ዶማ		machine		mattock, pick	
+K102	ማረሻ		machine		plough	
+K103	ቀንበር		machine		yoke	
+K104	ማጭድ		machine		sickle	
+K105	ገጀራ		machine		machete	
+K106	መጥረቢያ		machine		axe	
+K107	መቆፈሪያ ዶማ, ፒካ		machine		pickaxe	
+K108	መዶሻ		machine		hammer	
+K109	የቀጥቃጭ መስፍ	ቀጥቃጩ ብረት የሚቀጠቅጥበት ድንጋይ ወይም ብረት።	machine		adze	
+K110	የቀጥቃጭ ቤት		machine		blacksmith's house (forge)	
+K111	ወናፍ		machine		bellows	
+K112	የሸክላ መተኮሻ ምድጃ		machine		pottery kiln	
+K113	መጋዝ		machine		saw	
+K114	መሮ		machine		chisel	
+K115	ሚስማር		machine		nail	
+K116	ቢላዋ		machine		knife	
+K117	የስፌት መርፌ		machine		needle	
+K118	መጣፊያ ጨርቅ		machine		patching cloth	
+K119	ቡትቶ		machine		rag	
+K120	ኪስ		machine		pocket	
+K121	የተለፋ ቆዳ		machine		tanned leather	
+K122	ገመድ		machine		rope	
+K123	ሲባጎ		machine		twine, string	
+K123b	ክር		machine		thread	
+K124	ማሰሪያ		machine		strap, tie	
+K125	ቋጠሮ		machine		knot	
+K125b	ሸምቀቆ		machine		noose	
+K125c	ተንሸራታች ቋጠሮ		machine		slipknot	
+K126	ሰንሰለት		machine		chain	
+K127	የእንጨት እስር		machine		bundle of wood	
+K128	የእህል ክምር		machine		pile of grain	
+K129	የራስ ላይ መሸከሚያ ጉንጉን		machine		head-carrying pad	
+K130	ሸክም		machine		load, burden	
+K131	ምርኩዝ		machine		walking stick	
+K132	አርጩሜ		machine		switch, cane (for beating)	
+K133	የአደን ጉዞ		machine		hunting trip	
+K134	የአደን ቦታ		machine		hunting ground	
+K135	ቀስት		machine		bow	
+K136	ፍላጻ		machine		arrow	
+K136b	የፍላጻ መርዝ		machine		arrow poison	
+K137	የፍላጻ ጫፍ		machine		arrowhead	
+K138	የፍላጻ ማስቀመጫ		machine		quiver	
+K139	ጦር (የጦር መሣሪያ)		machine		spear	
+K140	የሚወረወር ዱላ		machine		throwing stick	
+K141	ቆመጥ		machine		club, cudgel	
+K142	የአደን መረብ		machine		hunting net	
+K143	ወጥመድ		machine		trap	
+K143b	ወፍ ማጥመጃ ሙጫ		machine		birdlime	
+K144	ለማጥመጃ የሚሆን ምግብ	እንስሳ ወይም ዓሣ ለመያዝ በወጥመድ ወይም በመንጠቆ ላይ የሚደረግ ምግብ።	machine		bait	
+K145	የእግር አሻራ		machine		footprint	
+K145b	የእንስሳ ዱካ		machine		animal track	
+K146	የዓሣ ማጥመጃ ጦር		machine		fishing spear	
+K146b	ባለ ገመድ የዓሣ ጦር		machine		harpoon	
+K147	የዓሣ መንጠቆ		machine		hook	
+K148	የመንጠቆ ገመድ		machine		fishing line	
+K149	የዓሣ መረብ		machine		fishing net	
+K150	የዓሣ ወጥመድ		machine		fish trap	
+K151	የዓሣ ማጥመጃ ግድብ		machine		fishing weir	
+K152	ጀልባ		machine		boat	
+K153	የአምባች ታንኳ, የአምባች መንሳፈፊያ	ቀላል እንጨት ካለው ተክል የሚሠራ ታንኳ።	machine		ambatch canoe	
+K154	መቅዘፊያ		machine		paddle, oar	
+K155	ሰይፍ		machine		sword	
+K156	ሰገባ		machine		sheath, scabbard	
+K157	ጠመንጃ		machine		gun, rifle	
+K158	ጋሻ		machine		shield	
+K159	ጅራፍ		machine		whip	
+K160	ጦርነት		machine		war	
+K160b	የከብት ዘረፋ		machine		cattle raiding	
+K161	ሰላም (የጦርነት ተቃራኒ)		machine		peace	
+K162	ሠራዊት		machine		army	
+K163	ንብረት		machine		property	
+K164	ገንዘብ		machine		money	
+K164b	ዛጎል		machine		cowrie shell	
+K164c	ዋጋ		machine		price	
+K165	ስጦታ		machine		gift	
+K166	ዕዳ		machine		debt	
+K167	ቀረጥ, ግብር		machine		tax	
+K168	ውርስ		machine		inheritance	
+K169	ልብስ		machine		clothing, clothes	
+K169b	ጨርቅ		machine		cloth, fabric	
+K169c	የልብስ ጠርዝ		machine		hem of a garment	
+K170	ቀሚስ		machine		dress	
+K171	ሸሚዝ		machine		shirt	
+K172	ሱሪ		machine		trousers	
+K173	ጀለቢያ		machine		jellabiya	
+K174	ለምድ		machine		leather cape (skin cloak)	
+K175	ወገብ መሸፈኛ ሽርጥ	ብልትንና ወገብን ብቻ የሚሸፍን አጭር ልብስ፤ የወጥ ቤት ሽርጥ አይደለም።	machine		apron	
+K175a	የወንድ ወገብ መሸፈኛ ሽርጥ		machine		men's apron	
+K175b	የሴት ወገብ መሸፈኛ ሽርጥ		machine		women's apron	
+K176	ቀበቶ		machine		belt	
+K177	የዛጎል ቀበቶ		machine		cowrie belt	
+K178	አንቀልባ		machine		baby sling (for carrying a child on the back)	
+K179	ባርኔጣ		machine		hat	
+K179b	ጥምጥም		machine		turban	
+K180	የፊት መሸፈኛ		machine		face covering, veil	
+K181	ጫማ		machine		shoe	
+K182	ዶቃ		machine		bead	
+K183	አምባር		machine		bracelet	
+K184	የአንገት ሐብል		machine		necklace	
+K185	አልቦ		machine		anklet	
+K186	ቀለበት		machine		ring	
+K187	ጉትቻ		machine		earring	
+K188	የከንፈር ሳህን		machine		lip plate	
+K189	የፊት ጌጥ ጠባሳ		machine		decorative facial scar (scarification)	
+K190	እንሶስላ		machine		henna	
+K191	ሳሙና		machine		soap	
+K192	ምላጭ		machine		razor	
+K193	ማበጠሪያ		machine		comb	
+K194	መፋቂያ		machine		tooth stick (chewing stick)	
+K195	የጥርስ መጎርጎሪያ		machine		toothpick	
+K196	ሙዚቃ		machine		music	
+K197	ዘፈን		machine		song	
+K198	ጭፈራ		machine		dance	
+K199	ከበሮ		machine		drum	
+K199b	የሚናገር ከበሮ		machine		talking drum	
+K199c	ወገበ ቀጭን ከበሮ		machine		hourglass drum	
+K200	ትልቅ ከበሮ		machine		big drum	
+K201	ትንሽ ከበሮ, አታሞ		machine		tambourine	
+K202	የመሬት ከበሮ	በመሬት ጉድጓድ ላይ የሚሠራ ከበሮ።	machine		ground drum	
+K203	ባለ ብዙ ቱቦ ዋሽንት		machine		panpipe	
+K204	እምቢልታ		machine		embilta (end-blown pipe)	
+K205	ቀንደ መለከት		machine		horn trumpet	
+K205b	የዛጎል መለከት		machine		conch trumpet	
+K206	የጦር መለከት		machine		war trumpet	
+K207	ክራር		machine		krar (lyre)	
+K208	ማሲንቆ		machine		masinko (one-string fiddle)	
+K209	ባላፎን	ከእንጨት ዘንጎችና ከቅል የሚሠራ የሙዚቃ መሣሪያ።	machine		balafon	
+K210	የሚቅጨለጨል የሙዚቃ መሣሪያ	ሲነቀነቅ የሚቅጨለጨል መሣሪያ፤ ቃጭል ወይም ጸናጽል አይደለም።	machine		rattle	
+K211	የሚጋጩ ሁለት ዱላዎች		machine		clapper sticks	
+K212	ፊሽካ		machine		whistle	
+K213	ጭምብል		machine		mask	
+K214	የትምባሆ ፒፓ		machine		pipe (tobacco)	
+K215	የትምባሆ ፒፓ ዘንግ		machine		pipe stem	
+K216	ጋያ		machine		water pipe (hookah)	
+K216a	የጋያ ውስጥ ቱቦ		machine		inner tube of the water pipe	
+K216b	የጋያ ራስ	ትምባሆው የሚቀመጥበት።	machine		bowl (head) of the water pipe	
+K216c	የጋያ መሳቢያ ቱቦ		machine		drawing tube of the water pipe	
+K217	በዱላ የሚገፋ የጨዋታ ቀለበት	በዱላ እየተገፋ የሚንከባለል።	machine		rolling-ring toy	
+K218	ኳስ		machine		ball	
+K219	ገበጣ		machine		gebeta (mancala board game)	

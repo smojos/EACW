@@ -953,3 +953,462 @@ I082	dot versée à la famille de la mariée, compensation matrimoniale	En Afriq
 I083	loi		machine		law	
 I084	coutume, tradition		machine		custom, tradition	
 I085	jugement coutumier, palabre	« Palabre » au sens africain : assemblée qui règle un différend.	machine		customary trial, palaver (traditional dispute hearing)	
+J001	arbre		machine		tree	
+J001b	bois		machine		wood	
+J002	tronc (d'arbre)		machine		trunk (of a tree)	
+J002b	bûche, rondin		machine		log	
+J003	branche (d'arbre)		machine		branch (of a tree)	
+J004	brindille		machine		twig	
+J005	écorce (d'arbre)		machine		bark (of a tree)	
+J006	souche		machine		stump	
+J007	écharde		machine		splinter	
+J008	racine		machine		root	
+J009	nœud (dans le bois)		machine		knot (in wood)	
+J010	sève		machine		sap	
+J010b	caoutchouc, latex		machine		rubber, latex	
+J011	feuille		machine		leaf	
+J012	bourgeon, bouton floral		machine		bud	
+J013	pousse		machine		shoot, sprout	
+J014	fleur		machine		flower	
+J015	épine		machine		thorn	
+J016	fruit		machine		fruit	
+J017	graine		machine		seed	
+J018	noyau (de fruit)		machine		stone, pit (of fruit)	
+J019	peau (de fruit)		machine		skin, peel (of fruit)	
+J020	jus		machine		juice	
+J021	arbuste, buisson		machine		shrub, bush	
+J022	neem, margousier		machine		neem tree	
+J022a	arbre de neem		machine		neem tree	
+J023	ébène, ébénier		machine		ebony, ebony tree	
+J023a	ébénier		machine		ebony tree	
+J023b	fruit de l'ébénier		machine		fruit of the ebony tree	
+J024	acajou d'Afrique, caïlcédrat	« Acajou » seul peut désigner l'anacardier (pomme de cajou) en Afrique de l'Ouest.	machine		mahogany, African mahogany (Khaya)	
+J024a	caïlcédrat, acajou d'Afrique (arbre)		machine		African mahogany (Khaya senegalensis)	
+J025	teck		machine		teak	
+J025a	arbre de teck		machine		teak tree	
+J026	kapok, fromager		machine		kapok, silk-cotton tree	
+J026a	fromager, kapokier		machine		silk-cotton tree, kapok tree	
+J026b	gousse de kapok		machine		kapok pod	
+J027	kigelia		machine		kigelia (sausage tree)	
+J027a	arbre à saucisses		machine		sausage tree	
+J027b	fruit de l'arbre à saucisses		machine		fruit of the sausage tree	
+J028	acacia, arbre épineux		machine		acacia, thorn tree	
+J029	faidherbia, kad	Faidherbia albida, autrefois Acacia albida ; kad (Sénégal), balanzan (Mali), gao (Niger).	machine		faidherbia (Faidherbia albida), winter thorn	
+J029a	arbre de kad, Acacia albida		machine		white acacia, kad tree	
+J029b	gousse de kad, gousse d'Acacia albida		machine		white acacia pod	
+J030	mopane		machine		mopane	
+J030a	arbre mopane		machine		mopane tree	
+J031	euphorbe candélabre		machine		candelabra euphorbia	
+J031a	euphorbe arborescente, arbre candélabre		machine		tree euphorbia, candelabra tree	
+J032	gardénia		machine		gardenia	
+J032a	arbuste gardénia, gardénia des savanes		machine		gardenia shrub, savanna gardenia	
+J032b	fruit du gardénia		machine		gardenia fruit	
+J033	palmier en éventail	Rônier (Borassus) ou palmier doum (Hyphaene) : le terme de la langue pour l'un ou l'autre.	machine		fan palm	
+J033a	palmier en éventail (rônier ou palmier doum)		machine		Borassus palm (palmyra), doum palm	
+J033b	fruit du palmier en éventail (rônier ou doum)		machine		Borassus palm fruit, doum nut	
+J034	palmier à huile		machine		oil palm	
+J034a	palmier à huile (arbre)		machine		oil palm (tree)	
+J034b	noix de palme		machine		palm nut	
+J035	kola, cola		machine		kola, cola	
+J035a	kolatier, colatier		machine		kola tree	
+J035b	noix de kola, noix de cola		machine		kola nut	
+J036	palme, feuille de palmier		machine		palm frond, palm leaf	
+J037	nervure centrale de la palme, rachis		machine		midrib of the palm frond, rachis	
+J038	foliole de palme		machine		palm leaflet	
+J039	raphia		machine		raffia	
+J039a	palmier raphia		machine		raffia palm	
+J040	coco, cocotier		machine		coconut, coconut palm	
+J040a	cocotier		machine		coconut palm	
+J040b	noix de coco		machine		coconut	
+J041	datte, dattier		machine		date, date palm	
+J041a	dattier		machine		date palm	
+J041b	datte		machine		date (fruit)	
+J042	figue, figuier		machine		fig, fig tree	
+J042a	figuier		machine		fig tree	
+J042b	figue		machine		fig	
+J043	olive, olivier		machine		olive, olive tree	
+J043a	olivier		machine		olive tree	
+J043b	olive		machine		olive	
+J044	tamarin, tamarinier		machine		tamarind, tamarind tree	
+J044a	tamarinier		machine		tamarind tree	
+J044b	tamarin		machine		tamarind (fruit)	
+J045	baobab		machine		baobab	
+J045a	baobab (arbre)		machine		baobab (tree)	
+J045b	pain de singe, fruit du baobab		machine		monkey bread, baobab fruit	
+J046	marula		machine		marula	
+J046a	marulier, arbre à marula		machine		marula tree	
+J046b	fruit du marula		machine		marula fruit	
+J047	karité		machine		shea	
+J047a	karité (arbre), arbre à karité		machine		shea tree	
+J047b	noix de karité		machine		shea nut	
+J047c	beurre de karité		machine		shea butter	
+J048	citron jaune, citronnier	En Afrique de l'Ouest, « citron » seul désigne souvent la lime (citron vert).	machine		lemon, lemon tree	
+J048a	citronnier	Le citronnier à citrons jaunes, pas le limettier.	machine		lemon tree	
+J048b	citron jaune	En Afrique de l'Ouest, « citron » seul désigne souvent la lime (citron vert).	machine		lemon	
+J049	orange, oranger		machine		orange, orange tree	
+J049a	oranger		machine		orange tree	
+J049b	orange		machine		orange	
+J050	pamplemousse, pamplemoussier	Au sens courant (Citrus × paradisi), pas le pamplemousse des botanistes (Citrus maxima).	machine		grapefruit, grapefruit tree	
+J050a	pamplemoussier	Au sens courant (Citrus × paradisi), pas le pamplemousse des botanistes (Citrus maxima).	machine		grapefruit tree	
+J050b	pamplemousse	Au sens courant (Citrus × paradisi), pas le pamplemousse des botanistes (Citrus maxima).	machine		grapefruit	
+J051	mangue, manguier		machine		mango, mango tree	
+J051a	manguier		machine		mango tree	
+J051b	mangue		machine		mango	
+J052	goyave, goyavier		machine		guava, guava tree	
+J052a	goyavier		machine		guava tree	
+J052b	goyave		machine		guava	
+J053	papaye, papayer		machine		papaya, papaya tree	
+J053a	papayer		machine		papaya tree	
+J053b	papaye		machine		papaya	
+J054	avocat (fruit), avocatier		machine		avocado, avocado tree	
+J054a	avocatier		machine		avocado tree	
+J054b	avocat (fruit)		machine		avocado	
+J055	banane douce, bananier		machine		sweet banana, banana plant	
+J055a	bananier		machine		banana plant	
+J055b	banane douce		machine		sweet banana	
+J056	régime de bananes		machine		bunch of bananas	
+J057	banane naine, bananier nain		machine		dwarf banana, dwarf banana plant	
+J057a	bananier nain		machine		dwarf banana plant	
+J057b	banane naine, petite banane		machine		dwarf banana, small banana	
+J058	banane plantain, bananier plantain		machine		plantain, plantain plant	
+J058a	bananier plantain		machine		plantain plant	
+J058b	banane plantain, banane à cuire		machine		plantain, cooking banana	
+J059	ensète, faux bananier		machine		ensete, false banana	
+J060	ananas		machine		pineapple	
+J060a	plant d'ananas		machine		pineapple plant	
+J060b	ananas (fruit)		machine		pineapple (fruit)	
+J061	courge, citrouille		machine		squash, pumpkin	
+J062	pastèque		machine		watermelon	
+J063	liane		machine		vine, liana	
+J064	vrille		machine		tendril	
+J065	sorgho, gros mil		machine		sorghum, great millet	
+J066	sorgho rouge		machine		red sorghum	
+J067	sorgho blanc		machine		white sorghum	
+J068	mil, millet	Tout mil à petits grains : petit mil (mil à chandelle), éleusine, etc. ; pas le sorgho (« gros mil »).	machine		millet, pearl millet	
+J069	fonio		machine		fonio	
+J070	teff, tef		machine		teff	
+J071	blé		machine		wheat	
+J072	orge		machine		barley	
+J073	maïs		machine		maize, corn	
+J073b	tige de maïs		machine		maize stalk, corn stalk	
+J073c	épi de maïs		machine		ear of maize, corncob	
+J073d	grain de maïs		machine		grain of maize, corn kernel	
+J073e	spathe de maïs, enveloppe de l'épi		machine		maize husk, sheath of the ear	
+J073g	soies de maïs, barbe de maïs		machine		corn silk	
+J073h	panicule mâle du maïs, fleur mâle au sommet du maïs		machine		male panicle of maize, maize tassel	
+J074	balle du grain, menue paille		machine		chaff, husk (of grain)	
+J075	riz		machine		rice	
+J076	canne à sucre		machine		sugar cane	
+J077	graine de sésame, sésame		machine		sesame seed, sesame	
+J078	coton		machine		cotton	
+J079	haricot		machine		bean	
+J080	arachide, cacahuète		machine		peanut, groundnut	
+J081	coque d'arachide		machine		peanut shell	
+J082	tubercule		machine		tuber	
+J083	pomme de terre		machine		potato	
+J084	manioc		machine		cassava, manioc	
+J085	igname		machine		yam	
+J086	taro ou macabo	Taro (Colocasia) ou macabo (Xanthosoma), les deux « choux caraïbes » comestibles.	machine		taro, cocoyam (macabo)	
+J087	patate douce		machine		sweet potato	
+J088	oignon		machine		onion	
+J089	ail		machine		garlic	
+J090	tomate		machine		tomato	
+J091	carotte		machine		carrot	
+J092	gombo		machine		okra	
+J093	aubergine		machine		eggplant, aubergine	
+J094	poivron		machine		sweet pepper, bell pepper	
+J095	piment		machine		chili pepper	
+J096	champignon		machine		mushroom	
+J097	gingembre		machine		ginger	
+J098	cannelle		machine		cinnamon	
+J099	coriandre		machine		coriander	
+J100	tabac		machine		tobacco	
+J101	cannabis, chanvre		machine		cannabis, hemp	
+J102	café, caféier		machine		coffee, coffee plant	
+J103	thé, théier		machine		tea, tea plant	
+J104	herbe		machine		grass	
+J105	brin d'herbe		machine		blade of grass	
+J106	mauvaise herbe		machine		weed	
+J107	roseau		machine		reed	
+J108	papyrus		machine		papyrus	
+J109	nénuphar		machine		water lily	
+J110	bambou de plaine	Bambou des basses terres (Oxytenanthera abyssinica).	machine		lowland bamboo	
+J111	bambou de montagne	Bambou des hautes terres (Oldeania alpina).	machine		highland bamboo	
+J112	nourriture		machine		food	
+J113	huile		machine		oil	
+J114	pain traditionnel, galette locale	Pain ou galette de base de la région, p. ex. l'injera.	machine		traditional bread, local flatbread	
+J115	provisions de voyage		machine		provisions for a journey	
+J116	croûte		machine		crust	
+J117	farine		machine		flour	
+J118	sel		machine		salt	
+J119	soupe		machine		soup	
+J120	bouillie		machine		porridge	
+J121	couscous		machine		couscous	
+J122	petit-déjeuner		machine		breakfast	
+J123	repas du soir	« Dîner » en France ; « souper » en Belgique, en Suisse et au Canada, où « dîner » est le repas de midi.	machine		evening meal, dinner	
+J124	restes		machine		leftovers	
+J125	moisissure		machine		mould	
+J126	levure, levain		machine		yeast, leaven	
+J127	pâte fermentée pour la bière, moût		machine		fermented mash for beer, wort	
+J128	bière de céréales, bière de mil		machine		millet beer, traditional beer	
+J129	eau-de-vie de grain, alcool distillé		machine		grain spirit, distilled liquor	
+J130	hydromel, vin de miel		machine		mead, honey wine	
+J131	vin de palme		machine		palm wine	
+K001	chose		machine		thing	
+K002	maison		machine		house	
+K002b	case, hutte		machine		hut	
+K002c	pièce (d'une maison)		machine		room (of a house)	
+K002d	chambre (à coucher)		machine		bedroom	
+K002e	cuisine		machine		kitchen	
+K003	concession, enclos familial		machine		family compound, enclosure	
+K003b	cour		machine		courtyard, yard	
+K003c	case d'entrée, vestibule		machine		entrance hut, vestibule	
+K004	mur		machine		wall	
+K005	brique de terre crue, banco		machine		mud brick, adobe (banco)	
+K006	crépi, enduit		machine		plaster, render	
+K007	badigeon de chaux, lait de chaux		machine		whitewash	
+K007b	peinture		machine		paint	
+K008	sol, plancher		machine		floor	
+K009	plafond		machine		ceiling	
+K010	toit		machine		roof	
+K011	chapeau de toit, coiffe du toit conique		machine		roof cap, cap of a conical roof	
+K012	chaume		machine		thatch	
+K013	chevron		machine		rafter	
+K014	traverse liant les chevrons, cerceau de toit		machine		roof crosspiece, roof hoop	
+K015	poteau fourchu		machine		forked post	
+K016	poutre transversale, traverse		machine		crossbeam	
+K017	planche		machine		plank, board	
+K018	porte		machine		door	
+K019	embrasure de porte, entrée		machine		doorway, entrance	
+K020	fenêtre		machine		window	
+K021	échelle		machine		ladder	
+K022	appentis, abri		machine		lean-to, shelter	
+K023	tente		machine		tent	
+K024	plateforme surélevée, claie		machine		raised platform, slatted rack	
+K025	séchoir, claie de séchage		machine		drying rack	
+K026	grenier		machine		granary	
+K027	enclos à bétail, parc à bétail		machine		cattle enclosure, cattle pen	
+K028	camp de bétail, campement de bouviers		machine		cattle camp, herders' camp	
+K029	clôture		machine		fence	
+K030	clôture à claire-voie		machine		openwork fence, lattice fence	
+K031	piquet, pieu		machine		stake, post	
+K032	puits		machine		well	
+K033	lieu pour se laver, douche		machine		washing place, shower	
+K034	toilettes, latrines		machine		toilet, latrine	
+K035	dépotoir		machine		rubbish dump	
+K036	ordures		machine		rubbish, garbage	
+K037	jardin		machine		garden	
+K038	champ		machine		field	
+K038b	limite de champ, borne		machine		field boundary, boundary marker	
+K039	village		machine		village	
+K039b	ville, bourg	Agglomération plus petite qu'une grande ville (K039c).	machine		town, small town	
+K039c	grande ville		machine		city	
+K040	camp, campement		machine		camp, encampment	
+K041	marché		machine		market	
+K042	territoire, pays		machine		territory, country	
+K042b	frontière		machine		border, frontier	
+K043	chemin, sentier		machine		path, track	
+K044	bifurcation, embranchement		machine		fork (in a road), branching	
+K045	carrefour		machine		crossroads, intersection	
+K046	pont		machine		bridge	
+K047	voyage		machine		journey, trip	
+K048	voiture		machine		car	
+K049	lit		machine		bed	
+K050	natte		machine		mat	
+K051	oreiller		machine		pillow	
+K052	moustiquaire		machine		mosquito net	
+K053	tabouret		machine		stool	
+K053b	chaise		machine		chair	
+K054	vannerie		machine		basketry, basketwork	
+K055	lampe		machine		lamp	
+K056	bougie		machine		candle	
+K057	éventail		machine		fan (hand-held)	
+K058	cloche, clochette		machine		bell, small bell	
+K059	balai		machine		broom	
+K060	chiffon à poussière ou plumeau		machine		dust cloth, feather duster	
+K061	foyer		machine		hearth, fireplace	
+K062	bois de chauffe		machine		firewood	
+K063	tison		machine		firebrand, ember	
+K064	bâtons à feu, bois à friction		machine		fire sticks, fire drill (friction wood)	
+K065	tisonnier		machine		poker	
+K066	charbon de bois		machine		charcoal	
+K067	poterie		machine		pottery	
+K068	jarre à eau, canari	« Canari » : grande jarre en terre cuite pour l'eau (Afrique de l'Ouest).	machine		water jar, water pot (canari)	
+K069	marmite en terre		machine		clay cooking pot	
+K070	marmite en métal		machine		metal cooking pot	
+K071	bouilloire		machine		kettle	
+K072	cafetière en terre cuite		machine		clay coffee pot	
+K073	cruche, pichet		machine		jug, pitcher	
+K074	bouteille		machine		bottle	
+K075	bouchon de bouteille		machine		stopper, cork	
+K076	calebasse, gourde		machine		calabash, gourd	
+K076a	bol		machine		bowl	
+K076b	bol pour le pain		machine		bread bowl	
+K076c	bol pour la sauce		machine		sauce bowl	
+K077	anneau de calage pour pot à fond rond		machine		pot-stand ring, head/pot support ring	
+K078	assiette		machine		plate	
+K079	plat		machine		dish	
+K080	tasse, gobelet		machine		cup, beaker	
+K081	tesson de poterie		machine		potsherd	
+K082	cuillère		machine		spoon	
+K083	louche		machine		ladle	
+K084	filtre à bière, passoire à bière		machine		beer strainer, beer sieve	
+K085	manche d'outil, poignée	Manche (outil), poignée (porte, couteau), anse (pot, panier) : le terme de la langue pour une poignée en général.	machine		handle	
+K086	panier tressé, corbeille		machine		woven basket, basket	
+K087	seau		machine		bucket	
+K088	boîte, caisse		machine		box, crate	
+K089	sac en peau		machine		skin bag, leather bag	
+K089b	outre		machine		waterskin, skin container	
+K090	sac en plastique tissé, sac en nylon		machine		woven plastic bag, nylon sack	
+K091	pierre de foyer		machine		hearthstone	
+K092	meule		machine		grindstone, millstone	
+K092a	molette, meule supérieure		machine		upper grinding stone, handstone (muller)	
+K092b	meule dormante, meule inférieure		machine		lower grinding stone (quern base)	
+K093	mortier		machine		mortar	
+K094	pilon		machine		pestle	
+K095	spatule à remuer, mouvette		machine		stirring stick, stirring spatula	
+K096	corbeille à vanner, van		machine		winnowing basket, winnowing tray	
+K097	fourche à battre		machine		threshing fork, winnowing fork	
+K098	aire de battage		machine		threshing floor	
+K099	bâton à fouir		machine		digging stick	
+K100	petite houe, daba		machine		small hoe (daba)	
+K101	grande houe		machine		large hoe	
+K102	charrue		machine		plough	
+K103	joug		machine		yoke	
+K104	faucille		machine		sickle	
+K105	machette, coupe-coupe		machine		machete, cutlass	
+K106	hache		machine		axe	
+K107	pioche		machine		pickaxe, pick	
+K108	marteau		machine		hammer	
+K109	enclume		machine		anvil	
+K110	forge		machine		forge	
+K111	soufflet		machine		bellows	
+K112	four de potier		machine		potter's kiln	
+K113	scie		machine		saw	
+K114	ciseau (outil à tailler le bois ou le métal)		machine		chisel (wood chisel), cold chisel	
+K115	clou, pointe		machine		nail	
+K116	couteau		machine		knife	
+K117	aiguille		machine		needle	
+K118	pièce (de tissu)		machine		piece (of cloth), patch	
+K119	chiffon, haillon		machine		rag, tatter	
+K120	poche		machine		pocket	
+K121	cuir		machine		leather	
+K122	corde		machine		rope	
+K123	ficelle		machine		string, twine	
+K123b	fil (à coudre)		machine		thread (for sewing)	
+K124	courroie, sangle		machine		strap, belt	
+K125	nœud		machine		knot	
+K125b	nœud coulant, lacet		machine		noose, snare	
+K125c	nœud glissant, nœud à boucle		machine		slipknot, loop knot	
+K126	chaîne		machine		chain	
+K127	fagot (de bois)		machine		bundle (of wood), faggot	
+K128	tas (de grain)		machine		pile, heap (of grain)	
+K129	tortillon, coussinet de portage		machine		head pad, carrying pad	
+K130	charge, fardeau		machine		load, burden	
+K131	canne, bâton de marche		machine		walking stick, cane	
+K132	badine, baguette		machine		switch, thin stick	
+K133	partie de chasse		machine		hunting party	
+K134	terrain de chasse		machine		hunting ground	
+K135	arc		machine		bow	
+K136	flèche		machine		arrow	
+K136b	poison de flèche		machine		arrow poison	
+K137	pointe de flèche		machine		arrowhead	
+K138	carquois		machine		quiver	
+K139	lance, sagaie		machine		spear, assegai	
+K140	bâton de jet		machine		throwing stick	
+K141	massue, gourdin		machine		club, cudgel	
+K142	filet de chasse		machine		hunting net	
+K143	piège		machine		trap	
+K143b	glu		machine		birdlime	
+K144	appât		machine		bait	
+K145	empreinte de pied		machine		footprint	
+K145b	trace d'animal, piste		machine		animal track, trail	
+K146	foène, lance de pêche		machine		fish spear, fishing spear	
+K146b	harpon		machine		harpoon	
+K147	hameçon		machine		fishhook	
+K148	ligne de pêche		machine		fishing line	
+K149	filet de pêche		machine		fishing net, cast net	
+K150	nasse, piège à poissons		machine		fish trap, creel	
+K151	barrage à poissons		machine		fish weir, fish dam	
+K152	pirogue, bateau		machine		dugout canoe, boat	
+K153	radeau en ambatch		machine		ambatch raft	
+K154	pagaie		machine		paddle	
+K155	épée, sabre		machine		sword, sabre	
+K156	fourreau, gaine		machine		sheath, scabbard	
+K157	fusil		machine		gun, rifle	
+K158	bouclier		machine		shield	
+K159	fouet		machine		whip, switch (chicotte)	
+K160	guerre		machine		war	
+K160b	razzia de bétail, vol de bétail		machine		cattle raid, cattle theft	
+K161	paix		machine		peace	
+K162	armée		machine		army	
+K163	biens, possessions		machine		goods, possessions	
+K164	argent		machine		money	
+K164b	cauri		machine		cowrie	
+K164c	prix		machine		price	
+K165	cadeau, don		machine		gift, present	
+K166	dette		machine		debt	
+K167	impôt, taxe		machine		tax	
+K168	héritage		machine		inheritance	
+K169	vêtement		machine		garment, item of clothing	
+K169b	tissu, étoffe		machine		cloth, fabric	
+K169c	ourlet		machine		hem	
+K170	robe		machine		dress	
+K171	chemise		machine		shirt	
+K172	pantalon		machine		trousers	
+K173	boubou, gandoura		machine		boubou, gandoura (long loose robe)	
+K174	manteau de peau, kaross		machine		skin cloak, kaross	
+K175	pagne court couvrant les reins, cache-sexe	Pas le pagne en tissu (longue pièce de tissu portée comme jupe).	machine		loincloth, wrapper	
+K175a	cache-sexe d'homme, pagne court d'homme		machine		man's loincloth	
+K175b	cache-sexe de femme, pagne court de femme	Pas le pagne en tissu (longue pièce de tissu portée comme jupe).	machine		woman's genital cover, woman's wrapper	
+K176	ceinture		machine		belt	
+K177	ceinture de cauris		machine		cowrie belt	
+K178	écharpe de portage, porte-bébé		machine		carrying sling, baby carrier	
+K179	chapeau		machine		hat	
+K179b	turban		machine		turban	
+K180	voile (du visage)		machine		veil (face)	
+K181	chaussure		machine		shoe	
+K182	perle		machine		bead	
+K183	bracelet		machine		bracelet	
+K184	collier		machine		necklace	
+K185	anneau de cheville, bracelet de cheville		machine		anklet, ankle ring	
+K186	bague		machine		ring (finger)	
+K187	boucle d'oreille		machine		earring	
+K188	plateau labial, labret		machine		lip plate, labret	
+K189	scarification faciale		machine		facial scarification	
+K190	henné		machine		henna	
+K191	savon		machine		soap	
+K192	rasoir		machine		razor	
+K193	peigne		machine		comb	
+K194	frotte-dents, brosse à dents		machine		chewing stick, toothbrush	
+K195	cure-dent		machine		toothpick	
+K196	musique		machine		music	
+K197	chant, chanson		machine		song, singing	
+K198	danse		machine		dance	
+K199	tambour		machine		drum	
+K199b	tambour parlant		machine		talking drum	
+K199c	tambour en sablier		machine		hourglass drum	
+K200	grand tambour		machine		big drum	
+K201	petit tambour		machine		small drum	
+K202	tambour sur fosse, tambour de terre		machine		pit drum, ground drum	
+K203	flûte de Pan		machine		panpipes	
+K204	flûte à une note		machine		single-note flute	
+K205	corne (instrument de musique), trompe		machine		horn (musical instrument), trumpet	
+K205b	conque, trompe en coquillage		machine		conch, shell trumpet	
+K206	corne de guerre, trompe de guerre		machine		war horn, war trumpet	
+K207	lyre		machine		lyre	
+K208	vièle, violon		machine		fiddle, violin	
+K209	balafon, xylophone		machine		balafon, xylophone	
+K210	hochet (instrument de musique), maracas		machine		rattle (musical instrument), maracas	
+K211	claves		machine		claves (rhythm sticks)	
+K212	sifflet		machine		whistle	
+K213	masque		machine		mask	
+K214	pipe (à tabac)		machine		pipe (tobacco)	
+K215	tuyau de pipe		machine		pipe stem	
+K216	pipe à eau, narguilé		machine		water pipe, hookah (narghile)	
+K216a	tube plongeant dans l'eau (pipe à eau)		machine		dip tube (downstem)	
+K216b	fourneau (de la pipe à eau)		machine		bowl (of the water pipe)	
+K216c	tuyau d'aspiration		machine		suction tube, mouthpiece pipe	
+K217	cerceau		machine		hoop	
+K218	ballon, balle de jeu	Ballon : grosse balle gonflée ; balle : petite balle pleine.	machine		ball	
+K219	awalé, mancala		machine		awale, mancala (board game)	

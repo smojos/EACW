@@ -953,3 +953,462 @@ I082	ما يدفعه العريس لأهل العروس (المهر العرفي
 I083	قانون		machine		law	
 I084	عادة, عرف		machine		custom, tradition	
 I085	محكمة عرفية, جلسة قضاء عرفي		machine		customary court, traditional court session	
+J001	شجرة		machine		tree	
+J001b	خشب		machine		wood	
+J002	جذع الشجرة		machine		tree trunk	
+J002b	جذع شجرة مقطوع		machine		cut log; block of wood	
+J003	غصن، فرع		machine		branch, bough	
+J004	غُصَين، عود شجر رفيع		machine		twig, thin stick	
+J005	لِحاء الشجرة		machine		tree bark	
+J006	جِذْل الشجرة، بقية الجذع المقطوع		machine		tree stump, remnant of a felled trunk	
+J007	شظية خشب		machine		wood splinter	
+J008	جذر		machine		root	
+J009	عقدة في الخشب		machine		knot in wood	
+J010	نُسْغ، عصارة النبات		machine		sap, plant juice	
+J010b	مطاط، عصارة الشجر اللبنية		machine		rubber; latex ('tree milk')	
+J011	ورقة شجر		machine		leaf (of a tree)	
+J012	بُرعم		machine		bud	
+J013	نبتة جديدة، خِلْفة		machine		new plant, sprout; regrowth shoot	
+J014	زهرة		machine		flower	
+J015	شوكة		machine		thorn	
+J016	ثمرة، فاكهة		machine		fruit	
+J017	بذرة		machine		seed	
+J018	نواة الثمرة		machine		stone, pit (of a fruit)	
+J019	قشرة الثمرة		machine		fruit peel, rind, skin	
+J020	عصير		machine		juice	
+J021	شُجَيرة		machine		shrub, bush	
+J022	نيم		machine		neem	
+J022a	شجرة النيم		machine		neem tree	
+J023	أبنوس		machine		ebony	
+J023a	شجرة الأبنوس		machine		ebony tree	
+J023b	ثمرة الأبنوس		machine		ebony fruit	
+J024	ماهوجني، مَهوقني		machine		mahogany	
+J024a	شجرة الماهوجني		machine		mahogany tree	
+J025	ساج		machine		teak	
+J025a	شجرة الساج		machine		teak tree	
+J026	كابوك، قطن الشجر الحريري		machine		kapok, silk cotton	
+J026a	شجرة الكابوك		machine		kapok tree	
+J026b	قرن الكابوك، ثمرة الكابوك		machine		kapok pod, kapok fruit	
+J027	كيجيليا، شجرة السجق		machine		kigelia, sausage tree	
+J027a	شجرة السجق		machine		sausage tree	
+J027b	ثمرة شجرة السجق		machine		sausage-tree fruit	
+J028	شجرة شوكية، أكاسيا		machine		thorn tree, acacia	
+J029	سَنْط أبيض، حَراز	الحَراز هو الاسم السوداني والتشادي لهذه الشجرة (Faidherbia albida، وكانت تُسمّى Acacia albida).	machine		haraz (Faidherbia albida, winter thorn)	
+J029a	شجرة السَّنْط الأبيض، شجرة الحَراز		machine		haraz tree	
+J029b	قَرْنة السَّنْط الأبيض، قَرْنة الحَراز		machine		haraz pod, haraz fruit	
+J030	شجر الفراشة الإفريقي، موباني	شجرة بقولية من جنوب القارة الإفريقية، أوراقها على شكل جناحي فراشة (Colophospermum mopane)؛ لا اسم عربيًّا لها.	machine		mobani (transliterated tree name)	
+J030a	شجرة الفراشة الإفريقية، شجرة الموباني		machine		mobani tree	
+J031	يَتُوع شجري، فربيون شمعداني		machine		tree spurge; candelabra euphorbia	
+J031a	شجرة اليتوع الشمعدانية		machine		candelabra spurge tree	
+J032	غاردينيا		machine		gardenia	
+J032a	شجرة الغاردينيا		machine		gardenia tree	
+J032b	ثمرة الغاردينيا		machine		gardenia fruit	
+J033	نخيل مروحي (دُلَيب أو دوم)	يشمل نوعين: الدُّلَيب (Borassus aethiopum) والدوم (Hyphaene).	machine		deleb palm; doum palm	
+J033a	نخلة مروحية (دُلَيب أو دوم)		machine		deleb palm, doum palm	
+J033b	ثمرة النخلة المروحية (دُلَيب أو دوم)		machine		deleb fruit, doum fruit	
+J034	نخيل الزيت		machine		oil palms (collective)	
+J034a	نخلة الزيت		machine		oil palm	
+J034b	ثمرة نخيل الزيت، جوز النخيل		machine		oil-palm fruit, palm nut	
+J035	كولا (النبات)		machine		cola, kola	
+J035a	شجرة الكولا		machine		kola tree	
+J035b	جوزة الكولا		machine		kola nut	
+J036	سَعَفة		machine		palm frond	
+J037	جريدة النخل، عِرْق السعفة		machine		palm-frond midrib	
+J038	خُوصة		machine		palm leaflet (strip of palm leaf)	
+J039	رافية		machine		raffia	
+J039a	نخلة الرافية		machine		raffia palm	
+J040	جوز الهند		machine		coconut	
+J040a	نخلة جوز الهند		machine		coconut palm	
+J040b	ثمرة جوز الهند		machine		coconut (the fruit)	
+J041	تمر		machine		dates	
+J041a	نخلة التمر		machine		date palm	
+J041b	ثمرة التمر، تمرة		machine		date (fruit), a date	
+J042	تين		machine		figs	
+J042a	شجرة التين		machine		fig tree	
+J042b	ثمرة التين		machine		fig (fruit)	
+J043	زيتون		machine		olives	
+J043a	شجرة الزيتون		machine		olive tree	
+J043b	ثمرة الزيتون		machine		olive (fruit)	
+J044	تمر هندي		machine		tamarind	
+J044a	شجرة التمر الهندي		machine		tamarind tree	
+J044b	ثمرة التمر الهندي		machine		tamarind fruit/pod	
+J045	باوباب، تبلدي		machine		baobab	
+J045a	شجرة الباوباب، شجرة التبلدي		machine		baobab tree	
+J045b	ثمرة الباوباب، ثمرة التبلدي	تُسمّى في السودان «القنقليس».	machine		baobab fruit; gongoleez	
+J046	مارولا		machine		marula	
+J046a	شجرة المارولا		machine		marula tree	
+J046b	ثمرة المارولا		machine		marula fruit	
+J047	شيا الإفريقية، كاريتيه	شجرة الكاريتيه الإفريقية (Vitellaria)، لا بذور الشيا (chia).	machine		shea	
+J047a	شجرة الشيا الإفريقية، شجرة الكاريتيه		machine		shea tree	
+J047b	جوزة الشيا		machine		shea nut	
+J047c	زبدة الشيا		machine		shea butter	
+J048	ليمون أصفر	في مصر والسودان قد يعني «ليمون» وحده الليمون الأخضر الصغير (lime).	machine		lemons	
+J048a	شجرة الليمون الأصفر		machine		lemon tree	
+J048b	ثمرة الليمون الأصفر، ليمونة صفراء		machine		lemon (fruit), a lemon	
+J049	برتقال		machine		oranges	
+J049a	شجرة البرتقال		machine		orange tree	
+J049b	ثمرة البرتقال، برتقالة		machine		orange (fruit), an orange	
+J050	جريب فروت		machine		grapefruit	
+J050a	شجرة الجريب فروت		machine		grapefruit tree	
+J050b	ثمرة الجريب فروت		machine		grapefruit (fruit)	
+J051	مانجو		machine		mango	
+J051a	شجرة المانجو		machine		mango tree	
+J051b	ثمرة المانجو		machine		mango (fruit)	
+J052	جوافة		machine		guava	
+J052a	شجرة الجوافة		machine		guava tree	
+J052b	ثمرة الجوافة		machine		guava (fruit)	
+J053	بابايا		machine		papaya	
+J053a	شجرة البابايا		machine		papaya tree	
+J053b	ثمرة البابايا		machine		papaya (fruit)	
+J054	أفوكادو		machine		avocado	
+J054a	شجرة الأفوكادو		machine		avocado tree	
+J054b	ثمرة الأفوكادو		machine		avocado (fruit)	
+J055	موز		machine		bananas	
+J055a	نبتة الموز		machine		banana plant	
+J055b	ثمرة الموز، موزة		machine		banana (fruit), a banana	
+J056	سُباطة موز، عنقود موز		machine		bunch of bananas, banana cluster	
+J057	موز قزم		machine		dwarf bananas	
+J057a	نبتة الموز القزم		machine		dwarf banana plant	
+J057b	ثمرة الموز القزم		machine		dwarf banana fruit	
+J058	موز الطهي		machine		cooking bananas, plantains	
+J058a	نبتة موز الطهي		machine		cooking banana plant	
+J058b	ثمرة موز الطهي		machine		cooking banana fruit	
+J059	إنسيت، الموز الكاذب		machine		enset, false banana	
+J060	أناناس		machine		pineapple	
+J060a	نبتة الأناناس		machine		pineapple plant	
+J060b	ثمرة الأناناس		machine		pineapple (fruit)	
+J061	يقطين، قرع عسلي	«قرع» وحده قد يعني القرعة المجففة أو الكوسة في مصر.	machine		gourd, squash; pumpkin	
+J062	بطيخ أحمر، بطيخ		machine		watermelon	
+J063	نبات متسلق		machine		climbing plant, climber	
+J064	مِحْلاق		machine		tendril	
+J065	ذرة رفيعة	في السودان تعني «ذرة» وحدها الذرة الرفيعة.	machine		sorghum	
+J066	ذرة رفيعة حمراء		machine		red sorghum	
+J067	ذرة رفيعة بيضاء		machine		white sorghum	
+J068	دُخْن (من الحبوب)	يشمل كل أنواع الدخن صغيرة الحبوب.	machine		millet (esp. pearl millet)	
+J069	فونيو		machine		fonio	
+J070	تيف		machine		teff	
+J071	قمح		machine		wheat	
+J072	شعير		machine		barley	
+J073	ذرة شامية، ذرة صفراء	ليست الذرة الرفيعة.	machine		maize, corn	
+J073b	ساق الذرة الشامية		machine		maize stalk	
+J073c	كوز الذرة الشامية		machine		corn cob, ear of maize	
+J073d	حبة الذرة الشامية		machine		maize kernel, grain of corn	
+J073e	غلاف كوز الذرة الشامية		machine		husk of the corn cob	
+J073g	شعر كوز الذرة الشامية		machine		corn silk	
+J073h	شُرّابة الذرة الشامية، النورة الذكرية للذرة الشامية		machine		maize tassel, male flower of maize	
+J074	عُصافة، قشور الحبوب		machine		chaff, husks of grain	
+J075	أرز		machine		rice	
+J076	قصب السكر		machine		sugar cane	
+J077	سمسم، بذور السمسم		machine		sesame, sesame seeds	
+J078	قطن		machine		cotton	
+J079	حبوب الفاصوليا	الفاصوليا (Phaseolus)، لا الفول.	machine		beans (esp. common/green beans)	
+J080	فول سوداني		machine		peanuts, groundnuts	
+J081	قشرة الفول السوداني		machine		peanut shell	
+J082	دَرَنة		machine		tuber	
+J083	بطاطس	تُسمّى في الشام والمغرب «بطاطا»، أمّا في مصر والخليج فـ«البطاطا» هي البطاطا الحلوة.	machine		potato	
+J084	كسافا، منيهوت		machine		cassava, manioc	
+J085	يام، دَرَنة اليام	ليست البطاطا الحلوة.	machine		yam	
+J086	قُلقاس		machine		taro, colocasia	
+J087	بطاطا حلوة		machine		sweet potato	
+J088	بصل		machine		onion	
+J089	ثوم		machine		garlic	
+J090	طماطم، بندورة		machine		tomato	
+J091	جزر		machine		carrot	
+J092	بامية		machine		okra	
+J093	باذنجان		machine		aubergine, eggplant	
+J094	فلفل حلو، فلفل رومي		machine		sweet pepper, bell pepper	
+J095	فلفل حار، شطة		machine		hot pepper, chilli	
+J096	فطر، عيش الغراب		machine		mushroom	
+J097	زنجبيل		machine		ginger	
+J098	قرفة		machine		cinnamon	
+J099	كزبرة		machine		coriander	
+J100	تبغ		machine		tobacco	
+J101	قِنَّب هندي، حشيش مخدِّر	في السودان وتشاد يعني «حشيش» وحده العشب.	machine		hemp, cannabis; hashish	
+J102	بُنّ، قهوة		machine		coffee beans; coffee	
+J103	شاي		machine		tea	
+J104	عشب		machine		grass	
+J105	ورقة عشب		machine		blade of grass	
+J106	عشب ضار، نبات غير مرغوب في الحقل		machine		weed (harmful plant)	
+J107	قصب، بوص		machine		reed, cane	
+J108	بَرْدي		machine		papyrus	
+J109	نيلوفر، زنبق الماء		machine		water lily, lotus	
+J110	خيزران الأراضي المنخفضة		machine		lowland bamboo	
+J111	خيزران المرتفعات		machine		highland bamboo	
+J112	طعام		machine		food	
+J113	زيت		machine		oil	
+J114	خبز محلي تقليدي (مثل الإنجيرا أو الكِسْرة السودانية)		machine		traditional local bread (e.g. kisra or injera)	
+J115	زاد، زاد السفر		machine		provisions; travel provisions	
+J116	قشرة الخبز		machine		bread crust	
+J117	دقيق، طحين		machine		flour	
+J118	ملح		machine		salt	
+J119	حساء، شوربة		machine		soup	
+J120	عصيدة		machine		porridge (thick, stiff)	
+J121	كُسْكُس		machine		couscous	
+J122	فطور، وجبة الإفطار		machine		breakfast	
+J123	عشاء، وجبة العشاء		machine		dinner, supper	
+J124	بقايا الطعام		machine		leftovers, food remains	
+J125	عَفَن		machine		mould, mildew	
+J126	خميرة		machine		yeast	
+J127	عجين مخمّر لصنع الجعة		machine		fermented dough for making beer	
+J128	جعة الحبوب التقليدية، مريسة	«المريسة» جعة الذرة الرفيعة في السودان.	machine		traditional grain beer, merissa	
+J129	خمر مقطَّرة من الحبوب، عَرَقي	«العرقي» في السودان (والأراقي في إثيوبيا) خمر محلية مقطّرة.	machine		araq; spirit distilled from grain	
+J130	نبيذ العسل		machine		mead, honey wine	
+J131	نبيذ النخيل، خمر النخيل		machine		palm wine	
+K001	شيء		machine		thing	
+K002	بيت، منزل		machine		house, home	
+K002b	كوخ، قُطِّيّة		machine		hut; tukul (conical hut)	
+K002c	غرفة		machine		room	
+K002d	غرفة النوم		machine		bedroom	
+K002e	مطبخ		machine		kitchen	
+K003	مجمّع سكني عائلي، حوش	الحوش: الدار المسوّرة التي تضم بيوت الأسرة (السودان والخليج).	machine		family home; compound (hosh)	
+K003b	فِناء الدار، ساحة الدار		machine		courtyard of the house	
+K003c	كوخ المدخل، حُجرة المدخل		machine		entrance hut; vestibule, entrance hall	
+K004	جدار، حائط		machine		wall	
+K005	طوب لَبِن، طوب طيني مجفف		machine		mud brick, sun-dried mud brick	
+K006	لِياسة، طلاء طيني للجدار		machine		plaster, mud rendering on a wall	
+K007	جير التبييض، طلاء بالجير		machine		whitewash lime, lime	
+K007b	طلاء، دهان		machine		paint	
+K008	أرضية		machine		floor	
+K009	سقف (من الداخل)	السقف كما يُرى من داخل البيت.	machine		ceiling	
+K010	سقف، سطح		machine		roof	
+K011	غطاء قمة السقف المخروطي		machine		cap covering the peak of a conical roof	
+K012	قش التسقيف		machine		roofing thatch, thatching straw	
+K013	عارضة السقف المائلة		machine		sloping roof beam, rafter	
+K014	عارضة السقف الأفقية التي تربط العوارض		machine		horizontal roof beam; ring that binds the rafters	
+K015	عمود متشعّب يحمل العارضة		machine		forked pole that supports the beam	
+K016	عارضة		machine		beam	
+K017	لوح خشب		machine		plank, wooden board	
+K018	باب		machine		door	
+K019	فتحة الباب، مدخل		machine		doorway, entrance	
+K020	نافذة، شبّاك		machine		window	
+K021	سُلّم نقّال، سُلّم خشبي	لا الدَّرَج.	machine		ladder; stairs	
+K022	سقيفة مائلة		machine		lean-to shed	
+K023	خيمة		machine		tent	
+K024	مصطبة خشبية مرفوعة		machine		raised wooden platform	
+K025	رفّ تجفيف		machine		drying rack	
+K026	مخزن حبوب، صومعة		machine		granary, grain silo	
+K027	زريبة، حظيرة الماشية		machine		corral; livestock pen, cattle shed	
+K028	مخيم الماشية، مُراح		machine		cattle camp; night resting place of livestock	
+K029	سياج		machine		fence	
+K030	سياج مُشبّك		machine		lattice fence, woven fence	
+K031	وَتِد		machine		peg, stake	
+K032	بئر		machine		well	
+K033	مكان الاستحمام		machine		bathing place, washing place	
+K034	مرحاض، دورة مياه		machine		toilet, lavatory	
+K035	مكب النفايات		machine		rubbish dump, landfill	
+K036	قمامة، زبالة		machine		rubbish, garbage	
+K037	حديقة، بستان		machine		garden; orchard	
+K038	حقل زراعي		machine		cultivated field, farm field	
+K038b	حدّ الحقل		machine		field boundary, edge of the field	
+K039	قرية		machine		village	
+K039b	بلدة		machine		town	
+K039c	مدينة		machine		city	
+K040	مخيم		machine		camp	
+K041	سوق		machine		market	
+K042	أرض القوم، ديار		machine		the people's land, homeland; abodes	
+K042b	حدود		machine		border(s), frontier	
+K043	درب، طريق		machine		path, trail; road	
+K044	تفرُّع الطريق		machine		branching of the road, fork in the road	
+K045	مفترق طرق، تقاطع		machine		crossroads, intersection	
+K046	جسر		machine		bridge	
+K047	رحلة، سفر		machine		journey, trip; travel	
+K048	سيارة		machine		car	
+K049	سرير		machine		bed	
+K050	حصير	حصير منسوج من السعف أو القش.	machine		mat	
+K051	وسادة، مخدة		machine		pillow, cushion	
+K052	ناموسية		machine		mosquito net	
+K053	مقعد صغير بلا ظهر		machine		small backless stool	
+K053b	كرسي		machine		chair	
+K054	مشغولات الخوص		machine		wickerwork, palm-leaf handicrafts	
+K055	مصباح، فانوس		machine		lamp, lantern	
+K056	شمعة		machine		candle	
+K057	مروحة يدوية		machine		hand fan	
+K058	جرس		machine		bell	
+K059	مكنسة		machine		broom	
+K060	مِنفضة الغبار، خرقة التنظيف		machine		duster	
+K061	موقد النار، كانون		machine		stove; hearth, brazier	
+K062	حطب		machine		firewood	
+K063	جَذْوة، عود مشتعل		machine		ember, burning stick, firebrand	
+K064	أعواد قدح النار، عودا الزَّنْد	عودان يُفرك أحدهما بالآخر أو يُدار فيه لإشعال النار.	machine		fire drill; fire-starting sticks	
+K065	مِحراك النار، عصا تحريك الجمر		machine		fire poker, stoker	
+K066	فحم		machine		charcoal	
+K067	فخّار		machine		pottery, earthenware	
+K068	جرّة ماء، زِير		machine		water jar; zir (large earthenware water jar)	
+K069	قِدر فخارية للطبخ، بُرمة		machine		earthenware cooking pot; burma	
+K070	قِدر معدنية، حَلّة طبخ		machine		metal pot; halla (saucepan)	
+K071	غلّاية معدنية، إبريق معدني	تُسمّى في السودان والخليج «كفتيرة».	machine		metal kettle; kafteira	
+K072	إبريق قهوة فخاري، جَبَنة القهوة	الجَبَنة: إبريق القهوة الفخاري في السودان وإريتريا وإثيوبيا.	machine		clay coffee pot; jebena	
+K073	إبريق		machine		jug, pitcher; carafe, flask	
+K074	زجاجة، قارورة		machine		bottle; flask, vial	
+K075	سدادة		machine		stopper, cork	
+K076	قَرْعة مجففة (وعاء)، وعاء من القرع		machine		gourd; gourd vessel, calabash	
+K076a	وعاء، زبدية		machine		bowl	
+K076b	وعاء تقديم الخبز		machine		bread-serving bowl	
+K076c	وعاء المرق، وعاء الإدام		machine		stew bowl, sauce bowl	
+K077	حلقة يُسند عليها القدر المستدير القاع		machine		ring on which a round-bottomed pot rests	
+K078	صحن، طبق		machine		plate, dish	
+K079	طبق تقديم، صحن كبير		machine		serving dish, platter, large plate	
+K080	كوب		machine		cup, glass; small cup	
+K081	شَقَفة، كِسرة فخار		machine		potsherd, broken piece of pottery	
+K082	ملعقة		machine		spoon	
+K083	مِغرفة		machine		ladle	
+K084	مِصفاة الجعة		machine		beer strainer	
+K085	مقبض، يد		machine		handle	
+K086	سلة منسوجة		machine		woven basket	
+K087	دلو		machine		bucket	
+K088	صندوق، علبة		machine		box, case; tin, can	
+K089	كيس من الجلد، جِراب جلدي		machine		leather bag, pouch	
+K089b	قِربة		machine		waterskin	
+K090	شوال، كيس نايلون منسوج		machine		sack; woven nylon/plastic sack	
+K091	أُثْفِيّة، حجر الموقد		machine		hearthstone (one of the three pot-stones)	
+K092	حجر الطحن		machine		grinding stone, millstone	
+K092a	حجر الطحن العلوي		machine		upper grinding stone	
+K092b	حجر الطحن السفلي		machine		lower grinding stone	
+K093	هاون خشبي، مِهراس		machine		wooden mortar	
+K094	مِدَقّة، يد الهاون		machine		pestle	
+K095	ملعقة خشبية للتقليب، مِسواط الطبخ	عصا أو ملعقة خشبية لتقليب العصيدة والطعام.	machine		cooking stirrer, wooden stirring spoon	
+K096	طبق التذرية، غربال التذرية		machine		winnowing tray	
+K097	مِذْراة، شوكة التذرية		machine		winnowing fork, pitchfork	
+K098	بَيْدَر، جُرْن		machine		threshing floor	
+K099	أداة حفر، عصا الحفر		machine		digging tool; digging stick	
+K100	مِعْزَقة صغيرة		machine		small hoe	
+K101	مِعْزَقة كبيرة		machine		large hoe	
+K102	محراث		machine		plough	
+K103	نِير		machine		yoke	
+K104	منجل		machine		sickle	
+K105	سكين كبيرة لقطع الأغصان، مَنْجل طويل	ليس ساطور الجزّار.	machine		machete; cleaver, large knife for cutting branches	
+K106	فأس		machine		axe	
+K107	مِعْوَل، فأس الحفر		machine		pickaxe, mattock	
+K108	مطرقة، شاكوش		machine		hammer	
+K109	سندان		machine		anvil	
+K110	ورشة الحداد، دكان الحدادة		machine		blacksmith's workshop, smithy	
+K111	منفاخ الحداد، كِير		machine		bellows, blacksmith's bellows	
+K112	أتون الفخار، فرن الخزاف		machine		pottery kiln, potter's oven	
+K113	منشار		machine		saw	
+K114	إزميل		machine		chisel	
+K115	مسمار		machine		nail	
+K116	سكين		machine		knife	
+K117	إبرة		machine		needle	
+K118	رُقعة		machine		patch (of cloth)	
+K119	خِرقة		machine		rag	
+K120	جيب		machine		pocket	
+K121	جلد مدبوغ		machine		tanned leather, tanned hide	
+K122	حبل		machine		rope	
+K123	دوبارة، خيط غليظ		machine		twine, thick string	
+K123b	خيط الخياطة		machine		sewing thread	
+K124	حزام جلدي، سَيْر		machine		strap, leather belt	
+K125	عقدة الحبل		machine		knot	
+K125b	أُنْشوطة، عروة الحبل المنزلقة		machine		noose, running loop of a rope	
+K125c	عقدة منزلقة		machine		slip knot, quick-release knot	
+K126	سلسلة		machine		chain	
+K127	حزمة عيدان، حزمة حطب		machine		bundle of sticks, bundle of firewood	
+K128	كومة حبوب، صُبْرة		machine		heap of grain, grain pile	
+K129	حلقة من قماش أو عشب لحمل الأثقال على الرأس		machine		ring of cloth or grass for carrying loads on the head	
+K130	حِمْل، عبء		machine		load, burden	
+K131	عصا المشي		machine		walking stick, crutch	
+K132	قضيب رفيع، خيزرانة		machine		thin rod, cane; switch	
+K133	رحلة صيد		machine		hunting trip, hunting expedition	
+K134	أرض الصيد، مَصِيد		machine		hunting ground	
+K135	قوس		machine		bow	
+K136	سهم		machine		arrow	
+K136b	سُمّ السهام		machine		arrow poison	
+K137	نصل السهم، رأس السهم		machine		arrowhead, arrow blade	
+K138	جَعْبة، كِنانة		machine		quiver	
+K139	رمح، حربة		machine		spear, lance; javelin	
+K140	عصا الرمي		machine		throwing stick	
+K141	هراوة		machine		club, cudgel	
+K142	شبكة صيد الحيوانات		machine		net for catching animals	
+K143	فخ، شَرَك		machine		trap, snare	
+K143b	دِبْق		machine		birdlime	
+K144	طُعْم		machine		bait	
+K145	أثر قدم الإنسان		machine		human footprint	
+K145b	أثر الحيوان		machine		animal track	
+K146	رمح صيد السمك		machine		fishing spear	
+K146b	حَرْبون، حربة صيد مربوطة بحبل		machine		harpoon, fishing spear tied to a rope	
+K147	صِنّارة، شِصّ		machine		fish hook	
+K148	خيط الصنارة		machine		fishing line	
+K149	شبكة صيد السمك		machine		fishing net	
+K150	مصيدة سمك (حاجز عبر مجرى الماء)		machine		fish trap (barrier across a stream)	
+K151	سدّ لصيد السمك		machine		fishing dam, fishing weir	
+K152	قارب، زورق		machine		boat; canoe, small boat	
+K153	طوف من خشب نبات الأمباج الخفيف	الأمباج (Aeschynomene elaphroxylon) نبات مائي خشبه خفيف كالفلّين.	machine		ambatch-wood raft	
+K154	مجداف		machine		oar, paddle	
+K155	سيف		machine		sword	
+K156	غِمْد		machine		scabbard, sheath	
+K157	بندقية		machine		rifle, gun	
+K158	تُرس	لا الدرع الذي يُلبس على الجسد.	machine		shield; armour	
+K159	سوط		machine		whip	
+K160	حرب		machine		war	
+K160b	غارة لنهب الماشية		machine		cattle raid	
+K161	سلام، سِلْم		machine		peace	
+K162	جيش		machine		army	
+K163	متاع، ممتلكات		machine		belongings, possessions; goods	
+K164	نقود		machine		money; wealth	
+K164b	وَدَع، صدفة الودع		machine		cowrie, cowrie shell	
+K164c	سعر، ثمن		machine		price, cost	
+K165	هدية		machine		gift, present	
+K166	دَيْن		machine		debt	
+K167	ضريبة		machine		tax	
+K168	ميراث، إرث		machine		inheritance, heritage	
+K169	ملابس، لباس		machine		clothes, clothing	
+K169b	قماش		machine		cloth, fabric	
+K169c	حاشية الثوب، طرف الثوب المثني		machine		hem of a garment, folded edge	
+K170	فستان		machine		dress	
+K171	قميص		machine		shirt	
+K172	بنطال، سروال		machine		trousers, pants	
+K173	جلابية، ثوب رجالي طويل	«الثوب» وحده في السودان لباس المرأة الملفوف؛ المقصود هنا ثوب الرجل الطويل.	machine		jalabiya, long men's robe	
+K174	عباءة من الجلد المدبوغ		machine		cloak of tanned hide; farwa (fur/sheepskin cloak)	
+K175	ساتر للعورة يُلَف حول الوسط، إزار	ليس المئزر (المريلة).	machine		loincloth; izar (wrap)	
+K175a	ساتر للعورة للرجال، إزار رجالي		machine		men's loincloth	
+K175b	ساتر للعورة للنساء، رَحَط	الرَّحَط: سِتر من سيور الجلد تلبسه النساء في السودان.	machine		women's loincloth	
+K176	حزام		machine		belt	
+K177	حزام مزيّن بالوَدَع		machine		belt decorated with cowries	
+K178	حمّالة الطفل، مِحمل الرضيع		machine		baby carrier, baby sling	
+K179	قبعة		machine		hat	
+K179b	عِمامة		machine		turban	
+K180	نِقاب		machine		face veil; niqab, burqa	
+K181	حذاء		machine		shoe; sandal	
+K182	خرزة		machine		bead	
+K183	سوار		machine		bracelet	
+K184	قلادة، عِقْد		machine		necklace	
+K185	خَلْخال		machine		anklet	
+K186	خاتم		machine		ring	
+K187	قُرط		machine		earring	
+K188	قرص الشفة		machine		lip plate	
+K189	ندبة زخرفية على الوجه، شَلْخ		machine		decorative facial scar; shilukh	
+K190	حِنّاء		machine		henna	
+K191	صابون		machine		soap	
+K192	موسى الحلاقة، شفرة الحلاقة		machine		razor; razor blade	
+K193	مشط		machine		comb	
+K194	مِسواك، فرشاة أسنان		machine		miswak (tooth-cleaning twig); toothbrush	
+K195	عود أسنان، خِلال		machine		toothpick	
+K196	موسيقى		machine		music	
+K197	أغنية		machine		song	
+K198	رقصة، رقص		machine		a dance; dancing	
+K199	طبل		machine		drum	
+K199b	الطبل الناطق		machine		the talking drum	
+K199c	طبل على شكل الساعة الرملية		machine		hourglass-shaped drum	
+K200	طبل كبير		machine		large drum	
+K201	طبل صغير		machine		small drum	
+K202	طبل أرضي فوق حفرة		machine		ground drum (over a pit)	
+K203	مزمار متعدد القصبات		machine		multi-reed pipe, panpipe	
+K204	مزمار ذو نغمة واحدة		machine		single-note pipe	
+K205	بوق، قرن موسيقي		machine		horn, trumpet; musical horn	
+K205b	بوق صدفي		machine		conch-shell trumpet	
+K206	بوق الحرب		machine		war horn, war trumpet	
+K207	آلة القيثارة ذات الأوتار (ليرة)، طنبور	المقصود الآلة ذات الإطار والأوتار المتوازية؛ «الطنبور» بهذا المعنى سوداني، وفي غير السودان هو آلة ذات زند طويل.	machine		lyre, harp; tanbur	
+K208	رَبابة (آلة وترية بقوس)	في السودان تعني «الربابة» آلة الليرة، لا الكمان الشعبي.	machine		rebab (bowed fiddle)	
+K209	زيلوفون، بالافون		machine		xylophone, balafon	
+K210	خشخيشة		machine		rattle	
+K211	عصوان إيقاعيتان تُقرعان معاً		machine		pair of percussion sticks struck together	
+K212	صفّارة		machine		whistle	
+K213	قناع		machine		mask	
+K214	غليون		machine		tobacco pipe	
+K215	قصبة الغليون		machine		pipe stem	
+K216	شيشة، نارجيلة		machine		water pipe, hookah, shisha	
+K216a	أنبوب الشيشة النازل في الماء		machine		hookah tube that goes down into the water	
+K216b	رأس الشيشة، حجر الشيشة		machine		hookah head, shisha bowl	
+K216c	ليّ الشيشة، نربيج		machine		smoking hose; narbish	
+K217	طوق اللعب يُدحرج بعصا		machine		hoop toy rolled with a stick	
+K218	كرة		machine		ball	
+K219	منقلة، لعبة الحفر والحصى		machine		mancala, pit-and-pebble game	
