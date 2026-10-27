@@ -537,7 +537,6 @@ D036m	خنزير ذكر		machine		boar, male pig
 D037	خنزير الثآليل, حلوف		machine		warthog	
 D038	خنزير الأدغال		machine		bushpig	
 D039	خنزير الأرض		machine		aardvark	
-D040	آكل النمل, خنزير الأرض	المقصود خنزير الأرض الأفريقي (كما في D039)، لا آكل النمل الأمريكي.	machine		anteater	
 D041	آكل النمل الحرشفي, بنغول		machine		pangolin, scaly anteater	
 D042	قرد		machine		monkey	
 D043	قرد البابون, رُبّاح		machine		baboon	

@@ -537,7 +537,7 @@ D036m	boar	NOUN	no		male pig	Sus domesticus (Suidae)
 D037	warthog	NOUN	yes	E W S C		Phacochoerus (Suidae)
 D038	bushpig	NOUN	yes	E W S C	wild forest pig, Potamochoerus	Potamochoerus (Suidae)
 D039	aardvark	NOUN	yes	E W S C		Orycteropus afer (Orycteropodidae)
-D040	anteater	NOUN	yes	E W S C		Orycteropus afer (Orycteropodidae)
+D040	aardwolf	NOUN	yes	E S	small termite-eating hyena; not the striped hyena (D080)	Proteles cristata (Hyaenidae)
 D041	pangolin	NOUN	yes			Manidae
 D042	monkey (generic)	NOUN	yes			Cercopithecidae
 D043	baboon	NOUN	yes			Papio (Cercopithecidae)
