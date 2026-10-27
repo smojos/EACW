@@ -2,7 +2,7 @@ ref	gloss	word_class	default	sub	clarification	taxon
 A001	body	NOUN	yes			
 A002	skin	NOUN	yes			
 A002b	wrinkle	NOUN	yes			
-A003	hair	NOUN	yes		of the head; body hair is A003b	
+A003	hair	NOUN	yes		of either (a) head, or (b) body	
 A003b	body hair	NOUN	yes			
 A003c	tuft	NOUN	yes			
 A004	bone	NOUN	yes			
