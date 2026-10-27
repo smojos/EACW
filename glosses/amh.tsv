@@ -2266,7 +2266,7 @@ V281	ለወሰ, አቦካ		machine		to knead
 V282	ሊጥ ቅርጽ አስያዘ		machine		to shape dough	
 V283	ላባ ነጨ		machine		to pluck feathers	
 V284	አበሰለ		machine		to cook	
-V285	ቀቀለ, አፈላ		machine		to boil	
+V285	ፈላ, ቀቀለ		machine		to boil	
 V286	አንተከተከ		machine		to simmer	
 V287	ወጥ ሠራ		machine		to make stew	
 V288	ጠበሰ, ቆላ		machine		to roast, to toast	
@@ -2278,7 +2278,7 @@ V293	ተበላሸ, ሻገተ		machine		to go bad, to go mouldy
 V294	አደረገ		machine		to do	
 V294b	ሥራ		machine		work	
 V295	ሠራ		machine		to make, to work	
-V295b	ፍጥረት		machine		creation	
+V295b	መፍጠር, ፈጠራ		machine		creation	
 V296	ገነባ		machine		to build, to construct	
 V297	ጠገነ		machine		to repair, to mend	
 V298	ተካ		machine		to replace	
@@ -2331,12 +2331,12 @@ V343	አድብቶ ተከተለ, አደባ		machine		to stalk, to lie in wait
 V344	አሳደደ		machine		to chase, to pursue	
 V345	ወጥመድ አጠመደ		machine		to set a trap	
 V346	በወጥመድ ያዘ		machine		to catch in a trap	
-V347	ያዘ		machine		to hold, to catch	
-V348	ሸሸ		machine		to flee	
+V347	ቀለበ, ያዘ		machine		to hold, to catch	
+V348	ሸሸ, አመለጠ		machine		to flee	
 V349	አመለጠ		machine		to escape	
 V350	ተኮሰ, ቀስት ወረወረ		machine		to shoot	
 V351	ዓሣ አጠመደ		machine		to fish	
-V352	ቀየረ, ለወጠ		machine		to change, to exchange	
+V352	ቀየረ, ተቀየረ		machine		to change, to exchange	
 V353	አጠፋ, አፈረሰ		machine		to destroy, to demolish	
 V354	ለቀቀ, ፈታ		machine		to let go, to release	
 V355	አስቻለ		machine		to enable	
@@ -2386,7 +2386,7 @@ V395	ሸጠ		machine		to sell
 V396	ተደራደረ, በዋጋ ተከራከረ		machine		to bargain, to haggle	
 V397	ከፈለ		machine		to pay	
 V397b	ክፍያ		machine		payment	
-V398	ቀጠረ		machine		to hire, to employ	
+V398	ቀጠረ, ተከራየ		machine		to hire, to employ	
 V399	ለመነ		machine		to beg	
 V400	ወረሰ		machine		to inherit	
 V401	ሰረቀ		machine		to steal	
@@ -2476,7 +2476,7 @@ V474	እንኳን ደስ አለህ አለ		machine		to congratulate
 V475	ተኩራራ		machine		to boast	
 V476	ዋሸ		machine		to lie	
 V477	ተገናኘ		machine		to meet	
-V477b	ስብሰባ		machine		meeting	
+V477b	ስብሰባ, መገናኘት		machine		meeting	
 V478	አብሮ ሄደ, አጀበ		machine		to go together, to escort	
 V479	አብሮ ሆነ		machine		to be together	
 V480	ተሰበሰበ		machine		to gather, to assemble	
@@ -2539,7 +2539,7 @@ V534	አጽናና, ለቅሶ ደረሰ		machine		to console, to pay a condolence
 V535	አገባ		machine		to marry	
 V535b	ትዳር, ጋብቻ		machine		married life, marriage	
 V536	ታጨ		machine		to be betrothed, to be engaged	
-V537	ተፋታ, ፈታ		machine		to get divorced, to divorce	
+V537	ተፋታ		machine		to get divorced, to divorce	
 V538	አገደ, እንቅፋት ሆነ		machine		to block, to be an obstacle	
 V539	አስቀረ, ተከላከለ		machine		to prevent, to defend against	
 V540	ከለከለ		machine		to forbid, to prohibit	

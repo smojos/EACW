@@ -2266,7 +2266,7 @@ V281	عجن		machine		to knead
 V282	شكّل (الخبز)		machine		to shape (bread), to form (loaves)	
 V283	نتف (الريش)		machine		to pluck (feathers)	
 V284	طبخ		machine		to cook	
-V285	غلى		machine		to boil	
+V285	غلى, سلق		machine		to boil	
 V286	طها على نار هادئة		machine		to simmer, to cook over a low heat	
 V287	طبخ يخنة		machine		to stew, to cook a stew	
 V288	شوى		machine		to roast, to grill	
@@ -2332,13 +2332,13 @@ V344	طارد		machine		to chase, to pursue
 V345	نصب (فخًّا)		machine		to set (a trap)	
 V346	صاد بفخّ		machine		to trap, to catch in a trap	
 V347	أمسك		machine		to catch, to grab, to hold	
-V348	تفادى		machine		to dodge, to avoid	
+V348	تفادى, راوغ		machine		to dodge, to avoid	
 V349	هرب		machine		to flee, to run away	
 V350	رمى (بالسهم), أطلق النار		machine		to throw	
 V351	صاد السمك		machine		to fish	
-V352	غيّر		machine		to change (something)	
+V352	غيّر, تغيّر		machine		to change (something)	
 V353	دمّر		machine		to destroy	
-V354	أطلق سراح		machine		to release, to set free	
+V354	أطلق سراح, أفلت		machine		to release, to set free	
 V355	مكّن		machine		to enable	
 V356	كبّر		machine		to enlarge, to make bigger	
 V356b	ازداد		machine		to increase, to grow (intr.)	
@@ -2363,7 +2363,7 @@ V373	عصر		machine		to squeeze, to wring
 V374	أشعل (النار)		machine		to light (the fire), to kindle	
 V375	أطفأ (النار)		machine		to put out (the fire), to extinguish	
 V376	هوّى (النار)		machine		to fan (the fire)	
-V377	أضاف		machine		to add	
+V377	أضاف, جمع		machine		to add	
 V378	طرح		machine		to subtract	
 V379	خفّض		machine		to lower, to reduce	
 V380	وصل (بين شيئين)		machine		to connect, to join (two things)	
@@ -2391,7 +2391,7 @@ V399	تسوّل		machine		to beg (for alms)
 V400	ورث		machine		to inherit	
 V401	سرق		machine		to steal	
 V402	فكّر		machine		to think	
-V403	صدّق		machine		to believe	
+V403	صدّق, آمن		machine		to believe	
 V404	عرف		machine		to know	
 V405	شكّ		machine		to doubt	
 V406	أمل		machine		to hope	
@@ -2432,11 +2432,11 @@ V438	احترم		machine		to respect
 V438b	خَشْيَة, مَهابة		machine		fear, awe	
 V439	كرّم		machine		to honour	
 V440	عانى		machine		to suffer	
-V441	كافح		machine		to struggle, to strive	
+V441	كافح, صارع		machine		to struggle, to strive	
 V442	قال		machine		to say	
 V443	تكلّم		machine		to speak	
 V443b	خِطاب		machine		speech, address	
-V444	أخبر		machine		to tell, to inform	
+V444	حكى, أخبر		machine		to tell, to inform	
 V445	همس		machine		to whisper	
 V446	صرخ		machine		to shout, to scream	
 V447	دردش		machine		to chat	
@@ -2476,7 +2476,7 @@ V474	هنّأ		machine		to congratulate
 V475	تباهى		machine		to boast, to show off	
 V476	كذب		machine		to lie	
 V477	التقى بـ		machine		to meet	
-V477b	لقاء		machine		meeting, encounter	
+V477b	لقاء, اجتماع		machine		meeting, encounter	
 V478	رافق		machine		to accompany	
 V479	كان معًا		machine		to be together	
 V480	اجتمع		machine		to gather, to meet (as a group)	
@@ -2525,7 +2525,7 @@ V520	هُزِمَ		machine		to be defeated
 V521	نهب		machine		to loot, to plunder	
 V522	تجسّس على		machine		to spy on	
 V523	اغتصب		machine		to rape	
-V524	صلّى		machine		to pray	
+V524	صلّى, دعا		machine		to pray	
 V525	تنبّأ		machine		to prophesy, to predict	
 V526	سحر	السحر موضوع حسّاس	machine		to bewitch, to cast a spell	
 V527	لعن		machine		to curse	
@@ -2539,7 +2539,7 @@ V534	عزّى		machine		to console, to offer condolences
 V535	تزوّج		machine		to marry, to get married	
 V535b	زواج		machine		marriage	
 V536	خُطِبَ	الفعل للمخطوب أو المخطوبة	machine		to be engaged (betrothed)	
-V537	طلّق	طلّق فعل الزوج	machine		to divorce	
+V537	طلّق, انفصل	طلّق: الزوج يطلّق زوجته؛ انفصل: يشمل الزوجة التي تنفصل عن زوجها (بالخُلع مثلًا)	machine		to divorce	
 V538	عرقل		machine		to obstruct, to hinder	
 V539	منع		machine		to prevent	
 V540	حظر		machine		to ban, to prohibit	
@@ -2548,7 +2548,7 @@ V542	امتنع		machine		to refrain, to abstain
 V543	بدأ		machine		to begin, to start	
 V543b	بداية		machine		beginning	
 V544	استمرّ		machine		to continue	
-V545	توقّف		machine		to stop	
+V545	توقّف, أوقف		machine		to stop	
 V546	انتظر		machine		to wait	
 V547	انتظر (شخصًا أو شيئًا)		machine		to wait	
 V548	قضى الوقت		machine		to spend time, to pass the time	

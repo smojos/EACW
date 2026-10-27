@@ -2278,7 +2278,7 @@ V293	se gâter, pourrir		machine		to go bad, to rot
 V294	faire		machine		to do	
 V294b	travail		machine		work	
 V295	fabriquer, faire		machine		to make, to manufacture	
-V295b	création		machine		creation	
+V295b	création, acte de créer		machine		creation	
 V296	construire, bâtir		machine		to build, to construct	
 V297	réparer		machine		to repair	
 V298	remplacer		machine		to replace	
@@ -2332,17 +2332,17 @@ V344	poursuivre, pourchasser		machine		to chase, to pursue
 V345	tendre (un piège)		machine		to set (a trap)	
 V346	prendre au piège, piéger		machine		to trap, to catch in a trap	
 V347	attraper		machine		to catch	
-V348	esquiver, se soustraire (à)		machine		to dodge, to avoid	
+V348	esquiver, échapper à		machine		to dodge, to avoid	
 V349	s'échapper, s'enfuir		machine		to escape, to flee	
-V350	tirer (avec une arme)		machine		to shoot (with a weapon)	
+V350	tirer (une flèche, un coup de feu)		machine		to shoot (with a weapon)	
 V351	pêcher		machine		to fish	
 V352	changer, modifier		machine		to change, to modify	
 V353	détruire		machine		to destroy	
-V354	libérer, relâcher		machine		to free, to release	
+V354	libérer, lâcher		machine		to free, to release	
 V355	rendre capable, donner la capacité (de)		machine		to enable, to allow	
 V356	agrandir		machine		to enlarge	
 V356b	augmenter, croître		machine		to increase, to grow	
-V357	rendre plus petit, amoindrir		machine		to decrease, to diminish	
+V357	réduire, diminuer		machine		to decrease, to diminish	
 V357b	diminuer, baisser		machine		to decrease, to go down	
 V358	allonger, rallonger		machine		to lengthen, to extend	
 V359	raccourcir		machine		to shorten	
@@ -2356,14 +2356,14 @@ V366	durcir		machine		to harden
 V367	ramollir		machine		to soften	
 V368	faire sécher (le linge), sécher		machine		to dry (laundry), to dry	
 V369	asperger		machine		to sprinkle	
-V370	enduire (les murs, le sol) de terre ou de bouse	avec de la boue ou de la bouse	machine		to plaster (walls, floor), to render (a wall)	
+V370	enduire (les murs, le sol) de terre ou de bouse		machine		to plaster (walls, floor), to render (a wall)	
 V371	tremper, plonger		machine		to dip, to plunge	
 V372	faire tremper		machine		to soak (something)	
 V373	essorer, tordre		machine		to wring, to twist	
 V374	allumer (le feu)		machine		to light (the fire)	
 V375	éteindre (le feu)		machine		to put out (the fire)	
 V376	attiser (le feu), éventer		machine		to stoke (the fire), to fan	
-V377	ajouter		machine		to add	
+V377	ajouter, additionner		machine		to add	
 V378	soustraire, retrancher		machine		to subtract, to take away	
 V379	réduire		machine		to reduce	
 V380	joindre, assembler		machine		to join, to assemble	
@@ -2436,7 +2436,7 @@ V441	lutter, se débattre		machine		to struggle, to struggle (physically against
 V442	dire		machine		to say	
 V443	parler		machine		to speak	
 V443b	discours		machine		speech	
-V444	raconter		machine		to tell (a story), to narrate	
+V444	raconter, dire		machine		to tell (a story), to narrate	
 V445	chuchoter		machine		to whisper	
 V446	crier, hurler		machine		to shout, to scream	
 V447	bavarder, causer		machine		to chat	
@@ -2548,7 +2548,7 @@ V542	s'abstenir		machine		to abstain
 V543	commencer		machine		to begin	
 V543b	début, commencement		machine		beginning, start	
 V544	continuer		machine		to continue	
-V545	s'arrêter, cesser		machine		to stop, to cease	
+V545	s'arrêter, arrêter		machine		to stop, to cease	
 V546	attendre		machine		to wait	
 V547	attendre (quelqu'un, quelque chose)		machine		to wait for (someone, something)	
 V548	passer du temps, séjourner		machine		to spend time, to stay	
