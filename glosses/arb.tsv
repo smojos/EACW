@@ -2,7 +2,7 @@ ref	gloss	clarification	status	checked_by	back_translation	earlier
 A001	جسم		machine		body	
 A002	جلد		machine		skin	
 A002b	تجعيدة		machine		wrinkle	
-A003	شَعْر	شعر الرأس أو شعر الجسم.	machine		hair (of the head)	
+A003	شَعْر الرأس		machine		hair (of the head)	شَعْر
 A003b	شعر الجسم		machine		body hair	
 A003c	خُصْلة شعر, قُنْزُعة	القُنْزُعة: خصلة من الشعر تُترك على الرأس المحلوق.	machine		lock of hair, tuft (of hair on the crown)	
 A004	عظم		machine		bone	
@@ -2363,7 +2363,7 @@ V375	أطفأ (النار)		machine		to put out (the fire), to extinguish
 V376	هوّى (النار)		machine		to fan (the fire)	
 V377	أضاف, جمع		machine		to add	
 V378	طرح		machine		to subtract	
-V379	خفّض		machine		to lower, to reduce	
+V379	تَقَلَّصَ, نَقَصَ	لازم: صار أصغر أو أقل	machine		to lower, to reduce	خفّض
 V380	وصل (بين شيئين)		machine		to connect, to join (two things)	
 V381	راكم		machine		to accumulate, to pile up	
 V381b	كوّم		machine		to heap up, to pile	
@@ -2430,7 +2430,7 @@ V438	احترم		machine		to respect
 V438b	خَشْيَة, مَهابة		machine		fear, awe	
 V439	كرّم		machine		to honour	
 V440	عانى		machine		to suffer	
-V441	كافح, صارع		machine		to struggle, to strive	
+V441	كافَحَ		machine		to struggle, to strive	كافح, صارع
 V442	قال		machine		to say	
 V443	تكلّم		machine		to speak	
 V443b	خِطاب		machine		speech, address	
@@ -2510,7 +2510,7 @@ V508	أطاع		machine		to obey
 V509	أرضى		machine		to please, to satisfy	
 V510	أزعج		machine		to annoy, to bother	
 V511	خدع		machine		to deceive, to trick	
-V512	تشاجر		machine		to quarrel	
+V512	تَخاصَمَ, تَنازَعَ		machine		to quarrel	تشاجر
 V513	قاتل		machine		to fight	
 V514	انتقم		machine		to take revenge	
 V515	توسّط		machine		to mediate	

@@ -2,7 +2,7 @@ ref	gloss	clarification	status	checked_by	back_translation	earlier
 A001	corps		machine		body	
 A002	peau		machine		skin	
 A002b	ride		machine		wrinkle	
-A003	cheveu, poil	cheveu : poil de la tête ; poil : poil du corps.	machine		hair (of the head), body hair	
+A003	cheveu		machine		hair (of the head), body hair	cheveu, poil
 A003b	poil (du corps)		machine		body hair	
 A003c	mèche de cheveux, touffe de cheveux		machine		lock of hair, tuft of hair	
 A004	os		machine		bone	
@@ -2286,7 +2286,7 @@ V301	tisser		machine		to weave
 V302	enfiler (des perles)		machine		to string (beads)	
 V303	attacher, nouer		machine		to tie, to knot	
 V304	détacher, dénouer		machine		to untie, to unknot	
-V305	lier (avec une corde), ligoter		machine		to bind (with a rope), to tie up	
+V305	lier avec une corde, ficeler		machine		to bind (with a rope), to tie up	lier (avec une corde), ligoter
 V306	serrer		machine		to tighten	
 V307	desserrer		machine		to loosen	
 V308	clôturer, entourer d'une clôture		machine		to fence (in)	
@@ -2363,7 +2363,7 @@ V375	éteindre (le feu)		machine		to put out (the fire)
 V376	attiser (le feu), éventer		machine		to stoke (the fire), to fan	
 V377	ajouter, additionner		machine		to add	
 V378	soustraire, retrancher		machine		to subtract, to take away	
-V379	réduire		machine		to reduce	
+V379	diminuer, rétrécir	intransitif : devenir plus petit ou moins grand	machine		to reduce	réduire
 V380	joindre, assembler		machine		to join, to assemble	
 V381	accumuler		machine		to accumulate	
 V381b	entasser, mettre en tas		machine		to pile up, to heap up	
@@ -2430,7 +2430,7 @@ V438	respecter		machine		to respect
 V438b	crainte révérencielle, vénération		machine		reverence, reverential awe	
 V439	honorer		machine		to honour	
 V440	souffrir		machine		to suffer	
-V441	lutter, se débattre		machine		to struggle, to struggle (physically against)	
+V441	lutter (contre une difficulté)		machine		to struggle, to struggle (physically against)	lutter, se débattre
 V442	dire		machine		to say	
 V443	parler		machine		to speak	
 V443b	discours		machine		speech	
@@ -2458,7 +2458,7 @@ V462	insulter		machine		to insult
 V462b	insulte		machine		insult	
 V463	calomnier		machine		to slander	
 V464	menacer		machine		to threaten	
-V465	se disputer		machine		to argue, to quarrel	
+V465	se disputer verbalement		machine		to argue, to quarrel	se disputer
 V465b	dispute, querelle		machine		argument, quarrel	
 V466	râler, ronchonner		machine		to grumble, to complain	
 V467	contredire		machine		to contradict	
@@ -2510,7 +2510,7 @@ V508	obéir		machine		to obey
 V509	plaire (à), faire plaisir (à)		machine		to please	
 V510	agacer, ennuyer		machine		to annoy, to bother	
 V511	tromper, duper		machine		to deceive, to dupe	
-V512	se quereller		machine		to quarrel	
+V512	être en conflit, être brouillé		machine		to quarrel	se quereller
 V513	se battre, combattre		machine		to fight, to combat	
 V514	se venger		machine		to take revenge	
 V515	intercéder		machine		to intercede	

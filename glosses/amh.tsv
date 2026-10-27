@@ -689,7 +689,7 @@ E072	ቁንጮ ንስር	ገላጭ ሐረግ ነው፤ በአማርኛ የተለ
 E073	ትንሽ ጉጉት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small owl	
 E074	ትልቅ ግራጫ ጉጉት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		large grey owl	
 E075	ጭራ ረጅም ፍራፍሬ በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-tailed fruit-eating bird	
-E076	ጉትዬ ያላት መንቁረ ረጅም ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		brown bird with a crest	
+E076	ቁንጮና ረጅም መንቁር ያላት ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		brown bird with a crest	ጉትዬ ያላት መንቁረ ረጅም ወፍ
 E077	አረንጓዴ የዛፍ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		green tree bird	
 E078	ቀንድ መንቁር የመሬት ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		ground hornbill (lit. 'horn-beaked ground bird')	
 E079	ግራጫ ቀንድ መንቁር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		grey hornbill	
@@ -855,7 +855,7 @@ H053	መቶ እግር	ጠፍጣፋ ነካሽ ባለ ብዙ እግር።	machine	
 H054	ሺ እግር	ክብ፣ የሚጠቀለል ባለ ብዙ እግር።	machine		millipede (lit. thousand-legs)	
 H055	ቀንድ አውጣ		machine		snail	
 H055b	የዛፍ ቀንድ አውጣ		machine		tree snail	
-H055c	የየብስ ቀንድ አውጣ		machine		land snail	
+H055c	የመሬት ቀንድ አውጣ		machine		land snail	የየብስ ቀንድ አውጣ
 H055d	የውሃ ቀንድ አውጣ		machine		water snail	
 H056	የቀንድ አውጣ ቅርፊት		machine		snail shell	
 H057	ሸርጣን		machine		crab	
@@ -1195,7 +1195,7 @@ K031	ካስማ		machine		stake, peg
 K032	የውሃ ጉድጓድ		machine		well	
 K033	መታጠቢያ ቦታ		machine		bathing place	
 K034	መጸዳጃ ቤት, ሽንት ቤት		machine		toilet, latrine	
-K035	የቆሻሻ መጣያ		machine		rubbish dump	
+K035	የቆሻሻ መጣያ ቦታ		machine		rubbish dump	የቆሻሻ መጣያ
 K036	ቆሻሻ		machine		rubbish	
 K037	የአትክልት ቦታ		machine		vegetable garden	
 K038	እርሻ, ማሳ		machine		field, farm	
@@ -1400,13 +1400,13 @@ K207	ክራር		machine		krar (lyre)
 K208	ማሲንቆ		machine		masinko (one-string fiddle)	
 K209	ባላፎን	ከእንጨት ዘንጎችና ከቅል የሚሠራ የሙዚቃ መሣሪያ።	machine		balafon	
 K210	የሚቅጨለጨል የሙዚቃ መሣሪያ	ሲነቀነቅ የሚቅጨለጨል መሣሪያ፤ ቃጭል ወይም ጸናጽል አይደለም።	machine		rattle	
-K211	የሚጋጩ ሁለት ዱላዎች		machine		clapper sticks	
+K211	ለምት የሚጋጩ ሁለት ዱላዎች		machine		clapper sticks	የሚጋጩ ሁለት ዱላዎች
 K212	ፊሽካ		machine		whistle	
 K213	ጭምብል		machine		mask	
 K214	የትምባሆ ፒፓ		machine		pipe (tobacco)	
 K215	የትምባሆ ፒፓ ዘንግ		machine		pipe stem	
 K216	ጋያ		machine		water pipe (hookah)	
-K216a	የጋያ ውስጥ ቱቦ		machine		inner tube of the water pipe	
+K216a	ወደ ውሃው የሚወርድ የጋያ ቱቦ		machine		inner tube of the water pipe	የጋያ ውስጥ ቱቦ
 K216b	የጋያ ራስ	ትምባሆው የሚቀመጥበት።	machine		bowl (head) of the water pipe	
 K216c	የጋያ መሳቢያ ቱቦ		machine		drawing tube of the water pipe	
 K217	በዱላ የሚገፋ የጨዋታ ቀለበት	በዱላ እየተገፋ የሚንከባለል።	machine		rolling-ring toy	
@@ -2363,7 +2363,7 @@ V375	እሳት አጠፋ		machine		to put out a fire
 V376	እሳት አራገበ		machine		to fan a fire	
 V377	ጨመረ, ደመረ		machine		to add, to add up	
 V378	ቀነሰ		machine		to subtract, to decrease	
-V379	ቀነሰ, አሳነሰ		machine		to reduce, to decrease	
+V379	አነሰ, ተኮማተረ	ራሱ ያነሰ፤ ሌላን ነገር ማሳነስ አይደለም	machine		to reduce, to decrease	ቀነሰ, አሳነሰ
 V380	አገናኘ, አያያዘ		machine		to connect, to join	
 V381	አከማቸ		machine		to accumulate, to store up	
 V381b	ከመረ		machine		to heap up, to pile	
@@ -2510,7 +2510,7 @@ V508	ታዘዘ		machine		to obey
 V509	አስደሰተ		machine		to please, to make happy	
 V510	አበሳጨ		machine		to annoy, to upset	
 V511	አታለለ		machine		to deceive, to trick	
-V512	ተጨቃጨቀ, ተጣላ		machine		to quarrel, to fight	
+V512	ተጣላ, ተቃቃረ		machine		to quarrel, to fight	ተጨቃጨቀ, ተጣላ
 V513	ተደባደበ, ተዋጋ		machine		to fight, to come to blows	
 V514	ተበቀለ		machine		to take revenge	
 V515	አማለደ		machine		to intercede, to mediate	
