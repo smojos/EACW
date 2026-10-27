@@ -810,7 +810,7 @@ H008	honey	NOUN	yes
 H009	honeycomb	NOUN	yes			
 H010	stinger	NOUN	yes			
 H011	hornet	NOUN	yes		large stinging wasp	Vespa (Vespidae)
-H012	black jacket	NOUN	yes		black and white Vespula wasp, North American name	Vespula consobrina (Vespidae)
+H012	mud wasp	NOUN	yes		wasp that builds its nest of mud (mud dauber, potter wasp)	Sceliphron, Eumeninae (Sphecidae, Vespidae)
 H013	wasp	NOUN	yes			Apocrita (part) (Hymenoptera)
 H014	ant	NOUN	yes			Formicidae
 H015	driver ant	NOUN	yes		army ant, Dorylus	Dorylus (Formicidae)
@@ -824,7 +824,7 @@ H022	tsetse fly	NOUN	yes	E W S C		Glossina (Glossinidae)
 H023	mosquito	NOUN	yes			Culicidae
 H024	maggot	NOUN	yes			Diptera (larva)
 H025	grasshopper	NOUN	yes			Caelifera (Orthoptera)
-H026	locust	NOUN	yes			Acrididae (part)
+H026	locust	NOUN	yes		grasshopper in its swarming phase, travelling in destructive clouds	Acrididae (part)
 H027	cricket	NOUN	yes			Gryllidae
 H028	praying mantis	NOUN	yes			Mantodea
 H029	cockroach	NOUN	yes			Blattodea (part)
@@ -860,15 +860,15 @@ H058	aquatic snail	NOUN	yes			Gastropoda (part)
 H059	shell (of snail)	NOUN	yes			
 H060	crab	NOUN	yes			Brachyura (Decapoda)
 H061	shrimp	NOUN	yes			Decapoda (part)
-H062	clam	NOUN	yes			Bivalvia (part)
-H063	mussel	NOUN	yes			Bivalvia (part)
+H062	clam	NOUN	yes		rounded bivalve that burrows in sand or mud	Bivalvia (part)
+H063	mussel	NOUN	yes		elongated bivalve that clings to rocks	Bivalvia (part)
 I001	spirit (greater)	NOUN	yes		God, the supreme being	
 I002	spirit (lower)	NOUN	yes		lesser god or spirit	
 I003	spirit (evil)	NOUN	yes			
 I004	soul (human)	NOUN	yes			
 I005	ghost	NOUN	yes			
 I005b	spirit of the dead	NOUN	yes		invisible spirit of a dead person, not a visible ghost	
-I006	heaven	NOUN	yes			
+I006	heaven	NOUN	yes		either heaven, (a) the dwelling of God or the gods above, or (b) paradise, the abode of the blessed dead	
 I007	underworld	NOUN	yes			
 I008	shrine	NOUN	yes			
 I009	altar	NOUN	yes			
@@ -885,9 +885,9 @@ I019	dream	NOUN	yes
 I020	omen	NOUN	yes			
 I021	taboo	NOUN	yes			
 I022	charm	NOUN	yes		amulet	
-I023	lots	NOUN	yes		lots cast for divination	
+I023	lots	NOUN	yes		objects (stones, cowries, bones, sticks) cast for divination	
 I024	evil eye	NOUN	yes	E N		
-I025	witchcraft	NOUN	yes			
+I025	witchcraft	NOUN	yes		harmful mystical power used against others, not divination or healing	
 I026	medicine	NOUN	yes			
 I027	poison	NOUN	yes			
 I028	healing ceremony	NOUN	yes			
@@ -917,7 +917,7 @@ I051	burn	NOUN	yes
 I052	welt	NOUN	yes		raised mark on the skin from a blow	
 I053	bruise	NOUN	yes			
 I054	scar	NOUN	yes			
-I055	blemish	NOUN	yes			
+I055	blemish	NOUN	yes		a mark or spot that spoils the skin, not a moral flaw	
 I056	pimple	NOUN	yes			
 I057	abscess	NOUN	yes			
 I058	swelling	NOUN	yes			
@@ -945,9 +945,9 @@ I075	miscarriage	NOUN	yes
 I076	corpse	NOUN	yes			
 I077	grave	NOUN	yes			
 I077b	cemetery	NOUN	yes			
-I078	funeral	NOUN	yes			
+I078	funeral	NOUN	yes		the burial and the rites around it	
 I079	meeting place	NOUN	yes		where people meet, e.g. under a tree	
-I080	feast	NOUN	yes		festive meal or festival	
+I080	feast	NOUN	yes		either feast, (a) festive meal, or (b) festival	
 I081	wedding	NOUN	yes			
 I082	brideprice	NOUN	yes		bridewealth paid to the bride's family	
 I083	law	NOUN	yes			
