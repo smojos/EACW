@@ -41,7 +41,7 @@ CTZMm	male Central Atlas Amazigh person	NOUN	no	N
 CSHI	Shilha person	NOUN	no	N	speakers of Tachelhit (ISO 639-3 shi); Tashelhit	
 CSHIf	female Shilha person	NOUN	no	N		
 CSHIm	male Shilha person	NOUN	no	N		
-CTMH	Tuareg person	NOUN	no	N W	speakers of Tamashek (ISO 639-3 tmh)	
+CTMH	Tuareg person	NOUN	no	N W	speakers of Tamashek (ISO 639-3 tmh); self-name Kel Tamasheq or Imuhagh	
 CTMHf	female Tuareg person	NOUN	no	N W		
 CTMHm	male Tuareg person	NOUN	no	N W		
 CBEJ	Beja person	NOUN	no	N E	speakers of Beja (ISO 639-3 bej)	
@@ -98,7 +98,7 @@ CORMm	male Oromo person	NOUN	no	E
 CTIR	Tigrayan person	NOUN	no	E	speakers of Tigrinya (ISO 639-3 tir); Tigrinya speakers, Tigrayan or Tigrinya	
 CTIRf	female Tigrayan person	NOUN	no	E		
 CTIRm	male Tigrayan person	NOUN	no	E		
-CTIG	Tigre person	NOUN	no	E	speakers of Tigre (ISO 639-3 tig)	
+CTIG	Tigre person	NOUN	no	E	speakers of Tigre (ISO 639-3 tig), of Eritrea and eastern Sudan; not Tigrayans	
 CTIGf	female Tigre person	NOUN	no	E		
 CTIGm	male Tigre person	NOUN	no	E		
 CSOM	Somali person	NOUN	no	E	speakers of Somali (ISO 639-3 som)	
@@ -155,10 +155,10 @@ CLUGm	male Ganda person	NOUN	no	E
 CNYN	Nyankole person	NOUN	no	E	speakers of Nyankole (ISO 639-3 nyn); Banyankole	
 CNYNf	female Nyankole person	NOUN	no	E		
 CNYNm	male Nyankole person	NOUN	no	E		
-CKIN	Rwanda person	NOUN	no	E C	speakers of Kinyarwanda (ISO 639-3 kin); Banyarwanda	
+CKIN	Rwanda person	NOUN	no	E C	speakers of Kinyarwanda (ISO 639-3 kin); Banyarwanda, in Rwanda, DR Congo and Uganda; not only citizens of Rwanda	
 CKINf	female Rwanda person	NOUN	no	E C		
 CKINm	male Rwanda person	NOUN	no	E C		
-CRUN	Rundi person	NOUN	no	E C	speakers of Rundi (ISO 639-3 run); Barundi	
+CRUN	Rundi person	NOUN	no	E C	speakers of Rundi (ISO 639-3 run); Barundi; not only citizens of Burundi	
 CRUNf	female Rundi person	NOUN	no	E C		
 CRUNm	male Rundi person	NOUN	no	E C		
 CSUK	Sukuma person	NOUN	no	E	speakers of Sukuma (ISO 639-3 suk)	
@@ -263,10 +263,10 @@ CFULm	male Fulani person	NOUN	no	W C N E
 CKAU	Kanuri person	NOUN	no	W C	speakers of Kanuri (ISO 639-3 kau)	
 CKAUf	female Kanuri person	NOUN	no	W C		
 CKAUm	male Kanuri person	NOUN	no	W C		
-CLIN	Bangala person	NOUN	no	C	speakers of Lingala (ISO 639-3 lin); Lingala speakers; Lingala is mostly a lingua franca	
+CLIN	Bangala person	NOUN	no	C	speakers of Lingala (ISO 639-3 lin) as a first language; not the separate Bangala language (bxg); Lingala is mostly a lingua franca	
 CLINf	female Bangala person	NOUN	no	C		
 CLINm	male Bangala person	NOUN	no	C		
-CKON	Kongo person	NOUN	no	C S	speakers of Kongo (ISO 639-3 kon); Bakongo	
+CKON	Kongo person	NOUN	no	C S	speakers of Kongo (ISO 639-3 kon); Bakongo; not a citizen of either Congo	
 CKONf	female Kongo person	NOUN	no	C S		
 CKONm	male Kongo person	NOUN	no	C S		
 CLUA	Luba-Kasai person	NOUN	no	C	speakers of Luba-Lulua (ISO 639-3 lua)	
@@ -275,7 +275,7 @@ CLUAm	male Luba-Kasai person	NOUN	no	C
 CLUB	Luba-Katanga person	NOUN	no	C S	speakers of Luba-Katanga (ISO 639-3 lub)	
 CLUBf	female Luba-Katanga person	NOUN	no	C S		
 CLUBm	male Luba-Katanga person	NOUN	no	C S		
-CSAG	Sango person	NOUN	no	C	speakers of Sango (ISO 639-3 sag)	
+CSAG	Sango person	NOUN	no	C	speakers of Sango (ISO 639-3 sag); the riverine Sango people, since Sango is mostly a lingua franca	
 CSAGf	female Sango person	NOUN	no	C		
 CSAGm	male Sango person	NOUN	no	C		
 CEWO	Ewondo person	NOUN	no	C	speakers of Ewondo (ISO 639-3 ewo)	
@@ -287,7 +287,7 @@ CBUMm	male Bulu person	NOUN	no	C
 CSBA	Ngambay person	NOUN	no	C	speakers of Ngambay (ISO 639-3 sba)	
 CSBAf	female Ngambay person	NOUN	no	C		
 CSBAm	male Ngambay person	NOUN	no	C		
-CAFR	Afrikaner person	NOUN	no	S	speakers of Afrikaans (ISO 639-3 afr)	
+CAFR	Afrikaner person	NOUN	no	S	speakers of Afrikaans (ISO 639-3 afr); Afrikaners, not all Afrikaans speakers, many of whom are Coloured	
 CAFRf	female Afrikaner person	NOUN	no	S		
 CAFRm	male Afrikaner person	NOUN	no	S		
 CZUL	Zulu person	NOUN	no	S	speakers of Zulu (ISO 639-3 zul)	
