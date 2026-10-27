@@ -1975,3 +1975,260 @@ RQTIM	متى		machine		when?
 RQRSN	لماذا		machine		why?	
 RQMAN	كيف		machine		how?	
 RQQNT	كم		machine		how many? how much?	
+V001	كان	فعل الكون؛ يُحذف في الجملة الاسمية في الزمن الحاضر	machine		to be	
+V002	وُجِدَ		machine		to exist, to be found	
+V003	وُجِدَ منفصلًا, انفصل		machine		to exist separately, to separate	
+V004	لم يوجد, انعدم		machine		to not exist, to cease to exist	
+V005	صار, أصبح		machine		to become	
+V006	كان عنده, مَلَكَ	تُعبَّر الملكية في العربية عادةً بـ«عند»	machine		to own, to have	
+V007	افتقر إلى, نقصه		machine		to lack	
+V008	ذهب		machine		to go	
+V009	جاء, أتى		machine		to come	
+V010	وصل		machine		to arrive	
+V011	اقترب, دنا		machine		to approach, to come near	
+V012	دخل		machine		to enter	
+V013	خرج		machine		to go out, to exit	
+V014	غادر, رحل		machine		to leave, to depart	
+V015	عاد, رجع		machine		to return, to come back	
+V016	مرّ بـ		machine		to pass by	
+V017	دار حول, التفّ حول		machine		to go around, to circle	
+V018	صعد, طلع		machine		to go up, to climb	
+V019	نزل, هبط		machine		to go down, to descend	
+V020	سقط, وقع		machine		to fall	
+V021	قام, نهض		machine		to stand up, to get up	
+V022	عبر (النهر)		machine		to cross (a river)	
+V023	اجتاز (أرضًا), قطع (أرضًا)		machine		to cross (land), to traverse (land)	
+V024	تحرّك		machine		to move	
+V024b	حركة		machine		movement	
+V025	سافر		machine		to travel	
+V026	هاجر, رحل		machine		to migrate, to move away	
+V027	تجوّل, هام		machine		to wander, to roam	
+V028	اختفى		machine		to disappear	
+V029	مشى (على قدميه)		machine		to walk (on foot)	
+V030	خطا (خطوةً)		machine		to step (take a step)	
+V031	جرى, ركض		machine		to run	
+V032	هرب, فرّ		machine		to flee, to escape	
+V033	أسرع, استعجل		machine		to hurry	
+V034	تعثّر		machine		to stumble	
+V035	عرج		machine		to limp	
+V036	زحف, حبا		machine		to crawl	
+V037	قفز, نطّ		machine		to jump	
+V038	استدار, التفت		machine		to turn around	
+V039	تأرجح		machine		to swing	
+V040	انزلق, تزحلق		machine		to slip, to slide	
+V041	تدحرج		machine		to roll	
+V042	سبح (على سطح الماء)		machine		to swim (on the surface of the water)	
+V043	سبح (في الماء)		machine		to swim (in the water)	
+V044	غطس		machine		to dive	
+V045	طفا		machine		to float	
+V046	غاص إلى القاع, غَرِقَ (الشيء)	غَرِقَ هنا للسفن والأشياء، لا بمعنى موت الإنسان غرقًا	machine		to sink (in water), to settle to the bottom	
+V047	غرق		machine		to drown	
+V048	طار		machine		to fly	
+V049	حلّق (في الجو)		machine		to soar	
+V050	جثم (على غصن), وقف (على غصن)		machine		to perch (on a branch)	
+V050b	حطّ (الطائر)		machine		to land, to alight (of a bird)	
+V051	جذّف		machine		to row	
+V052	نزح الماء (من القارب)		machine		to bail water (from a boat)	
+V053	انقلب (القارب)		machine		to capsize (of a boat)	
+V054	ركب		machine		to ride	
+V055	قاد, وجّه		machine		to lead, to steer	
+V056	سكن, أقام		machine		to live, to reside	
+V057	بقي, مكث		machine		to stay, to remain	
+V058	استراح, ارتاح		machine		to rest	
+V059	جلس, قعد		machine		to sit	
+V060	وقف		machine		to stand	
+V061	جثا (على ركبتيه)		machine		to kneel (on one's knees)	
+V062	قرفص, جلس القرفصاء		machine		to squat	
+V063	جلس منفرج الساقين على		machine		to sit astride	
+V064	اتّكأ على, استند إلى		machine		to lean on	
+V065	استلقى, رقد		machine		to lie down	
+V066	انحنى		machine		to bend over, to stoop	
+V067	انحنى (تحيةً)		machine		to bow (in greeting)	
+V068	تنفّس		machine		to breathe	
+V069	لهث		machine		to pant	
+V070	تثاءب		machine		to yawn	
+V071	رمش		machine		to blink	
+V072	غمز		machine		to wink	
+V073	شخر		machine		to snore	
+V074	تشمّم, استنشق		machine		to sniff, to inhale	
+V075	تمخّط		machine		to blow one's nose	
+V076	نفخ (بالفم)		machine		to blow (with the mouth)	
+V077	بصق, تفل		machine		to spit	
+V078	سعل, كحّ		machine		to cough	
+V079	تجشّأ, تكرّع		machine		to burp, to belch	
+V080	عطس		machine		to sneeze	
+V081	تأوّه, أنّ (من الألم)		machine		to groan, to moan (in pain)	
+V082	أنّ (من الجهد), زحر		machine		to grunt, to groan (from effort)	
+V083	خفق (القلب), نبض		machine		to beat (of the heart), to pulse	
+V084	نبض بالألم		machine		to throb with pain	
+V085	تبوّل		machine		to urinate	
+V086	تبرّز		machine		to defecate	
+V087	أخرج ريحًا, ضرط	ضرط لفظ صريح قد يُعدّ فظًّا	machine		to pass gas, to fart	
+V088	ارتجف, ارتعش		machine		to shiver, to tremble	
+V089	عَرِقَ		machine		to sweat	
+V090	نزف		machine		to bleed	
+V091	تخثّر, تجلّط		machine		to clot, to coagulate	
+V092	أُغمي عليه		machine		to faint	
+V093	تقيّأ, استفرغ		machine		to vomit	
+V094	نام		machine		to sleep	
+V095	استيقظ, صحا		machine		to wake up	
+V096	حَمَلَتْ	بصيغة المؤنث	machine		to become pregnant (she)	
+V097	وَلَدَتْ, وضعت	بصيغة المؤنث	machine		to give birth (she)	
+V098	وُلِدَ		machine		to be born	
+V099	كَبِرَ, نشأ		machine		to grow up	
+V100	شاخ, كَبِرَ في السن		machine		to grow old, to age	
+V101	مات		machine		to die	
+V102	نجا, بقي على قيد الحياة		machine		to survive	
+V103	أُصيب, تأذّى		machine		to be injured, to get hurt	
+V104	آذى, أوجع		machine		to hurt, to cause pain	
+V105	شُفِيَ, برئ		machine		to be healed, to recover	
+V106	شفى, عالج		machine		to heal, to treat	
+V107	أفاق, انتعش		machine		to recover consciousness, to revive	
+V108	نبح		machine		to bark	
+V109	زمجر, هرّ		machine		to growl, to snarl	
+V110	كشّر عن أنيابه		machine		to bare its teeth (fangs)	
+V111	اجترّ		machine		to chew the cud, to ruminate	
+V112	نقر		machine		to peck	
+V113	باض		machine		to lay eggs	
+V114	رقد على البيض, حضن		machine		to sit on eggs, to brood	
+V115	فقس		machine		to hatch	
+V116	قوقأ (الدجاجة)		machine		to cluck (of a hen)	
+V117	صاح (الديك)		machine		to crow (of a rooster)	
+V118	رفرف (بجناحيه)		machine		to flap (its wings)	
+V119	انساب, زحف (الأفعى)		machine		to slither (of a snake)	
+V120	فحّ (الأفعى)		machine		to hiss (of a snake)	
+V121	لدغ (العقرب), لسع		machine		to sting, to bite (of a snake/insect)	
+V122	نما (النبات)		machine		to grow	
+V123	نبت, برعم		machine		to sprout, to bud	
+V124	نضج		machine		to ripen	
+V125	ذبل		machine		to wither, to wilt	
+V126	تبخّر		machine		to evaporate	
+V127	جرى, سال		machine		to flow	
+V128	قطر, تقطّر		machine		to drip	
+V129	رشح, تسرّب		machine		to seep, to leak	
+V130	انفجر, انفقأ		machine		to burst	
+V131	انتفخ, تورّم		machine		to swell	
+V132	انتشر (الحريق)		machine		to spread (of a fire)	
+V133	لمع, أضاء		machine		to shine, to gleam	
+V134	بهت		machine		to fade	
+V135	أضاء, أشرق		machine		to shine (of the sun), to rise	
+V136	أظلم		machine		to get dark	
+V137	جفّ, يبس		machine		to dry up	
+V138	احترق		machine		to burn (be burned)	
+V139	اشتعل بلا لهب		machine		to smoulder	
+V140	ذاب		machine		to melt	
+V141	تجمّد		machine		to freeze	
+V142	لفح (بالنار), شيّط		machine		to singe, to scorch	
+V143	حفّ (أوراق الشجر), خشخش		machine		to rustle (of paper)	
+V144	صرّ, صأى		machine		to creak, to squeak	
+V145	هبّ (الريح)		machine		to blow (of the wind)	
+V146	أسقطته الريح		machine		to be blown down by the wind	
+V147	طار مع الريح, حملته الريح		machine		to be blown away by the wind	
+V148	رأى		machine		to see	
+V148b	بصر, رؤية		machine		sight, vision	
+V149	نظر		machine		to look	
+V150	لاحظ, انتبه		machine		to notice	
+V151	سمع		machine		to hear	
+V152	استمع, أصغى		machine		to listen	
+V153	شمّ		machine		to smell (something)	
+V154	ذاق		machine		to taste	
+V154b	طعم, مذاق		machine		taste, flavour	
+V155	شعر, أحسّ		machine		to feel	
+V156	لمس		machine		to touch	
+V157	عرف, تعرّف على		machine		to know, to recognize	
+V158	أكل		machine		to eat	
+V158b	وجبة		machine		meal	
+V159	أكل (اللحم)		machine		to eat (meat)	
+V160	مضغ		machine		to chew	
+V161	قرمش		machine		to crunch	
+V162	قرض, قضم		machine		to gnaw, to nibble	
+V163	عضّ		machine		to bite	
+V164	لعق, لحس		machine		to lick	
+V165	مصّ		machine		to suck	
+V166	بلع, ابتلع		machine		to swallow	
+V167	غصّ, اختنق		machine		to choke	
+V168	شرب		machine		to drink	
+V168b	مشروب		machine		drink, beverage	
+V169	رشف		machine		to sip	
+V170	ضرب		machine		to hit, to strike	
+V171	ضرب (مرارًا), جلد		machine		to beat (repeatedly), to whip	
+V172	صفع, لطم		machine		to slap	
+V173	صفّق		machine		to clap	
+V174	ركل, رفس		machine		to kick	
+V175	ضرب الأرض بقدمه		machine		to stamp one's foot (on the ground)	
+V176	داس, وطئ		machine		to step on, to tread on	
+V177	اصطدم بـ		machine		to bump into, to collide with	
+V178	أسقط, طرح أرضًا		machine		to knock down, to throw to the ground	
+V179	دفع		machine		to push	
+V180	ضغط		machine		to press	
+V181	سحب, شدّ		machine		to pull	
+V182	جرّ		machine		to drag	
+V183	فرك, دلك		machine		to rub	
+V184	كشط		machine		to scrape, to scratch	
+V185	خدش		machine		to scratch	
+V186	هزّ, رجّ		machine		to shake	
+V187	سحق, هرس		machine		to crush, to mash	
+V188	طعن		machine		to stab	
+V189	وخز		machine		to prick	
+V190	ثقب (الأذن)		machine		to pierce (the ear)	
+V191	جرح		machine		to wound	
+V192	قتل		machine		to kill	
+V193	قلع الأسنان الأمامية السفلى (عادةً)		machine		to extract the lower front teeth (as a custom)	
+V194	حمل (بين ذراعيه), احتضن		machine		to carry (in one's arms), to embrace	
+V195	أمسك (بيده)		machine		to hold (in one's hand)	
+V196	أخذ		machine		to take	
+V197	انتزع, خطف		machine		to snatch, to grab	
+V198	أخذ معه, ذهب به		machine		to take along, to take away	
+V199	وضع		machine		to put, to place	
+V200	التقط		machine		to pick up	
+V201	أوقع, أسقط		machine		to drop	
+V202	رفع		machine		to lift, to raise	
+V203	خفض, أنزل		machine		to lower, to bring down	
+V204	رمى إلى, قذف		machine		to throw (at/to), to hurl	
+V205	رمى, تخلّص من		machine		to throw away, to get rid of	
+V206	حمل		machine		to carry	
+V207	حمل (على رأسه)		machine		to carry (on one's head)	
+V208	حمل (على كتفه)		machine		to carry (on one's shoulder)	
+V209	حمل (على ظهره)		machine		to carry (on one's back)	
+V210	حمّل		machine		to load	
+V211	أنزل (الحمولة), فرّغ		machine		to unload (the cargo), to empty	
+V212	أحضر, جلب		machine		to bring	
+V213	أعطى		machine		to give	
+V214	أعار, أقرض		machine		to lend	
+V215	استعار, اقترض		machine		to borrow	
+V216	قدّم, عرض		machine		to offer, to present	
+V217	قبل		machine		to accept	
+V218	رفض		machine		to refuse	
+V219	حصل على, نال		machine		to get, to obtain	
+V220	أرجع, ردّ		machine		to give back, to return	
+V221	احتفظ بـ, حفظ		machine		to keep	
+V222	خزّن, ادّخر		machine		to store, to save up	
+V223	أخفى, خبّأ		machine		to hide, to conceal	
+V224	أضاع, فقد		machine		to lose	
+V225	بحث عن, فتّش عن		machine		to look for, to search for	
+V226	وجد, عثر على		machine		to find	
+V227	ترك, خلّف		machine		to leave, to leave behind	
+V228	حرس		machine		to guard	
+V229	قطع		machine		to cut	
+V230	شقّ لحاء الشجرة لتثمر		machine		to slit the bark of a tree to make it bear fruit	
+V231	قطع (شجرة)		machine		to cut down (a tree), to fell	
+V232	قطّع		machine		to cut up, to chop into pieces	
+V233	شقّ, فلق		machine		to split, to cleave	
+V234	نشر (بالمنشار)	بالمنشار، لا بمعنى البسط	machine		to saw (with a saw)	
+V235	جوّف (جذعًا)		machine		to hollow out (a log)	
+V236	قصف (العود), كسر		machine		to break, to snap	
+V237	مزّق		machine		to tear, to rip	
+V238	قشر (اللحاء), نزع (اللحاء)		machine		to peel (bark), to strip (bark)	
+V239	ثنى (غصنًا), حنى		machine		to bend (a branch)	
+V239b	انحناء, منعطف		machine		bend, curve	
+V240	لوى, فتل		machine		to twist	
+V241	طوى		machine		to fold	
+V242	لفّ (حبلًا)		machine		to wind (a rope), to coil (a rope)	
+V243	شدّ (الجلد)		machine		to stretch (the hide), to pull taut (skin)	
+V244	بسط, فرش		machine		to spread out	
+V245	علّق		machine		to hang	
+V246	قلب, أدار		machine		to turn over, to flip	
+V247	فتح		machine		to open	
+V248	أغلق, سدّ		machine		to close, to shut	
+V249	غطّى		machine		to cover	
+V250	كشف, أزال الغطاء		machine		to uncover, to remove the cover	

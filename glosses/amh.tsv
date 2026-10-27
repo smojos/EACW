@@ -1975,3 +1975,260 @@ RQTIM	መቼ		machine		when?
 RQRSN	ለምን		machine		why? (lit. for what)	
 RQMAN	እንዴት		machine		how? (in what manner)	
 RQQNT	ስንት		machine		how many?; how much?	
+V001	ነው		machine		to be (copula: he/it is)	
+V002	አለ		machine		to exist, to be there	
+V003	ለብቻው ኖረ		machine		to live alone	
+V004	የለም		machine		to not exist, to be absent	
+V005	ሆነ		machine		to become	
+V006	አለው		machine		to have	
+V007	አጣ		machine		to lack	
+V008	ሄደ		machine		to go	
+V009	መጣ		machine		to come	
+V010	ደረሰ		machine		to arrive	
+V011	ቀረበ		machine		to approach	
+V012	ገባ		machine		to enter	
+V013	ወደ ውጭ ወጣ		machine		to go out, to exit	
+V014	ለቆ ሄደ		machine		to leave, to depart	
+V015	ተመለሰ		machine		to return	
+V016	አጠገቡ አለፈ		machine		to pass	
+V017	ዞሮ ሄደ		machine		to go around	
+V018	ወደ ላይ ወጣ		machine		to go up, to climb	
+V019	ወረደ		machine		to go down, to descend	
+V020	ወደቀ		machine		to fall	
+V021	ተነሳ		machine		to get up, to rise	
+V022	ወንዝ ተሻገረ		machine		to cross over	
+V023	ሜዳ አቋረጠ		machine		to cross, to cut across	
+V024	ተንቀሳቀሰ		machine		to move	
+V024b	እንቅስቃሴ		machine		movement	
+V025	ተጓዘ		machine		to travel	
+V026	ፈለሰ		machine		to migrate	
+V027	ተንከራተተ		machine		to wander	
+V028	ጠፋ		machine		to get lost	
+V029	በእግሩ ሄደ		machine		to go on foot	
+V030	ተራመደ		machine		to step, to tread	
+V031	ሮጠ		machine		to run	
+V032	ሸሸ, አመለጠ		machine		to flee, to escape	
+V033	ቸኮለ		machine		to hurry	
+V034	ተደናቀፈ		machine		to stumble	
+V035	አነከሰ		machine		to limp	
+V036	ዳኸ, ተሳበ		machine		to crawl	
+V037	ዘለለ		machine		to jump	
+V038	ዞር አለ		machine		to turn (aside)	
+V039	ተወዛወዘ		machine		to swing	
+V040	ተንሸራተተ		machine		to slide	
+V041	ተንከባለለ		machine		to roll	
+V042	ውሃ ላይ ዋኘ		machine		to swim on the surface of the water	
+V043	ውሃ ውስጥ ዋኘ		machine		to swim under water	
+V044	ውሃ ውስጥ ዘሎ ገባ, ጠለቀ		machine		to dive	
+V045	ተንሳፈፈ		machine		to float	
+V046	ሰመጠ	ለጀልባና ለዕቃ ነው፤ በውሃ ሰጥሞ መሞት አይደለም።	machine		to sink	
+V047	ሰጥሞ ሞተ		machine		to drown (die by sinking)	
+V048	በረረ		machine		to fly	
+V049	ከፍ ብሎ በረረ		machine		to fly high	
+V050	ቅርንጫፍ ላይ ተቀመጠ		machine		to perch on a branch	
+V050b	አረፈ (ወፍ)		machine		to land, to alight	
+V051	ቀዘፈ		machine		to paddle, to row	
+V052	ከጀልባ ውሃ ቀዳ		machine		to bail water out of a boat	
+V053	ተገለበጠ		machine		to capsize, to overturn	
+V054	ጋለበ, ተሳፈረ		machine		to ride (an animal); to board	
+V055	መራ, ነዳ		machine		to lead; to drive	
+V056	ኖረ		machine		to live, to dwell	
+V057	ቆየ		machine		to stay	
+V058	አረፈ		machine		to rest	
+V059	ተቀመጠ		machine		to sit, to sit down	
+V060	ቆመ		machine		to stand	
+V061	ተንበረከከ		machine		to kneel	
+V062	ቁጢጥ አለ		machine		to squat	
+V063	ተፈናጠጠ		machine		to perch, to sit astride	
+V064	ተደገፈ		machine		to lean	
+V065	ጋደም አለ		machine		to lie down (briefly)	
+V066	አጎነበሰ		machine		to bow, to stoop	
+V067	እጅ ነሳ		machine		to bow (in greeting)	
+V068	ተነፈሰ		machine		to breathe	
+V069	ቁና ቁና ተነፈሰ		machine		to pant	
+V070	አዛጋ		machine		to yawn	
+V071	አይኑን አርገበገበ		machine		to blink	
+V072	አይኑን ጠቀሰ		machine		to wink	
+V073	አንኮራፋ		machine		to snore	
+V074	አነፈነፈ		machine		to sniff	
+V075	ተናፈጠ		machine		to blow one's nose	
+V076	እፍ አለ		machine		to blow (with the mouth)	
+V077	ተፋ		machine		to spit	
+V078	ሳለ		machine		to cough	
+V079	አገሳ (ከበላ በኋላ)		machine		to roar	
+V080	አስነጠሰ		machine		to sneeze	
+V081	አቃሰተ		machine		to groan	
+V082	በጥረት አቃሰተ, እህ አለ		machine		to grumble	
+V083	ልቡ መታ		machine		his heart beat	
+V084	ጠዘጠዘ		machine		to throb (with pain)	
+V085	ሸና		machine		to urinate	
+V086	ተጸዳዳ, አራ	አራ ጨዋ ያልሆነ ቃል ነው።	machine		to defecate	
+V087	ፈሳ	ጨዋ ያልሆነ ቃል ሊሆን ይችላል።	machine		to fart	
+V088	ተንቀጠቀጠ		machine		to shiver, to tremble	
+V089	አላበ		machine		to sweat	
+V090	ደማ		machine		to bleed	
+V091	ረጋ		machine		to clot, to coagulate	
+V092	ራሱን ሳተ		machine		to faint	
+V093	አስመለሰ		machine		to vomit	
+V094	ተኛ		machine		to sleep	
+V095	ነቃ		machine		to wake up	
+V096	ጸነሰች, አረገዘች		machine		to conceive, to become pregnant (she)	
+V097	ወለደች		machine		to give birth (she)	
+V098	ተወለደ		machine		to be born	
+V099	አደገ		machine		to grow (up)	
+V100	ሸመገለ, አረጀ		machine		to grow old, to age	
+V101	ሞተ		machine		to die	
+V102	በሕይወት ተረፈ		machine		to survive	
+V103	ተጎዳ, ቆሰለ		machine		to be hurt, to be wounded	
+V104	ጎዳ		machine		to harm, to hurt	
+V105	ዳነ		machine		to recover, to heal	
+V106	ፈወሰ, አዳነ		machine		to heal, to cure	
+V107	ነፍስ ዘራ		machine		to revive, to come back to life	
+V108	ጮኸ (ውሻ)		machine		to bark (of a dog)	
+V109	አጉረመረመ		machine		to growl	
+V110	ጥርሱን አገጠጠ		machine		to bare one's teeth	
+V111	አመሰኳ		machine		to chew the cud, to ruminate	
+V112	በመንቁሩ ለቀመ		machine		to pick up (bit by bit), to glean	
+V113	እንቁላል ጣለች		machine		to lay an egg (she)	
+V114	እንቁላል ታቀፈች		machine		to brood, to sit on eggs (she)	
+V115	ተፈለፈለ		machine		to hatch	
+V116	አስካካች		machine		to cackle (she, of a hen)	
+V117	ጮኸ (አውራ ዶሮ)		machine		to crow (of a rooster)	
+V118	ክንፉን አርገበገበ		machine		to flap its wings	
+V119	እንደ እባብ ተሳበ		machine		to crawl	
+V120	ቱሽ አለ		machine		to hiss	
+V121	ነደፈ (ጊንጥ)		machine		to sting	
+V122	አደገ (ተክል)		machine		to grow	
+V123	በቀለ		machine		to sprout, to germinate	
+V124	በሰለ		machine		to ripen	
+V125	ጠወለገ		machine		to wither, to wilt	
+V126	ተነነ		machine		to evaporate	
+V127	ፈሰሰ		machine		to flow	
+V128	ተንጠባጠበ		machine		to drip	
+V129	አፈሰሰ (ጣሪያ፣ ዕቃ)		machine		to pour	
+V130	ፈነዳ		machine		to burst	
+V131	አበጠ		machine		to swell	
+V132	ተዛመተ (እሳት)		machine		to spread	
+V133	አበራ		machine		to shine	
+V134	ደበዘዘ, ፈዘዘ		machine		to become dim, to fade	
+V135	በራ		machine		to shine, to light up	
+V136	ጨለመ		machine		to get dark	
+V137	ደረቀ		machine		to dry, to become dry	
+V138	ተቃጠለ, ነደደ		machine		to burn	
+V139	ሳይነድ ጨሰ		machine		to smoke, to emit smoke	
+V140	ቀለጠ		machine		to melt	
+V141	በረዶ ሆነ		machine		to freeze	
+V142	ለበለበ		machine		to singe	
+V143	ተንኮሻኮሸ (ቅጠል)		machine		to rustle	
+V144	ሲጢጥ አለ		machine		to creak, to squeak	
+V145	ነፈሰ		machine		to blow (of wind)	
+V146	ነፋስ ጣለ		machine		the wind knocked (it) down	
+V147	ነፋስ ወሰደ		machine		the wind carried (it) away	
+V148	አየ		machine		to see	
+V148b	የማየት ችሎታ, እይታ		machine		sight, view	
+V149	ተመለከተ		machine		to look at	
+V150	አስተዋለ		machine		to notice, to observe	
+V151	ሰማ		machine		to hear	
+V152	አዳመጠ		machine		to listen	
+V153	አሸተተ		machine		to smell (something)	
+V154	ቀመሰ		machine		to taste	
+V154b	ጣዕም		machine		taste	
+V155	ተሰማው	ስሜት ሲሰማው እንጂ በመንካት አይደለም።	machine		to feel	
+V156	ነካ		machine		to touch	
+V157	ለይቶ አወቀ		machine		to recognize	
+V158	በላ		machine		to eat	
+V158b	ምግብ		machine		food	
+V159	ሥጋ በላ		machine		to eat meat	
+V160	አኘከ		machine		to chew	
+V161	ቆረጠመ		machine		to crunch	
+V162	ጋጠ (አጥንት)		machine		to graze	
+V163	ነከሰ		machine		to bite	
+V164	ላሰ		machine		to lick	
+V165	መጠጠ		machine		to suck	
+V166	ዋጠ		machine		to swallow	
+V167	ታነቀ		machine		to choke	
+V168	ጠጣ		machine		to drink	
+V168b	መጠጥ		machine		drink	
+V169	ፉት አለ		machine		to sip	
+V170	መታ		machine		to hit, to strike	
+V171	ደበደበ		machine		to beat (repeatedly)	
+V172	በጥፊ መታ		machine		to slap	
+V173	አጨበጨበ		machine		to clap (hands)	
+V174	በእግሩ መታ		machine		to kick	
+V175	መሬቱን በእግሩ መታ		machine		to stamp one's foot on the ground	
+V176	ረጋገጠ		machine		to trample	
+V177	ተጋጨ		machine		to collide	
+V178	ገፍትሮ ጣለ		machine		to throw down, to drop	
+V179	ገፋ		machine		to push	
+V180	ተጫነ		machine		to press (down)	
+V181	ሳበ		machine		to pull	
+V182	ጎተተ		machine		to drag	
+V183	አሻሸ		machine		to rub	
+V184	ፋቀ		machine		to scrape	
+V185	ቧጨረ		machine		to scratch	
+V186	ነቀነቀ		machine		to shake	
+V187	ጨፈለቀ		machine		to crush, to squash	
+V188	በጩቤ ወጋ		machine		to stab with a knife	
+V189	በእሾህ ወጋ		machine		to pierce, to stab	
+V190	ጆሮ በሳ		machine		to pierce the ear(s)	
+V191	አቆሰለ		machine		to wound	
+V192	ገደለ		machine		to kill	
+V193	የታችኛውን የፊት ጥርስ ነቀለ		machine		to pull out a tooth, to extract a tooth	
+V194	በእቅፉ ያዘ, ታቀፈ		machine		to embrace, to hug	
+V195	በእጁ ያዘ		machine		to hold	
+V196	ወሰደ		machine		to take	
+V197	ነጠቀ, ቀማ		machine		to snatch, to rob	
+V198	ይዞ ሄደ		machine		to take along, to carry away	
+V199	አስቀመጠ		machine		to put, to place	
+V200	አነሳ		machine		to lift, to pick up	
+V201	አወደቀ, ጣለ		machine		to drop, to throw	
+V202	ከፍ አደረገ		machine		to raise	
+V203	ዝቅ አደረገ		machine		to lower	
+V204	ወረወረለት		machine		to throw, to toss	
+V205	ጣለ		machine		to throw away	
+V206	ተሸከመ		machine		to carry	
+V207	በራሱ ላይ ተሸከመ		machine		to carry on the head	
+V208	በትከሻው ተሸከመ		machine		to carry on the shoulder	
+V209	አዘለ, በጀርባው ተሸከመ		machine		to carry on the back	
+V210	ጫነ		machine		to load	
+V211	አወረደ		machine		to unload	
+V212	አመጣ		machine		to bring	
+V213	ሰጠ		machine		to give	
+V214	አዋሰ, አበደረ		machine		to lend	
+V215	ተዋሰ, ተበደረ		machine		to borrow	
+V216	አቀረበ		machine		to offer	
+V217	ተቀበለ		machine		to receive	
+V218	እምቢ አለ		machine		to refuse	
+V219	አገኘ		machine		to get, to obtain	
+V220	መለሰ		machine		to return (something), to give back	
+V221	አቆየ		machine		to keep	
+V222	አከማቸ		machine		to store up, to accumulate	
+V223	ደበቀ		machine		to hide (something)	
+V224	አጣ		machine		to lose	
+V225	ፈለገ		machine		to look for, to search	
+V226	አገኘ		machine		to find	
+V227	ትቶ ሄደ		machine		to abandon, to leave behind	
+V228	ዘብ ጠበቀ		machine		to wait	
+V229	ቆረጠ		machine		to cut	
+V230	ፍሬ እንዲያፈራ ዛፍ ሸረፈ		machine		to prune a tree so that it bears fruit	
+V231	ዛፍ ቆረጠ		machine		to cut down a tree	
+V232	ከተፈ		machine		to chop	
+V233	ሰነጠቀ, ፈለጠ		machine		to split	
+V234	በመጋዝ ቆረጠ		machine		to saw	
+V235	ፈለፈለ		machine		to hollow out, to carve out	
+V236	ሰበረ, በጠሰ		machine		to break	
+V237	ቀደደ		machine		to tear	
+V238	ቅርፊት ላጠ, ቀረፈ		machine		to shave; to peel	
+V239	አጣመመ		machine		to bend	
+V239b	ኩርባ		machine		curve	
+V240	ጠመዘዘ		machine		to twist	
+V241	አጠፈ		machine		to fold	
+V242	ጠመጠመ		machine		to wind, to wrap around	
+V243	ወጠረ		machine		to stretch tight	
+V244	ዘረጋ, አሰጣ		machine		to spread out	
+V245	ሰቀለ		machine		to hang	
+V246	ገለበጠ		machine		to turn over	
+V247	ከፈተ		machine		to open	
+V248	ዘጋ		machine		to close	
+V249	ሸፈነ, ከደነ		machine		to cover	
+V250	ገለጠ		machine		to uncover, to reveal	

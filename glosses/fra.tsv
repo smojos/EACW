@@ -1975,3 +1975,260 @@ RQTIM	quand ?		machine		when?
 RQRSN	pourquoi ?		machine		why?	
 RQMAN	comment ?		machine		how?	
 RQQNT	combien ?		machine		how many? how much?	
+V001	être		machine		to be	
+V002	exister		machine		to exist	
+V003	exister séparément, être séparé		machine		to exist separately, to be apart	
+V004	ne pas exister		machine		not to exist	
+V005	devenir		machine		to become	
+V006	avoir, posséder		machine		to have, to own	
+V007	manquer (de)		machine		to lack	
+V008	aller		machine		to go	
+V009	venir		machine		to come	
+V010	arriver		machine		to arrive	
+V011	s'approcher		machine		to approach	
+V012	entrer		machine		to enter	
+V013	sortir		machine		to go out	
+V014	partir, quitter		machine		to leave, to depart	
+V015	revenir, retourner		machine		to come back, to return	
+V016	passer (devant), passer à côté		machine		to pass (in front of), to pass by	
+V017	contourner, faire un détour		machine		to go around, to make a detour	
+V018	monter		machine		to go up	
+V019	descendre		machine		to go down	
+V020	tomber		machine		to fall	
+V021	se lever		machine		to get up	
+V022	traverser (un cours d'eau)		machine		to cross (a watercourse)	
+V023	traverser (par voie de terre)		machine		to cross (overland)	
+V024	bouger, se déplacer		machine		to move, to move about	
+V024b	mouvement		machine		movement	
+V025	voyager		machine		to travel	
+V026	migrer, émigrer		machine		to migrate, to emigrate	
+V027	errer, vagabonder		machine		to wander, to roam	
+V028	disparaître		machine		to disappear	
+V029	marcher		machine		to walk	
+V030	faire un pas		machine		to take a step	
+V031	courir		machine		to run	
+V032	s'enfuir, fuir		machine		to flee, to run away	
+V033	se dépêcher, se presser		machine		to hurry, to hasten	
+V034	trébucher		machine		to stumble	
+V035	boiter		machine		to limp	
+V036	ramper		machine		to crawl	
+V037	sauter		machine		to jump	
+V038	se retourner		machine		to turn around	
+V039	se balancer		machine		to swing	
+V040	glisser		machine		to slide	
+V041	rouler		machine		to roll	
+V042	nager (à la surface de l'eau)		machine		to swim (on the surface of the water)	
+V043	nager (dans l'eau)		machine		to swim (in the water)	
+V044	plonger		machine		to dive	
+V045	flotter		machine		to float	
+V046	couler (au fond), sombrer		machine		to sink, to go down	
+V047	se noyer		machine		to drown	
+V048	voler (dans l'air)	se déplacer dans l'air, et non « dérober »	machine		to fly (in the air)	
+V049	planer		machine		to glide, to soar	
+V050	se percher		machine		to perch	
+V050b	se poser (oiseau)		machine		to land, to alight (bird)	
+V051	pagayer		machine		to paddle	
+V052	écoper (une pirogue)		machine		to bail (a canoe)	
+V053	chavirer		machine		to capsize	
+V054	monter (un animal), aller (en véhicule)		machine		to ride (an animal), to go (by vehicle)	
+V055	diriger, conduire (pirogue, véhicule, animal)		machine		to lead, to drive	
+V056	habiter, demeurer		machine		to live, to dwell	
+V057	rester		machine		to stay	
+V058	se reposer		machine		to rest	
+V059	s'asseoir		machine		to sit down	
+V060	se tenir debout, être debout		machine		to stand, to be standing	
+V061	s'agenouiller		machine		to kneel	
+V062	s'accroupir		machine		to squat	
+V063	se mettre à califourchon (sur)		machine		to straddle, to step over	
+V064	s'appuyer (contre)		machine		to lean (against)	
+V065	se coucher, s'allonger		machine		to lie down	
+V066	se pencher, se baisser		machine		to lean over, to bend down	
+V067	s'incliner (pour saluer)		machine		to bow (in greeting)	
+V068	respirer		machine		to breathe	
+V069	haleter		machine		to pant	
+V070	bâiller		machine		to yawn	
+V071	cligner des yeux		machine		to blink	
+V072	faire un clin d'œil		machine		to wink	
+V073	ronfler		machine		to snore	
+V074	renifler		machine		to sniff	
+V075	se moucher		machine		to blow one's nose	
+V076	souffler		machine		to blow	
+V077	cracher		machine		to spit	
+V078	tousser		machine		to cough	
+V079	roter, éructer	« roter » est familier	machine		to burp, to belch	
+V080	éternuer		machine		to sneeze	
+V081	gémir (de douleur)		machine		to groan (in pain)	
+V082	ahaner, grogner (sous l'effort)		machine		to grunt (with effort)	
+V083	battre (cœur)		machine		to beat (heart)	
+V084	lanciner, faire des élancements		machine		to throb, to have shooting pains	
+V085	uriner	« pisser » est vulgaire	machine		to urinate	
+V086	déféquer, aller à la selle	« chier » est vulgaire	machine		to defecate, to have a bowel movement	
+V087	lâcher un vent, péter	« péter » est familier	machine		to break wind, to fart	
+V088	frissonner, trembler		machine		to shiver, to tremble	
+V089	transpirer, suer		machine		to sweat, to perspire	
+V090	saigner		machine		to bleed	
+V091	coaguler, cailler (sang)		machine		to clot, to curdle (blood)	
+V092	s'évanouir		machine		to faint	
+V093	vomir		machine		to vomit	
+V094	dormir		machine		to sleep	
+V095	se réveiller		machine		to wake up	
+V096	tomber enceinte		machine		to become pregnant	
+V097	accoucher, donner naissance		machine		to give birth	
+V098	naître		machine		to be born	
+V099	grandir		machine		to grow up	
+V100	vieillir		machine		to grow old	
+V101	mourir		machine		to die	
+V102	survivre		machine		to survive	
+V103	se blesser, être blessé		machine		to get hurt, to be injured	
+V104	faire mal (à), blesser		machine		to hurt, to injure	
+V105	guérir, se rétablir		machine		to heal, to recover	
+V106	guérir (quelqu'un), soigner		machine		to cure (someone), to treat	
+V107	reprendre connaissance, revenir à la vie		machine		to regain consciousness, to come back to life	
+V108	aboyer		machine		to bark	
+V109	grogner (animal)		machine		to growl (animal)	
+V110	montrer les dents		machine		to bare one's teeth	
+V111	ruminer		machine		to chew the cud, to ruminate	
+V112	picorer, becqueter		machine		to peck	
+V113	pondre (des œufs)		machine		to lay (eggs)	
+V114	couver		machine		to brood, to incubate	
+V115	éclore		machine		to hatch	
+V116	caqueter, glousser		machine		to cluck, to cackle	
+V117	chanter (coq)		machine		to crow (rooster)	
+V118	battre des ailes		machine		to flap one's wings	
+V119	ramper en ondulant, onduler (serpent)		machine		to slither, to undulate (snake)	
+V120	siffler (serpent)		machine		to hiss (snake)	
+V121	piquer (scorpion)		machine		to sting (scorpion)	
+V122	pousser (plante), croître		machine		to grow (plant)	
+V123	germer, bourgeonner		machine		to sprout, to bud	
+V124	mûrir		machine		to ripen	
+V125	se faner, se flétrir		machine		to wilt, to wither	
+V126	s'évaporer		machine		to evaporate	
+V127	couler, s'écouler		machine		to flow	
+V128	goutter, dégoutter		machine		to drip	
+V129	fuir (liquide)		machine		to leak (liquid)	
+V130	éclater		machine		to burst	
+V131	enfler, gonfler		machine		to swell	
+V132	se propager (feu), se répandre		machine		to spread (fire)	
+V133	briller		machine		to shine	
+V134	pâlir, se décolorer		machine		to turn pale, to fade	
+V135	devenir lumineux, s'éclaircir		machine		to clear up, to become clear	
+V136	s'assombrir, s'obscurcir		machine		to darken, to grow dark	
+V137	sécher, se dessécher		machine		to dry, to dry up	
+V138	brûler, flamber		machine		to burn, to blaze	
+V139	se consumer sans flamme, couver (feu)		machine		to smoulder	
+V140	fondre		machine		to melt	
+V141	geler		machine		to freeze	
+V142	roussir, brûler légèrement		machine		to scorch, to singe	
+V143	bruire (feuilles)		machine		to rustle (leaves)	
+V144	couiner, grincer		machine		to squeak, to creak	
+V145	souffler (vent)		machine		to blow (wind)	
+V146	renverser, abattre (vent)		machine		to knock down, to blow down (wind)	
+V147	emporter (vent), s'envoler		machine		to blow away (wind), to fly away	
+V148	voir		machine		to see	
+V148b	vue		machine		sight	
+V149	regarder		machine		to look (at)	
+V150	remarquer, s'apercevoir (de)		machine		to notice	
+V151	entendre		machine		to hear	
+V152	écouter		machine		to listen (to)	
+V153	sentir (une odeur)		machine		to smell (an odour)	
+V154	goûter		machine		to taste	
+V154b	goût		machine		taste	
+V155	ressentir, sentir		machine		to feel	
+V156	toucher		machine		to touch	
+V157	reconnaître		machine		to recognize	
+V158	manger		machine		to eat	
+V158b	repas		machine		meal	
+V159	manger (de la viande)		machine		to eat (meat)	
+V160	mâcher		machine		to chew	
+V161	croquer		machine		to crunch, to bite into	
+V162	ronger		machine		to gnaw	
+V163	mordre		machine		to bite	
+V164	lécher		machine		to lick	
+V165	sucer		machine		to suck	
+V166	avaler		machine		to swallow	
+V167	s'étrangler, s'étouffer		machine		to choke	
+V168	boire		machine		to drink	
+V168b	boisson		machine		drink	
+V169	siroter, boire à petites gorgées		machine		to sip	
+V170	frapper		machine		to hit, to strike	
+V171	battre, frapper à coups répétés		machine		to beat, to strike repeatedly	
+V172	gifler		machine		to slap	
+V173	applaudir, battre des mains		machine		to applaud, to clap one's hands	
+V174	donner un coup de pied		machine		to kick	
+V175	taper du pied		machine		to stamp one's foot	
+V176	piétiner		machine		to trample	
+V177	heurter, se cogner (contre)		machine		to bump into, to knock (against)	
+V178	renverser, faire tomber		machine		to knock over, to make fall	
+V179	pousser		machine		to push	
+V180	presser, appuyer (sur)		machine		to press (on)	
+V181	tirer		machine		to pull	
+V182	traîner		machine		to drag	
+V183	frotter		machine		to rub	
+V184	racler, gratter		machine		to scrape, to scratch	
+V185	gratter, égratigner		machine		to scratch	
+V186	secouer		machine		to shake	
+V187	écraser		machine		to crush	
+V188	poignarder		machine		to stab	
+V189	piquer		machine		to prick, to sting	
+V190	percer (les oreilles)		machine		to pierce (the ears)	
+V191	blesser		machine		to wound, to injure	
+V192	tuer		machine		to kill	
+V193	arracher les incisives inférieures (coutume)		machine		to pull out the lower incisors (custom)	
+V194	tenir dans les bras		machine		to hold in one's arms	
+V195	tenir (à la main)		machine		to hold (in the hand)	
+V196	prendre		machine		to take	
+V197	saisir, arracher		machine		to seize, to snatch	
+V198	emporter, emmener		machine		to take away, to carry off (things), to take (someone) along	
+V199	poser, déposer		machine		to put down, to set down	
+V200	ramasser		machine		to pick up	
+V201	laisser tomber, lâcher		machine		to drop, to let go	
+V202	lever, soulever		machine		to raise, to lift	
+V203	baisser, abaisser		machine		to lower	
+V204	lancer (à quelqu'un)		machine		to throw (at)	
+V205	jeter, se débarrasser de		machine		to throw	
+V206	porter		machine		to carry	
+V207	porter sur la tête		machine		to carry on the head	
+V208	porter sur l'épaule		machine		to carry on the shoulder	
+V209	porter sur le dos		machine		to carry on the back	
+V210	charger		machine		to load	
+V211	décharger		machine		to unload	
+V212	apporter, amener		machine		to bring	
+V213	donner		machine		to give	
+V214	prêter		machine		to lend	
+V215	emprunter		machine		to borrow	
+V216	offrir		machine		to offer	
+V217	accepter, recevoir		machine		to accept, to receive	
+V218	refuser, rejeter		machine		to refuse, to reject	
+V219	obtenir		machine		to obtain	
+V220	rendre		machine		to give back, to return	
+V221	garder, conserver		machine		to keep, to retain	
+V222	mettre en réserve, stocker		machine		to store, to put aside	
+V223	cacher		machine		to hide	
+V224	perdre		machine		to lose	
+V225	chercher		machine		to look for, to search	
+V226	trouver		machine		to find	
+V227	laisser (derrière soi), abandonner		machine		to leave, to abandon	
+V228	surveiller, garder		machine		to watch over, to guard	
+V229	couper		machine		to cut	
+V230	entailler un arbre (pour qu'il donne des fruits)		machine		to cut a notch in a tree (so it bears fruit)	
+V231	abattre (un arbre)		machine		to fell (a tree)	
+V232	hacher, couper en morceaux		machine		to chop, to cut into pieces	
+V233	fendre		machine		to split	
+V234	scier		machine		to saw	
+V235	creuser, évider (un tronc)		machine		to hollow out (a trunk)	
+V236	casser (net), rompre		machine		to break (clean off), to snap	
+V237	déchirer		machine		to tear	
+V238	écorcer		machine		to strip bark, to debark	
+V239	courber, ployer (une branche)		machine		to bend (a branch)	
+V239b	courbe		machine		curve	
+V240	tordre		machine		to twist	
+V241	plier		machine		to fold	
+V242	enrouler (une corde)		machine		to coil (a rope)	
+V243	tendre (une peau)		machine		to stretch (a hide)	
+V244	étaler		machine		to spread out	
+V245	accrocher, suspendre		machine		to hang (up), to suspend	
+V246	tourner, retourner (quelque chose)		machine		to turn, to turn over (something)	
+V247	ouvrir		machine		to open	
+V248	fermer		machine		to close	
+V249	couvrir		machine		to cover	
+V250	découvrir (ôter ce qui couvre)		machine		to uncover, to take the lid off	
