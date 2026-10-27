@@ -1,0 +1,345 @@
+ref	gloss	clarification	status	checked_by	back_translation	earlier
+A001	corps		machine		body	
+A002	peau		machine		skin	
+A002b	ride		machine		wrinkle	
+A003	cheveu, poil		machine		hair (single), body hair	
+A003b	poil (du corps)		machine		body hair	
+A003c	touffe (de cheveux)		machine		tuft (of hair)	
+A004	os		machine		bone	
+A004b	squelette		machine		skeleton	
+A005	muscle		machine		muscle	
+A006	tendon		machine		tendon	
+A007	sang		machine		blood	
+A008	vaisseau sanguin, veine		machine		blood vessel, vein	
+A009	tête		machine		head	
+A009b	dessus		machine		top (upper side/surface)	
+A010	sommet du crâne		machine		crown/top of the head	
+A011	crâne		machine		skull	
+A012	cerveau		machine		brain	
+A013	front		machine		forehead	
+A014	visage		machine		face	
+A014b	devant (d'un objet)		machine		front (of an object)	
+A015	œil		machine		eye	
+A016	pupille		machine		pupil (of the eye)	
+A017	iris		machine		iris	
+A018	sourcil		machine		eyebrow	
+A019	paupière		machine		eyelid	
+A020	cil		machine		eyelash	
+A021	larme		machine		tear (teardrop)	
+A022	oreille		machine		ear	
+A023	conduit auditif		machine		ear canal	
+A024	lobe de l'oreille		machine		earlobe	
+A025	cire d'oreille, cérumen		machine		earwax	
+A026	nez		machine		nose	
+A027	narine		machine		nostril	
+A028	arête du nez		machine		bridge of the nose	
+A029	morve		machine		snot	
+A030	joue		machine		cheek	
+A030a	haut de la joue, pommette		machine		cheekbone	
+A030b	bas de la joue		machine		lower cheek	
+A031	bouche		machine		mouth	
+A031b	pointe		machine		point; tip	
+A032	souffle		machine		breath	
+A033	lèvre		machine		lip	
+A034	gencive		machine		gum (of the mouth)	
+A035	dent		machine		tooth	
+A035b	tranchant		machine		cutting edge; blade edge	
+A036	molaire		machine		molar	
+A037	canine		machine		canine (tooth)	
+A038	incisive		machine		incisor	
+A038b	incisive inférieure		machine		lower incisor	
+A039	prémolaire		machine		premolar	
+A040	écart entre les dents de devant, dents du bonheur		machine		diastema (gap between teeth)	
+A041	langue		machine		tongue	
+A042	frein de la langue		machine		frenulum of the tongue	
+A043	palais		machine		palate; roof of the mouth	
+A044	luette		machine		uvula	
+A045	amygdale		machine		tonsil	
+A046	salive		machine		saliva	
+A047	mâchoire		machine		jaw	
+A048	os de la mâchoire		machine		jawbone	
+A049	menton		machine		chin	
+A050	moustache		machine		moustache	
+A051	barbe		machine		beard	
+A052	cou		machine		neck	
+A053	nuque		machine		nape (of the neck)	
+A054	os du cou, vertèbres cervicales		machine		neck bone, cervical vertebrae	
+A055	gorge		machine		throat	
+A056	trachée		machine		trachea; windpipe	
+A057	pomme d'Adam		machine		Adam's apple	
+A058	épaule		machine		shoulder	
+A059	aisselle		machine		armpit	
+A060	articulation de l'épaule		machine		shoulder joint	
+A061	omoplate		machine		shoulder blade	
+A062	poitrine		machine		chest	
+A063	clavicule		machine		collarbone	
+A064	cage thoracique		machine		ribcage	
+A065	sternum		machine		sternum; breastbone	
+A066	cœur		machine		heart	
+A067	poumon		machine		lung	
+A068	sein		machine		breast	
+A069	mamelon		machine		nipple	
+A070	lait maternel		machine		breast milk	
+A071	flanc		machine		flank; side (of the body)	
+A071b	côté (d'un objet)		machine		side (of an object)	
+A072	côte		machine		rib	
+A073	ventre		machine		belly; abdomen	
+A073b	milieu, intérieur		machine		middle; centre	
+A074	nombril		machine		navel; belly button	
+A075	entrailles		machine		entrails; guts	
+A076	foie		machine		liver	
+A077	pancréas		machine		pancreas	
+A078	vésicule biliaire		machine		gallbladder	
+A079	estomac		machine		stomach	
+A080	bile		machine		bile	
+A081	rate		machine		spleen	
+A082	intestins		machine		intestines; bowels	
+A082a	gros intestin		machine		large intestine	
+A082b	intestin grêle		machine		small intestine	
+A083	rein		machine		kidney	
+A084	vessie		machine		bladder	
+A085	utérus		machine		uterus; womb	
+A086	cordon ombilical		machine		umbilical cord	
+A087	dos		machine		back (of the body)	
+A087b	arrière (d'un objet)		machine		back; rear (of an object)	
+A088	haut du dos		machine		upper back	
+A089	bas du dos		machine		lower back	
+A090	colonne vertébrale		machine		spine; backbone	
+A091	bras		machine		arm	
+A091a	haut du bras		machine		upper arm	
+A091b	avant-bras		machine		forearm	
+A092	os du bras		machine		arm bone	
+A093	coude		machine		elbow	
+A093a	pointe du coude		machine		point of the elbow	
+A093b	pli du coude		machine		crook of the elbow	
+A094	main		machine		hand	
+A095	paume		machine		palm (of the hand)	
+A096	doigt		machine		finger	
+A097	phalange		machine		phalanx (finger bone)	
+A098	pouce		machine		thumb	
+A099	index		machine		index finger	
+A100	majeur		machine		middle finger	
+A101	annulaire		machine		ring finger	
+A102	petit doigt		machine		little finger; pinky	
+A103	jointure (des doigts)		machine		knuckle (of the fingers)	
+A104	ongle		machine		fingernail; nail	
+A105	poing		machine		fist	
+A106	poignet		machine		wrist	
+A107	hanche		machine		hip	
+A108	os de la hanche		machine		hip bone	
+A109	taille (au-dessus des hanches)		machine		waist	
+A110	fesse		machine		buttock	
+A110b	dessous, partie inférieure		machine		underside; bottom (of something)	
+A111	coccyx		machine		coccyx; tailbone	
+A112	anus		machine		anus	
+A113	excréments		machine		excrement; faeces	
+A114	pénis		machine		penis	
+A115	prépuce		machine		foreskin	
+A116	scrotum		machine		scrotum	
+A117	testicule		machine		testicle	
+A118	urine		machine		urine	
+A119	sperme		machine		sperm; semen	
+A120	sexe de la femme, vagin		machine		female genitals, vagina	
+A121	clitoris		machine		clitoris	
+A122	jambe		machine		leg	
+A123	fémur		machine		femur; thighbone	
+A124	cuisse		machine		thigh	
+A124a	muscle du devant de la cuisse, quadriceps		machine		quadriceps	
+A124b	intérieur de la cuisse		machine		inner thigh	
+A124c	muscles de l'arrière de la cuisse, ischio-jambiers		machine		hamstrings	
+A125	genou		machine		knee	
+A125a	devant du genou		machine		front of the knee	
+A125b	creux du genou, arrière du genou		machine		hollow of the knee, back of the knee	
+A126	tibia (devant de la jambe)		machine		shin	
+A127	tibia (os)		machine		tibia (bone); shinbone	
+A128	mollet		machine		calf (of the leg)	
+A129	tendon d'Achille		machine		Achilles tendon	
+A130	pied		machine		foot	
+A131	cheville		machine		ankle	
+A132	os de la cheville, malléole		machine		ankle bone (malleolus)	
+A133	talon		machine		heel	
+A134	avant de la plante du pied		machine		forefoot	
+A135	orteil		machine		toe	
+A136	gros orteil		machine		big toe	
+A137	petit orteil		machine		little toe	
+A138	plante du pied		machine		sole of the foot	
+B001	personne		machine		person	
+B001f	femme		machine		woman	
+B001m	homme		machine		man	
+B002	adulte		machine		adult	
+B002f	femme adulte		machine		adult woman	
+B002m	homme adulte		machine		adult man	
+B003	vierge		machine		virgin	
+B003f	femme vierge		machine		virgin (woman)	
+B003m	homme vierge		machine		virgin (man)	
+B004	enfant		machine		child	
+B004f	fillette, petite fille		machine		little girl, young girl	
+B004m	garçon		machine		boy	
+B005	bébé		machine		baby	
+B006	fœtus		machine		fetus	
+B007	ancien, notable		machine		elder, notable	
+B007f	ancienne, femme âgée respectée		machine		female elder, respected old woman	
+B007m	ancien, homme âgé respecté		machine		male elder, respected old man	
+B008	camarade d'âge		machine		age-mate, age-set peer	
+B008f	camarade d'âge (femme)		machine		age-mate (female)	
+B008m	camarade d'âge (homme)		machine		age-mate (male)	
+B009	premier-né		machine		firstborn	
+B009f	première-née, fille aînée		machine		firstborn (female), eldest daughter	
+B009m	premier-né, fils aîné		machine		firstborn (male), eldest son	
+B010	jumeau		machine		twin	
+B010f	jumelle		machine		twin (female), twin sister	
+B010m	jumeau		machine		twin (male), twin brother	
+B011	premier jumeau (né en premier)		machine		first twin (born first)	
+B011f	première jumelle (née en premier)		machine		first twin, female (born first)	
+B011m	premier jumeau (garçon né en premier)		machine		first twin (male)	
+B012	second jumeau (né en second)		machine		second twin (born second)	
+B012f	seconde jumelle (née en second)		machine		second twin, female (born second)	
+B012m	second jumeau (garçon né en second)		machine		second twin (male)	
+B013	enfant né après des jumeaux		machine		child born after twins	
+B013f	fille née après des jumeaux		machine		girl born after twins	
+B013m	garçon né après des jumeaux		machine		boy born after twins	
+B014	sage-femme, accoucheuse		machine		midwife, birth attendant	
+B015	jeune		machine		young person, youth	
+B015f	jeune fille		machine		young woman, girl	
+B015m	jeune homme		machine		young man	
+B016	chef		machine		chief, leader	
+B016f	femme chef, cheffe		machine		female chief, chieftainess	
+B016m	chef (homme)		machine		chief (male)	
+B017	monarque, souverain		machine		monarch, sovereign, ruler	
+B017f	reine		machine		queen	
+B017m	roi		machine		king	
+B018	travailleur, ouvrier		machine		worker, labourer	
+B018f	travailleuse, ouvrière		machine		worker (female), labourer	
+B018m	travailleur, ouvrier		machine		worker (male), labourer	
+B019	maître		machine		master	
+B019f	maîtresse, patronne		machine		mistress, female boss	
+B019m	maître		machine		master	
+B020	propriétaire		machine		owner	
+B020f	propriétaire (femme)		machine		owner (female)	
+B020m	propriétaire (homme)		machine		owner (male)	
+B021	domestique, serviteur		machine		servant, domestic	
+B021f	servante		machine		servant (female), maid	
+B021m	serviteur		machine		servant (male)	
+B022	chasseur		machine		hunter	
+B022f	chasseuse		machine		huntress, hunter (female)	
+B022m	chasseur		machine		hunter (male)	
+B023	gardien de troupeau, berger		machine		herder, shepherd	
+B023f	gardienne de troupeau, bergère		machine		herder (female), shepherdess	
+B023m	gardien de troupeau, berger		machine		herder (male), shepherd	
+B024	pêcheur		machine		fisherman, fisher	
+B024f	pêcheuse		machine		fisherwoman	
+B024m	pêcheur		machine		fisherman	
+B025	cultivateur, agriculteur		machine		farmer, cultivator	
+B025f	cultivatrice, agricultrice		machine		farmer (female)	
+B025m	cultivateur, agriculteur		machine		farmer (male)	
+B026	forgeron		machine		blacksmith, smith	
+B026f	femme forgeron, forgeronne		machine		female blacksmith, woman smith	
+B026m	forgeron		machine		blacksmith (male)	
+B027	tailleur, couturier		machine		tailor, dressmaker	
+B027f	couturière		machine		seamstress, dressmaker	
+B027m	tailleur, couturier		machine		tailor (male), dressmaker	
+B028	potier		machine		potter	
+B028f	potière		machine		potter (female)	
+B028m	potier		machine		potter (male)	
+B029	tisserand		machine		weaver	
+B029f	tisserande		machine		weaver (female)	
+B029m	tisserand		machine		weaver (male)	
+B030	boucher		machine		butcher	
+B030f	bouchère		machine		butcher (female)	
+B030m	boucher		machine		butcher (male)	
+B031	commerçant		machine		trader, merchant, shopkeeper	
+B031f	commerçante		machine		trader (female), shopkeeper	
+B031m	commerçant		machine		trader (male), shopkeeper	
+B032	cuisinier		machine		cook	
+B032f	cuisinière		machine		cook (female)	
+B032m	cuisinier		machine		cook (male)	
+B033	guerrier		machine		warrior	
+B033f	guerrière		machine		warrior (female)	
+B033m	guerrier		machine		warrior (male)	
+B034	captif, prisonnier		machine		captive, prisoner	
+B034f	captive, prisonnière		machine		captive (female), prisoner	
+B034m	captif, prisonnier		machine		captive (male), prisoner	
+B035	esclave		machine		slave	
+B035f	femme esclave		machine		female slave	
+B035m	homme esclave		machine		male slave	
+B036	guide		machine		guide	
+B036f	guide (femme)		machine		guide (female)	
+B036m	guide (homme)		machine		guide (male)	
+B037	voyageur		machine		traveller	
+B037f	voyageuse		machine		traveller (female)	
+B037m	voyageur		machine		traveller (male)	
+B038	messager		machine		messenger	
+B038f	messagère		machine		messenger (female)	
+B038m	messager		machine		messenger (male)	
+B039	guérisseur		machine		healer	
+B039f	guérisseuse		machine		healer (female)	
+B039m	guérisseur		machine		healer (male)	
+B040	devin, médium		machine		diviner, medium	
+B040f	devineresse, médium		machine		diviner (female), medium	
+B040m	devin, médium		machine		diviner (male), medium	
+B041	sorcier		machine		sorcerer, witch	
+B041f	sorcière		machine		witch	
+B041m	sorcier		machine		sorcerer, wizard	
+B042	prêtre		machine		priest	
+B042f	prêtresse		machine		priestess	
+B042m	prêtre		machine		priest (male)	
+B043	mendiant		machine		beggar	
+B043f	mendiante		machine		beggar (female)	
+B043m	mendiant		machine		beggar (male)	
+B044	prostituée, prostitué		machine		prostitute	
+B044f	prostituée		machine		prostitute (female)	
+B044m	prostitué		machine		prostitute (male)	
+B045	villageois		machine		villager	
+B045f	villageoise		machine		villager (female)	
+B045m	villageois		machine		villager (male)	
+B046	habitant de la brousse		machine		bush dweller, person living in the bush	
+B046f	habitante de la brousse		machine		bush dweller (female)	
+B046m	habitant de la brousse		machine		bush dweller (male)	
+B047	riche, personne riche		machine		rich person, wealthy person	
+B047f	femme riche		machine		rich woman	
+B047m	homme riche		machine		rich man	
+B048	pauvre, personne pauvre		machine		poor person	
+B048f	femme pauvre		machine		poor woman	
+B048m	homme pauvre		machine		poor man	
+B049	personne stérile		machine		sterile person, infertile person	
+B049f	femme stérile		machine		barren woman, infertile woman	
+B049m	homme impuissant		machine		impotent man	
+B050	aveugle, personne aveugle		machine		blind person	
+B050f	femme aveugle		machine		blind woman	
+B050m	homme aveugle		machine		blind man	
+B051	sourd, personne sourde		machine		deaf person	
+B051f	sourde		machine		deaf woman	
+B051m	sourd		machine		deaf man	
+B052	bossu		machine		hunchback	
+B052f	bossue		machine		hunchback (female)	
+B052m	bossu		machine		hunchback (male)	
+B053	estropié, infirme		machine		cripple, disabled person	
+B053f	estropiée, infirme		machine		cripple (female), disabled woman	
+B053m	estropié, infirme		machine		cripple (male), disabled man	
+B054	nain		machine		dwarf	
+B054f	naine		machine		dwarf (female)	
+B054m	nain		machine		dwarf (male)	
+B055	géant		machine		giant	
+B055f	géante		machine		giantess, giant (female)	
+B055m	géant		machine		giant (male)	
+B056	idiot, imbécile		machine		idiot, fool, imbecile	
+B056f	idiote, imbécile		machine		idiot (female), fool	
+B056m	idiot, imbécile		machine		idiot (male), fool	
+B057	personne sénile		machine		senile person	
+B057f	femme sénile		machine		senile woman	
+B057m	homme sénile		machine		senile man	
+B058	fou, malade mental		machine		madman, mentally ill person	
+B058f	folle, malade mentale		machine		madwoman, mentally ill woman	
+B058m	fou, malade mental		machine		madman, mentally ill man	
+B059	lâche		machine		coward	
+B059f	lâche, poltronne		machine		coward (female)	
+B059m	lâche, poltron		machine		coward (male)	
+B060	voleur		machine		thief	
+B060f	voleuse		machine		thief (female)	
+B060m	voleur		machine		thief (male)	
+B061	veuve, veuf		machine		widow, widower	
+B061f	veuve		machine		widow	
+B061m	veuf		machine		widower	
+B062	orphelin		machine		orphan	
+B062f	orpheline		machine		orphan (female)	
+B062m	orphelin		machine		orphan (male)	

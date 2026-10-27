@@ -1,0 +1,345 @@
+ref	gloss	clarification	status	checked_by	back_translation	earlier
+A001	ሰውነት		machine		body (human body)	
+A002	ቆዳ		machine		skin	
+A002b	መጨማደድ, ሽብሽብ		machine		wrinkle; crease, fold (of skin or cloth)	
+A003	ፀጉር		machine		hair	
+A003b	የሰውነት ጸጉር		machine		body hair	
+A003c	የጸጉር ዘለላ, ቁንጮ		machine		tuft of hair left on the crown of a shaved head	
+A004	አጥንት		machine		bone	
+A004b	አጽም		machine		skeleton; bones, remains (of the dead)	
+A005	ጡንቻ		machine		muscle	
+A006	ጅማት		machine		tendon, sinew	
+A007	ደም		machine		blood	
+A008	የደም ሥር		machine		blood vessel; vein	
+A009	ራስ		machine		head	
+A009b	የላይኛው ክፍል		machine		top, upper part	
+A010	አናት		machine		top of the head, crown	
+A011	የራስ ቅል		machine		skull	
+A012	አንጎል		machine		brain	
+A013	ግንባር		machine		forehead	
+A014	ፊት		machine		face	
+A014b	የፊት ክፍል		machine		face	
+A015	ዓይን		machine		eye	
+A016	ብሌን		machine		pupil (of the eye)	
+A017	ቀለም ያለው የዓይን ክፍል		machine		iris	
+A018	ቅንድብ		machine		eyebrow	
+A019	የዓይን ሽፋን		machine		eyelid	
+A020	ሽፋሽፍት		machine		eyelash(es)	
+A021	እንባ		machine		tear(s)	
+A022	ጆሮ		machine		ear	
+A023	የጆሮ ቀዳዳ		machine		ear hole, ear canal	
+A024	የጆሮ ታችኛው ክፍል		machine		earlobe	
+A025	ኩክ		machine		earwax	
+A026	አፍንጫ		machine		nose	
+A027	የአፍንጫ ቀዳዳ		machine		nostril	
+A028	የአፍንጫ አጥንት		machine		nasal bone, bridge of the nose	
+A029	ንፍጥ		machine		nasal mucus, snot	
+A030	ጉንጭ		machine		cheek	
+A030a	የላይኛው ጉንጭ		machine		upper cheek (cheekbone area)	
+A030b	የታችኛው ጉንጭ		machine		lower cheek	
+A031	አፍ		machine		mouth	
+A031b	ጫፍ		machine		tip, end, edge, point	
+A032	ትንፋሽ		machine		breath	
+A033	ከንፈር		machine		lip	
+A034	ድድ		machine		gum(s)	
+A035	ጥርስ		machine		tooth	
+A035b	ስለት		machine		blade, sharp edge	
+A036	መንጋጋ ጥርስ		machine		molar (back tooth)	
+A037	ክራንቻ		machine		canine tooth, eye tooth; fang	
+A038	የፊት ጥርስ		machine		front tooth, incisor	
+A038b	የታችኛው የፊት ጥርስ		machine		lower front teeth, lower incisors	
+A039	ከክራንቻና ከመንጋጋ መካከል ያለ ጥርስ		machine		premolar	
+A040	ፍንጭት		machine		gap between the front teeth (diastema)	
+A041	ምላስ		machine		tongue	
+A042	ከምላስ ሥር ያለ ስስ ቆዳ		machine		frenulum of the tongue	
+A043	ላንቃ		machine		palate, roof of the mouth	
+A044	እንጥል		machine		uvula	
+A045	ቶንሲል		machine		tonsil(s)	
+A046	ምራቅ		machine		saliva, spit	
+A047	መንጋጋ		machine		jaw	
+A048	የመንጋጋ አጥንት		machine		jawbone	
+A049	አገጭ		machine		chin	
+A050	የከንፈር ጢም		machine		moustache	
+A051	ጢም		machine		beard	
+A052	አንገት		machine		neck	
+A053	ማጅራት		machine		nape, back of the neck	
+A054	የአንገት አጥንት		machine		neck bone	
+A055	ጉሮሮ		machine		throat; gullet	
+A056	የመተንፈሻ ቧንቧ		machine		windpipe, trachea	
+A057	ማንቁርት		machine		larynx; Adam's apple	
+A058	ትከሻ		machine		shoulder	
+A059	ብብት		machine		armpit	
+A060	የትከሻ መገጣጠሚያ		machine		shoulder joint	
+A061	የትከሻ ጀርባ አጥንት		machine		shoulder blade, scapula	
+A062	ደረት		machine		chest	
+A063	የአንገት ሥር አጥንት		machine		collarbone, clavicle	
+A064	የጎድን አጥንቶች		machine		ribs	
+A065	የደረት አጥንት		machine		breastbone, sternum	
+A066	ልብ		machine		heart	
+A067	ሳንባ		machine		lung	
+A068	ጡት		machine		breast	
+A069	የጡት ጫፍ		machine		nipple	
+A070	የጡት ወተት		machine		breast milk	
+A071	ጎን		machine		side (of the body), flank	
+A071b	ጎን		machine		side (of the body), flank	
+A072	የጎድን አጥንት		machine		ribs; rib cage; side of the torso	
+A073	ሆድ		machine		belly, stomach, abdomen	
+A073b	መሃል		machine		middle, centre	
+A074	እምብርት		machine		navel, belly button	
+A075	የሆድ ዕቃ		machine		internal organs, viscera, guts	
+A076	ጉበት		machine		liver	
+A077	ጣፊያ		machine		pancreas	
+A078	የሐሞት ከረጢት		machine		gallbladder	
+A079	ጨጓራ		machine		stomach (the organ)	
+A080	ሐሞት		machine		bile, gall	
+A081	ቆሽት		machine		spleen	
+A082	አንጀት		machine		intestine(s), bowels	
+A082a	ትልቅ አንጀት		machine		large intestine	
+A082b	ትንሽ አንጀት		machine		small intestine	
+A083	ኩላሊት		machine		kidney	
+A084	ፊኛ		machine		bladder (urinary)	
+A085	ማህፀን		machine		womb, uterus	
+A086	እትብት		machine		umbilical cord	
+A087	ጀርባ		machine		back	
+A087b	ጀርባ		machine		back	
+A088	የላይኛው ጀርባ		machine		upper back	
+A089	የታችኛው ጀርባ		machine		lower back	
+A090	አከርካሪ		machine		spine, backbone	
+A091	ክንድ (ከትከሻ እስከ እጅ)		machine		arm; forearm	
+A091a	የላይኛው ክንድ		machine		upper arm	
+A091b	የታችኛው ክንድ		machine		forearm; arm	
+A092	የክንድ አጥንት		machine		arm bone	
+A093	ክርን		machine		elbow	
+A093a	የክርን ውጫዊ ክፍል		machine		outer part of the elbow (point of the elbow)	
+A093b	የክርን ውስጠኛ ክፍል		machine		inner part of the elbow, crook of the arm	
+A094	እጅ		machine		hand	
+A095	መዳፍ		machine		palm (of the hand)	
+A096	ጣት		machine		finger	
+A097	የጣት አጥንት		machine		finger bone, phalanx	
+A098	አውራ ጣት		machine		thumb	
+A099	ሌባ ጣት		machine		index finger	
+A100	የመሃል ጣት		machine		middle finger	
+A101	የቀለበት ጣት		machine		ring finger	
+A102	ትንሽ ጣት		machine		little finger	
+A103	የጣት አንጓ		machine		knuckle; finger joint	
+A104	ጥፍር		machine		nail (finger or toe)	
+A105	ቡጢ		machine		fist	
+A106	የእጅ አንጓ		machine		wrist	
+A107	ዳሌ		machine		hip(s)	
+A108	የዳሌ አጥንት		machine		hip bone, pelvis	
+A109	ወገብ		machine		waist	
+A110	መቀመጫ		machine		buttocks, bottom	
+A110b	ታች		machine		bottom, lower part; below	
+A111	የጅራት አጥንት		machine		tailbone, coccyx	
+A112	ፊንጢጣ		machine		anus; rectum	
+A113	ሰገራ		machine		faeces, stool	
+A114	የወንድ ብልት		machine		penis	
+A115	ሸለፈት		machine		foreskin	
+A116	የዘር ፍሬ ከረጢት		machine		scrotum	
+A117	የዘር ፍሬ		machine		testicle(s)	
+A118	ሽንት		machine		urine	
+A119	የዘር ፈሳሽ		machine		semen	
+A120	የሴት ብልት		machine		vulva; vagina; female genitals	
+A121	ቂንጥር		machine		clitoris	
+A122	እግር		machine		leg	
+A123	የጭን አጥንት		machine		thighbone, femur	
+A124	ጭን		machine		thigh	
+A124a	የጭን የፊት ጡንቻ		machine		quadriceps, front thigh muscle	
+A124b	የውስጥ ጭን		machine		inner thigh	
+A124c	የጭን የኋላ ጡንቻዎች		machine		hamstring, back thigh muscle	
+A125	ጉልበት		machine		knee	
+A125a	የጉልበት ፊት		machine		knee; front of the knee	
+A125b	የጉልበት ጀርባ		machine		back of the knee	
+A126	ቅልጥም (የታችኛው እግር የፊት ክፍል)		machine		shin; lower leg	
+A127	የቅልጥም አጥንት		machine		shinbone, tibia	
+A128	ባት		machine		calf (of the leg)	
+A129	የተረከዝ ጅማት		machine		Achilles tendon	
+A130	እግር (ከቁርጭምጭሚት በታች)		machine		foot	
+A131	ቁርጭምጭሚት		machine		ankle	
+A132	የቁርጭምጭሚት አጥንት		machine		ankle bone (malleolus / talus)	
+A133	ተረከዝ		machine		heel	
+A134	ከእግር ጣቶች ሥር ያለ የእግር መዳፍ ክፍል		machine		ball of the foot	
+A135	የእግር ጣት		machine		toe	
+A136	የእግር አውራ ጣት		machine		big toe	
+A137	የእግር ትንሽ ጣት		machine		little toe	
+A138	የእግር መዳፍ		machine		sole of the foot	
+B001	ሰው		machine		person	
+B001f	ሴት		machine		woman	
+B001m	ወንድ		machine		man; male	
+B002	አዋቂ		machine		adult	
+B002f	አዋቂ ሴት		machine		adult woman	
+B002m	አዋቂ ወንድ		machine		adult man	
+B003	ድንግል		machine		virgin	
+B003f	ድንግል ሴት		machine		virgin (female); maiden	
+B003m	ድንግል ወንድ		machine		male virgin	
+B004	ልጅ, ሕፃን		machine		child; infant	
+B004f	ሴት ልጅ		machine		girl; daughter	
+B004m	ወንድ ልጅ		machine		boy; son	
+B005	ሕፃን		machine		baby; infant	
+B006	ፅንስ		machine		fetus; embryo	
+B007	አዛውንት, ሽማግሌ		machine		old man; elder	
+B007f	አሮጊት, ሴት አዛውንት		machine		old woman	
+B007m	ሽማግሌ		machine		old man	
+B008	እኩያ		machine		peer; age-mate	
+B008f	ሴት እኩያ		machine		female peer; female age-mate	
+B008m	ወንድ እኩያ		machine		male peer; male age-mate	
+B009	የበኩር ልጅ		machine		firstborn child	
+B009f	የበኩር ሴት ልጅ		machine		firstborn daughter	
+B009m	የበኩር ወንድ ልጅ		machine		firstborn son	
+B010	መንታ		machine		twin	
+B010f	ሴት መንታ		machine		female twin; twin sister	
+B010m	ወንድ መንታ		machine		male twin; twin brother	
+B011	መጀመሪያ የተወለደ መንታ		machine		first-born twin; elder twin	
+B011f	መጀመሪያ የተወለደች መንታ		machine		first-born twin (female); elder twin sister	
+B011m	መጀመሪያ የተወለደ ወንድ መንታ		machine		first-born male twin; elder twin brother	
+B012	ሁለተኛ የተወለደ መንታ		machine		second-born twin; younger twin	
+B012f	ሁለተኛ የተወለደች መንታ		machine		second-born twin (female); younger twin sister	
+B012m	ሁለተኛ የተወለደ ወንድ መንታ		machine		second-born male twin; younger twin brother	
+B013	ከመንታ ቀጥሎ የተወለደ ልጅ		machine		child born after twins	
+B013f	ከመንታ ቀጥላ የተወለደች ልጅ		machine		girl born after twins	
+B013m	ከመንታ ቀጥሎ የተወለደ ወንድ ልጅ		machine		boy born after twins	
+B014	አዋላጅ		machine		midwife	
+B015	ወጣት		machine		youth; young person	
+B015f	ኮረዳ, ወጣት ሴት		machine		young woman	
+B015m	ጎረምሳ, ወጣት ወንድ		machine		young man	
+B016	አለቃ, የጎሳ መሪ		machine		chief; clan leader	
+B016f	ሴት አለቃ, ሴት የጎሳ መሪ		machine		female chief; female clan leader	
+B016m	ወንድ አለቃ, ወንድ የጎሳ መሪ		machine		chief; clan leader	
+B017	ንጉሥ		machine		king	
+B017f	ንግሥት		machine		queen	
+B017m	ንጉሥ		machine		king	
+B018	ሠራተኛ		machine		worker	
+B018f	ሴት ሠራተኛ		machine		female worker	
+B018m	ወንድ ሠራተኛ		machine		male worker; labourer	
+B019	ጌታ		machine		lord; master	
+B019f	እመቤት		machine		lady; mistress	
+B019m	ጌታ		machine		lord; master	
+B020	ባለቤት, ባለንብረት		machine		owner	
+B020f	ሴት ባለንብረት		machine		female property owner; landlady	
+B020m	ወንድ ባለንብረት		machine		male property owner; landlord	
+B021	አገልጋይ		machine		servant	
+B021f	ገረድ, ሴት አገልጋይ		machine		female servant; maid	
+B021m	አሽከር, ወንድ አገልጋይ		machine		male servant; manservant	
+B022	አዳኝ		machine		hunter	
+B022f	ሴት አዳኝ		machine		female hunter; huntress	
+B022m	ወንድ አዳኝ		machine		male hunter	
+B023	እረኛ		machine		herder; shepherd	
+B023f	ሴት እረኛ		machine		female herder; shepherdess	
+B023m	ወንድ እረኛ		machine		male herder; herdsman	
+B024	ዓሣ አጥማጅ		machine		fisherman; fisher	
+B024f	ሴት ዓሣ አጥማጅ		machine		female fisher; fisherwoman	
+B024m	ወንድ ዓሣ አጥማጅ		machine		fisherman	
+B025	ገበሬ		machine		farmer	
+B025f	ሴት ገበሬ		machine		female farmer	
+B025m	ወንድ ገበሬ		machine		male farmer	
+B026	አንጥረኛ, ቀጥቃጭ		machine		blacksmith; smith	
+B026f	ሴት አንጥረኛ		machine		female smith	
+B026m	ወንድ አንጥረኛ		machine		male smith; blacksmith	
+B027	ልብስ ሰፊ		machine		tailor	
+B027f	ሴት ልብስ ሰፊ		machine		seamstress; female tailor	
+B027m	ወንድ ልብስ ሰፊ		machine		male tailor	
+B028	ሸክላ ሠሪ		machine		potter	
+B028f	ሴት ሸክላ ሠሪ		machine		female potter	
+B028m	ወንድ ሸክላ ሠሪ		machine		male potter	
+B029	ሸማኔ		machine		weaver	
+B029f	ሴት ሸማኔ		machine		female weaver	
+B029m	ወንድ ሸማኔ		machine		male weaver	
+B030	ሥጋ ሻጭ, አራጅ		machine		butcher; meat seller	
+B030f	ሴት ሥጋ ሻጭ		machine		female butcher; female meat seller	
+B030m	ወንድ ሥጋ ሻጭ		machine		male butcher; male meat seller	
+B031	ነጋዴ		machine		trader; merchant	
+B031f	ሴት ነጋዴ		machine		female trader; businesswoman	
+B031m	ወንድ ነጋዴ		machine		male trader; businessman	
+B032	ምግብ አብሳይ		machine		cook	
+B032f	ሴት ምግብ አብሳይ, ወጥ ቤት		machine		female cook	
+B032m	ወንድ ምግብ አብሳይ		machine		male cook	
+B033	ጦረኛ		machine		warrior	
+B033f	ሴት ጦረኛ		machine		female warrior	
+B033m	ወንድ ጦረኛ		machine		male warrior	
+B034	ምርኮኛ		machine		captive; prisoner of war	
+B034f	ሴት ምርኮኛ		machine		female captive	
+B034m	ወንድ ምርኮኛ		machine		male captive	
+B035	ባሪያ	ባሪያ is the standard word for slave but is also an ethnic slur in Ethiopia for darker-skinned peoples; no neutral alternative is established.	machine		slave	
+B035f	ሴት ባሪያ	ባሪያ is the standard word for slave but is also an ethnic slur in Ethiopia for darker-skinned peoples; no neutral alternative is established.	machine		female slave; slave woman	
+B035m	ወንድ ባሪያ	ባሪያ is the standard word for slave but is also an ethnic slur in Ethiopia for darker-skinned peoples; no neutral alternative is established.	machine		male slave	
+B036	መንገድ መሪ		machine		guide; pathfinder	
+B036f	ሴት መንገድ መሪ		machine		female guide	
+B036m	ወንድ መንገድ መሪ		machine		male guide	
+B037	መንገደኛ		machine		traveller; wayfarer	
+B037f	ሴት መንገደኛ		machine		female traveller	
+B037m	ወንድ መንገደኛ		machine		male traveller	
+B038	መልእክተኛ		machine		messenger; envoy	
+B038f	ሴት መልእክተኛ		machine		female messenger	
+B038m	ወንድ መልእክተኛ		machine		male messenger	
+B039	የባህል ሐኪም, መድኃኒተኛ		machine		traditional healer; medicine man	
+B039f	ሴት የባህል ሐኪም		machine		female traditional healer	
+B039m	ወንድ የባህል ሐኪም		machine		male traditional healer	
+B040	ጠንቋይ, ባለዛር		machine		witch doctor; sorcerer; spirit medium	
+B040f	ሴት ጠንቋይ, ባለዛር		machine		female witch doctor; zar medium	
+B040m	ወንድ ጠንቋይ		machine		male witch doctor; sorcerer	
+B041	አስማተኛ		machine		magician; sorcerer	
+B041f	ሴት አስማተኛ		machine		female magician; sorceress	
+B041m	ወንድ አስማተኛ		machine		male magician; sorcerer	
+B042	ቄስ		machine		priest	
+B042f	ሴት ቄስ		machine		female priest; priestess	
+B042m	ቄስ		machine		priest	
+B043	የኔ ቢጤ, ለማኝ		machine		beggar	
+B043f	ሴት የኔ ቢጤ, ሴት ለማኝ		machine		female beggar	
+B043m	ወንድ የኔ ቢጤ, ወንድ ለማኝ		machine		male beggar	
+B044	የወሲብ ሠራተኛ		machine		prostitute	
+B044f	ሴተኛ አዳሪ		machine		prostitute (female)	
+B044m	ወንድ የወሲብ ሠራተኛ, ወንደኛ አዳሪ		machine		male prostitute	
+B045	የመንደር ሰው		machine		villager	
+B045f	የመንደር ሴት		machine		village woman	
+B045m	የመንደር ወንድ		machine		village man	
+B046	የጫካ ነዋሪ		machine		forest dweller	
+B046f	ሴት የጫካ ነዋሪ		machine		female forest dweller	
+B046m	ወንድ የጫካ ነዋሪ		machine		male forest dweller	
+B047	ሀብታም		machine		rich person	
+B047f	ሀብታም ሴት		machine		rich woman	
+B047m	ሀብታም ወንድ		machine		rich man	
+B048	ድሃ		machine		poor person	
+B048f	ድሃ ሴት		machine		poor woman	
+B048m	ድሃ ወንድ		machine		poor man	
+B049	መካን		machine		barren person; infertile person	
+B049f	መካን ሴት		machine		barren woman	
+B049m	መካን ወንድ, ስንፈተ ወሲብ ያለበት ወንድ		machine		infertile man; sterile man	
+B050	ዓይነ ስውር, ዕውር		machine		blind person	
+B050f	ዓይነ ስውር ሴት		machine		blind woman	
+B050m	ዓይነ ስውር ወንድ		machine		blind man	
+B051	መስማት የተሳነው, ደንቆሮ		machine		deaf person	
+B051f	መስማት የተሳናት ሴት		machine		deaf woman	
+B051m	መስማት የተሳነው ወንድ		machine		deaf man	
+B052	ጀርባው የጎበጠ ሰው, ጎባጣ		machine		hunchback	
+B052f	ጀርባዋ የጎበጠች ሴት, ጎባጣ ሴት		machine		hunchbacked woman	
+B052m	ጀርባው የጎበጠ ወንድ, ጎባጣ ወንድ		machine		hunchbacked man	
+B053	አካል ጉዳተኛ, አንካሳ		machine		disabled person; cripple	
+B053f	አካል ጉዳተኛ ሴት		machine		disabled woman	
+B053m	አካል ጉዳተኛ ወንድ		machine		disabled man	
+B054	ድንክ		machine		dwarf	
+B054f	ድንክ ሴት		machine		female dwarf	
+B054m	ድንክ ወንድ		machine		male dwarf	
+B055	ግዙፍ ሰው, ጭራቅ		machine		giant; ogre	
+B055f	ግዙፍ ሴት		machine		giantess; huge woman	
+B055m	ግዙፍ ወንድ		machine		giant; huge man	
+B056	ሞኝ		machine		fool	
+B056f	ሞኝ ሴት		machine		foolish woman	
+B056m	ሞኝ ወንድ		machine		foolish man	
+B057	የጃጀ ሰው		machine		senile person; dotard	
+B057f	የጃጀች ሴት		machine		senile woman	
+B057m	የጃጀ ወንድ		machine		senile man	
+B058	የአእምሮ ሕመምተኛ, እብድ		machine		mentally ill person; madman	
+B058f	የአእምሮ ሕመምተኛ ሴት		machine		mentally ill woman	
+B058m	የአእምሮ ሕመምተኛ ወንድ		machine		mentally ill man	
+B059	ፈሪ		machine		coward	
+B059f	ፈሪ ሴት		machine		cowardly woman	
+B059m	ፈሪ ወንድ		machine		cowardly man	
+B060	ሌባ		machine		thief	
+B060f	ሴት ሌባ		machine		female thief	
+B060m	ወንድ ሌባ		machine		male thief	
+B061	የትዳር ጓደኛው የሞተበት ሰው		machine		widowed person	
+B061f	ባልቴት, ባሏ የሞተባት ሴት		machine		widow	
+B061m	ሚስቱ የሞተችበት ወንድ		machine		widower	
+B062	የሙት ልጅ		machine		orphan	
+B062f	ሴት የሙት ልጅ		machine		female orphan; orphan girl	
+B062m	ወንድ የሙት ልጅ		machine		male orphan; orphan boy	

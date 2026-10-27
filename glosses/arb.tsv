@@ -1,0 +1,345 @@
+ref	gloss	clarification	status	checked_by	back_translation	earlier
+A001	جسم		machine		body	
+A002	جلد		machine		skin	
+A002b	تجعيدة		machine		wrinkle, crease	
+A003	شَعْر		machine		hair	
+A003b	شعر الجسم		machine		body hair	
+A003c	خصلة		machine		lock, tuft (of hair)	
+A004	عظم		machine		bone	
+A004b	هيكل عظمي		machine		skeleton	
+A005	عضلة		machine		muscle	
+A006	وتر		machine		tendon	
+A007	دم		machine		blood	
+A008	عِرْق, وعاء دموي		machine		vein; blood vessel	
+A009	رأس		machine		head	
+A009b	أعلى		machine		top, upper part	
+A010	قمة الرأس		machine		crown of the head, top of the head	
+A011	جمجمة		machine		skull	
+A012	دماغ		machine		brain	
+A013	جبهة		machine		forehead	
+A014	وجه		machine		face	
+A014b	مقدمة		machine		front, fore part	
+A015	عين		machine		eye	
+A016	بؤبؤ		machine		pupil (of the eye)	
+A017	قزحية, الجزء الملوّن من العين		machine		iris (of the eye)	
+A018	حاجب		machine		eyebrow	
+A019	جفن		machine		eyelid	
+A020	رمش		machine		eyelash	
+A021	دمعة		machine		tear (drop)	
+A022	أذن		machine		ear	
+A023	قناة الأذن		machine		ear canal	
+A024	شحمة الأذن		machine		earlobe	
+A025	شمع الأذن		machine		earwax	
+A026	أنف		machine		nose	
+A027	منخر		machine		nostril	
+A028	قصبة الأنف		machine		bridge of the nose, nasal bone	
+A029	مخاط		machine		mucus, snot	
+A030	خد		machine		cheek	
+A030a	أعلى الخد		machine		cheek, upper cheek, cheekbone area	
+A030b	أسفل الخد		machine		lower cheek, lower part of the cheek	
+A031	فم		machine		mouth	
+A031b	طرف مدبّب		machine		edge, tip, end; extremity, limb	
+A032	نَفَس		machine		breath	
+A033	شفة		machine		lip	
+A034	لثة		machine		gum(s)	
+A035	سن		machine		tooth	
+A035b	حد		machine		edge (of a blade), sharp edge	
+A036	ضرس		machine		molar	
+A037	ناب		machine		canine tooth, eyetooth; fang	
+A038	سن قاطعة		machine		incisor	
+A038b	سن قاطعة سفلية		machine		lower incisor	
+A039	ضرس أمامي, ضاحك		machine		premolar	
+A040	فرجة بين الأسنان الأمامية, فَلَج		machine		gap between the front teeth (diastema)	
+A041	لسان		machine		tongue	
+A042	لجام اللسان		machine		frenulum of the tongue	
+A043	حنك		machine		palate, roof of the mouth	
+A044	لهاة		machine		uvula	
+A045	لوزة		machine		tonsil	
+A046	لعاب		machine		saliva	
+A047	فك		machine		jaw	
+A048	عظم الفك		machine		jawbone, mandible	
+A049	ذقن		machine		chin	
+A050	شارب		machine		moustache	
+A051	لحية		machine		beard	
+A052	رقبة		machine		neck	
+A053	قفا		machine		nape, back of the neck	
+A054	عَظْم الرقبة, فقرات العنق		machine		neck bone; cervical vertebrae	
+A055	حلق		machine		throat	
+A056	قصبة هوائية		machine		windpipe, trachea	
+A057	تفاحة آدم		machine		Adam's apple	
+A058	كتف		machine		shoulder	
+A059	إبط		machine		armpit	
+A060	مفصل الكتف		machine		shoulder joint	
+A061	لوح الكتف		machine		shoulder blade, scapula	
+A062	صدر		machine		chest	
+A063	ترقوة		machine		collarbone, clavicle	
+A064	قفص صدري		machine		rib cage, thorax	
+A065	عظم القص		machine		breastbone, sternum	
+A066	قلب		machine		heart	
+A067	رئة		machine		lung	
+A068	ثدي		machine		breast (esp. female)	
+A069	حلمة		machine		nipple	
+A070	حليب الأم		machine		breast milk	
+A071	جنب		machine		side (of the body), flank	
+A071b	جانب		machine		side	
+A072	ضلع		machine		rib	
+A073	بطن		machine		belly, abdomen	
+A073b	منتصف, داخل		machine		middle, centre; waist	
+A074	سرة		machine		navel, belly button	
+A075	أحشاء		machine		viscera, innards, entrails	
+A076	كبد		machine		liver	
+A077	بنكرياس		machine		pancreas	
+A078	مرارة		machine		gall bladder	
+A079	معدة		machine		stomach	
+A080	صفراء		machine		bile (yellow bile)	
+A081	طحال		machine		spleen	
+A082	أمعاء		machine		intestines, bowels	
+A082a	أمعاء غليظة		machine		large intestine	
+A082b	أمعاء دقيقة		machine		small intestine	
+A083	كلية		machine		kidney	
+A084	مثانة		machine		bladder (urinary)	
+A085	رحم		machine		womb, uterus	
+A086	حبل سري		machine		umbilical cord	
+A087	ظهر		machine		back	
+A087b	جهة خلفية		machine		back	
+A088	أعلى الظهر		machine		upper back	
+A089	أسفل الظهر		machine		lower back	
+A090	عمود فقري		machine		spine, backbone, spinal column	
+A091	ذراع		machine		arm	
+A091a	عضد		machine		upper arm	
+A091b	ساعد		machine		forearm	
+A092	عَظْم الذراع		machine		arm bone	
+A093	مرفق, كوع		machine		elbow	
+A093a	ظاهر المرفق		machine		point/back of the elbow	
+A093b	باطن المرفق		machine		crook/inside of the elbow	
+A094	يد		machine		hand	
+A095	كف		machine		palm (of the hand)	
+A096	إصبع		machine		finger	
+A097	عظم الإصبع		machine		finger bone, phalanx	
+A098	إبهام		machine		thumb	
+A099	سبابة		machine		index finger, forefinger	
+A100	إصبع وسطى		machine		middle finger	
+A101	بنصر		machine		ring finger	
+A102	خنصر		machine		little finger, pinky	
+A103	مفصل الإصبع		machine		knuckle, finger joint	
+A104	ظفر		machine		nail (fingernail or toenail)	
+A105	قبضة		machine		fist	
+A106	معصم		machine		wrist	
+A107	ورك		machine		hip	
+A108	عظم الورك		machine		hip bone, pelvic bone	
+A109	خصر		machine		waist	
+A110	ردف		machine		buttock, rump	
+A110b	أسفل		machine		bottom, lower part	
+A111	عصعص		machine		tailbone, coccyx	
+A112	شرج		machine		anus	
+A113	براز		machine		faeces, excrement	
+A114	قضيب		machine		penis	
+A115	قلفة		machine		foreskin, prepuce	
+A116	صفن		machine		scrotum	
+A117	خصية		machine		testicle	
+A118	بول		machine		urine	
+A119	مني		machine		semen, sperm	
+A120	فَرْج, مَهْبِل		machine		vulva; vagina	
+A121	بظر		machine		clitoris	
+A122	رِجْل		machine		leg	
+A123	عظم الفخذ		machine		thigh bone, femur	
+A124	فخذ		machine		thigh	
+A124a	عضلة الفخذ الأمامية		machine		front thigh muscle, quadriceps	
+A124b	باطن الفخذ		machine		inner thigh	
+A124c	عضلات الفخذ الخلفية		machine		back thigh muscle, hamstring	
+A125	ركبة		machine		knee	
+A125a	مُقَدَّمة الركبة		machine		front of the knee; kneecap area	
+A125b	خَلْف الركبة, باطِن الركبة		machine		back of the knee; popliteal fossa	
+A126	مقدم الساق		machine		shin, shinbone (tibia)	
+A127	قصبة الساق		machine		leg bone, shank bone (tibia/fibula)	
+A128	ربلة الساق		machine		calf (of the leg)	
+A129	وتر أخيل		machine		Achilles tendon	
+A130	قدم		machine		foot	
+A131	كاحل		machine		ankle	
+A132	عظم الكاحل البارز		machine		ankle bone (talus/malleolus)	
+A133	كعب		machine		heel	
+A134	باطن مقدم القدم		machine		ball of the foot	
+A135	إصبع القدم		machine		toe	
+A136	إبهام القدم		machine		big toe	
+A137	خنصر القدم		machine		little toe	
+A138	باطن القدم		machine		sole of the foot	
+B001	شَخْص		machine		person	
+B001f	امرأة		machine		woman	
+B001m	رَجُل		machine		man	
+B002	شخص بالِغ, راشِد		machine		adult; grown-up	
+B002f	امرأة بالغة, راشِدة		machine		adult woman; grown woman	
+B002m	رجل بالغ, راشِد		machine		adult man; grown man	
+B003	بِكْر		machine		virgin	
+B003f	عَذْراء, بِكْر		machine		virgin (female); maiden	
+B003m	رجل بِكْر		machine		virgin man	
+B004	طِفْل		machine		child	
+B004f	بِنْت, طِفْلة		machine		girl; female child	
+B004m	وَلَد, صَبِيّ		machine		boy	
+B005	رَضِيع		machine		infant; nursing baby	
+B006	جَنِين		machine		foetus; embryo	
+B007	شَيْخ, كبير القوم		machine		elder; head of the community	
+B007f	شَيْخة, امرأة من كبار القوم		machine		elderly woman; female elder	
+B007m	شَيْخ, كبير القوم		machine		old man; elder	
+B008	تِرْب, قرين في السنّ		machine		age-mate; peer of the same age	
+B008f	تِرْب, قرينة في السنّ		machine		age-mate (female); peer of the same age	
+B008m	تِرْب, قرين في السنّ		machine		age-mate (male); peer of the same age	
+B009	بِكْر, المولود الأول		machine		firstborn; first child	
+B009f	البِنْت البِكْر, المولودة الأولى		machine		firstborn daughter	
+B009m	الابن البِكْر		machine		firstborn son	
+B010	تَوْأَم		machine		twin	
+B010f	تَوْأَمة		machine		twin (female); twin sister	
+B010m	تَوْأَم		machine		twin (male); twin brother	
+B011	التوأم الأول, التوأم الأكبر		machine		first(-born) twin; elder twin	
+B011f	التوأمة الأولى, التوأمة الكبرى		machine		first(-born) twin girl; elder twin sister	
+B011m	التوأم الأول, التوأم الأكبر		machine		first(-born) twin boy; elder twin brother	
+B012	التوأم الثاني, التوأم الأصغر		machine		second(-born) twin; younger twin	
+B012f	التوأمة الثانية, التوأمة الصغرى		machine		second-born twin girl; younger twin sister	
+B012m	التوأم الثاني, التوأم الأصغر		machine		second-born twin boy; younger twin brother	
+B013	المولود بعد التوأمين		machine		child born after twins	
+B013f	المولودة بعد التوأمين		machine		girl born after twins	
+B013m	المولود بعد التوأمين		machine		boy born after twins	
+B014	قابِلة, داية		machine		midwife	
+B015	شابّ		machine		young person; youth	
+B015f	شابّة, فتاة		machine		young woman; girl	
+B015m	شابّ, فتى		machine		young man; lad	
+B016	زَعِيم, شيخ القبيلة		machine		leader; tribal chief	
+B016f	زَعِيمة, زَعِيمة القبيلة		machine		leader (female)	
+B016m	زَعِيم, شيخ القبيلة		machine		leader (male); chief	
+B017	مَلِك, عاهِل		machine		king; monarch	
+B017f	مَلِكة		machine		queen	
+B017m	مَلِك		machine		king	
+B018	عامِل		machine		worker; labourer	
+B018f	عامِلة		machine		worker (female); labourer	
+B018m	عامِل		machine		worker (male); labourer	
+B019	سَيِّد		machine		master; lord	
+B019f	سَيِّدة		machine		lady; mistress	
+B019m	سَيِّد		machine		master; lord	
+B020	مالِك, صاحِب		machine		owner; possessor	
+B020f	مالِكة, صاحِبة		machine		owner (female)	
+B020m	مالِك, صاحِب		machine		owner (male)	
+B021	خادِم		machine		servant	
+B021f	خادِمة		machine		servant (female); maid	
+B021m	خادِم		machine		servant (male)	
+B022	صَيّاد (طَرائد)		machine		hunter	
+B022f	صَيّادة (طَرائد)		machine		hunter (female)	
+B022m	صَيّاد (طَرائد)		machine		hunter (male)	
+B023	راعٍ, راعي ماشية		machine		herder; livestock herder	
+B023f	راعِية		machine		herder (female); shepherdess	
+B023m	راعٍ		machine		herder (male); shepherd	
+B024	صَيّاد سَمَك		machine		fisherman	
+B024f	صَيّادة سَمَك		machine		fisherwoman	
+B024m	صَيّاد سَمَك		machine		fisherman	
+B025	مُزارِع, فَلّاح		machine		farmer; peasant	
+B025f	مُزارِعة, فَلّاحة		machine		farmer (female); peasant woman	
+B025m	مُزارِع, فَلّاح		machine		farmer (male); peasant	
+B026	حَدّاد		machine		blacksmith	
+B026f	حَدّادة		machine		blacksmith (female)	
+B026m	حَدّاد		machine		blacksmith (male)	
+B027	خَيّاط		machine		tailor	
+B027f	خَيّاطة		machine		seamstress	
+B027m	خَيّاط		machine		tailor (male)	
+B028	فَخّاري, خَزّاف		machine		potter	
+B028f	فَخّارية, خَزّافة		machine		potter (female)	
+B028m	فَخّاري, خَزّاف		machine		potter (male)	
+B029	نَسّاج, حائك		machine		weaver	
+B029f	نَسّاجة, حائكة		machine		weaver (female)	
+B029m	نَسّاج, حائك		machine		weaver (male)	
+B030	جَزّار, قَصّاب		machine		butcher	
+B030f	جَزّارة		machine		butcher (female)	
+B030m	جَزّار, قَصّاب		machine		butcher (male)	
+B031	تاجِر		machine		merchant; trader	
+B031f	تاجِرة		machine		merchant (female); trader	
+B031m	تاجِر		machine		merchant (male); trader	
+B032	طَبّاخ, طاهٍ		machine		cook	
+B032f	طَبّاخة, طاهِية		machine		cook (female)	
+B032m	طَبّاخ, طاهٍ		machine		cook (male)	
+B033	مُحارِب, مُقاتِل		machine		warrior; fighter	
+B033f	مُحارِبة, مُقاتِلة		machine		warrior (female); fighter	
+B033m	مُحارِب, مُقاتِل		machine		warrior (male); fighter	
+B034	أَسِير		machine		captive; prisoner	
+B034f	أَسِيرة		machine		captive (female); prisoner	
+B034m	أَسِير		machine		captive (male); prisoner	
+B035	رَقِيق, مَمْلوك	عبد, the everyday word for slave, is also a racial slur in Sudanese and Chadian Arabic; رقيق is the neutral term.	machine		slave; enslaved person	
+B035f	أَمَة, جارِية		machine		slave woman; slave girl	
+B035m	رَقِيق ذَكَر, عَبْد	عبد is also a racial slur in Sudanese and Chadian Arabic.	machine		slave (male)	
+B036	دَلِيل, مُرْشِد		machine		guide	
+B036f	مُرْشِدة		machine		guide (female)	
+B036m	دَلِيل, مُرْشِد		machine		guide (male)	
+B037	مُسافِر		machine		traveller	
+B037f	مُسافِرة		machine		traveller (female)	
+B037m	مُسافِر		machine		traveller (male)	
+B038	رَسُول, مِرْسال		machine		messenger	
+B038f	رَسُولة, حامِلة رسالة		machine		messenger (female); envoy	
+B038m	رَسُول, مِرْسال		machine		messenger (male)	
+B039	مُعالِج شَعْبي, طبيب بَلَدي		machine		traditional healer; folk doctor	
+B039f	مُعالِجة شعبية		machine		traditional healer (female)	
+B039m	مُعالِج شعبي		machine		traditional healer (male)	
+B040	عَرّاف, وَسِيط روحاني		machine		diviner; spirit medium	
+B040f	عَرّافة, وَسِيطة روحانية		machine		diviner (female); spirit medium	
+B040m	عَرّاف, وَسِيط روحاني		machine		diviner (male); spirit medium	
+B041	ساحِر		machine		sorcerer; magician	
+B041f	ساحِرة		machine		witch; sorceress	
+B041m	ساحِر		machine		sorcerer; wizard	
+B042	كاهِن		machine		priest	
+B042f	كاهِنة		machine		priestess	
+B042m	كاهِن		machine		priest (male)	
+B043	مُتَسَوِّل, شَحّاذ		machine		beggar	
+B043f	مُتَسَوِّلة, شَحّاذة		machine		beggar (female)	
+B043m	مُتَسَوِّل, شَحّاذ		machine		beggar (male)	
+B044	عاهِرة, مُومِس		machine		prostitute	
+B044f	عاهِرة, مُومِس		machine		prostitute (female)	
+B044m	رجل يمارس الدعارة, عاهِر		machine		male prostitute	
+B045	قَرَوِي, من أهل القرية		machine		villager	
+B045f	قَرَوِية		machine		villager (female); village woman	
+B045m	قَرَوِي		machine		villager (male)	
+B046	ساكِن الأحراش, ساكِن الخَلاء		machine		bush-dweller; wilderness dweller	
+B046f	ساكِنة الأحراش, ساكِنة الخَلاء		machine		bush-dweller (female)	
+B046m	ساكِن الأحراش, ساكِن الخَلاء		machine		bush-dweller (male)	
+B047	غَنِيّ, ثَرِيّ		machine		rich person; wealthy	
+B047f	غَنِيّة, ثَرِيّة		machine		rich woman; wealthy	
+B047m	غَنِيّ, ثَرِيّ		machine		rich man; wealthy	
+B048	فَقِير		machine		poor person	
+B048f	فَقِيرة		machine		poor woman	
+B048m	فَقِير		machine		poor man	
+B049	عَقِيم		machine		sterile; infertile person	
+B049f	عاقِر, عَقِيم		machine		barren woman; infertile	
+B049m	عاجِز جنسيًا, عِنِّين		machine		impotent man	
+B050	أَعْمى, كَفِيف		machine		blind person	
+B050f	عَمْياء, كَفِيفة		machine		blind woman	
+B050m	أَعْمى, كَفِيف		machine		blind man	
+B051	أَصَمّ		machine		deaf person	
+B051f	صَمّاء		machine		deaf woman	
+B051m	أَصَمّ		machine		deaf man	
+B052	أَحْدَب		machine		hunchback	
+B052f	حَدْباء		machine		hunchbacked woman	
+B052m	أَحْدَب		machine		hunchback (male)	
+B053	كَسِيح, مُعاق		machine		cripple; disabled person	
+B053f	كَسِيحة, مُعاقة		machine		cripple (female); disabled woman	
+B053m	كَسِيح, مُعاق		machine		cripple (male); disabled man	
+B054	قَزَم		machine		dwarf	
+B054f	قَزَمة		machine		dwarf (female)	
+B054m	قَزَم		machine		dwarf (male)	
+B055	عِمْلاق		machine		giant	
+B055f	عِمْلاقة		machine		giantess	
+B055m	عِمْلاق		machine		giant (male)	
+B056	أَحْمَق, غَبِيّ		machine		fool; stupid person	
+B056f	حَمْقاء, غَبِيّة		machine		fool (female); stupid woman	
+B056m	أَحْمَق, غَبِيّ		machine		fool (male); stupid man	
+B057	خَرِف		machine		senile person; dotard	
+B057f	خَرِفة		machine		senile woman	
+B057m	خَرِف		machine		senile man	
+B058	مَجْنون		machine		madman; insane person	
+B058f	مَجْنونة		machine		madwoman; insane woman	
+B058m	مَجْنون		machine		madman	
+B059	جَبان		machine		coward	
+B059f	امرأة جَبانة		machine		coward (female)	
+B059m	جَبان		machine		coward (male)	
+B060	لِصّ, سارِق		machine		thief	
+B060f	لِصّة, سارِقة		machine		thief (female)	
+B060m	لِصّ, سارِق		machine		thief (male)	
+B061	أَرْمَل, أَرْمَلة		machine		widow; widower	
+B061f	أَرْمَلة		machine		widow	
+B061m	أَرْمَل		machine		widower	
+B062	يَتِيم		machine		orphan	
+B062f	يَتِيمة		machine		orphan (female); orphan girl	
+B062m	يَتِيم		machine		orphan (male); orphan boy	
