@@ -2,6 +2,10 @@
 
 Each edition is named by its date. The newest is at the top.
 
+## Next edition (not yet released)
+
+- Clarifications added after the first gloss pilot (section A in French, Amharic and Arabic): A003 *hair*, A008 *vein*, A054 *neckbone*, A092 *arm bone*, A120 *vagina*, A125a *outer knee*, A125b *inner knee*. No gloss or number changed.
+
 ## 2026-10-24
 
 The amendments after the final audit. 2,556 items, **2,274 default**, 282 hidden.

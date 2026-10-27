@@ -2,7 +2,7 @@ ref	gloss	word_class	default	sub	clarification	taxon
 A001	body	NOUN	yes			
 A002	skin	NOUN	yes			
 A002b	wrinkle	NOUN	yes			
-A003	hair	NOUN	yes			
+A003	hair	NOUN	yes		of the head; body hair is A003b	
 A003b	body hair	NOUN	yes			
 A003c	tuft	NOUN	yes			
 A004	bone	NOUN	yes			
@@ -10,7 +10,7 @@ A004b	skeleton	NOUN	yes
 A005	muscle	NOUN	yes			
 A006	tendon	NOUN	yes			
 A007	blood	NOUN	yes			
-A008	vein	NOUN	yes			
+A008	vein	NOUN	yes		or artery	
 A009	head	NOUN	yes			
 A009b	top	NOUN	no		upper part or surface of something	
 A010	pate	NOUN	yes		top of the head, crown	
@@ -63,7 +63,7 @@ A050	moustache	NOUN	yes
 A051	beard	NOUN	yes			
 A052	neck	NOUN	yes			
 A053	nape of neck	NOUN	yes			
-A054	neckbone	NOUN	yes			
+A054	neckbone	NOUN	yes		between skull and shoulders; cervical spine	
 A055	throat	NOUN	yes			
 A056	trachea	NOUN	yes			
 A057	adams apple	NOUN	yes			
@@ -108,7 +108,7 @@ A090	spine	NOUN	yes
 A091	arm	NOUN	yes			
 A091a	upper arm	NOUN	yes			
 A091b	forearm	NOUN	yes			
-A092	arm bone	NOUN	yes			
+A092	arm bone	NOUN	yes		either upper or lower	
 A093	elbow	NOUN	yes			
 A093a	outer elbow	NOUN	yes			
 A093b	inner elbow	NOUN	yes			
@@ -139,7 +139,7 @@ A116	scrotum	NOUN	yes
 A117	testicle	NOUN	yes			
 A118	urine	NOUN	yes			
 A119	semen	NOUN	yes			
-A120	vagina	NOUN	yes			
+A120	vagina	NOUN	yes		female genitalia generally	
 A121	clitoris	NOUN	yes			
 A122	leg	NOUN	yes			
 A123	femur	NOUN	yes			
@@ -148,8 +148,8 @@ A124a	quadriceps	NOUN	yes
 A124b	inner thigh	NOUN	yes			
 A124c	hamstrings	NOUN	yes			
 A125	knee	NOUN	yes			
-A125a	outer knee	NOUN	yes			
-A125b	inner knee	NOUN	yes			
+A125a	outer knee	NOUN	yes		or front of the knee	
+A125b	inner knee	NOUN	yes		or back of the knee	
 A126	shin	NOUN	yes		front of the lower leg	
 A127	tibia	NOUN	yes		shinbone	
 A128	calf	NOUN	yes			
