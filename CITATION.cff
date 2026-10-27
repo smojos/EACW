@@ -20,6 +20,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23677136
     description: "Edition 2026-10-24"
+  - type: doi
+    value: 10.5281/zenodo.23704436
+    description: "Edition 2026-10-27"
 date-released: 2026-10-27
 license: CC-BY-4.0
 repository-code: "https://github.com/smojos/EACW"

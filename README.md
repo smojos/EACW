@@ -11,12 +11,12 @@ The EACW is a comparative wordlist and a system of lexical reference for field l
 - **Current edition:** 2026-10-27
 - **Licence:** Creative Commons Attribution 4.0 International ([CC BY 4.0](LICENSE)), © 2026 Joshua A. G. Smolders
 - **DOI (all editions, always the newest):** [10.5281/zenodo.23677135](https://doi.org/10.5281/zenodo.23677135)
-- **DOI of edition 2026-10-27:** on its Zenodo record (each edition's DOI is made at release)
+- **DOI of edition 2026-10-27:** [10.5281/zenodo.23704436](https://doi.org/10.5281/zenodo.23704436)
 - **DOI of edition 2026-10-24:** [10.5281/zenodo.23677136](https://doi.org/10.5281/zenodo.23677136)
 
 ## Citing it
 
-> Smolders, Joshua A. G. 2026. *The Extended African Comparative Wordlist (EACW)*, edition 2026-10-27 [dataset]. Zenodo. https://doi.org/10.5281/zenodo.23677135
+> Smolders, Joshua A. G. 2026. *The Extended African Comparative Wordlist (EACW)*, edition 2026-10-27 [dataset]. Zenodo. https://doi.org/10.5281/zenodo.23704436
 
 Cite the edition you used: each edition has a DOI of its own. To refer to the EACW in general, use the DOI for all editions, [10.5281/zenodo.23677135](https://doi.org/10.5281/zenodo.23677135), which always points to the newest. The paper that explains the list:
 
