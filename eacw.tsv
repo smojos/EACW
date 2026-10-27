@@ -4,7 +4,7 @@ A002	skin	NOUN	yes
 A002b	wrinkle	NOUN	yes			
 A003	hair	NOUN	yes		of either (a) head, or (b) body	
 A003b	body hair	NOUN	yes			
-A003c	tuft	NOUN	yes			
+A003c	tuft	NOUN	yes		a single unit of the head hair standing apart from the rest, e.g. a braided or mudded lock, a bunch, or a tuft left on a shaved head	
 A004	bone	NOUN	yes			
 A004b	skeleton	NOUN	yes			
 A005	muscle	NOUN	yes			
