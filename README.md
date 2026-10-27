@@ -4,18 +4,19 @@
 
 *The Extended African Comparative Wordlist: A digital lexical organization system for field linguists.*
 
-The EACW is a comparative wordlist and a system of lexical reference for field linguists: 2,556 items in nineteen semantic sections, 2,274 of which make up its default list. Every item has a reference that says something about it (C001f *mother*: C for kinship, 001 for *parent*, f for female), a default word class, a clarification where the gloss needs one, a taxon for animals and plants, a regional code, and its numbers in the SIL Comparative African Wordlist (CAWL) and the Swadesh list.
+The EACW is a comparative wordlist and a system of lexical reference for field linguists: 2,553 items in nineteen semantic sections, 2,268 of which make up its default list. Every item has a reference that says something about it (C001f *mother*: C for kinship, 001 for *parent*, f for female), a default word class, a clarification where the gloss needs one, a taxon for animals and plants, a regional code, and its numbers in the SIL Comparative African Wordlist (CAWL) and the Swadesh list.
 
-**This repository is the definitive EACW.** The list printed in the paper that describes it is one edition; the files here are maintained, corrected and extended in dated editions, and will carry the list's translations into languages of wider communication.
+**This repository is the definitive EACW.** The list printed in the paper that describes it is one edition; the files here are maintained, corrected and extended in dated editions, and carry the list's glosses in languages of wider communication (`glosses/`: French, Arabic and Amharic so far, machine audited).
 
-- **Current edition:** 2026-10-24
+- **Current edition:** 2026-10-27
 - **Licence:** Creative Commons Attribution 4.0 International ([CC BY 4.0](LICENSE)), © 2026 Joshua A. G. Smolders
 - **DOI (all editions, always the newest):** [10.5281/zenodo.23677135](https://doi.org/10.5281/zenodo.23677135)
+- **DOI of edition 2026-10-27:** on its Zenodo record (each edition's DOI is made at release)
 - **DOI of edition 2026-10-24:** [10.5281/zenodo.23677136](https://doi.org/10.5281/zenodo.23677136)
 
 ## Citing it
 
-> Smolders, Joshua A. G. 2026. *The Extended African Comparative Wordlist (EACW)*, edition 2026-10-24 [dataset]. Zenodo. https://doi.org/10.5281/zenodo.23677136
+> Smolders, Joshua A. G. 2026. *The Extended African Comparative Wordlist (EACW)*, edition 2026-10-27 [dataset]. Zenodo. https://doi.org/10.5281/zenodo.23677135
 
 Cite the edition you used: each edition has a DOI of its own. To refer to the EACW in general, use the DOI for all editions, [10.5281/zenodo.23677135](https://doi.org/10.5281/zenodo.23677135), which always points to the newest. The paper that explains the list:
 
@@ -53,7 +54,7 @@ The 207 items combining Swadesh's 100- and 200-word lists (Swadesh 1952, 1955): 
 - An ambiguous CAWL item takes a reference on **each EACW item that clarifies it** (CAWL 0358 *nephew* → C022m, C025m).
 - In the human terms (B and C), links follow the family: an ungendered item links to the generic and its female and male forms; a gendered pair also links to its generic; except where the generic and its gendered forms each have links of their own.
 - An item never links to the parts of what it names, to other referents, or to another word class where the exact item exists.
-- 1,694 of the CAWL's 1,700 items and all 207 Swadesh items have an EACW counterpart; 1,958 EACW items carry a CAWL or Swadesh number.
+- 1,694 of the CAWL's 1,700 items and all 207 Swadesh items have an EACW counterpart; 1,955 EACW items carry a CAWL or Swadesh number.
 
 ## The reference system in brief
 
@@ -71,19 +72,19 @@ A version is two choices: the **default items only** or the **hidden items too**
 
 | Region | Default items | With hidden items |
 |---|---|---|
-| Global (blank codes only) | 2,055 | 2,316 |
-| Africa (every code) | 2,274 | 2,556 |
-| East Africa and the Horn | 2,255 | 2,535 |
-| West Africa | 2,204 | 2,482 |
-| North Africa and the Sahara | 2,110 | 2,380 |
-| Southern Africa | 2,209 | 2,486 |
-| Central Africa | 2,203 | 2,480 |
+| Global (blank codes only) | 2,046 | 2,310 |
+| Africa (every code) | 2,268 | 2,553 |
+| East Africa and the Horn | 2,249 | 2,532 |
+| West Africa | 2,196 | 2,477 |
+| North Africa and the Sahara | 2,102 | 2,375 |
+| Southern Africa | 2,200 | 2,480 |
+| Central Africa | 2,193 | 2,473 |
 
 A single region takes the blank codes, the A codes and that region's letter.
 
 ## Editions
 
-Each release is an edition named by its date; [EDITIONS.md](EDITIONS.md) says what each one changed, so that a database built on an earlier edition can be brought up to date.
+Each release is an edition named by its date; [EDITIONS.md](EDITIONS.md) says what each one changed, so that a database built on an earlier edition can be brought up to date; `conversions/` holds the old-to-new reference tables where an edition renumbered items.
 
 ## Corrections and suggestions
 

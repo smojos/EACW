@@ -4,14 +4,14 @@ type: dataset
 title: "The Extended African Comparative Wordlist (EACW)"
 abstract: >-
   A comparative wordlist and system of lexical reference for field linguists:
-  2,556 items in nineteen semantic sections (2,274 in the default list), each with a
+  2,553 items in nineteen semantic sections (2,268 in the default list), each with a
   meaningful reference, a default word class, clarifications, taxa for animals and plants,
   regional codes, and correspondences with the SIL Comparative African Wordlist and the
   Swadesh list. Maintained in dated editions.
 authors:
   - family-names: Smolders
     given-names: "Joshua A. G."
-version: "2026-10-24"
+version: "2026-10-27"
 doi: 10.5281/zenodo.23677135
 identifiers:
   - type: doi
@@ -20,7 +20,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23677136
     description: "Edition 2026-10-24"
-date-released: 2026-10-26
+date-released: 2026-10-27
 license: CC-BY-4.0
 repository-code: "https://github.com/smojos/EACW"
 keywords:
