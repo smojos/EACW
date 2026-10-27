@@ -4,7 +4,7 @@ Each edition is named by its date. The newest is at the top.
 
 ## Next edition (not yet released)
 
-- Clarifications added after the first gloss pilot (section A in French, Amharic and Arabic): A003 *hair*, A008 *vein*, A054 *neckbone*, A092 *arm bone*, A120 *vagina*, A125a *outer knee*, A125b *inner knee*. No gloss or number changed.
+- Clarifications added after the first gloss pilot (section A in French, Amharic and Arabic): A003 *hair*, A008 *vein*, A054 *neckbone*, A092 *arm bone*, A120 *vagina*, A125a *outer knee*, A125b *inner knee*; and from section B: B016 *chief*, B026 *metalsmith*, B041 *mage*, B042 *priest*, B049m *impotent man*, B055 *giant*. No gloss or number changed.
 
 ## 2026-10-24
 

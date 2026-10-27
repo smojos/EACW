@@ -202,7 +202,7 @@ B014	midwife	NOUN	yes
 B015	youth	NOUN	yes			
 B015f	female youth	NOUN	no			
 B015m	male youth	NOUN	no			
-B016	chief	NOUN	yes			
+B016	chief	NOUN	yes		traditional head of a village, clan or people	
 B016f	female chief	NOUN	no			
 B016m	male chief	NOUN	no			
 B017	monarch	NOUN	no			
@@ -232,7 +232,7 @@ B024m	male fisher	NOUN	no
 B025	farmer	NOUN	yes			
 B025f	female farmer	NOUN	no			
 B025m	male farmer	NOUN	no			
-B026	metalsmith	NOUN	yes			
+B026	metalsmith	NOUN	yes		either metalsmith, (a) blacksmith, or (b) goldsmith	
 B026f	female metalsmith	NOUN	no			
 B026m	male metalsmith	NOUN	no			
 B027	tailor	NOUN	yes			
@@ -277,10 +277,10 @@ B039m	male healer	NOUN	no
 B040	spiritist	NOUN	yes		spirit medium, diviner	
 B040f	female spiritist	NOUN	no			
 B040m	male spiritist	NOUN	no			
-B041	mage	NOUN	no			
+B041	mage	NOUN	no		one who practises sorcery or witchcraft, of either sex	
 B041f	witch	NOUN	yes			
 B041m	warlock	NOUN	yes		sorcerer	
-B042	priest	NOUN	no			
+B042	priest	NOUN	no		officiant of any religion, including traditional	
 B042f	female priest	NOUN	no			
 B042m	male priest	NOUN	yes			
 B043	beggar	NOUN	yes			
@@ -303,7 +303,7 @@ B048f	female poor person	NOUN	no
 B048m	male poor person	NOUN	no			
 B049	infertile person	NOUN	no			
 B049f	barren woman	NOUN	yes			
-B049m	impotent man	NOUN	yes			
+B049m	impotent man	NOUN	yes		either infertile man, (a) sterile, or (b) sexually impotent	
 B050	blind person	NOUN	yes			
 B050f	female blind person	NOUN	no			
 B050m	male blind person	NOUN	no			
@@ -319,7 +319,7 @@ B053m	male cripple	NOUN	no
 B054	dwarf	NOUN	yes			
 B054f	female dwarf	NOUN	no			
 B054m	male dwarf	NOUN	no			
-B055	giant	NOUN	yes			
+B055	giant	NOUN	yes		either giant, (a) very large person, or (b) mythical giant or ogre	
 B055f	female giant	NOUN	no			
 B055m	male giant	NOUN	no			
 B056	fool	NOUN	yes			
