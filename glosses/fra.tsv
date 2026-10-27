@@ -2710,12 +2710,12 @@ CLUGm	homme ganda		machine		male Ganda person
 CNYN	personne du peuple appelé Nyankole		machine		Nyankole person	
 CNYNf	femme du peuple appelé Nyankole		machine		female Nyankole person	
 CNYNm	homme du peuple appelé Nyankole		machine		male Nyankole person	
-CKIN	Rwandais	Au sens de locuteur du kinyarwanda, y compris hors du Rwanda.	machine		Rwandan person	
-CKINf	Rwandaise	Au sens de locuteur du kinyarwanda, y compris hors du Rwanda.	machine		female Rwandan person	
-CKINm	Rwandais	Au sens de locuteur du kinyarwanda, y compris hors du Rwanda.	machine		male Rwandan person	
-CRUN	Burundais	Au sens de locuteur du kirundi, y compris hors du Burundi.	machine		Burundian person	
-CRUNf	Burundaise	Au sens de locuteur du kirundi, y compris hors du Burundi.	machine		female Burundian person	
-CRUNm	Burundais	Au sens de locuteur du kirundi, y compris hors du Burundi.	machine		male Burundian person	
+CKIN	personne de langue kinyarwanda, Munyarwanda	Banyarwanda (sg. Munyarwanda) : au Rwanda, en RD Congo et en Ouganda, pas seulement les citoyens rwandais.	machine		Rwandan person	
+CKINf	femme de langue kinyarwanda	Banyarwanda (sg. Munyarwanda) : au Rwanda, en RD Congo et en Ouganda, pas seulement les citoyens rwandais.	machine		female Rwandan person	
+CKINm	homme de langue kinyarwanda	Banyarwanda (sg. Munyarwanda) : au Rwanda, en RD Congo et en Ouganda, pas seulement les citoyens rwandais.	machine		male Rwandan person	
+CRUN	personne de langue kirundi, Murundi	Barundi (sg. Murundi) : pas seulement les citoyens burundais.	machine		Burundian person	
+CRUNf	femme de langue kirundi	Barundi (sg. Murundi) : pas seulement les citoyens burundais.	machine		female Burundian person	
+CRUNm	homme de langue kirundi	Barundi (sg. Murundi) : pas seulement les citoyens burundais.	machine		male Burundian person	
 CSUK	personne sukuma		machine		Sukuma person	
 CSUKf	femme sukuma		machine		female Sukuma person	
 CSUKm	homme sukuma		machine		male Sukuma person	
@@ -2818,21 +2818,21 @@ CFULm	Peul		machine		male Fula (Fulani) person
 CKAU	personne kanouri		machine		Kanuri person	
 CKAUf	femme kanouri		machine		female Kanuri person	
 CKAUm	homme kanouri		machine		male Kanuri person	
-CLIN	personne de langue lingala	Bangala (sg. Mungala) : les gens dont le lingala est la langue première, non tous ceux qui le parlent comme langue véhiculaire.	machine		Lingala-speaking person	
-CLINf	femme de langue lingala	Bangala (sg. Mungala) : les gens dont le lingala est la langue première, non tous ceux qui le parlent comme langue véhiculaire.	machine		female Lingala-speaking person	
-CLINm	homme de langue lingala	Bangala (sg. Mungala) : les gens dont le lingala est la langue première, non tous ceux qui le parlent comme langue véhiculaire.	machine		male Lingala-speaking person	
-CKON	personne kongo		machine		Kongo person	
-CKONf	femme kongo		machine		female Kongo person	
-CKONm	homme kongo		machine		male Kongo person	
+CLIN	personne de langue maternelle lingala	Locuteurs natifs du lingala, non tous ceux qui le parlent comme langue véhiculaire ; à distinguer de la langue bangala (bxg).	machine		Lingala-speaking person	
+CLINf	femme de langue maternelle lingala	Locuteurs natifs du lingala, non tous ceux qui le parlent comme langue véhiculaire ; à distinguer de la langue bangala (bxg).	machine		female Lingala-speaking person	
+CLINm	homme de langue maternelle lingala	Locuteurs natifs du lingala, non tous ceux qui le parlent comme langue véhiculaire ; à distinguer de la langue bangala (bxg).	machine		male Lingala-speaking person	
+CKON	personne kongo	Bakongo (sg. Mukongo) : à ne pas confondre avec les Congolais, citoyens de l'un ou l'autre Congo.	machine		Kongo person	
+CKONf	femme kongo	Bakongo (sg. Mukongo) : à ne pas confondre avec les Congolais, citoyens de l'un ou l'autre Congo.	machine		female Kongo person	
+CKONm	homme kongo	Bakongo (sg. Mukongo) : à ne pas confondre avec les Congolais, citoyens de l'un ou l'autre Congo.	machine		male Kongo person	
 CLUA	personne luba du Kasaï		machine		Kasai Luba person	
 CLUAf	femme luba du Kasaï		machine		female Kasai Luba person	
 CLUAm	homme luba du Kasaï		machine		male Kasai Luba person	
 CLUB	personne luba du Katanga		machine		Katanga Luba person	
 CLUBf	femme luba du Katanga		machine		female Katanga Luba person	
 CLUBm	homme luba du Katanga		machine		male Katanga Luba person	
-CSAG	personne sango		machine		Sango person	
-CSAGf	femme sango		machine		female Sango person	
-CSAGm	homme sango		machine		male Sango person	
+CSAG	personne du peuple sango	Le peuple sango, riverain de l'Oubangui, non tous ceux qui parlent le sango comme langue véhiculaire.	machine		Sango person	
+CSAGf	femme du peuple sango	Le peuple sango, riverain de l'Oubangui, non tous ceux qui parlent le sango comme langue véhiculaire.	machine		female Sango person	
+CSAGm	homme du peuple sango	Le peuple sango, riverain de l'Oubangui, non tous ceux qui parlent le sango comme langue véhiculaire.	machine		male Sango person	
 CEWO	personne ewondo		machine		Ewondo person	
 CEWOf	femme ewondo		machine		female Ewondo person	
 CEWOm	homme ewondo		machine		male Ewondo person	
@@ -2842,9 +2842,9 @@ CBUMm	homme boulou		machine		male Bulu person
 CSBA	personne ngambaye		machine		Ngambay person	
 CSBAf	femme ngambaye		machine		female Ngambay person	
 CSBAm	homme ngambaye		machine		male Ngambay person	
-CAFR	Afrikaner		machine		Afrikaner person	
-CAFRf	Afrikaner		machine		female Afrikaner person	
-CAFRm	Afrikaner		machine		male Afrikaner person	
+CAFR	Afrikaner	Les Afrikaners, non tous les locuteurs de l'afrikaans, dont beaucoup sont métis.	machine		Afrikaner person	
+CAFRf	femme afrikaner	Les Afrikaners, non tous les locuteurs de l'afrikaans, dont beaucoup sont métis.	machine		female Afrikaner person	
+CAFRm	homme afrikaner	Les Afrikaners, non tous les locuteurs de l'afrikaans, dont beaucoup sont métis.	machine		male Afrikaner person	
 CZUL	Zoulou		machine		Zulu person	
 CZULf	Zouloue		machine		female Zulu person	
 CZULm	Zoulou		machine		male Zulu person	

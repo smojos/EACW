@@ -2605,24 +2605,24 @@ CBEJm	رجل من البجا, رجل بجاوي		machine		male Beja person
 CFIA	نوبي	كلمة بربري أو برابرة استُعملت قديماً للنوبيين في مصر والسودان وقد تُعدّ مهينة	machine		Nubian person	
 CFIAf	امرأة نوبية		machine		female Nubian person	
 CFIAm	رجل نوبي		machine		male Nubian person	
-CFVR	شخص من الفور, فوراوي	صيغة النسبة (فوراوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Fur person	
-CFVRf	امرأة من الفور, امرأة فوراوية		machine		female Fur person	
-CFVRm	رجل من الفور, رجل فوراوي		machine		male Fur person	
-CZAG	شخص من الزغاوة, زغاوي	صيغة النسبة (زغاوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Zaghawa person	
-CZAGf	امرأة من الزغاوة, امرأة زغاوية		machine		female Zaghawa person	
-CZAGm	رجل من الزغاوة, رجل زغاوي		machine		male Zaghawa person	
-CMLS	شخص من المساليت, مساليتي	صيغة النسبة (مساليتي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Masalit person	
-CMLSf	امرأة من المساليت, امرأة مساليتية		machine		female Masalit person	
-CMLSm	رجل من المساليت, رجل مساليتي		machine		male Masalit person	
-CDIN	شخص من الدينكا, دينكاوي	صيغة النسبة (دينكاوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Dinka person	
-CDINf	امرأة من الدينكا, امرأة دينكاوية		machine		female Dinka person	
-CDINm	رجل من الدينكا, رجل دينكاوي		machine		male Dinka person	
-CNUS	شخص من النوير, نويراوي	صيغة النسبة (نويراوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Nuer person	
-CNUSf	امرأة من النوير, امرأة نويراوية		machine		female Nuer person	
-CNUSm	رجل من النوير, رجل نويراوي		machine		male Nuer person	
-CSHK	شخص من الشلك, شلكاوي	صيغة النسبة (شلكاوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Shilluk person	
-CSHKf	امرأة من الشلك, امرأة شلكاوية		machine		female Shilluk person	
-CSHKm	رجل من الشلك, رجل شلكاوي		machine		male Shilluk person	
+CFVR	شخص من الفور		machine		Fur person	
+CFVRf	امرأة من الفور		machine		female Fur person	
+CFVRm	رجل من الفور		machine		male Fur person	
+CZAG	شخص من الزغاوة		machine		Zaghawa person	
+CZAGf	امرأة من الزغاوة		machine		female Zaghawa person	
+CZAGm	رجل من الزغاوة		machine		male Zaghawa person	
+CMLS	شخص من المساليت		machine		Masalit person	
+CMLSf	امرأة من المساليت		machine		female Masalit person	
+CMLSm	رجل من المساليت		machine		male Masalit person	
+CDIN	شخص من الدينكا		machine		Dinka person	
+CDINf	امرأة من الدينكا		machine		female Dinka person	
+CDINm	رجل من الدينكا		machine		male Dinka person	
+CNUS	شخص من النوير		machine		Nuer person	
+CNUSf	امرأة من النوير		machine		female Nuer person	
+CNUSm	رجل من النوير		machine		male Nuer person	
+CSHK	شخص من الشلك		machine		Shilluk person	
+CSHKf	امرأة من الشلك		machine		female Shilluk person	
+CSHKm	رجل من الشلك		machine		male Shilluk person	
 CANU	شخص من الأنواك		machine		Anuak person	
 CANUf	امرأة من الأنواك		machine		female Anuak person	
 CANUm	رجل من الأنواك		machine		male Anuak person	
@@ -2653,9 +2653,9 @@ CORMm	رجل من الأورومو		machine		male Oromo person
 CTIR	شخص من التغراي أو التغرينيا		machine		Tigray or Tigrinya person	
 CTIRf	امرأة من التغراي أو التغرينيا		machine		female Tigray or Tigrinya person	
 CTIRm	رجل من التغراي أو التغرينيا		machine		male Tigray or Tigrinya person	
-CTIG	شخص من التغري (إريتريا)	التغري شعب في إريتريا وشرق السودان، غير التغراي	machine		Tigre (Eritrea) person	
-CTIGf	امرأة من التغري (إريتريا)		machine		female Tigre (Eritrea) person	
-CTIGm	رجل من التغري (إريتريا)		machine		male Tigre (Eritrea) person	
+CTIG	شخص من التغري (إريتريا وشرق السودان)	غير التغراي في إثيوبيا	machine		Tigre (Eritrea) person	
+CTIGf	امرأة من التغري (إريتريا وشرق السودان)		machine		female Tigre (Eritrea) person	
+CTIGm	رجل من التغري (إريتريا وشرق السودان)		machine		male Tigre (Eritrea) person	
 CSOM	صومالي		machine		Somali person	
 CSOMf	امرأة صومالية		machine		female Somali person	
 CSOMm	رجل صومالي		machine		male Somali person	
@@ -2710,21 +2710,21 @@ CLUGm	رجل من الباغندا		machine		male Baganda (Ganda) person
 CNYN	شخص من البانيانكولي		machine		Banyankole (Nkore) person	
 CNYNf	امرأة من البانيانكولي		machine		female Banyankole (Nkore) person	
 CNYNm	رجل من البانيانكولي		machine		male Banyankole (Nkore) person	
-CKIN	رواندي (من الناطقين بالكينيارواندا)		machine		Rwandan person	
-CKINf	امرأة رواندية (من الناطقات بالكينيارواندا)		machine		female Rwandan person	
-CKINm	رجل رواندي (من الناطقين بالكينيارواندا)		machine		male Rwandan person	
-CRUN	بوروندي (من الناطقين بالكيروندي)		machine		Burundian person	
-CRUNf	امرأة بوروندية (من الناطقات بالكيروندي)		machine		female Burundian person	
-CRUNm	رجل بوروندي (من الناطقين بالكيروندي)		machine		male Burundian person	
+CKIN	شخص من البانيارواندا (الناطقين بالكينيارواندا)	في رواندا والكونغو الديمقراطية وأوغندا، لا مواطنو رواندا فقط	machine		Rwandan person	
+CKINf	امرأة من البانيارواندا (الناطقين بالكينيارواندا)		machine		female Rwandan person	
+CKINm	رجل من البانيارواندا (الناطقين بالكينيارواندا)		machine		male Rwandan person	
+CRUN	شخص من الباروندي (الناطقين بالكيروندي)	لا مواطنو بوروندي فقط	machine		Burundian person	
+CRUNf	امرأة من الباروندي (الناطقين بالكيروندي)		machine		female Burundian person	
+CRUNm	رجل من الباروندي (الناطقين بالكيروندي)		machine		male Burundian person	
 CSUK	شخص من السوكوما		machine		Sukuma person	
 CSUKf	امرأة من السوكوما		machine		female Sukuma person	
 CSUKm	رجل من السوكوما		machine		male Sukuma person	
 CNYM	شخص من النيامويزي		machine		Nyamwezi person	
 CNYMf	امرأة من النيامويزي		machine		female Nyamwezi person	
 CNYMm	رجل من النيامويزي		machine		male Nyamwezi person	
-CHAU	شخص من الهوسا, هوساوي	صيغة النسبة (هوساوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية؛ في السودان قد يُدرج الهوسا تحت كلمة فلاتة، وهي تسمية خارجية قد تُعدّ مهينة	machine		Hausa person	
-CHAUf	امرأة من الهوسا, امرأة هوساوية		machine		female Hausa person	
-CHAUm	رجل من الهوسا, رجل هوساوي		machine		male Hausa person	
+CHAU	شخص من الهوسا	في السودان قد يُدرج الهوسا تحت كلمة فلاتة، وهي تسمية خارجية قد تُعدّ مهينة	machine		Hausa person	
+CHAUf	امرأة من الهوسا		machine		female Hausa person	
+CHAUm	رجل من الهوسا		machine		male Hausa person	
 CYOR	شخص من اليوروبا		machine		Yoruba person	
 CYORf	امرأة من اليوروبا		machine		female Yoruba person	
 CYORm	رجل من اليوروبا		machine		male Yoruba person	
@@ -2818,9 +2818,9 @@ CFULm	رجل فولاني		machine		male Fulani person
 CKAU	شخص من الكانوري		machine		Kanuri person	
 CKAUf	امرأة من الكانوري		machine		female Kanuri person	
 CKAUm	رجل من الكانوري		machine		male Kanuri person	
-CLIN	شخص من البانغالا (الناطقين باللينغالا)	أي الناطقون بلغة اللينغالا	machine		Bangala person	
-CLINf	امرأة من البانغالا (الناطقين باللينغالا)		machine		female Bangala person	
-CLINm	رجل من البانغالا (الناطقين باللينغالا)		machine		male Bangala person	
+CLIN	شخص من البانغالا (الناطقين باللينغالا لغةً أولى)		machine		Bangala person	
+CLINf	امرأة من البانغالا (الناطقين باللينغالا لغةً أولى)		machine		female Bangala person	
+CLINm	رجل من البانغالا (الناطقين باللينغالا لغةً أولى)		machine		male Bangala person	
 CKON	شخص من الباكونغو		machine		Bakongo (Kongo) person	
 CKONf	امرأة من الباكونغو		machine		female Bakongo (Kongo) person	
 CKONm	رجل من الباكونغو		machine		male Bakongo (Kongo) person	
@@ -2830,9 +2830,9 @@ CLUAm	رجل من اللوبا كاساي		machine		male Luba-Kasai person
 CLUB	شخص من اللوبا كاتانغا		machine		Luba-Katanga person	
 CLUBf	امرأة من اللوبا كاتانغا		machine		female Luba-Katanga person	
 CLUBm	رجل من اللوبا كاتانغا		machine		male Luba-Katanga person	
-CSAG	شخص من السانغو		machine		Sango person	
-CSAGf	امرأة من السانغو		machine		female Sango person	
-CSAGm	رجل من السانغو		machine		male Sango person	
+CSAG	شخص من شعب السانغو النهري	لا كل الناطقين بالسانغو، فهي لغة تواصل في أفريقيا الوسطى	machine		Sango person	
+CSAGf	امرأة من شعب السانغو النهري		machine		female Sango person	
+CSAGm	رجل من شعب السانغو النهري		machine		male Sango person	
 CEWO	شخص من الإيواندو		machine		Ewondo person	
 CEWOf	امرأة من الإيواندو		machine		female Ewondo person	
 CEWOm	رجل من الإيواندو		machine		male Ewondo person	

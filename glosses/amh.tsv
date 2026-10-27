@@ -2650,9 +2650,9 @@ CAMHm	አማራ ወንድ		machine		male Amhara person
 CORM	ኦሮሞ	ጋላ የሚለው የቆየ ስም የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		Oromo person	
 CORMf	ኦሮሞ ሴት	ጋላ የሚለው የቆየ ስም የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		female Oromo person	
 CORMm	ኦሮሞ ወንድ	ጋላ የሚለው የቆየ ስም የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		male Oromo person	
-CTIR	ትግራዋይ የሚባለው ብሔረሰብ ሰው	ትግሬ የሚለው የተለመደ ቢሆንም ብዙዎች እንደ ንቀት ቃል ይቆጥሩታል። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		Tigrayan person	
-CTIRf	ትግራዋይ የሚባለው ብሔረሰብ ሴት	ትግሬ የሚለው የተለመደ ቢሆንም ብዙዎች እንደ ንቀት ቃል ይቆጥሩታል። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		female Tigrayan person	
-CTIRm	ትግራዋይ የሚባለው ብሔረሰብ ወንድ	ትግሬ የሚለው የተለመደ ቢሆንም ብዙዎች እንደ ንቀት ቃል ይቆጥሩታል። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		Tigrayan person	
+CTIR	ትግራዋይ	ትግሬ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		Tigrayan person	
+CTIRf	ትግራዋይት	ትግሬ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		female Tigrayan person	
+CTIRm	ትግራዋይ ወንድ	ትግሬ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		Tigrayan person	
 CTIG	ትግረ የሚባለው ብሔረሰብ ሰው	በኤርትራና በሱዳን የሚኖር የትግረ ቋንቋ ተናጋሪ ሕዝብ፤ ከትግራዋይ የተለየ ነው።	machine		Tigre person	
 CTIGf	ትግረ የሚባለው ብሔረሰብ ሴት	በኤርትራና በሱዳን የሚኖር የትግረ ቋንቋ ተናጋሪ ሕዝብ፤ ከትግራዋይ የተለየ ነው።	machine		female Tigre person	
 CTIGm	ትግረ የሚባለው ብሔረሰብ ወንድ	በኤርትራና በሱዳን የሚኖር የትግረ ቋንቋ ተናጋሪ ሕዝብ፤ ከትግራዋይ የተለየ ነው።	machine		male Tigre person	
@@ -2665,9 +2665,9 @@ CAARm	አፋር ወንድ		machine		male Afar person
 CSID	ሲዳማ		machine		Sidama person	
 CSIDf	ሲዳማ ሴት		machine		female Sidama person	
 CSIDm	ሲዳማ ወንድ		machine		male Sidama person	
-CWAL	ወላይታ የሚባለው ብሔረሰብ ሰው	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		Wolaytta person	
-CWALf	ወላይታ የሚባለው ብሔረሰብ ሴት	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		female Wolaytta person	
-CWALm	ወላይታ የሚባለው ብሔረሰብ ወንድ	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		male Wolaytta person	
+CWAL	ወላይታ	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		Wolaytta person	
+CWALf	ወላይታ ሴት	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		female Wolaytta person	
+CWALm	ወላይታ ወንድ	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		male Wolaytta person	
 CHDY	ሀዲያ		machine		Hadiyya person	
 CHDYf	ሀዲያ ሴት		machine		female Hadiyya person	
 CHDYm	ሀዲያ ወንድ		machine		male Hadiyya person	
@@ -2710,12 +2710,12 @@ CLUGm	ባጋንዳ የሚባለው ብሔረሰብ ወንድ		machine		male Muga
 CNYN	ባንያንኮሌ የሚባለው ብሔረሰብ ሰው		machine		Munyankole person	
 CNYNf	ባንያንኮሌ የሚባለው ብሔረሰብ ሴት		machine		female Munyankole person	
 CNYNm	ባንያንኮሌ የሚባለው ብሔረሰብ ወንድ		machine		male Munyankole person	
-CKIN	ሩዋንዳዊ	ኪንያሩዋንዳ ተናጋሪ ሕዝብ (ባንያሩዋንዳ)፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ።	machine		Rwandan person	
-CKINf	ሩዋንዳዊት	ኪንያሩዋንዳ ተናጋሪ ሕዝብ (ባንያሩዋንዳ)፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ።	machine		female Rwandan person	
-CKINm	ሩዋንዳዊ ወንድ	ኪንያሩዋንዳ ተናጋሪ ሕዝብ (ባንያሩዋንዳ)፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ።	machine		Rwandan person	
-CRUN	ቡሩንዲያዊ	ኪሩንዲ ተናጋሪ ሕዝብ (ባሩንዲ)።	machine		Burundian person	
-CRUNf	ቡሩንዲያዊት	ኪሩንዲ ተናጋሪ ሕዝብ (ባሩንዲ)።	machine		female Burundian person	
-CRUNm	ቡሩንዲያዊ ወንድ	ኪሩንዲ ተናጋሪ ሕዝብ (ባሩንዲ)።	machine		Burundian person	
+CKIN	ባንያሩዋንዳ የሚባለው ብሔረሰብ ሰው	ኪንያሩዋንዳ ተናጋሪ ሕዝብ፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ። የሩዋንዳ ዜጋ ብቻ ማለት አይደለም።	machine		Rwandan person	
+CKINf	ባንያሩዋንዳ የሚባለው ብሔረሰብ ሴት	ኪንያሩዋንዳ ተናጋሪ ሕዝብ፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ። የሩዋንዳ ዜጋ ብቻ ማለት አይደለም።	machine		female Rwandan person	
+CKINm	ባንያሩዋንዳ የሚባለው ብሔረሰብ ወንድ	ኪንያሩዋንዳ ተናጋሪ ሕዝብ፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ። የሩዋንዳ ዜጋ ብቻ ማለት አይደለም።	machine		Rwandan person	
+CRUN	ባሩንዲ የሚባለው ብሔረሰብ ሰው	ኪሩንዲ ተናጋሪ ሕዝብ፤ የቡሩንዲ ዜጋ ብቻ ማለት አይደለም።	machine		Burundian person	
+CRUNf	ባሩንዲ የሚባለው ብሔረሰብ ሴት	ኪሩንዲ ተናጋሪ ሕዝብ፤ የቡሩንዲ ዜጋ ብቻ ማለት አይደለም።	machine		female Burundian person	
+CRUNm	ባሩንዲ የሚባለው ብሔረሰብ ወንድ	ኪሩንዲ ተናጋሪ ሕዝብ፤ የቡሩንዲ ዜጋ ብቻ ማለት አይደለም።	machine		Burundian person	
 CSUK	ሱኩማ የሚባለው ብሔረሰብ ሰው		machine		Sukuma person	
 CSUKf	ሱኩማ የሚባለው ብሔረሰብ ሴት		machine		female Sukuma person	
 CSUKm	ሱኩማ የሚባለው ብሔረሰብ ወንድ		machine		male Sukuma person	
@@ -2818,9 +2818,9 @@ CFULm	ፉላኒ የሚባለው ብሔረሰብ ወንድ		machine		male Fulani 
 CKAU	ካኑሪ የሚባለው ብሔረሰብ ሰው		machine		Kanuri person	
 CKAUf	ካኑሪ የሚባለው ብሔረሰብ ሴት		machine		female Kanuri person	
 CKAUm	ካኑሪ የሚባለው ብሔረሰብ ወንድ		machine		male Kanuri person	
-CLIN	የሊንጋላ ተናጋሪ ሰው	የሊንጋላ ቋንቋ ተናጋሪ (በኮንጎ)	machine		Lingala-speaking person	
-CLINf	የሊንጋላ ተናጋሪ ሴት	የሊንጋላ ቋንቋ ተናጋሪ (በኮንጎ)	machine		female Lingala-speaking person	
-CLINm	የሊንጋላ ተናጋሪ ወንድ	የሊንጋላ ቋንቋ ተናጋሪ (በኮንጎ)	machine		male Lingala-speaking person	
+CLIN	ሊንጋላ የአፍ መፍቻ ቋንቋው የሆነ ሰው	በኮንጎ፤ ሊንጋላን ለመግባቢያ ብቻ የሚናገሩትን አይጨምርም።	machine		Lingala-speaking person	
+CLINf	ሊንጋላ የአፍ መፍቻ ቋንቋዋ የሆነ ሴት	በኮንጎ፤ ሊንጋላን ለመግባቢያ ብቻ የሚናገሩትን አይጨምርም።	machine		female Lingala-speaking person	
+CLINm	ሊንጋላ የአፍ መፍቻ ቋንቋው የሆነ ወንድ	በኮንጎ፤ ሊንጋላን ለመግባቢያ ብቻ የሚናገሩትን አይጨምርም።	machine		male Lingala-speaking person	
 CKON	ባኮንጎ የሚባለው ብሔረሰብ ሰው	የኮንጎ ብሔር ሰው እንጂ የኮንጎ አገር ዜጋ ማለት አይደለም	machine		Mukongo person	
 CKONf	ባኮንጎ የሚባለው ብሔረሰብ ሴት	የኮንጎ ብሔር ሰው እንጂ የኮንጎ አገር ዜጋ ማለት አይደለም	machine		female Mukongo person	
 CKONm	ባኮንጎ የሚባለው ብሔረሰብ ወንድ	የኮንጎ ብሔር ሰው እንጂ የኮንጎ አገር ዜጋ ማለት አይደለም	machine		male Mukongo person	
@@ -2830,9 +2830,9 @@ CLUAm	ሉባ-ካሳይ የሚባለው ብሔረሰብ ወንድ		machine		male 
 CLUB	ሉባ-ካታንጋ የሚባለው ብሔረሰብ ሰው		machine		Luba-Katanga person	
 CLUBf	ሉባ-ካታንጋ የሚባለው ብሔረሰብ ሴት		machine		female Luba-Katanga person	
 CLUBm	ሉባ-ካታንጋ የሚባለው ብሔረሰብ ወንድ		machine		male Luba-Katanga person	
-CSAG	ሳንጎ የሚባለው ብሔረሰብ ሰው	በማዕከላዊ አፍሪካ ሪፐብሊክ የሚኖር ሕዝብ፤ ሳንጎ ቋንቋ በብዙዎች የመግባቢያ ቋንቋ ነው።	machine		Sango person	
-CSAGf	ሳንጎ የሚባለው ብሔረሰብ ሴት	በማዕከላዊ አፍሪካ ሪፐብሊክ የሚኖር ሕዝብ፤ ሳንጎ ቋንቋ በብዙዎች የመግባቢያ ቋንቋ ነው።	machine		female Sango person	
-CSAGm	ሳንጎ የሚባለው ብሔረሰብ ወንድ	በማዕከላዊ አፍሪካ ሪፐብሊክ የሚኖር ሕዝብ፤ ሳንጎ ቋንቋ በብዙዎች የመግባቢያ ቋንቋ ነው።	machine		male Sango person	
+CSAG	ሳንጎ የሚባለው ብሔረሰብ ሰው	በማዕከላዊ አፍሪካ ሪፐብሊክ በኡባንጊ ወንዝ ዳር የሚኖር ሕዝብ፤ ሳንጎን ለመግባቢያ የሚናገሩትን ሁሉ አይጨምርም።	machine		Sango person	
+CSAGf	ሳንጎ የሚባለው ብሔረሰብ ሴት	በማዕከላዊ አፍሪካ ሪፐብሊክ በኡባንጊ ወንዝ ዳር የሚኖር ሕዝብ፤ ሳንጎን ለመግባቢያ የሚናገሩትን ሁሉ አይጨምርም።	machine		female Sango person	
+CSAGm	ሳንጎ የሚባለው ብሔረሰብ ወንድ	በማዕከላዊ አፍሪካ ሪፐብሊክ በኡባንጊ ወንዝ ዳር የሚኖር ሕዝብ፤ ሳንጎን ለመግባቢያ የሚናገሩትን ሁሉ አይጨምርም።	machine		male Sango person	
 CEWO	ኤዎንዶ የሚባለው ብሔረሰብ ሰው		machine		Ewondo person	
 CEWOf	ኤዎንዶ የሚባለው ብሔረሰብ ሴት		machine		female Ewondo person	
 CEWOm	ኤዎንዶ የሚባለው ብሔረሰብ ወንድ		machine		male Ewondo person	
@@ -2842,9 +2842,9 @@ CBUMm	ቡሉ የሚባለው ብሔረሰብ ወንድ		machine		male Bulu perso
 CSBA	ንጋምባይ የሚባለው ብሔረሰብ ሰው		machine		Ngambay person	
 CSBAf	ንጋምባይ የሚባለው ብሔረሰብ ሴት		machine		female Ngambay person	
 CSBAm	ንጋምባይ የሚባለው ብሔረሰብ ወንድ		machine		male Ngambay person	
-CAFR	አፍሪካነር የሚባለው ብሔረሰብ ሰው		machine		Afrikaner person	
-CAFRf	አፍሪካነር የሚባለው ብሔረሰብ ሴት		machine		female Afrikaner person	
-CAFRm	አፍሪካነር የሚባለው ብሔረሰብ ወንድ		machine		male Afrikaner person	
+CAFR	አፍሪካነር የሚባለው ብሔረሰብ ሰው	ከነጭ ደቡብ አፍሪካውያን የሆኑት አፍሪካነሮች፤ የአፍሪካንስ ተናጋሪዎች ሁሉ ማለት አይደለም።	machine		Afrikaner person	
+CAFRf	አፍሪካነር የሚባለው ብሔረሰብ ሴት	ከነጭ ደቡብ አፍሪካውያን የሆኑት አፍሪካነሮች፤ የአፍሪካንስ ተናጋሪዎች ሁሉ ማለት አይደለም።	machine		female Afrikaner person	
+CAFRm	አፍሪካነር የሚባለው ብሔረሰብ ወንድ	ከነጭ ደቡብ አፍሪካውያን የሆኑት አፍሪካነሮች፤ የአፍሪካንስ ተናጋሪዎች ሁሉ ማለት አይደለም።	machine		male Afrikaner person	
 CZUL	የዙሉ ሰው		machine		Zulu person	
 CZULf	የዙሉ ሴት		machine		female Zulu person	
 CZULm	የዙሉ ወንድ		machine		male Zulu person	
