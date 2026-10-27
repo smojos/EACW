@@ -1003,7 +1003,7 @@ J031a	candelabra tree	NOUN	yes	E S	tree euphorbia	Euphorbia (tree-form species) 
 J032	gardenia	NOUN	no	E W S C	savanna gardenia, Gardenia ternifolia or erubescens	Gardenia (G. ternifolia, G. erubescens) (Rubiaceae)
 J032a	gardenia tree	NOUN	yes	E W S C	savanna gardenia, Gardenia ternifolia or erubescens	Gardenia (G. ternifolia, G. erubescens) (Rubiaceae)
 J032b	gardenia fruit	NOUN	yes	E W S C		Gardenia (G. ternifolia, G. erubescens) (Rubiaceae)
-J033	fan palm	NOUN	no	A	Borassus or doum palm	Borasseae (Borassus aethiopum, Hyphaene) (Arecaceae)
+J033	fan palm	NOUN	no	A	either fan palm, (c) Borassus palm, or (d) doum palm (Hyphaene)	Borasseae (Borassus aethiopum, Hyphaene) (Arecaceae)
 J033a	fan palm tree	NOUN	yes	A	Borassus or doum palm	Borasseae (Borassus aethiopum, Hyphaene) (Arecaceae)
 J033b	fan palm fruit	NOUN	yes	A		Borasseae (Borassus aethiopum, Hyphaene) (Arecaceae)
 J034	oil palm	NOUN	no			Elaeis guineensis (Arecaceae)
@@ -1108,7 +1108,7 @@ J082	tuber	NOUN	yes
 J083	potato	NOUN	yes			Solanum tuberosum (Solanaceae)
 J084	cassava	NOUN	yes			Manihot esculenta (Euphorbiaceae)
 J085	yam	NOUN	yes			Dioscorea (Dioscoreaceae)
-J086	cocoyam	NOUN	yes		taro or tannia	Colocasia esculenta, Xanthosoma sagittifolium (Araceae)
+J086	cocoyam	NOUN	yes		either cocoyam, (a) taro (Colocasia), or (b) tannia (Xanthosoma)	Colocasia esculenta, Xanthosoma sagittifolium (Araceae)
 J087	sweet potato	NOUN	yes			Ipomoea batatas (Convolvulaceae)
 J088	onion	NOUN	yes			Allium cepa (Amaryllidaceae)
 J089	garlic	NOUN	yes			Allium sativum (Amaryllidaceae)
@@ -1124,8 +1124,8 @@ J098	cinnamon	NOUN	yes			Cinnamomum (Lauraceae)
 J099	coriander	NOUN	yes			Coriandrum sativum (Apiaceae)
 J100	tobacco	NOUN	yes			Nicotiana tabacum (Solanaceae)
 J101	cannabis	NOUN	yes			Cannabis sativa (Cannabaceae)
-J102	coffee	NOUN	yes			Coffea (Rubiaceae)
-J103	tea	NOUN	yes			Camellia sinensis (Theaceae)
+J102	coffee	NOUN	yes		either coffee, (a) the plant, or (b) the beans or drink	Coffea (Rubiaceae)
+J103	tea	NOUN	yes		either tea, (a) the plant, or (b) the leaves or drink	Camellia sinensis (Theaceae)
 J104	grass	NOUN	yes			
 J105	blade of grass	NOUN	yes			
 J106	weed	NOUN	yes			
@@ -1138,11 +1138,11 @@ J112	food	NOUN	yes
 J113	oil	NOUN	yes			
 J114	traditional bread	NOUN	yes		local staple bread, e.g. injera	
 J115	journey bread	NOUN	yes	E	food for a journey, provisions	
-J116	crust	NOUN	yes			
+J116	crust	NOUN	yes		either crust, (a) of bread, or (b) burnt layer stuck to the pot	
 J117	flour	NOUN	yes			
 J118	salt	NOUN	yes			
 J119	soup	NOUN	yes			
-J120	porridge	NOUN	yes			
+J120	porridge	NOUN	yes		either porridge, (a) stiff porridge eaten with the hand, or (b) thin gruel	
 J121	couscous	NOUN	yes	W N		
 J122	breakfast	NOUN	yes			
 J123	evening meal	NOUN	yes			
@@ -1201,7 +1201,7 @@ K037	garden	NOUN	yes
 K038	farm field	NOUN	yes			
 K038b	field boundary	NOUN	yes			
 K039	village	NOUN	yes			
-K039b	town	NOUN	yes		town or city	
+K039b	town	NOUN	yes		town, smaller than a city (K039c)	
 K039c	city	NOUN	yes			
 K040	camp	NOUN	yes			
 K041	market	NOUN	yes			
@@ -1247,13 +1247,13 @@ K076b	bowl for bread	NOUN	yes	E	serving bowl for bread or injera
 K076c	bowl for stew	NOUN	yes	E	bowl for stew or sauce, e.g. wat	
 K077	bowlring	NOUN	yes		ring stand for a round-bottomed pot	
 K078	plate	NOUN	yes			
-K079	dish	NOUN	yes			
-K080	cup	NOUN	yes			
+K079	dish	NOUN	yes		serving dish, larger than a plate (K078)	
+K080	cup	NOUN	yes		either cup, (a) drinking cup or mug, or (b) small coffee cup	
 K081	pottery shard	NOUN	yes			
 K082	spoon	NOUN	yes			
 K083	ladle	NOUN	yes			
 K084	beer filter	NOUN	yes	A	strainer for sorghum or millet beer	
-K085	handle	NOUN	yes			
+K085	handle	NOUN	yes		either handle, (a) of a tool, or (b) of a pot or basket	
 K086	woven basket	NOUN	yes			
 K087	bucket	NOUN	yes			
 K088	box	NOUN	yes			
@@ -1298,8 +1298,8 @@ K123	string	NOUN	yes
 K123b	thread	NOUN	yes		sewing thread	
 K124	strap	NOUN	yes			
 K125	knot	NOUN	yes		knot tied in rope or string	
-K125b	noose	NOUN	no			
-K125c	slipknot	NOUN	no			
+K125b	noose	NOUN	no		loop that tightens when pulled	
+K125c	slipknot	NOUN	no		knot that comes undone when its free end is pulled (not a noose)	
 K126	chain	NOUN	yes			
 K127	bundle (of sticks)	NOUN	yes			
 K128	heap (of grain)	NOUN	yes			
@@ -1328,7 +1328,7 @@ K146b	harpoon	NOUN	no
 K147	fishhook	NOUN	yes			
 K148	fishing line	NOUN	yes			
 K149	fishing net	NOUN	yes			
-K150	fish trap	NOUN	yes		weir across a stream for catching fish	
+K150	fish trap	NOUN	yes		basket trap set in the water to catch fish (not the dam, K151)	
 K151	fish dam	NOUN	yes			
 K152	boat	NOUN	yes			
 K153	ambatch raft	NOUN	yes	E	raft of ambatch (Aeschynomene) pith wood	
