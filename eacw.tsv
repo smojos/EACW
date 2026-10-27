@@ -1224,8 +1224,8 @@ K055	lamp	NOUN	yes
 K056	candle	NOUN	yes			
 K057	fan	NOUN	yes		hand fan	
 K058	bell	NOUN	yes			
-K059	broom	NOUN	yes			
-K060	duster	NOUN	yes		cloth or brush for removing dust	
+K059	broom	NOUN	yes		a bundle of sticks used for sweeping	
+K060	duster	NOUN	yes		either duster, (a) dust cloth, or (b) feather duster or brush	
 K061	fireplace	NOUN	yes		hearth, place of the cooking fire	
 K062	firewood	NOUN	yes			
 K063	firebrand	NOUN	yes		burning stick taken from a fire	
