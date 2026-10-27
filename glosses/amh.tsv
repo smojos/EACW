@@ -2554,3 +2554,360 @@ V547	ጠበቀ		machine		to wait
 V548	ጊዜ አሳለፈ		machine		to spend time	
 V549	ጨረሰ		machine		to finish	
 V549b	መጨረሻ, ፍጻሜ		machine		end, conclusion	
+CENG	እንግሊዛዊ		machine		English person	
+CENGf	እንግሊዛዊት		machine		female English person	
+CENGm	እንግሊዛዊ ወንድ		machine		English person	
+CFRA	ፈረንሳዊ		machine		French person	
+CFRAf	ፈረንሳዊት		machine		female French person	
+CFRAm	ፈረንሳዊ ወንድ		machine		French person	
+CPOR	ፖርቱጋላዊ		machine		Portuguese person	
+CPORf	ፖርቱጋላዊት		machine		female Portuguese person	
+CPORm	ፖርቱጋላዊ ወንድ		machine		Portuguese person	
+CDEU	ጀርመናዊ		machine		German person	
+CDEUf	ጀርመናዊት		machine		female German person	
+CDEUm	ጀርመናዊ ወንድ		machine		German person	
+CITA	ጣሊያናዊ		machine		Italian person	
+CITAf	ጣሊያናዊት		machine		female Italian person	
+CITAm	ጣሊያናዊ ወንድ		machine		Italian person	
+CSPA	ስፔናዊ		machine		Spanish person	
+CSPAf	ስፔናዊት		machine		female Spanish person	
+CSPAm	ስፔናዊ ወንድ		machine		Spanish person	
+CNLD	ሆላንዳዊ		machine		Dutch person	
+CNLDf	ሆላንዳዊት		machine		female Dutch person	
+CNLDm	ሆላንዳዊ ወንድ		machine		Dutch person	
+CTUR	ቱርካዊ		machine		Turkish person	
+CTURf	ቱርካዊት		machine		female Turkish person	
+CTURm	ቱርካዊ ወንድ		machine		Turkish person	
+CCMN	ቻይናዊ		machine		Chinese person	
+CCMNf	ቻይናዊት		machine		female Chinese person	
+CCMNm	ቻይናዊ ወንድ		machine		Chinese person	
+CGUJ	ጉጃራቲ የሚባለው ብሔረሰብ ሰው	የጉጃራቲ ቋንቋ ተናጋሪ ሕንዳዊ	machine		Gujarati person	
+CGUJf	ጉጃራቲ የሚባለው ብሔረሰብ ሴት	የጉጃራቲ ቋንቋ ተናጋሪ ሕንዳዊ	machine		female Gujarati person	
+CGUJm	ጉጃራቲ የሚባለው ብሔረሰብ ወንድ	የጉጃራቲ ቋንቋ ተናጋሪ ሕንዳዊ	machine		male Gujarati person	
+CARA	አረብ		machine		Arab person	
+CARAf	አረብ ሴት		machine		female Arab person	
+CARAm	አረብ ወንድ		machine		male Arab person	
+CKAB	ካቢል የሚባለው ብሔረሰብ ሰው	በአልጄሪያ (ካቢሊያ) የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		Kabyle person	
+CKABf	ካቢል የሚባለው ብሔረሰብ ሴት	በአልጄሪያ (ካቢሊያ) የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		female Kabyle person	
+CKABm	ካቢል የሚባለው ብሔረሰብ ወንድ	በአልጄሪያ (ካቢሊያ) የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		male Kabyle person	
+CTZM	ማዕከላዊ አትላስ አማዚግ የሚባለው ብሔረሰብ ሰው	በሞሮኮ የአትላስ ተራሮች የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		Central Atlas Amazigh person	
+CTZMf	ማዕከላዊ አትላስ አማዚግ የሚባለው ብሔረሰብ ሴት	በሞሮኮ የአትላስ ተራሮች የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		female Central Atlas Amazigh person	
+CTZMm	ማዕከላዊ አትላስ አማዚግ የሚባለው ብሔረሰብ ወንድ	በሞሮኮ የአትላስ ተራሮች የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		male Central Atlas Amazigh person	
+CSHI	ሺልሃ የሚባለው ብሔረሰብ ሰው	በደቡብ ሞሮኮ የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		Shilha person	
+CSHIf	ሺልሃ የሚባለው ብሔረሰብ ሴት	በደቡብ ሞሮኮ የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		female Shilha person	
+CSHIm	ሺልሃ የሚባለው ብሔረሰብ ወንድ	በደቡብ ሞሮኮ የሚኖር የአማዚግ ሕዝብ፤ «በርበር» የሚለው የውጭ ስም ሲሆን አንዳንዶች እንደ ንቀት ይቆጥሩታል።	machine		male Shilha person	
+CTMH	ኬል ታማሸቅ የሚባለው ብሔረሰብ ሰው, ቱዋሬግ	ራሳቸውን ኬል ታማሸቅ (ኢሙሓግ) ብለው ይጠራሉ፤ «ቱዋሬግ» የሚለው የውጭ ስም ሲሆን አንዳንዶች አይወዱትም።	machine		Tuareg person	
+CTMHf	ኬል ታማሸቅ የሚባለው ብሔረሰብ ሴት, ቱዋሬግ ሴት	ራሳቸውን ኬል ታማሸቅ (ኢሙሓግ) ብለው ይጠራሉ፤ «ቱዋሬግ» የሚለው የውጭ ስም ሲሆን አንዳንዶች አይወዱትም።	machine		female Tuareg person	
+CTMHm	ኬል ታማሸቅ የሚባለው ብሔረሰብ ወንድ, ቱዋሬግ ወንድ	ራሳቸውን ኬል ታማሸቅ (ኢሙሓግ) ብለው ይጠራሉ፤ «ቱዋሬግ» የሚለው የውጭ ስም ሲሆን አንዳንዶች አይወዱትም።	machine		male Tuareg person	
+CBEJ	ቤጃ የሚባለው ብሔረሰብ ሰው		machine		Beja person	
+CBEJf	ቤጃ የሚባለው ብሔረሰብ ሴት		machine		female Beja person	
+CBEJm	ቤጃ የሚባለው ብሔረሰብ ወንድ		machine		male Beja person	
+CFIA	ኑቢያዊ		machine		Nubian person	
+CFIAf	ኑቢያዊት		machine		female Nubian person	
+CFIAm	ኑቢያዊ ወንድ		machine		Nubian person	
+CFVR	ፉር የሚባለው ብሔረሰብ ሰው	በዳርፉር (ሱዳን) የሚኖር ሕዝብ	machine		Fur person	
+CFVRf	ፉር የሚባለው ብሔረሰብ ሴት	በዳርፉር (ሱዳን) የሚኖር ሕዝብ	machine		female Fur person	
+CFVRm	ፉር የሚባለው ብሔረሰብ ወንድ	በዳርፉር (ሱዳን) የሚኖር ሕዝብ	machine		male Fur person	
+CZAG	ዛጋዋ የሚባለው ብሔረሰብ ሰው		machine		Zaghawa person	
+CZAGf	ዛጋዋ የሚባለው ብሔረሰብ ሴት		machine		female Zaghawa person	
+CZAGm	ዛጋዋ የሚባለው ብሔረሰብ ወንድ		machine		male Zaghawa person	
+CMLS	ማሳሊት የሚባለው ብሔረሰብ ሰው		machine		Masalit person	
+CMLSf	ማሳሊት የሚባለው ብሔረሰብ ሴት		machine		female Masalit person	
+CMLSm	ማሳሊት የሚባለው ብሔረሰብ ወንድ		machine		male Masalit person	
+CDIN	ዲንካ		machine		Dinka person	
+CDINf	ዲንካ ሴት		machine		female Dinka person	
+CDINm	ዲንካ ወንድ		machine		male Dinka person	
+CNUS	ኑዌር	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		Nuer person	
+CNUSf	ኑዌር ሴት	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		female Nuer person	
+CNUSm	ኑዌር ወንድ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		male Nuer person	
+CSHK	ሺሉክ የሚባለው ብሔረሰብ ሰው		machine		Shilluk person	
+CSHKf	ሺሉክ የሚባለው ብሔረሰብ ሴት		machine		female Shilluk person	
+CSHKm	ሺሉክ የሚባለው ብሔረሰብ ወንድ		machine		male Shilluk person	
+CANU	አኙዋክ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		Anuak person	
+CANUf	አኙዋክ ሴት	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		female Anuak person	
+CANUm	አኙዋክ ወንድ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		male Anuak person	
+CBFA	ባሪ የሚባለው ብሔረሰብ ሰው	ባሪ የደቡብ ሱዳን ሕዝብ ስም ነው፤ ከ«ባሪያ» ጋር አያምታቱ።	machine		Bari person	
+CBFAf	ባሪ የሚባለው ብሔረሰብ ሴት	ባሪ የደቡብ ሱዳን ሕዝብ ስም ነው፤ ከ«ባሪያ» ጋር አያምታቱ።	machine		female Bari person	
+CBFAm	ባሪ የሚባለው ብሔረሰብ ወንድ	ባሪ የደቡብ ሱዳን ሕዝብ ስም ነው፤ ከ«ባሪያ» ጋር አያምታቱ።	machine		male Bari person	
+CZNE	ዛንዴ የሚባለው ብሔረሰብ ሰው		machine		Zande person	
+CZNEf	ዛንዴ የሚባለው ብሔረሰብ ሴት		machine		female Zande person	
+CZNEm	ዛንዴ የሚባለው ብሔረሰብ ወንድ		machine		male Zande person	
+CACH	አቾሊ የሚባለው ብሔረሰብ ሰው		machine		Acholi person	
+CACHf	አቾሊ የሚባለው ብሔረሰብ ሴት		machine		female Acholi person	
+CACHm	አቾሊ የሚባለው ብሔረሰብ ወንድ		machine		male Acholi person	
+CLAJ	ላንጎ (ዩጋንዳ) የሚባለው ብሔረሰብ ሰው		machine		Lango (Uganda) person	
+CLAJf	ላንጎ (ዩጋንዳ) የሚባለው ብሔረሰብ ሴት		machine		female Lango (Uganda) person	
+CLAJm	ላንጎ (ዩጋንዳ) የሚባለው ብሔረሰብ ወንድ		machine		male Lango (Uganda) person	
+CTEO	ቴሶ የሚባለው ብሔረሰብ ሰው		machine		Teso person	
+CTEOf	ቴሶ የሚባለው ብሔረሰብ ሴት		machine		female Teso person	
+CTEOm	ቴሶ የሚባለው ብሔረሰብ ወንድ		machine		male Teso person	
+CLUO	ሉዎ (ኬንያ) የሚባለው ብሔረሰብ ሰው		machine		Luo (Kenya) person	
+CLUOf	ሉዎ (ኬንያ) የሚባለው ብሔረሰብ ሴት		machine		female Luo (Kenya) person	
+CLUOm	ሉዎ (ኬንያ) የሚባለው ብሔረሰብ ወንድ		machine		male Luo (Kenya) person	
+CAMH	አማራ		machine		Amhara person	
+CAMHf	አማራ ሴት		machine		female Amhara person	
+CAMHm	አማራ ወንድ		machine		male Amhara person	
+CORM	ኦሮሞ	ጋላ የሚለው የቆየ ስም የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		Oromo person	
+CORMf	ኦሮሞ ሴት	ጋላ የሚለው የቆየ ስም የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		female Oromo person	
+CORMm	ኦሮሞ ወንድ	ጋላ የሚለው የቆየ ስም የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		male Oromo person	
+CTIR	ትግራዋይ የሚባለው ብሔረሰብ ሰው	ትግሬ የሚለው የተለመደ ቢሆንም ብዙዎች እንደ ንቀት ቃል ይቆጥሩታል። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		Tigrayan person	
+CTIRf	ትግራዋይ የሚባለው ብሔረሰብ ሴት	ትግሬ የሚለው የተለመደ ቢሆንም ብዙዎች እንደ ንቀት ቃል ይቆጥሩታል። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		female Tigrayan person	
+CTIRm	ትግራዋይ የሚባለው ብሔረሰብ ወንድ	ትግሬ የሚለው የተለመደ ቢሆንም ብዙዎች እንደ ንቀት ቃል ይቆጥሩታል። ከትግረ ሕዝብ ጋር አያምታቱ።	machine		Tigrayan person	
+CTIG	ትግረ የሚባለው ብሔረሰብ ሰው	በኤርትራና በሱዳን የሚኖር የትግረ ቋንቋ ተናጋሪ ሕዝብ፤ ከትግራዋይ የተለየ ነው።	machine		Tigre person	
+CTIGf	ትግረ የሚባለው ብሔረሰብ ሴት	በኤርትራና በሱዳን የሚኖር የትግረ ቋንቋ ተናጋሪ ሕዝብ፤ ከትግራዋይ የተለየ ነው።	machine		female Tigre person	
+CTIGm	ትግረ የሚባለው ብሔረሰብ ወንድ	በኤርትራና በሱዳን የሚኖር የትግረ ቋንቋ ተናጋሪ ሕዝብ፤ ከትግራዋይ የተለየ ነው።	machine		male Tigre person	
+CSOM	ሶማሌ		machine		Somali person	
+CSOMf	ሶማሌ ሴት		machine		female Somali person	
+CSOMm	ሶማሌ ወንድ		machine		male Somali person	
+CAAR	አፋር		machine		Afar person	
+CAARf	አፋር ሴት		machine		female Afar person	
+CAARm	አፋር ወንድ		machine		male Afar person	
+CSID	ሲዳማ		machine		Sidama person	
+CSIDf	ሲዳማ ሴት		machine		female Sidama person	
+CSIDm	ሲዳማ ወንድ		machine		male Sidama person	
+CWAL	ወላይታ የሚባለው ብሔረሰብ ሰው	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		Wolaytta person	
+CWALf	ወላይታ የሚባለው ብሔረሰብ ሴት	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		female Wolaytta person	
+CWALm	ወላይታ የሚባለው ብሔረሰብ ወንድ	ወላሞ የሚለው የቆየ ስም እንደ ንቀት ቃል ይቆጠራል፤ አይጠቀሙበት።	machine		male Wolaytta person	
+CHDY	ሀዲያ		machine		Hadiyya person	
+CHDYf	ሀዲያ ሴት		machine		female Hadiyya person	
+CHDYm	ሀዲያ ወንድ		machine		male Hadiyya person	
+CSGW	ጉራጌ		machine		Gurage person	
+CSGWf	ጉራጌ ሴት		machine		female Gurage person	
+CSGWm	ጉራጌ ወንድ		machine		male Gurage person	
+CGUK	ጉሙዝ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		Gumuz person	
+CGUKf	ጉሙዝ ሴት	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		female Gumuz person	
+CGUKm	ጉሙዝ ወንድ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		male Gumuz person	
+CWTI	በርታ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		Berta person	
+CWTIf	በርታ ሴት	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		female Berta person	
+CWTIm	በርታ ወንድ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት። ባሪያ የሚለውም ለጠቆር ያሉ ሕዝቦች የሚሰጥ የስድብ ቃል ነው።	machine		male Berta person	
+CUDU	ኡዱክ የሚባለው ብሔረሰብ ሰው	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		Uduk person	
+CUDUf	ኡዱክ የሚባለው ብሔረሰብ ሴት	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		female Uduk person	
+CUDUm	ኡዱክ የሚባለው ብሔረሰብ ወንድ	ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		male Uduk person	
+CMPE	መጀንግ የሚባለው ብሔረሰብ ሰው	መዠንገር የሚለው የተለመደው የውጭ ስም እንደ ንቀት ቃል ይቆጠራል። ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		Majang person	
+CMPEf	መጀንግ የሚባለው ብሔረሰብ ሴት	መዠንገር የሚለው የተለመደው የውጭ ስም እንደ ንቀት ቃል ይቆጠራል። ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		female Majang person	
+CMPEm	መጀንግ የሚባለው ብሔረሰብ ወንድ	መዠንገር የሚለው የተለመደው የውጭ ስም እንደ ንቀት ቃል ይቆጠራል። ሻንቅላ የሚለው ቃል ለምዕራብ ኢትዮጵያ (ጋምቤላ፣ ቤኒሻንጉል) ሕዝቦች የሚሰጥ የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		male Majang person	
+CSWA	ስዋሂሊ የሚባለው ብሔረሰብ ሰው	የምሥራቅ አፍሪካ የባሕር ዳርቻ ስዋሂሊ ሕዝብ	machine		Swahili person	
+CSWAf	ስዋሂሊ የሚባለው ብሔረሰብ ሴት	የምሥራቅ አፍሪካ የባሕር ዳርቻ ስዋሂሊ ሕዝብ	machine		female Swahili person	
+CSWAm	ስዋሂሊ የሚባለው ብሔረሰብ ወንድ	የምሥራቅ አፍሪካ የባሕር ዳርቻ ስዋሂሊ ሕዝብ	machine		male Swahili person	
+CKIK	ኪኩዩ የሚባለው ብሔረሰብ ሰው		machine		Kikuyu person	
+CKIKf	ኪኩዩ የሚባለው ብሔረሰብ ሴት		machine		female Kikuyu person	
+CKIKm	ኪኩዩ የሚባለው ብሔረሰብ ወንድ		machine		male Kikuyu person	
+CKAM	ካምባ (ኬንያ) የሚባለው ብሔረሰብ ሰው		machine		Kamba (Kenya) person	
+CKAMf	ካምባ (ኬንያ) የሚባለው ብሔረሰብ ሴት		machine		female Kamba (Kenya) person	
+CKAMm	ካምባ (ኬንያ) የሚባለው ብሔረሰብ ወንድ		machine		male Kamba (Kenya) person	
+CGUZ	ጉሲ የሚባለው ብሔረሰብ ሰው		machine		Gusii person	
+CGUZf	ጉሲ የሚባለው ብሔረሰብ ሴት		machine		female Gusii person	
+CGUZm	ጉሲ የሚባለው ብሔረሰብ ወንድ		machine		male Gusii person	
+CMAS	የማሳይ ሰው		machine		Maasai person	
+CMASf	የማሳይ ሴት		machine		female Maasai person	
+CMASm	የማሳይ ወንድ		machine		male Maasai person	
+CKLN	ካለንጂን የሚባለው ብሔረሰብ ሰው		machine		Kalenjin person	
+CKLNf	ካለንጂን የሚባለው ብሔረሰብ ሴት		machine		female Kalenjin person	
+CKLNm	ካለንጂን የሚባለው ብሔረሰብ ወንድ		machine		male Kalenjin person	
+CLUG	ባጋንዳ የሚባለው ብሔረሰብ ሰው		machine		Muganda person	
+CLUGf	ባጋንዳ የሚባለው ብሔረሰብ ሴት		machine		female Muganda person	
+CLUGm	ባጋንዳ የሚባለው ብሔረሰብ ወንድ		machine		male Muganda person	
+CNYN	ባንያንኮሌ የሚባለው ብሔረሰብ ሰው		machine		Munyankole person	
+CNYNf	ባንያንኮሌ የሚባለው ብሔረሰብ ሴት		machine		female Munyankole person	
+CNYNm	ባንያንኮሌ የሚባለው ብሔረሰብ ወንድ		machine		male Munyankole person	
+CKIN	ሩዋንዳዊ	ኪንያሩዋንዳ ተናጋሪ ሕዝብ (ባንያሩዋንዳ)፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ።	machine		Rwandan person	
+CKINf	ሩዋንዳዊት	ኪንያሩዋንዳ ተናጋሪ ሕዝብ (ባንያሩዋንዳ)፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ።	machine		female Rwandan person	
+CKINm	ሩዋንዳዊ ወንድ	ኪንያሩዋንዳ ተናጋሪ ሕዝብ (ባንያሩዋንዳ)፤ በሩዋንዳ፣ በኮንጎና በዩጋንዳ ይኖራሉ።	machine		Rwandan person	
+CRUN	ቡሩንዲያዊ	ኪሩንዲ ተናጋሪ ሕዝብ (ባሩንዲ)።	machine		Burundian person	
+CRUNf	ቡሩንዲያዊት	ኪሩንዲ ተናጋሪ ሕዝብ (ባሩንዲ)።	machine		female Burundian person	
+CRUNm	ቡሩንዲያዊ ወንድ	ኪሩንዲ ተናጋሪ ሕዝብ (ባሩንዲ)።	machine		Burundian person	
+CSUK	ሱኩማ የሚባለው ብሔረሰብ ሰው		machine		Sukuma person	
+CSUKf	ሱኩማ የሚባለው ብሔረሰብ ሴት		machine		female Sukuma person	
+CSUKm	ሱኩማ የሚባለው ብሔረሰብ ወንድ		machine		male Sukuma person	
+CNYM	ንያምዌዚ የሚባለው ብሔረሰብ ሰው		machine		Nyamwezi person	
+CNYMf	ንያምዌዚ የሚባለው ብሔረሰብ ሴት		machine		female Nyamwezi person	
+CNYMm	ንያምዌዚ የሚባለው ብሔረሰብ ወንድ		machine		male Nyamwezi person	
+CHAU	የሃውሳ ሰው		machine		Hausa person	
+CHAUf	የሃውሳ ሴት		machine		female Hausa person	
+CHAUm	የሃውሳ ወንድ		machine		male Hausa person	
+CYOR	የዮሩባ ሰው		machine		Yoruba person	
+CYORf	የዮሩባ ሴት		machine		female Yoruba person	
+CYORm	የዮሩባ ወንድ		machine		male Yoruba person	
+CIBO	የኢግቦ ሰው		machine		Igbo person	
+CIBOf	የኢግቦ ሴት		machine		female Igbo person	
+CIBOm	የኢግቦ ወንድ		machine		male Igbo person	
+CEFI	ኤፊክ የሚባለው ብሔረሰብ ሰው		machine		Efik person	
+CEFIf	ኤፊክ የሚባለው ብሔረሰብ ሴት		machine		female Efik person	
+CEFIm	ኤፊክ የሚባለው ብሔረሰብ ወንድ		machine		male Efik person	
+CTIV	ቲቭ የሚባለው ብሔረሰብ ሰው		machine		Tiv person	
+CTIVf	ቲቭ የሚባለው ብሔረሰብ ሴት		machine		female Tiv person	
+CTIVm	ቲቭ የሚባለው ብሔረሰብ ወንድ		machine		male Tiv person	
+CNUP	ኑፔ የሚባለው ብሔረሰብ ሰው		machine		Nupe person	
+CNUPf	ኑፔ የሚባለው ብሔረሰብ ሴት		machine		female Nupe person	
+CNUPm	ኑፔ የሚባለው ብሔረሰብ ወንድ		machine		male Nupe person	
+CBIN	ኤዶ የሚባለው ብሔረሰብ ሰው		machine		Edo person	
+CBINf	ኤዶ የሚባለው ብሔረሰብ ሴት		machine		female Edo person	
+CBINm	ኤዶ የሚባለው ብሔረሰብ ወንድ		machine		male Edo person	
+CIJC	ኢጆ የሚባለው ብሔረሰብ ሰው		machine		Ijo person	
+CIJCf	ኢጆ የሚባለው ብሔረሰብ ሴት		machine		female Ijo person	
+CIJCm	ኢጆ የሚባለው ብሔረሰብ ወንድ		machine		male Ijo person	
+CAKA	አካን የሚባለው ብሔረሰብ ሰው		machine		Akan person	
+CAKAf	አካን የሚባለው ብሔረሰብ ሴት		machine		female Akan person	
+CAKAm	አካን የሚባለው ብሔረሰብ ወንድ		machine		male Akan person	
+CEWE	ኤዌ የሚባለው ብሔረሰብ ሰው		machine		Ewe person	
+CEWEf	ኤዌ የሚባለው ብሔረሰብ ሴት		machine		female Ewe person	
+CEWEm	ኤዌ የሚባለው ብሔረሰብ ወንድ		machine		male Ewe person	
+CGAA	ጋ የሚባለው ብሔረሰብ ሰው	በጋና የሚኖር ሕዝብ	machine		Ga person	
+CGAAf	ጋ የሚባለው ብሔረሰብ ሴት	በጋና የሚኖር ሕዝብ	machine		female Ga person	
+CGAAm	ጋ የሚባለው ብሔረሰብ ወንድ	በጋና የሚኖር ሕዝብ	machine		male Ga person	
+CDAG	ዳጎምባ የሚባለው ብሔረሰብ ሰው		machine		Dagomba person	
+CDAGf	ዳጎምባ የሚባለው ብሔረሰብ ሴት		machine		female Dagomba person	
+CDAGm	ዳጎምባ የሚባለው ብሔረሰብ ወንድ		machine		male Dagomba person	
+CMOS	ሞሲ የሚባለው ብሔረሰብ ሰው		machine		Mossi person	
+CMOSf	ሞሲ የሚባለው ብሔረሰብ ሴት		machine		female Mossi person	
+CMOSm	ሞሲ የሚባለው ብሔረሰብ ወንድ		machine		male Mossi person	
+CDYU	ጁላ የሚባለው ብሔረሰብ ሰው	በቡርኪና ፋሶና በኮት ዲቯር የሚኖር የማንዴ ሕዝብ፤ ከጆላ የተለየ ነው።	machine		Dyula person	
+CDYUf	ጁላ የሚባለው ብሔረሰብ ሴት	በቡርኪና ፋሶና በኮት ዲቯር የሚኖር የማንዴ ሕዝብ፤ ከጆላ የተለየ ነው።	machine		female Dyula person	
+CDYUm	ጁላ የሚባለው ብሔረሰብ ወንድ	በቡርኪና ፋሶና በኮት ዲቯር የሚኖር የማንዴ ሕዝብ፤ ከጆላ የተለየ ነው።	machine		male Dyula person	
+CBAM	ባምባራ የሚባለው ብሔረሰብ ሰው		machine		Bambara person	
+CBAMf	ባምባራ የሚባለው ብሔረሰብ ሴት		machine		female Bambara person	
+CBAMm	ባምባራ የሚባለው ብሔረሰብ ወንድ		machine		male Bambara person	
+CMNK	ማንዲንካ የሚባለው ብሔረሰብ ሰው		machine		Mandinka person	
+CMNKf	ማንዲንካ የሚባለው ብሔረሰብ ሴት		machine		female Mandinka person	
+CMNKm	ማንዲንካ የሚባለው ብሔረሰብ ወንድ		machine		male Mandinka person	
+CSNK	ሶኒንኬ የሚባለው ብሔረሰብ ሰው		machine		Soninke person	
+CSNKf	ሶኒንኬ የሚባለው ብሔረሰብ ሴት		machine		female Soninke person	
+CSNKm	ሶኒንኬ የሚባለው ብሔረሰብ ወንድ		machine		male Soninke person	
+CWOL	ዎሎፍ የሚባለው ብሔረሰብ ሰው		machine		Wolof person	
+CWOLf	ዎሎፍ የሚባለው ብሔረሰብ ሴት		machine		female Wolof person	
+CWOLm	ዎሎፍ የሚባለው ብሔረሰብ ወንድ		machine		male Wolof person	
+CSRR	ሴሬር የሚባለው ብሔረሰብ ሰው		machine		Serer person	
+CSRRf	ሴሬር የሚባለው ብሔረሰብ ሴት		machine		female Serer person	
+CSRRm	ሴሬር የሚባለው ብሔረሰብ ወንድ		machine		male Serer person	
+CDYO	ጆላ የሚባለው ብሔረሰብ ሰው	በሴኔጋል (ካዛማንስ) የሚኖር ሕዝብ፤ ከጁላ የተለየ ነው።	machine		Jola person	
+CDYOf	ጆላ የሚባለው ብሔረሰብ ሴት	በሴኔጋል (ካዛማንስ) የሚኖር ሕዝብ፤ ከጁላ የተለየ ነው።	machine		female Jola person	
+CDYOm	ጆላ የሚባለው ብሔረሰብ ወንድ	በሴኔጋል (ካዛማንስ) የሚኖር ሕዝብ፤ ከጁላ የተለየ ነው።	machine		male Jola person	
+CTEM	ቴምኔ የሚባለው ብሔረሰብ ሰው		machine		Temne person	
+CTEMf	ቴምኔ የሚባለው ብሔረሰብ ሴት		machine		female Temne person	
+CTEMm	ቴምኔ የሚባለው ብሔረሰብ ወንድ		machine		male Temne person	
+CMEN	ሜንዴ የሚባለው ብሔረሰብ ሰው		machine		Mende person	
+CMENf	ሜንዴ የሚባለው ብሔረሰብ ሴት		machine		female Mende person	
+CMENm	ሜንዴ የሚባለው ብሔረሰብ ወንድ		machine		male Mende person	
+CKRI	ክሪዮ የሚባለው ብሔረሰብ ሰው	በሴራሊዮን የሚኖር ሕዝብ	machine		Krio person	
+CKRIf	ክሪዮ የሚባለው ብሔረሰብ ሴት	በሴራሊዮን የሚኖር ሕዝብ	machine		female Krio person	
+CKRIm	ክሪዮ የሚባለው ብሔረሰብ ወንድ	በሴራሊዮን የሚኖር ሕዝብ	machine		male Krio person	
+CKPE	ክፔሌ የሚባለው ብሔረሰብ ሰው		machine		Kpelle person	
+CKPEf	ክፔሌ የሚባለው ብሔረሰብ ሴት		machine		female Kpelle person	
+CKPEm	ክፔሌ የሚባለው ብሔረሰብ ወንድ		machine		male Kpelle person	
+CBCI	ባውሌ የሚባለው ብሔረሰብ ሰው		machine		Baoule person	
+CBCIf	ባውሌ የሚባለው ብሔረሰብ ሴት		machine		female Baoule person	
+CBCIm	ባውሌ የሚባለው ብሔረሰብ ወንድ		machine		male Baoule person	
+CFON	ፎን የሚባለው ብሔረሰብ ሰው		machine		Fon person	
+CFONf	ፎን የሚባለው ብሔረሰብ ሴት		machine		female Fon person	
+CFONm	ፎን የሚባለው ብሔረሰብ ወንድ		machine		male Fon person	
+CDJE	ዛርማ የሚባለው ብሔረሰብ ሰው		machine		Zarma person	
+CDJEf	ዛርማ የሚባለው ብሔረሰብ ሴት		machine		female Zarma person	
+CDJEm	ዛርማ የሚባለው ብሔረሰብ ወንድ		machine		male Zarma person	
+CSES	ሶንጋይ የሚባለው ብሔረሰብ ሰው		machine		Songhai person	
+CSESf	ሶንጋይ የሚባለው ብሔረሰብ ሴት		machine		female Songhai person	
+CSESm	ሶንጋይ የሚባለው ብሔረሰብ ወንድ		machine		male Songhai person	
+CKBP	ካብዬ የሚባለው ብሔረሰብ ሰው		machine		Kabiye person	
+CKBPf	ካብዬ የሚባለው ብሔረሰብ ሴት		machine		female Kabiye person	
+CKBPm	ካብዬ የሚባለው ብሔረሰብ ወንድ		machine		male Kabiye person	
+CSUS	ሱሱ የሚባለው ብሔረሰብ ሰው		machine		Susu person	
+CSUSf	ሱሱ የሚባለው ብሔረሰብ ሴት		machine		female Susu person	
+CSUSm	ሱሱ የሚባለው ብሔረሰብ ወንድ		machine		male Susu person	
+CFUL	ፉላኒ የሚባለው ብሔረሰብ ሰው		machine		Fulani person	
+CFULf	ፉላኒ የሚባለው ብሔረሰብ ሴት		machine		female Fulani person	
+CFULm	ፉላኒ የሚባለው ብሔረሰብ ወንድ		machine		male Fulani person	
+CKAU	ካኑሪ የሚባለው ብሔረሰብ ሰው		machine		Kanuri person	
+CKAUf	ካኑሪ የሚባለው ብሔረሰብ ሴት		machine		female Kanuri person	
+CKAUm	ካኑሪ የሚባለው ብሔረሰብ ወንድ		machine		male Kanuri person	
+CLIN	የሊንጋላ ተናጋሪ ሰው	የሊንጋላ ቋንቋ ተናጋሪ (በኮንጎ)	machine		Lingala-speaking person	
+CLINf	የሊንጋላ ተናጋሪ ሴት	የሊንጋላ ቋንቋ ተናጋሪ (በኮንጎ)	machine		female Lingala-speaking person	
+CLINm	የሊንጋላ ተናጋሪ ወንድ	የሊንጋላ ቋንቋ ተናጋሪ (በኮንጎ)	machine		male Lingala-speaking person	
+CKON	ባኮንጎ የሚባለው ብሔረሰብ ሰው	የኮንጎ ብሔር ሰው እንጂ የኮንጎ አገር ዜጋ ማለት አይደለም	machine		Mukongo person	
+CKONf	ባኮንጎ የሚባለው ብሔረሰብ ሴት	የኮንጎ ብሔር ሰው እንጂ የኮንጎ አገር ዜጋ ማለት አይደለም	machine		female Mukongo person	
+CKONm	ባኮንጎ የሚባለው ብሔረሰብ ወንድ	የኮንጎ ብሔር ሰው እንጂ የኮንጎ አገር ዜጋ ማለት አይደለም	machine		male Mukongo person	
+CLUA	ሉባ-ካሳይ የሚባለው ብሔረሰብ ሰው		machine		Luba-Kasai person	
+CLUAf	ሉባ-ካሳይ የሚባለው ብሔረሰብ ሴት		machine		female Luba-Kasai person	
+CLUAm	ሉባ-ካሳይ የሚባለው ብሔረሰብ ወንድ		machine		male Luba-Kasai person	
+CLUB	ሉባ-ካታንጋ የሚባለው ብሔረሰብ ሰው		machine		Luba-Katanga person	
+CLUBf	ሉባ-ካታንጋ የሚባለው ብሔረሰብ ሴት		machine		female Luba-Katanga person	
+CLUBm	ሉባ-ካታንጋ የሚባለው ብሔረሰብ ወንድ		machine		male Luba-Katanga person	
+CSAG	ሳንጎ የሚባለው ብሔረሰብ ሰው	በማዕከላዊ አፍሪካ ሪፐብሊክ የሚኖር ሕዝብ፤ ሳንጎ ቋንቋ በብዙዎች የመግባቢያ ቋንቋ ነው።	machine		Sango person	
+CSAGf	ሳንጎ የሚባለው ብሔረሰብ ሴት	በማዕከላዊ አፍሪካ ሪፐብሊክ የሚኖር ሕዝብ፤ ሳንጎ ቋንቋ በብዙዎች የመግባቢያ ቋንቋ ነው።	machine		female Sango person	
+CSAGm	ሳንጎ የሚባለው ብሔረሰብ ወንድ	በማዕከላዊ አፍሪካ ሪፐብሊክ የሚኖር ሕዝብ፤ ሳንጎ ቋንቋ በብዙዎች የመግባቢያ ቋንቋ ነው።	machine		male Sango person	
+CEWO	ኤዎንዶ የሚባለው ብሔረሰብ ሰው		machine		Ewondo person	
+CEWOf	ኤዎንዶ የሚባለው ብሔረሰብ ሴት		machine		female Ewondo person	
+CEWOm	ኤዎንዶ የሚባለው ብሔረሰብ ወንድ		machine		male Ewondo person	
+CBUM	ቡሉ የሚባለው ብሔረሰብ ሰው		machine		Bulu person	
+CBUMf	ቡሉ የሚባለው ብሔረሰብ ሴት		machine		female Bulu person	
+CBUMm	ቡሉ የሚባለው ብሔረሰብ ወንድ		machine		male Bulu person	
+CSBA	ንጋምባይ የሚባለው ብሔረሰብ ሰው		machine		Ngambay person	
+CSBAf	ንጋምባይ የሚባለው ብሔረሰብ ሴት		machine		female Ngambay person	
+CSBAm	ንጋምባይ የሚባለው ብሔረሰብ ወንድ		machine		male Ngambay person	
+CAFR	አፍሪካነር የሚባለው ብሔረሰብ ሰው		machine		Afrikaner person	
+CAFRf	አፍሪካነር የሚባለው ብሔረሰብ ሴት		machine		female Afrikaner person	
+CAFRm	አፍሪካነር የሚባለው ብሔረሰብ ወንድ		machine		male Afrikaner person	
+CZUL	የዙሉ ሰው		machine		Zulu person	
+CZULf	የዙሉ ሴት		machine		female Zulu person	
+CZULm	የዙሉ ወንድ		machine		male Zulu person	
+CXHO	ኮሳ የሚባለው ብሔረሰብ ሰው		machine		Xhosa person	
+CXHOf	ኮሳ የሚባለው ብሔረሰብ ሴት		machine		female Xhosa person	
+CXHOm	ኮሳ የሚባለው ብሔረሰብ ወንድ		machine		male Xhosa person	
+CSOT	ሶቶ የሚባለው ብሔረሰብ ሰው	የደቡብ ሶቶ (ባሶቶ) ሕዝብ፤ በሌሶቶና በደቡብ አፍሪካ ይኖራሉ።	machine		Sotho person	
+CSOTf	ሶቶ የሚባለው ብሔረሰብ ሴት	የደቡብ ሶቶ (ባሶቶ) ሕዝብ፤ በሌሶቶና በደቡብ አፍሪካ ይኖራሉ።	machine		female Sotho person	
+CSOTm	ሶቶ የሚባለው ብሔረሰብ ወንድ	የደቡብ ሶቶ (ባሶቶ) ሕዝብ፤ በሌሶቶና በደቡብ አፍሪካ ይኖራሉ።	machine		male Sotho person	
+CTSN	ጽዋና የሚባለው ብሔረሰብ ሰው		machine		Tswana person	
+CTSNf	ጽዋና የሚባለው ብሔረሰብ ሴት		machine		female Tswana person	
+CTSNm	ጽዋና የሚባለው ብሔረሰብ ወንድ		machine		male Tswana person	
+CNSO	ፔዲ የሚባለው ብሔረሰብ ሰው		machine		Pedi person	
+CNSOf	ፔዲ የሚባለው ብሔረሰብ ሴት		machine		female Pedi person	
+CNSOm	ፔዲ የሚባለው ብሔረሰብ ወንድ		machine		male Pedi person	
+CTSO	ጾንጋ የሚባለው ብሔረሰብ ሰው		machine		Tsonga person	
+CTSOf	ጾንጋ የሚባለው ብሔረሰብ ሴት		machine		female Tsonga person	
+CTSOm	ጾንጋ የሚባለው ብሔረሰብ ወንድ		machine		male Tsonga person	
+CVEN	ቬንዳ የሚባለው ብሔረሰብ ሰው		machine		Venda person	
+CVENf	ቬንዳ የሚባለው ብሔረሰብ ሴት		machine		female Venda person	
+CVENm	ቬንዳ የሚባለው ብሔረሰብ ወንድ		machine		male Venda person	
+CSSW	ስዋዚ የሚባለው ብሔረሰብ ሰው		machine		Swazi person	
+CSSWf	ስዋዚ የሚባለው ብሔረሰብ ሴት		machine		female Swazi person	
+CSSWm	ስዋዚ የሚባለው ብሔረሰብ ወንድ		machine		male Swazi person	
+CNDE	ንዴቤሌ የሚባለው ብሔረሰብ ሰው	የሰሜን ንዴቤሌ ሕዝብ፤ በዚምባብዌ ይኖራሉ።	machine		Ndebele person	
+CNDEf	ንዴቤሌ የሚባለው ብሔረሰብ ሴት	የሰሜን ንዴቤሌ ሕዝብ፤ በዚምባብዌ ይኖራሉ።	machine		female Ndebele person	
+CNDEm	ንዴቤሌ የሚባለው ብሔረሰብ ወንድ	የሰሜን ንዴቤሌ ሕዝብ፤ በዚምባብዌ ይኖራሉ።	machine		male Ndebele person	
+CSNA	ሾና የሚባለው ብሔረሰብ ሰው		machine		Shona person	
+CSNAf	ሾና የሚባለው ብሔረሰብ ሴት		machine		female Shona person	
+CSNAm	ሾና የሚባለው ብሔረሰብ ወንድ		machine		male Shona person	
+CNYA	ቼዋ የሚባለው ብሔረሰብ ሰው		machine		Chewa person	
+CNYAf	ቼዋ የሚባለው ብሔረሰብ ሴት		machine		female Chewa person	
+CNYAm	ቼዋ የሚባለው ብሔረሰብ ወንድ		machine		male Chewa person	
+CBEM	ቤምባ የሚባለው ብሔረሰብ ሰው		machine		Bemba person	
+CBEMf	ቤምባ የሚባለው ብሔረሰብ ሴት		machine		female Bemba person	
+CBEMm	ቤምባ የሚባለው ብሔረሰብ ወንድ		machine		male Bemba person	
+CTOI	ቶንጋ (ዛምቢያ) የሚባለው ብሔረሰብ ሰው		machine		Tonga (Zambia) person	
+CTOIf	ቶንጋ (ዛምቢያ) የሚባለው ብሔረሰብ ሴት		machine		female Tonga (Zambia) person	
+CTOIm	ቶንጋ (ዛምቢያ) የሚባለው ብሔረሰብ ወንድ		machine		male Tonga (Zambia) person	
+CLOZ	ሎዚ የሚባለው ብሔረሰብ ሰው		machine		Lozi person	
+CLOZf	ሎዚ የሚባለው ብሔረሰብ ሴት		machine		female Lozi person	
+CLOZm	ሎዚ የሚባለው ብሔረሰብ ወንድ		machine		male Lozi person	
+CUMB	ኦቪምቡንዱ የሚባለው ብሔረሰብ ሰው		machine		Ovimbundu person	
+CUMBf	ኦቪምቡንዱ የሚባለው ብሔረሰብ ሴት		machine		female Ovimbundu person	
+CUMBm	ኦቪምቡንዱ የሚባለው ብሔረሰብ ወንድ		machine		male Ovimbundu person	
+CKMB	አምቡንዱ የሚባለው ብሔረሰብ ሰው		machine		Ambundu person	
+CKMBf	አምቡንዱ የሚባለው ብሔረሰብ ሴት		machine		female Ambundu person	
+CKMBm	አምቡንዱ የሚባለው ብሔረሰብ ወንድ		machine		male Ambundu person	
+CVMW	ማኩዋ የሚባለው ብሔረሰብ ሰው		machine		Makua person	
+CVMWf	ማኩዋ የሚባለው ብሔረሰብ ሴት		machine		female Makua person	
+CVMWm	ማኩዋ የሚባለው ብሔረሰብ ወንድ		machine		male Makua person	
+CSEH	ሴና የሚባለው ብሔረሰብ ሰው		machine		Sena person	
+CSEHf	ሴና የሚባለው ብሔረሰብ ሴት		machine		female Sena person	
+CSEHm	ሴና የሚባለው ብሔረሰብ ወንድ		machine		male Sena person	
+CYAO	ያዎ የሚባለው ብሔረሰብ ሰው		machine		Yao person	
+CYAOf	ያዎ የሚባለው ብሔረሰብ ሴት		machine		female Yao person	
+CYAOm	ያዎ የሚባለው ብሔረሰብ ወንድ		machine		male Yao person	
+CHER	ሄሬሮ የሚባለው ብሔረሰብ ሰው		machine		Herero person	
+CHERf	ሄሬሮ የሚባለው ብሔረሰብ ሴት		machine		female Herero person	
+CHERm	ሄሬሮ የሚባለው ብሔረሰብ ወንድ		machine		male Herero person	
+CNAQ	ኮይኮይ የሚባለው ብሔረሰብ ሰው	ናማና ዳማራን ይጨምራል፤ «ሆተንቶት» የሚለው የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		Khoikhoi person	
+CNAQf	ኮይኮይ የሚባለው ብሔረሰብ ሴት	ናማና ዳማራን ይጨምራል፤ «ሆተንቶት» የሚለው የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		female Khoikhoi person	
+CNAQm	ኮይኮይ የሚባለው ብሔረሰብ ወንድ	ናማና ዳማራን ይጨምራል፤ «ሆተንቶት» የሚለው የስድብ ቃል ነው፤ አይጠቀሙበት።	machine		male Khoikhoi person	
+CMLG	ማዳጋስካራዊ		machine		Malagasy person	
+CMLGf	ማዳጋስካራዊት		machine		female Malagasy person	
+CMLGm	ማዳጋስካራዊ ወንድ		machine		Malagasy person	

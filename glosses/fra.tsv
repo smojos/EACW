@@ -2554,3 +2554,360 @@ V547	attendre (quelqu'un, quelque chose)		machine		to wait for (someone, somethi
 V548	passer du temps, séjourner		machine		to spend time, to stay	
 V549	finir, terminer		machine		to finish, to end	
 V549b	fin		machine		end	
+CENG	Anglais		machine		English person	
+CENGf	Anglaise		machine		female English person	
+CENGm	Anglais		machine		male English person	
+CFRA	Français		machine		French person	
+CFRAf	Française		machine		female French person	
+CFRAm	Français		machine		male French person	
+CPOR	Portugais		machine		Portuguese person	
+CPORf	Portugaise		machine		female Portuguese person	
+CPORm	Portugais		machine		male Portuguese person	
+CDEU	Allemand		machine		German person	
+CDEUf	Allemande		machine		female German person	
+CDEUm	Allemand		machine		male German person	
+CITA	Italien		machine		Italian person	
+CITAf	Italienne		machine		female Italian person	
+CITAm	Italien		machine		male Italian person	
+CSPA	Espagnol		machine		Spanish person	
+CSPAf	Espagnole		machine		female Spanish person	
+CSPAm	Espagnol		machine		male Spanish person	
+CNLD	Néerlandais		machine		Dutch person	
+CNLDf	Néerlandaise		machine		female Dutch person	
+CNLDm	Néerlandais		machine		male Dutch person	
+CTUR	Turc		machine		Turkish person	
+CTURf	Turque		machine		female Turkish person	
+CTURm	Turc		machine		male Turkish person	
+CCMN	Chinois		machine		Chinese person	
+CCMNf	Chinoise		machine		female Chinese person	
+CCMNm	Chinois		machine		male Chinese person	
+CGUJ	personne gujarati		machine		Gujarati person	
+CGUJf	femme gujarati		machine		female Gujarati person	
+CGUJm	homme gujarati		machine		male Gujarati person	
+CARA	Arabe		machine		Arab person	
+CARAf	Arabe		machine		female Arab person	
+CARAm	Arabe		machine		male Arab person	
+CKAB	Kabyle		machine		Kabyle person	
+CKABf	Kabyle		machine		female Kabyle person	
+CKABm	Kabyle		machine		male Kabyle person	
+CTZM	personne amazighe du Moyen Atlas	On évite « Berbère », exonyme ; « Amazigh » est l'autodésignation.	machine		Central Atlas Amazigh (Berber) person	
+CTZMf	femme amazighe du Moyen Atlas	On évite « Berbère », exonyme ; « Amazigh » est l'autodésignation.	machine		female Central Atlas Amazigh (Berber) person	
+CTZMm	homme amazigh du Moyen Atlas	On évite « Berbère », exonyme ; « Amazigh » est l'autodésignation.	machine		male Central Atlas Amazigh (Berber) person	
+CSHI	personne du peuple appelé Ichelhiyen, Chleuh	« Chleuh » est le nom courant de ce peuple amazigh du sud du Maroc (autodésignation Ichelhiyen), mais c'est aussi une ancienne insulte pour les Allemands ; « Chleuh » seulement en second choix.	machine		Shilha (Chleuh) person	
+CSHIf	femme du peuple appelé Ichelhiyen, Chleuhe	« Chleuh » est le nom courant de ce peuple amazigh du sud du Maroc (autodésignation Ichelhiyen), mais c'est aussi une ancienne insulte pour les Allemands ; « Chleuh » seulement en second choix.	machine		female Shilha (Chleuh) person	
+CSHIm	homme du peuple appelé Ichelhiyen, Chleuh	« Chleuh » est le nom courant de ce peuple amazigh du sud du Maroc (autodésignation Ichelhiyen), mais c'est aussi une ancienne insulte pour les Allemands ; « Chleuh » seulement en second choix.	machine		male Shilha (Chleuh) person	
+CTMH	personne du peuple appelé Kel Tamasheq, Touareg	« Touareg » est un exonyme d'origine arabe, courant en français mais parfois ressenti comme péjoratif ; l'autodésignation est Kel Tamasheq (ou Imuhagh).	machine		Tuareg person	
+CTMHf	femme du peuple appelé Kel Tamasheq, Touarègue	« Touareg » est un exonyme d'origine arabe, courant en français mais parfois ressenti comme péjoratif ; l'autodésignation est Kel Tamasheq (ou Imuhagh).	machine		female Tuareg person	
+CTMHm	homme du peuple appelé Kel Tamasheq, Touareg	« Touareg » est un exonyme d'origine arabe, courant en français mais parfois ressenti comme péjoratif ; l'autodésignation est Kel Tamasheq (ou Imuhagh).	machine		male Tuareg person	
+CBEJ	personne bedja		machine		Beja person	
+CBEJf	femme bedja		machine		female Beja person	
+CBEJm	homme bedja		machine		male Beja person	
+CFIA	Nubien		machine		Nubian person	
+CFIAf	Nubienne		machine		female Nubian person	
+CFIAm	Nubien		machine		male Nubian person	
+CFVR	personne four (Darfour)		machine		Fur (Darfur) person	
+CFVRf	femme four (Darfour)		machine		female Fur (Darfur) person	
+CFVRm	homme four (Darfour)		machine		male Fur (Darfur) person	
+CZAG	personne zaghawa		machine		Zaghawa person	
+CZAGf	femme zaghawa		machine		female Zaghawa person	
+CZAGm	homme zaghawa		machine		male Zaghawa person	
+CMLS	personne massalit		machine		Masalit person	
+CMLSf	femme massalit		machine		female Masalit person	
+CMLSm	homme massalit		machine		male Masalit person	
+CDIN	personne dinka		machine		Dinka person	
+CDINf	femme dinka		machine		female Dinka person	
+CDINm	homme dinka		machine		male Dinka person	
+CNUS	personne nuer		machine		Nuer person	
+CNUSf	femme nuer		machine		female Nuer person	
+CNUSm	homme nuer		machine		male Nuer person	
+CSHK	personne shilluk		machine		Shilluk person	
+CSHKf	femme shilluk		machine		female Shilluk person	
+CSHKm	homme shilluk		machine		male Shilluk person	
+CANU	personne anuak		machine		Anuak person	
+CANUf	femme anuak		machine		female Anuak person	
+CANUm	homme anuak		machine		male Anuak person	
+CBFA	personne du peuple appelé Bari		machine		Bari person	
+CBFAf	femme du peuple appelé Bari		machine		female Bari person	
+CBFAm	homme du peuple appelé Bari		machine		male Bari person	
+CZNE	personne zandé		machine		Zande person	
+CZNEf	femme zandé		machine		female Zande person	
+CZNEm	homme zandé		machine		male Zande person	
+CACH	personne acholi		machine		Acholi person	
+CACHf	femme acholi		machine		female Acholi person	
+CACHm	homme acholi		machine		male Acholi person	
+CLAJ	personne du peuple appelé Lango (Ouganda)		machine		Lango (Uganda) person	
+CLAJf	femme du peuple appelé Lango (Ouganda)		machine		female Lango (Uganda) person	
+CLAJm	homme du peuple appelé Lango (Ouganda)		machine		male Lango (Uganda) person	
+CTEO	personne du peuple appelé Iteso		machine		Teso person	
+CTEOf	femme du peuple appelé Iteso		machine		female Teso person	
+CTEOm	homme du peuple appelé Iteso		machine		male Teso person	
+CLUO	personne luo (Kenya)		machine		Luo (Kenya) person	
+CLUOf	femme luo (Kenya)		machine		female Luo (Kenya) person	
+CLUOm	homme luo (Kenya)		machine		male Luo (Kenya) person	
+CAMH	personne amhara		machine		Amhara person	
+CAMHf	femme amhara		machine		female Amhara person	
+CAMHm	homme amhara		machine		male Amhara person	
+CORM	personne oromo	Ne pas utiliser « Galla », ancien terme injurieux encore présent dans de vieux ouvrages en français.	machine		Oromo person	
+CORMf	femme oromo	Ne pas utiliser « Galla », ancien terme injurieux encore présent dans de vieux ouvrages en français.	machine		female Oromo person	
+CORMm	homme oromo	Ne pas utiliser « Galla », ancien terme injurieux encore présent dans de vieux ouvrages en français.	machine		male Oromo person	
+CTIR	Tigréen, Tigrinya	« Tigréen » pour le Tigray (Éthiopie) ; en Érythrée on dit « Tigrinya ».	machine		Tigrayan person, Tigrinya person	
+CTIRf	Tigréenne, femme tigrinya	« Tigréen » pour le Tigray (Éthiopie) ; en Érythrée on dit « Tigrinya ».	machine		female Tigrayan person, female Tigrinya person	
+CTIRm	Tigréen, homme tigrinya	« Tigréen » pour le Tigray (Éthiopie) ; en Érythrée on dit « Tigrinya ».	machine		male Tigrayan person, male Tigrinya person	
+CTIG	personne tigré (Érythrée)	Peuple d'Érythrée et de l'est du Soudan, à ne pas confondre avec les Tigréens du Tigray.	machine		Tigre (Eritrea) person	
+CTIGf	femme tigré (Érythrée)	Peuple d'Érythrée et de l'est du Soudan, à ne pas confondre avec les Tigréens du Tigray.	machine		female Tigre (Eritrea) person	
+CTIGm	homme tigré (Érythrée)	Peuple d'Érythrée et de l'est du Soudan, à ne pas confondre avec les Tigréens du Tigray.	machine		male Tigre (Eritrea) person	
+CSOM	personne somalie	Au sens ethnique (Somali), et non de la nationalité (Somalien).	machine		Somali person	
+CSOMf	femme somalie	Au sens ethnique (Somali), et non de la nationalité (Somalien).	machine		female Somali person	
+CSOMm	homme somali	Au sens ethnique (Somali), et non de la nationalité (Somalien).	machine		male Somali person	
+CAAR	personne afar		machine		Afar person	
+CAARf	femme afar		machine		female Afar person	
+CAARm	homme afar		machine		male Afar person	
+CSID	personne sidama		machine		Sidama person	
+CSIDf	femme sidama		machine		female Sidama person	
+CSIDm	homme sidama		machine		male Sidama person	
+CWAL	personne du peuple appelé Wolaytta		machine		Wolaita person	
+CWALf	femme du peuple appelé Wolaytta		machine		female Wolaita person	
+CWALm	homme du peuple appelé Wolaytta		machine		male Wolaita person	
+CHDY	personne du peuple appelé Hadiyya		machine		Hadiya person	
+CHDYf	femme du peuple appelé Hadiyya		machine		female Hadiya person	
+CHDYm	homme du peuple appelé Hadiyya		machine		male Hadiya person	
+CSGW	personne gouragué		machine		Gurage person	
+CSGWf	femme gouragué		machine		female Gurage person	
+CSGWm	homme gouragué		machine		male Gurage person	
+CGUK	personne gumuz	Ne pas utiliser « Shanqilla », terme injurieux en Éthiopie.	machine		Gumuz person	
+CGUKf	femme gumuz	Ne pas utiliser « Shanqilla », terme injurieux en Éthiopie.	machine		female Gumuz person	
+CGUKm	homme gumuz	Ne pas utiliser « Shanqilla », terme injurieux en Éthiopie.	machine		male Gumuz person	
+CWTI	personne du peuple appelé Berta		machine		Berta person	
+CWTIf	femme du peuple appelé Berta		machine		female Berta person	
+CWTIm	homme du peuple appelé Berta		machine		male Berta person	
+CUDU	personne du peuple appelé Uduk		machine		Uduk person	
+CUDUf	femme du peuple appelé Uduk		machine		female Uduk person	
+CUDUm	homme du peuple appelé Uduk		machine		male Uduk person	
+CMPE	personne du peuple appelé Majangir		machine		Majang person	
+CMPEf	femme du peuple appelé Majangir		machine		female Majang person	
+CMPEm	homme du peuple appelé Majangir		machine		male Majang person	
+CSWA	personne swahilie		machine		Swahili person	
+CSWAf	femme swahilie		machine		female Swahili person	
+CSWAm	homme swahili		machine		male Swahili person	
+CKIK	personne kikuyu		machine		Kikuyu person	
+CKIKf	femme kikuyu		machine		female Kikuyu person	
+CKIKm	homme kikuyu		machine		male Kikuyu person	
+CKAM	personne du peuple appelé Kamba (Kenya)		machine		Kamba (Kenya) person	
+CKAMf	femme du peuple appelé Kamba (Kenya)		machine		female Kamba (Kenya) person	
+CKAMm	homme du peuple appelé Kamba (Kenya)		machine		male Kamba (Kenya) person	
+CGUZ	personne du peuple appelé Gusii		machine		Gusii person	
+CGUZf	femme du peuple appelé Gusii		machine		female Gusii person	
+CGUZm	homme du peuple appelé Gusii		machine		male Gusii person	
+CMAS	personne massaïe		machine		Maasai person	
+CMASf	femme massaïe		machine		female Maasai person	
+CMASm	homme massaï		machine		male Maasai person	
+CKLN	personne kalenjin		machine		Kalenjin person	
+CKLNf	femme kalenjin		machine		female Kalenjin person	
+CKLNm	homme kalenjin		machine		male Kalenjin person	
+CLUG	personne ganda		machine		Ganda person	
+CLUGf	femme ganda		machine		female Ganda person	
+CLUGm	homme ganda		machine		male Ganda person	
+CNYN	personne du peuple appelé Nyankole		machine		Nyankole person	
+CNYNf	femme du peuple appelé Nyankole		machine		female Nyankole person	
+CNYNm	homme du peuple appelé Nyankole		machine		male Nyankole person	
+CKIN	Rwandais	Au sens de locuteur du kinyarwanda, y compris hors du Rwanda.	machine		Rwandan person	
+CKINf	Rwandaise	Au sens de locuteur du kinyarwanda, y compris hors du Rwanda.	machine		female Rwandan person	
+CKINm	Rwandais	Au sens de locuteur du kinyarwanda, y compris hors du Rwanda.	machine		male Rwandan person	
+CRUN	Burundais	Au sens de locuteur du kirundi, y compris hors du Burundi.	machine		Burundian person	
+CRUNf	Burundaise	Au sens de locuteur du kirundi, y compris hors du Burundi.	machine		female Burundian person	
+CRUNm	Burundais	Au sens de locuteur du kirundi, y compris hors du Burundi.	machine		male Burundian person	
+CSUK	personne sukuma		machine		Sukuma person	
+CSUKf	femme sukuma		machine		female Sukuma person	
+CSUKm	homme sukuma		machine		male Sukuma person	
+CNYM	personne nyamwezi		machine		Nyamwezi person	
+CNYMf	femme nyamwezi		machine		female Nyamwezi person	
+CNYMm	homme nyamwezi		machine		male Nyamwezi person	
+CHAU	personne haoussa		machine		Hausa person	
+CHAUf	femme haoussa		machine		female Hausa person	
+CHAUm	homme haoussa		machine		male Hausa person	
+CYOR	personne yoruba		machine		Yoruba person	
+CYORf	femme yoruba		machine		female Yoruba person	
+CYORm	homme yoruba		machine		male Yoruba person	
+CIBO	personne igbo		machine		Igbo person	
+CIBOf	femme igbo		machine		female Igbo person	
+CIBOm	homme igbo		machine		male Igbo person	
+CEFI	personne efik		machine		Efik person	
+CEFIf	femme efik		machine		female Efik person	
+CEFIm	homme efik		machine		male Efik person	
+CTIV	personne tiv		machine		Tiv person	
+CTIVf	femme tiv		machine		female Tiv person	
+CTIVm	homme tiv		machine		male Tiv person	
+CNUP	personne du peuple appelé Nupe		machine		Nupe person	
+CNUPf	femme du peuple appelé Nupe		machine		female Nupe person	
+CNUPm	homme du peuple appelé Nupe		machine		male Nupe person	
+CBIN	personne du peuple appelé Edo		machine		Edo person	
+CBINf	femme du peuple appelé Edo		machine		female Edo person	
+CBINm	homme du peuple appelé Edo		machine		male Edo person	
+CIJC	personne du peuple appelé Ijaw (Izon)		machine		Ijaw person	
+CIJCf	femme du peuple appelé Ijaw (Izon)		machine		female Ijaw person	
+CIJCm	homme du peuple appelé Ijaw (Izon)		machine		male Ijaw person	
+CAKA	personne akan		machine		Akan person	
+CAKAf	femme akan		machine		female Akan person	
+CAKAm	homme akan		machine		male Akan person	
+CEWE	personne éwé		machine		Ewe person	
+CEWEf	femme éwé		machine		female Ewe person	
+CEWEm	homme éwé		machine		male Ewe person	
+CGAA	personne du peuple appelé Ga (Ghana)		machine		Ga (Ghana) person	
+CGAAf	femme du peuple appelé Ga (Ghana)		machine		female Ga (Ghana) person	
+CGAAm	homme du peuple appelé Ga (Ghana)		machine		male Ga (Ghana) person	
+CDAG	personne dagomba		machine		Dagomba person	
+CDAGf	femme dagomba		machine		female Dagomba person	
+CDAGm	homme dagomba		machine		male Dagomba person	
+CMOS	personne mossi		machine		Mossi person	
+CMOSf	femme mossi		machine		female Mossi person	
+CMOSm	homme mossi		machine		male Mossi person	
+CDYU	personne dioula		machine		Dyula (Jula) person	
+CDYUf	femme dioula		machine		female Dyula (Jula) person	
+CDYUm	homme dioula		machine		male Dyula (Jula) person	
+CBAM	personne bambara		machine		Bambara person	
+CBAMf	femme bambara		machine		female Bambara person	
+CBAMm	homme bambara		machine		male Bambara person	
+CMNK	personne mandinka		machine		Mandinka person	
+CMNKf	femme mandinka		machine		female Mandinka person	
+CMNKm	homme mandinka		machine		male Mandinka person	
+CSNK	personne soninké		machine		Soninke person	
+CSNKf	femme soninké		machine		female Soninke person	
+CSNKm	homme soninké		machine		male Soninke person	
+CWOL	personne wolof		machine		Wolof person	
+CWOLf	femme wolof		machine		female Wolof person	
+CWOLm	homme wolof		machine		male Wolof person	
+CSRR	personne sérère		machine		Serer person	
+CSRRf	femme sérère		machine		female Serer person	
+CSRRm	homme sérère		machine		male Serer person	
+CDYO	personne diola		machine		Jola (Diola) person	
+CDYOf	femme diola		machine		female Jola (Diola) person	
+CDYOm	homme diola		machine		male Jola (Diola) person	
+CTEM	personne du peuple appelé Temné		machine		Temne person	
+CTEMf	femme du peuple appelé Temné		machine		female Temne person	
+CTEMm	homme du peuple appelé Temné		machine		male Temne person	
+CMEN	personne du peuple appelé Mendé		machine		Mende person	
+CMENf	femme du peuple appelé Mendé		machine		female Mende person	
+CMENm	homme du peuple appelé Mendé		machine		male Mende person	
+CKRI	personne krio		machine		Krio person	
+CKRIf	femme krio		machine		female Krio person	
+CKRIm	homme krio		machine		male Krio person	
+CKPE	personne kpellé		machine		Kpelle person	
+CKPEf	femme kpellé		machine		female Kpelle person	
+CKPEm	homme kpellé		machine		male Kpelle person	
+CBCI	personne baoulé		machine		Baoule person	
+CBCIf	femme baoulé		machine		female Baoule person	
+CBCIm	homme baoulé		machine		male Baoule person	
+CFON	personne fon		machine		Fon person	
+CFONf	femme fon		machine		female Fon person	
+CFONm	homme fon		machine		male Fon person	
+CDJE	personne zarma		machine		Zarma (Djerma) person	
+CDJEf	femme zarma		machine		female Zarma (Djerma) person	
+CDJEm	homme zarma		machine		male Zarma (Djerma) person	
+CSES	personne songhaï		machine		Songhai person	
+CSESf	femme songhaï		machine		female Songhai person	
+CSESm	homme songhaï		machine		male Songhai person	
+CKBP	personne kabyè		machine		Kabiye person	
+CKBPf	femme kabyè		machine		female Kabiye person	
+CKBPm	homme kabyè		machine		male Kabiye person	
+CSUS	personne soussou		machine		Susu (Soso) person	
+CSUSf	femme soussou		machine		female Susu (Soso) person	
+CSUSm	homme soussou		machine		male Susu (Soso) person	
+CFUL	Peul		machine		Fula (Fulani) person	
+CFULf	Peule		machine		female Fula (Fulani) person	
+CFULm	Peul		machine		male Fula (Fulani) person	
+CKAU	personne kanouri		machine		Kanuri person	
+CKAUf	femme kanouri		machine		female Kanuri person	
+CKAUm	homme kanouri		machine		male Kanuri person	
+CLIN	personne de langue lingala	Bangala (sg. Mungala) : les gens dont le lingala est la langue première, non tous ceux qui le parlent comme langue véhiculaire.	machine		Lingala-speaking person	
+CLINf	femme de langue lingala	Bangala (sg. Mungala) : les gens dont le lingala est la langue première, non tous ceux qui le parlent comme langue véhiculaire.	machine		female Lingala-speaking person	
+CLINm	homme de langue lingala	Bangala (sg. Mungala) : les gens dont le lingala est la langue première, non tous ceux qui le parlent comme langue véhiculaire.	machine		male Lingala-speaking person	
+CKON	personne kongo		machine		Kongo person	
+CKONf	femme kongo		machine		female Kongo person	
+CKONm	homme kongo		machine		male Kongo person	
+CLUA	personne luba du Kasaï		machine		Kasai Luba person	
+CLUAf	femme luba du Kasaï		machine		female Kasai Luba person	
+CLUAm	homme luba du Kasaï		machine		male Kasai Luba person	
+CLUB	personne luba du Katanga		machine		Katanga Luba person	
+CLUBf	femme luba du Katanga		machine		female Katanga Luba person	
+CLUBm	homme luba du Katanga		machine		male Katanga Luba person	
+CSAG	personne sango		machine		Sango person	
+CSAGf	femme sango		machine		female Sango person	
+CSAGm	homme sango		machine		male Sango person	
+CEWO	personne ewondo		machine		Ewondo person	
+CEWOf	femme ewondo		machine		female Ewondo person	
+CEWOm	homme ewondo		machine		male Ewondo person	
+CBUM	personne boulou		machine		Bulu person	
+CBUMf	femme boulou		machine		female Bulu person	
+CBUMm	homme boulou		machine		male Bulu person	
+CSBA	personne ngambaye		machine		Ngambay person	
+CSBAf	femme ngambaye		machine		female Ngambay person	
+CSBAm	homme ngambaye		machine		male Ngambay person	
+CAFR	Afrikaner		machine		Afrikaner person	
+CAFRf	Afrikaner		machine		female Afrikaner person	
+CAFRm	Afrikaner		machine		male Afrikaner person	
+CZUL	Zoulou		machine		Zulu person	
+CZULf	Zouloue		machine		female Zulu person	
+CZULm	Zoulou		machine		male Zulu person	
+CXHO	personne xhosa		machine		Xhosa person	
+CXHOf	femme xhosa		machine		female Xhosa person	
+CXHOm	homme xhosa		machine		male Xhosa person	
+CSOT	personne sotho		machine		Sotho person	
+CSOTf	femme sotho		machine		female Sotho person	
+CSOTm	homme sotho		machine		male Sotho person	
+CTSN	personne tswana		machine		Tswana person	
+CTSNf	femme tswana		machine		female Tswana person	
+CTSNm	homme tswana		machine		male Tswana person	
+CNSO	personne du peuple appelé Pedi		machine		Pedi person	
+CNSOf	femme du peuple appelé Pedi		machine		female Pedi person	
+CNSOm	homme du peuple appelé Pedi		machine		male Pedi person	
+CTSO	personne tsonga		machine		Tsonga person	
+CTSOf	femme tsonga		machine		female Tsonga person	
+CTSOm	homme tsonga		machine		male Tsonga person	
+CVEN	personne venda		machine		Venda person	
+CVENf	femme venda		machine		female Venda person	
+CVENm	homme venda		machine		male Venda person	
+CSSW	personne swazi		machine		Swazi person	
+CSSWf	femme swazi		machine		female Swazi person	
+CSSWm	homme swazi		machine		male Swazi person	
+CNDE	personne ndébélé du Nord (Zimbabwe)		machine		Ndebele person	
+CNDEf	femme ndébélé du Nord (Zimbabwe)		machine		female Ndebele person	
+CNDEm	homme ndébélé du Nord (Zimbabwe)		machine		male Ndebele person	
+CSNA	personne shona		machine		Shona person	
+CSNAf	femme shona		machine		female Shona person	
+CSNAm	homme shona		machine		male Shona person	
+CNYA	personne chewa		machine		Chewa person	
+CNYAf	femme chewa		machine		female Chewa person	
+CNYAm	homme chewa		machine		male Chewa person	
+CBEM	personne bemba		machine		Bemba person	
+CBEMf	femme bemba		machine		female Bemba person	
+CBEMm	homme bemba		machine		male Bemba person	
+CTOI	personne du peuple appelé Tonga (Zambie)		machine		Tonga (Zambia) person	
+CTOIf	femme du peuple appelé Tonga (Zambie)		machine		female Tonga (Zambia) person	
+CTOIm	homme du peuple appelé Tonga (Zambie)		machine		male Tonga (Zambia) person	
+CLOZ	personne lozi		machine		Lozi person	
+CLOZf	femme lozi		machine		female Lozi person	
+CLOZm	homme lozi		machine		male Lozi person	
+CUMB	personne du peuple appelé Ovimbundu		machine		Ovimbundu person	
+CUMBf	femme du peuple appelé Ovimbundu		machine		female Ovimbundu person	
+CUMBm	homme du peuple appelé Ovimbundu		machine		male Ovimbundu person	
+CKMB	personne du peuple appelé Ambundu		machine		Mbundu person	
+CKMBf	femme du peuple appelé Ambundu		machine		female Mbundu person	
+CKMBm	homme du peuple appelé Ambundu		machine		male Mbundu person	
+CVMW	personne du peuple appelé Makhuwa		machine		Makua person	
+CVMWf	femme du peuple appelé Makhuwa		machine		female Makua person	
+CVMWm	homme du peuple appelé Makhuwa		machine		male Makua person	
+CSEH	personne du peuple appelé Sena		machine		Sena person	
+CSEHf	femme du peuple appelé Sena		machine		female Sena person	
+CSEHm	homme du peuple appelé Sena		machine		male Sena person	
+CYAO	personne yao		machine		Yao person	
+CYAOf	femme yao		machine		female Yao person	
+CYAOm	homme yao		machine		male Yao person	
+CHER	personne herero		machine		Herero person	
+CHERf	femme herero		machine		female Herero person	
+CHERm	homme herero		machine		male Herero person	
+CNAQ	personne du peuple appelé Khoekhoe	Ne pas utiliser « Hottentot », terme colonial injurieux.	machine		Khoekhoe person	
+CNAQf	femme du peuple appelé Khoekhoe	Ne pas utiliser « Hottentot », terme colonial injurieux.	machine		female Khoekhoe person	
+CNAQm	homme du peuple appelé Khoekhoe	Ne pas utiliser « Hottentot », terme colonial injurieux.	machine		male Khoekhoe person	
+CMLG	Malgache		machine		Malagasy person	
+CMLGf	Malgache		machine		female Malagasy person	
+CMLGm	Malgache		machine		male Malagasy person	

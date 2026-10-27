@@ -2554,3 +2554,360 @@ V547	انتظر (شخصًا أو شيئًا)		machine		to wait
 V548	قضى الوقت		machine		to spend time, to pass the time	
 V549	أنهى		machine		to finish, to end	
 V549b	نِهاية		machine		end	
+CENG	إنجليزي		machine		English person	
+CENGf	امرأة إنجليزية		machine		female English person	
+CENGm	رجل إنجليزي		machine		male English person	
+CFRA	فرنسي		machine		French person	
+CFRAf	امرأة فرنسية		machine		female French person	
+CFRAm	رجل فرنسي		machine		male French person	
+CPOR	برتغالي		machine		Portuguese person	
+CPORf	امرأة برتغالية		machine		female Portuguese person	
+CPORm	رجل برتغالي		machine		male Portuguese person	
+CDEU	ألماني		machine		German person	
+CDEUf	امرأة ألمانية		machine		female German person	
+CDEUm	رجل ألماني		machine		male German person	
+CITA	إيطالي		machine		Italian person	
+CITAf	امرأة إيطالية		machine		female Italian person	
+CITAm	رجل إيطالي		machine		male Italian person	
+CSPA	إسباني		machine		Spanish person	
+CSPAf	امرأة إسبانية		machine		female Spanish person	
+CSPAm	رجل إسباني		machine		male Spanish person	
+CNLD	هولندي		machine		Dutch person	
+CNLDf	امرأة هولندية		machine		female Dutch person	
+CNLDm	رجل هولندي		machine		male Dutch person	
+CTUR	تركي		machine		Turkish person	
+CTURf	امرأة تركية		machine		female Turkish person	
+CTURm	رجل تركي		machine		male Turkish person	
+CCMN	صيني		machine		Chinese person	
+CCMNf	امرأة صينية		machine		female Chinese person	
+CCMNm	رجل صيني		machine		male Chinese person	
+CGUJ	غوجاراتي	من أهل غوجارات في الهند، ومنهم الجاليات الهندية في شرق أفريقيا وجنوبها	machine		Gujarati person	
+CGUJf	امرأة غوجاراتية		machine		female Gujarati person	
+CGUJm	رجل غوجاراتي		machine		male Gujarati person	
+CARA	عربي		machine		Arab person	
+CARAf	امرأة عربية		machine		female Arab person	
+CARAm	رجل عربي		machine		male Arab person	
+CKAB	قبائلي (من منطقة القبائل بالجزائر)	لا بمعنى المنتمي إلى قبيلة	machine		Kabyle person	
+CKABf	امرأة قبائلية (من منطقة القبائل بالجزائر)		machine		female Kabyle person	
+CKABm	رجل قبائلي (من منطقة القبائل بالجزائر)		machine		male Kabyle person	
+CTZM	أمازيغي من الأطلس المتوسط	يُفضَّل أمازيغي؛ كلمة بربري يعدّها كثير من الأمازيغ مهينة	machine		Central Atlas Amazigh (Berber) person	
+CTZMf	امرأة أمازيغية من الأطلس المتوسط		machine		female Central Atlas Amazigh (Berber) person	
+CTZMm	رجل أمازيغي من الأطلس المتوسط		machine		male Central Atlas Amazigh (Berber) person	
+CSHI	شخص من شعب يُسمّى إشلحيين, شلحي	إشلحيين هو اسمهم لأنفسهم، أمازيغ سوس في جنوب المغرب؛ كلمة شلحي/شلوح تُستعمل أحياناً للاستهزاء	machine		Shilha (Chleuh/Tashelhit Berber) person	
+CSHIf	امرأة من شعب يُسمّى إشلحيين, امرأة شلحية		machine		female Shilha (Chleuh/Tashelhit Berber) person	
+CSHIm	رجل من شعب يُسمّى إشلحيين, رجل شلحي		machine		male Shilha (Chleuh/Tashelhit Berber) person	
+CTMH	شخص من شعب يُسمّى كل تماشق, طارقي	الطوارق يسمّون أنفسهم كل تماشق أو إيموهاغ؛ اسم طارقي/طوارق تسمية خارجية قد تُعدّ مهينة	machine		Tuareg person	
+CTMHf	امرأة من شعب يُسمّى كل تماشق, امرأة طارقية		machine		female Tuareg person	
+CTMHm	رجل من شعب يُسمّى كل تماشق, رجل طارقي		machine		male Tuareg person	
+CBEJ	شخص من البجا, بجاوي		machine		Beja person	
+CBEJf	امرأة من البجا, امرأة بجاوية		machine		female Beja person	
+CBEJm	رجل من البجا, رجل بجاوي		machine		male Beja person	
+CFIA	نوبي	كلمة بربري أو برابرة استُعملت قديماً للنوبيين في مصر والسودان وقد تُعدّ مهينة	machine		Nubian person	
+CFIAf	امرأة نوبية		machine		female Nubian person	
+CFIAm	رجل نوبي		machine		male Nubian person	
+CFVR	شخص من الفور, فوراوي	صيغة النسبة (فوراوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Fur person	
+CFVRf	امرأة من الفور, امرأة فوراوية		machine		female Fur person	
+CFVRm	رجل من الفور, رجل فوراوي		machine		male Fur person	
+CZAG	شخص من الزغاوة, زغاوي	صيغة النسبة (زغاوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Zaghawa person	
+CZAGf	امرأة من الزغاوة, امرأة زغاوية		machine		female Zaghawa person	
+CZAGm	رجل من الزغاوة, رجل زغاوي		machine		male Zaghawa person	
+CMLS	شخص من المساليت, مساليتي	صيغة النسبة (مساليتي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Masalit person	
+CMLSf	امرأة من المساليت, امرأة مساليتية		machine		female Masalit person	
+CMLSm	رجل من المساليت, رجل مساليتي		machine		male Masalit person	
+CDIN	شخص من الدينكا, دينكاوي	صيغة النسبة (دينكاوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Dinka person	
+CDINf	امرأة من الدينكا, امرأة دينكاوية		machine		female Dinka person	
+CDINm	رجل من الدينكا, رجل دينكاوي		machine		male Dinka person	
+CNUS	شخص من النوير, نويراوي	صيغة النسبة (نويراوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Nuer person	
+CNUSf	امرأة من النوير, امرأة نويراوية		machine		female Nuer person	
+CNUSm	رجل من النوير, رجل نويراوي		machine		male Nuer person	
+CSHK	شخص من الشلك, شلكاوي	صيغة النسبة (شلكاوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية	machine		Shilluk person	
+CSHKf	امرأة من الشلك, امرأة شلكاوية		machine		female Shilluk person	
+CSHKm	رجل من الشلك, رجل شلكاوي		machine		male Shilluk person	
+CANU	شخص من الأنواك		machine		Anuak person	
+CANUf	امرأة من الأنواك		machine		female Anuak person	
+CANUm	رجل من الأنواك		machine		male Anuak person	
+CBFA	شخص من شعب الباري		machine		Bari person	
+CBFAf	امرأة من شعب الباري		machine		female Bari person	
+CBFAm	رجل من شعب الباري		machine		male Bari person	
+CZNE	شخص من الزاندي	الاسم القديم نيام نيام مهين ولا يُستعمل	machine		Zande (Azande) person	
+CZNEf	امرأة من الزاندي		machine		female Zande (Azande) person	
+CZNEm	رجل من الزاندي		machine		male Zande (Azande) person	
+CACH	شخص من الأشولي		machine		Acholi person	
+CACHf	امرأة من الأشولي		machine		female Acholi person	
+CACHm	رجل من الأشولي		machine		male Acholi person	
+CLAJ	شخص من اللانغو		machine		Lango person	
+CLAJf	امرأة من اللانغو		machine		female Lango person	
+CLAJm	رجل من اللانغو		machine		male Lango person	
+CTEO	شخص من التيسو		machine		Teso (Iteso) person	
+CTEOf	امرأة من التيسو		machine		female Teso (Iteso) person	
+CTEOm	رجل من التيسو		machine		male Teso (Iteso) person	
+CLUO	شخص من اللوو (كينيا وتنزانيا)		machine		Luo person	
+CLUOf	امرأة من اللوو (كينيا وتنزانيا)		machine		female Luo person	
+CLUOm	رجل من اللوو (كينيا وتنزانيا)		machine		male Luo person	
+CAMH	شخص من الأمهرة		machine		Amhara person	
+CAMHf	امرأة من الأمهرة		machine		female Amhara person	
+CAMHm	رجل من الأمهرة		machine		male Amhara person	
+CORM	شخص من الأورومو	الاسم القديم غالا (جالا) مهين ولا يُستعمل	machine		Oromo person	
+CORMf	امرأة من الأورومو		machine		female Oromo person	
+CORMm	رجل من الأورومو		machine		male Oromo person	
+CTIR	شخص من التغراي أو التغرينيا		machine		Tigray or Tigrinya person	
+CTIRf	امرأة من التغراي أو التغرينيا		machine		female Tigray or Tigrinya person	
+CTIRm	رجل من التغراي أو التغرينيا		machine		male Tigray or Tigrinya person	
+CTIG	شخص من التغري (إريتريا)	التغري شعب في إريتريا وشرق السودان، غير التغراي	machine		Tigre (Eritrea) person	
+CTIGf	امرأة من التغري (إريتريا)		machine		female Tigre (Eritrea) person	
+CTIGm	رجل من التغري (إريتريا)		machine		male Tigre (Eritrea) person	
+CSOM	صومالي		machine		Somali person	
+CSOMf	امرأة صومالية		machine		female Somali person	
+CSOMm	رجل صومالي		machine		male Somali person	
+CAAR	عفري	الاسم القديم الدناكل تسمية خارجية	machine		Afar person	
+CAARf	امرأة عفرية		machine		female Afar person	
+CAARm	رجل عفري		machine		male Afar person	
+CSID	شخص من السيداما		machine		Sidama person	
+CSIDf	امرأة من السيداما		machine		female Sidama person	
+CSIDm	رجل من السيداما		machine		male Sidama person	
+CWAL	شخص من الولايتا		machine		Wolaita person	
+CWALf	امرأة من الولايتا		machine		female Wolaita person	
+CWALm	رجل من الولايتا		machine		male Wolaita person	
+CHDY	شخص من الهاديا	شعب في جنوب إثيوبيا (هدية في المصادر التاريخية)	machine		Hadiya person	
+CHDYf	امرأة من الهاديا		machine		female Hadiya person	
+CHDYm	رجل من الهاديا		machine		male Hadiya person	
+CSGW	شخص من الغوراغي		machine		Gurage person	
+CSGWf	امرأة من الغوراغي		machine		female Gurage person	
+CSGWm	رجل من الغوراغي		machine		male Gurage person	
+CGUK	شخص من القمز	كلمة شنقلا (شنقلة) مهينة ولا تُستعمل	machine		Gumuz person	
+CGUKf	امرأة من القمز		machine		female Gumuz person	
+CGUKm	رجل من القمز		machine		male Gumuz person	
+CWTI	شخص من البرتا	يُسمَّون أحياناً بني شنقول	machine		Berta person	
+CWTIf	امرأة من البرتا		machine		female Berta person	
+CWTIm	رجل من البرتا		machine		male Berta person	
+CUDU	شخص من الأودوك		machine		Uduk person	
+CUDUf	امرأة من الأودوك		machine		female Uduk person	
+CUDUm	رجل من الأودوك		machine		male Uduk person	
+CMPE	شخص من شعب يُسمّى ماجانغ		machine		Majang person	
+CMPEf	امرأة من شعب يُسمّى ماجانغ		machine		female Majang person	
+CMPEm	رجل من شعب يُسمّى ماجانغ		machine		male Majang person	
+CSWA	سواحيلي		machine		Swahili person	
+CSWAf	امرأة سواحيلية		machine		female Swahili person	
+CSWAm	رجل سواحيلي		machine		male Swahili person	
+CKIK	شخص من الكيكويو		machine		Kikuyu person	
+CKIKf	امرأة من الكيكويو		machine		female Kikuyu person	
+CKIKm	رجل من الكيكويو		machine		male Kikuyu person	
+CKAM	شخص من الكامبا		machine		Kamba person	
+CKAMf	امرأة من الكامبا		machine		female Kamba person	
+CKAMm	رجل من الكامبا		machine		male Kamba person	
+CGUZ	شخص من الغوسي (الكيسي)		machine		Gusii (Kisii) person	
+CGUZf	امرأة من الغوسي (الكيسي)		machine		female Gusii (Kisii) person	
+CGUZm	رجل من الغوسي (الكيسي)		machine		male Gusii (Kisii) person	
+CMAS	شخص من الماساي		machine		Maasai person	
+CMASf	امرأة من الماساي		machine		female Maasai person	
+CMASm	رجل من الماساي		machine		male Maasai person	
+CKLN	شخص من الكالنجين		machine		Kalenjin person	
+CKLNf	امرأة من الكالنجين		machine		female Kalenjin person	
+CKLNm	رجل من الكالنجين		machine		male Kalenjin person	
+CLUG	شخص من الباغندا		machine		Baganda (Ganda) person	
+CLUGf	امرأة من الباغندا		machine		female Baganda (Ganda) person	
+CLUGm	رجل من الباغندا		machine		male Baganda (Ganda) person	
+CNYN	شخص من البانيانكولي		machine		Banyankole (Nkore) person	
+CNYNf	امرأة من البانيانكولي		machine		female Banyankole (Nkore) person	
+CNYNm	رجل من البانيانكولي		machine		male Banyankole (Nkore) person	
+CKIN	رواندي (من الناطقين بالكينيارواندا)		machine		Rwandan person	
+CKINf	امرأة رواندية (من الناطقات بالكينيارواندا)		machine		female Rwandan person	
+CKINm	رجل رواندي (من الناطقين بالكينيارواندا)		machine		male Rwandan person	
+CRUN	بوروندي (من الناطقين بالكيروندي)		machine		Burundian person	
+CRUNf	امرأة بوروندية (من الناطقات بالكيروندي)		machine		female Burundian person	
+CRUNm	رجل بوروندي (من الناطقين بالكيروندي)		machine		male Burundian person	
+CSUK	شخص من السوكوما		machine		Sukuma person	
+CSUKf	امرأة من السوكوما		machine		female Sukuma person	
+CSUKm	رجل من السوكوما		machine		male Sukuma person	
+CNYM	شخص من النيامويزي		machine		Nyamwezi person	
+CNYMf	امرأة من النيامويزي		machine		female Nyamwezi person	
+CNYMm	رجل من النيامويزي		machine		male Nyamwezi person	
+CHAU	شخص من الهوسا, هوساوي	صيغة النسبة (هوساوي) شائعة في السودان، وقد تحمل أحياناً نبرة استخفاف، لذا جاءت ثانية؛ في السودان قد يُدرج الهوسا تحت كلمة فلاتة، وهي تسمية خارجية قد تُعدّ مهينة	machine		Hausa person	
+CHAUf	امرأة من الهوسا, امرأة هوساوية		machine		female Hausa person	
+CHAUm	رجل من الهوسا, رجل هوساوي		machine		male Hausa person	
+CYOR	شخص من اليوروبا		machine		Yoruba person	
+CYORf	امرأة من اليوروبا		machine		female Yoruba person	
+CYORm	رجل من اليوروبا		machine		male Yoruba person	
+CIBO	شخص من الإيغبو		machine		Igbo person	
+CIBOf	امرأة من الإيغبو		machine		female Igbo person	
+CIBOm	رجل من الإيغبو		machine		male Igbo person	
+CEFI	شخص من الإفيك		machine		Efik person	
+CEFIf	امرأة من الإفيك		machine		female Efik person	
+CEFIm	رجل من الإفيك		machine		male Efik person	
+CTIV	شخص من التيف		machine		Tiv person	
+CTIVf	امرأة من التيف		machine		female Tiv person	
+CTIVm	رجل من التيف		machine		male Tiv person	
+CNUP	شخص من النوبيه (نيجيريا)	النوبيه شعب في نيجيريا، غير النوبيين في السودان ومصر	machine		Nupe person	
+CNUPf	امرأة من النوبيه (نيجيريا)		machine		female Nupe person	
+CNUPm	رجل من النوبيه (نيجيريا)		machine		male Nupe person	
+CBIN	شخص من الإيدو (البيني)		machine		Edo (Bini) person	
+CBINf	امرأة من الإيدو (البيني)		machine		female Edo (Bini) person	
+CBINm	رجل من الإيدو (البيني)		machine		male Edo (Bini) person	
+CIJC	شخص من الإيجو		machine		Ijaw (Ijo) person	
+CIJCf	امرأة من الإيجو		machine		female Ijaw (Ijo) person	
+CIJCm	رجل من الإيجو		machine		male Ijaw (Ijo) person	
+CAKA	شخص من الأكان		machine		Akan person	
+CAKAf	امرأة من الأكان		machine		female Akan person	
+CAKAm	رجل من الأكان		machine		male Akan person	
+CEWE	شخص من الإيوي		machine		Ewe person	
+CEWEf	امرأة من الإيوي		machine		female Ewe person	
+CEWEm	رجل من الإيوي		machine		male Ewe person	
+CGAA	شخص من الغا		machine		Ga person	
+CGAAf	امرأة من الغا		machine		female Ga person	
+CGAAm	رجل من الغا		machine		male Ga person	
+CDAG	شخص من الداغومبا		machine		Dagomba person	
+CDAGf	امرأة من الداغومبا		machine		female Dagomba person	
+CDAGm	رجل من الداغومبا		machine		male Dagomba person	
+CMOS	شخص من الموسي		machine		Mossi person	
+CMOSf	امرأة من الموسي		machine		female Mossi person	
+CMOSm	رجل من الموسي		machine		male Mossi person	
+CDYU	شخص من الديولا (بوركينا فاسو وساحل العاج)		machine		Dyula (Jula) person	
+CDYUf	امرأة من الديولا (بوركينا فاسو وساحل العاج)		machine		female Dyula (Jula) person	
+CDYUm	رجل من الديولا (بوركينا فاسو وساحل العاج)		machine		male Dyula (Jula) person	
+CBAM	شخص من البمبارا		machine		Bambara person	
+CBAMf	امرأة من البمبارا		machine		female Bambara person	
+CBAMm	رجل من البمبارا		machine		male Bambara person	
+CMNK	شخص من الماندينكا		machine		Mandinka person	
+CMNKf	امرأة من الماندينكا		machine		female Mandinka person	
+CMNKm	رجل من الماندينكا		machine		male Mandinka person	
+CSNK	شخص من السوننكي		machine		Soninke person	
+CSNKf	امرأة من السوننكي		machine		female Soninke person	
+CSNKm	رجل من السوننكي		machine		male Soninke person	
+CWOL	شخص من الولوف		machine		Wolof person	
+CWOLf	امرأة من الولوف		machine		female Wolof person	
+CWOLm	رجل من الولوف		machine		male Wolof person	
+CSRR	شخص من السيرير		machine		Serer person	
+CSRRf	امرأة من السيرير		machine		female Serer person	
+CSRRm	رجل من السيرير		machine		male Serer person	
+CDYO	شخص من الجولا (السنغال وغامبيا)		machine		Jola (Diola) person	
+CDYOf	امرأة من الجولا (السنغال وغامبيا)		machine		female Jola (Diola) person	
+CDYOm	رجل من الجولا (السنغال وغامبيا)		machine		male Jola (Diola) person	
+CTEM	شخص من التيمني		machine		Temne person	
+CTEMf	امرأة من التيمني		machine		female Temne person	
+CTEMm	رجل من التيمني		machine		male Temne person	
+CMEN	شخص من المندي (سيراليون)		machine		Mende person	
+CMENf	امرأة من المندي (سيراليون)		machine		female Mende person	
+CMENm	رجل من المندي (سيراليون)		machine		male Mende person	
+CKRI	شخص من الكريو		machine		Krio person	
+CKRIf	امرأة من الكريو		machine		female Krio person	
+CKRIm	رجل من الكريو		machine		male Krio person	
+CKPE	شخص من شعب يُسمّى كبيلي		machine		Kpelle person	
+CKPEf	امرأة من شعب يُسمّى كبيلي		machine		female Kpelle person	
+CKPEm	رجل من شعب يُسمّى كبيلي		machine		male Kpelle person	
+CBCI	شخص من الباوليه		machine		Baoule person	
+CBCIf	امرأة من الباوليه		machine		female Baoule person	
+CBCIm	رجل من الباوليه		machine		male Baoule person	
+CFON	شخص من الفون		machine		Fon person	
+CFONf	امرأة من الفون		machine		female Fon person	
+CFONm	رجل من الفون		machine		male Fon person	
+CDJE	شخص من الزرما		machine		Zarma (Djerma) person	
+CDJEf	امرأة من الزرما		machine		female Zarma (Djerma) person	
+CDJEm	رجل من الزرما		machine		male Zarma (Djerma) person	
+CSES	شخص من السونغاي		machine		Songhai person	
+CSESf	امرأة من السونغاي		machine		female Songhai person	
+CSESm	رجل من السونغاي		machine		male Songhai person	
+CKBP	شخص من شعب يُسمّى كابيي		machine		Kabiye person	
+CKBPf	امرأة من شعب يُسمّى كابيي		machine		female Kabiye person	
+CKBPm	رجل من شعب يُسمّى كابيي		machine		male Kabiye person	
+CSUS	شخص من السوسو		machine		Susu person	
+CSUSf	امرأة من السوسو		machine		female Susu person	
+CSUSm	رجل من السوسو		machine		male Susu person	
+CFUL	فولاني	في السودان وتشاد يُقال فلاتة، وهي تسمية خارجية قد تُعدّ مهينة	machine		Fulani person	
+CFULf	امرأة فولانية		machine		female Fulani person	
+CFULm	رجل فولاني		machine		male Fulani person	
+CKAU	شخص من الكانوري		machine		Kanuri person	
+CKAUf	امرأة من الكانوري		machine		female Kanuri person	
+CKAUm	رجل من الكانوري		machine		male Kanuri person	
+CLIN	شخص من البانغالا (الناطقين باللينغالا)	أي الناطقون بلغة اللينغالا	machine		Bangala person	
+CLINf	امرأة من البانغالا (الناطقين باللينغالا)		machine		female Bangala person	
+CLINm	رجل من البانغالا (الناطقين باللينغالا)		machine		male Bangala person	
+CKON	شخص من الباكونغو		machine		Bakongo (Kongo) person	
+CKONf	امرأة من الباكونغو		machine		female Bakongo (Kongo) person	
+CKONm	رجل من الباكونغو		machine		male Bakongo (Kongo) person	
+CLUA	شخص من اللوبا كاساي		machine		Luba-Kasai person	
+CLUAf	امرأة من اللوبا كاساي		machine		female Luba-Kasai person	
+CLUAm	رجل من اللوبا كاساي		machine		male Luba-Kasai person	
+CLUB	شخص من اللوبا كاتانغا		machine		Luba-Katanga person	
+CLUBf	امرأة من اللوبا كاتانغا		machine		female Luba-Katanga person	
+CLUBm	رجل من اللوبا كاتانغا		machine		male Luba-Katanga person	
+CSAG	شخص من السانغو		machine		Sango person	
+CSAGf	امرأة من السانغو		machine		female Sango person	
+CSAGm	رجل من السانغو		machine		male Sango person	
+CEWO	شخص من الإيواندو		machine		Ewondo person	
+CEWOf	امرأة من الإيواندو		machine		female Ewondo person	
+CEWOm	رجل من الإيواندو		machine		male Ewondo person	
+CBUM	شخص من البولو		machine		Bulu person	
+CBUMf	امرأة من البولو		machine		female Bulu person	
+CBUMm	رجل من البولو		machine		male Bulu person	
+CSBA	شخص من النغامباي	من شعوب السارا في جنوب تشاد؛ كلمتا كيردي وعبيد لأهل الجنوب مهينتان	machine		Ngambay person	
+CSBAf	امرأة من النغامباي		machine		female Ngambay person	
+CSBAm	رجل من النغامباي		machine		male Ngambay person	
+CAFR	أفريكاني	من البيض الناطقين بالأفريكانية في جنوب أفريقيا؛ لا بمعنى أفريقي	machine		Afrikaner person	
+CAFRf	امرأة أفريكانية		machine		female Afrikaner person	
+CAFRm	رجل أفريكاني		machine		male Afrikaner person	
+CZUL	شخص من الزولو		machine		Zulu person	
+CZULf	امرأة من الزولو		machine		female Zulu person	
+CZULm	رجل من الزولو		machine		male Zulu person	
+CXHO	شخص من الخوسا		machine		Xhosa person	
+CXHOf	امرأة من الخوسا		machine		female Xhosa person	
+CXHOm	رجل من الخوسا		machine		male Xhosa person	
+CSOT	شخص من الباسوتو		machine		Basotho (Sotho) person	
+CSOTf	امرأة من الباسوتو		machine		female Basotho (Sotho) person	
+CSOTm	رجل من الباسوتو		machine		male Basotho (Sotho) person	
+CTSN	شخص من التسوانا		machine		Tswana person	
+CTSNf	امرأة من التسوانا		machine		female Tswana person	
+CTSNm	رجل من التسوانا		machine		male Tswana person	
+CNSO	شخص من البيدي		machine		Pedi person	
+CNSOf	امرأة من البيدي		machine		female Pedi person	
+CNSOm	رجل من البيدي		machine		male Pedi person	
+CTSO	شخص من التسونغا		machine		Tsonga person	
+CTSOf	امرأة من التسونغا		machine		female Tsonga person	
+CTSOm	رجل من التسونغا		machine		male Tsonga person	
+CVEN	شخص من الفيندا		machine		Venda person	
+CVENf	امرأة من الفيندا		machine		female Venda person	
+CVENm	رجل من الفيندا		machine		male Venda person	
+CSSW	شخص من السوازي		machine		Swazi person	
+CSSWf	امرأة من السوازي		machine		female Swazi person	
+CSSWm	رجل من السوازي		machine		male Swazi person	
+CNDE	شخص من النديبيلي الشماليين (زيمبابوي)		machine		Ndebele person	
+CNDEf	امرأة من النديبيلي الشماليين (زيمبابوي)		machine		female Ndebele person	
+CNDEm	رجل من النديبيلي الشماليين (زيمبابوي)		machine		male Ndebele person	
+CSNA	شخص من الشونا		machine		Shona person	
+CSNAf	امرأة من الشونا		machine		female Shona person	
+CSNAm	رجل من الشونا		machine		male Shona person	
+CNYA	شخص من الشيوا		machine		Chewa person	
+CNYAf	امرأة من الشيوا		machine		female Chewa person	
+CNYAm	رجل من الشيوا		machine		male Chewa person	
+CBEM	شخص من البمبا		machine		Bemba person	
+CBEMf	امرأة من البمبا		machine		female Bemba person	
+CBEMm	رجل من البمبا		machine		male Bemba person	
+CTOI	شخص من التونغا (زامبيا)		machine		Tonga (Zambia) person	
+CTOIf	امرأة من التونغا (زامبيا)		machine		female Tonga (Zambia) person	
+CTOIm	رجل من التونغا (زامبيا)		machine		male Tonga (Zambia) person	
+CLOZ	شخص من اللوزي		machine		Lozi person	
+CLOZf	امرأة من اللوزي		machine		female Lozi person	
+CLOZm	رجل من اللوزي		machine		male Lozi person	
+CUMB	شخص من الأوفيمبوندو		machine		Ovimbundu person	
+CUMBf	امرأة من الأوفيمبوندو		machine		female Ovimbundu person	
+CUMBm	رجل من الأوفيمبوندو		machine		male Ovimbundu person	
+CKMB	شخص من الأمبوندو		machine		Ambundu (Mbundu) person	
+CKMBf	امرأة من الأمبوندو		machine		female Ambundu (Mbundu) person	
+CKMBm	رجل من الأمبوندو		machine		male Ambundu (Mbundu) person	
+CVMW	شخص من الماكوا		machine		Makua person	
+CVMWf	امرأة من الماكوا		machine		female Makua person	
+CVMWm	رجل من الماكوا		machine		male Makua person	
+CSEH	شخص من شعب يُسمّى سينا		machine		Sena person	
+CSEHf	امرأة من شعب يُسمّى سينا		machine		female Sena person	
+CSEHm	رجل من شعب يُسمّى سينا		machine		male Sena person	
+CYAO	شخص من الياو		machine		Yao person	
+CYAOf	امرأة من الياو		machine		female Yao person	
+CYAOm	رجل من الياو		machine		male Yao person	
+CHER	شخص من الهيريرو		machine		Herero person	
+CHERf	امرأة من الهيريرو		machine		female Herero person	
+CHERm	رجل من الهيريرو		machine		male Herero person	
+CNAQ	شخص من الخويخوي (الناما والداما)	الاسم القديم هوتنتوت مهين ولا يُستعمل	machine		Khoekhoe (Nama and Damara) person	
+CNAQf	امرأة من الخويخوي (الناما والداما)		machine		female Khoekhoe (Nama and Damara) person	
+CNAQm	رجل من الخويخوي (الناما والداما)		machine		male Khoekhoe (Nama and Damara) person	
+CMLG	ملغاشي		machine		Malagasy person	
+CMLGf	امرأة ملغاشية		machine		female Malagasy person	
+CMLGm	رجل ملغاشي		machine		male Malagasy person	
