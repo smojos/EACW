@@ -1913,13 +1913,13 @@ Q1000	one-thousand	QUANT	yes
 Q2000	two-thousand	QUANT	yes			
 Q1736	one-thousand seven-hundred thirty-six	QUANT	yes			
 R1SG	I	PRONOUN	yes			
-R1DU	we two	PRONOUN	no			
+R1DU	we two	PRONOUN	no		dual, unspecified for clusivity	
 R1DUIN	we two (you and I)	PRONOUN	no		dual inclusive	
 R1DUEX	we two (not you)	PRONOUN	no		dual exclusive	
 R1PC	we (few)	PRONOUN	no		paucal	
 R1PL	we	PRONOUN	yes			
-R1PLIN	we (and you)	PRONOUN	no			
-R1PLEX	we (not you)	PRONOUN	no			
+R1PLIN	we (and you)	PRONOUN	no		plural inclusive: the speaker, the addressee(s) and others	
+R1PLEX	we (not you)	PRONOUN	no		plural exclusive: the speaker and others, not the addressee(s)	
 R2SG	you	PRONOUN	yes			
 R2SGM	you (male)	PRONOUN	no			
 R2SGF	you (female)	PRONOUN	no			
@@ -1943,17 +1943,17 @@ R3PLF	they (female)	PRONOUN	no
 R3PLN	they (neuter)	PRONOUN	no		neuter or non-human	
 R3PLLOG	they (logophoric)	PRONOUN	no		refer back to the reported speakers	
 R1SGPOSS	my	PRONOUN	no		independent possessive	
-R2SGPOSS	your (singular)	PRONOUN	no			
-R3SGPOSS	his or her	PRONOUN	no			
-R1PLPOSS	our	PRONOUN	no			
-R2PLPOSS	your (plural)	PRONOUN	no			
-R3PLPOSS	their	PRONOUN	no			
+R2SGPOSS	your (singular)	PRONOUN	no		independent possessive	
+R3SGPOSS	his or her	PRONOUN	no		independent possessive	
+R1PLPOSS	our	PRONOUN	no		independent possessive	
+R2PLPOSS	your (plural)	PRONOUN	no		independent possessive	
+R3PLPOSS	their	PRONOUN	no		independent possessive	
 RREFL	self	PRONOUN	yes		reflexive	
 RRECP	each other	PRONOUN	no		reciprocal	
 RLOCDPRX	here	DEM	yes			
 RLOCDADR	there (near you)	DEM	no		near the addressee	
 RLOCDMED	there (nearby)	DEM	no		medial distance: between near and far	
-RLOCDDST	there	DEM	yes			
+RLOCDDST	there	DEM	yes		distal: away from the speaker	
 RLOCDREM	yonder (out of sight)	DEM	no		remote: far away or out of sight	
 R3SGDPRX	this	DEM	yes			
 R3SGDADR	that (near you)	DEM	no		near the addressee	
