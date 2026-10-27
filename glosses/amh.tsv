@@ -2018,7 +2018,7 @@ V039	ተወዛወዘ		machine		to swing
 V040	ተንሸራተተ		machine		to slide	
 V041	ተንከባለለ		machine		to roll	
 V042	ውሃ ላይ ዋኘ, ውሃ ውስጥ ተራመደ		machine		to swim on the surface of the water	
-V043	ውሃ ውስጥ ዋኘ		machine		to swim under water	
+V043	ውሃ ውስጥ ዋኘ		machine		to swim in water	
 V044	ውሃ ውስጥ ዘሎ ገባ, ጠለቀ		machine		to dive	
 V045	ተንሳፈፈ		machine		to float	
 V046	ሰመጠ	ለጀልባና ለዕቃ ነው፤ በውሃ ሰጥሞ መሞት አይደለም።	machine		to sink	
@@ -2232,3 +2232,325 @@ V247	ከፈተ		machine		to open
 V248	ዘጋ		machine		to close	
 V249	ሸፈነ, ከደነ		machine		to cover	
 V250	ገለጠ		machine		to uncover, to reveal	
+V251	ደፈነ, ወተፈ		machine		to plug, to stop up	
+V252	ጠቀለለ		machine		to roll up, to wrap	
+V253	የተጠቀለለውን ፈታ		machine		to unroll, to unwrap	
+V254	ጠቀጠቀ, አጨቀ		machine		to pack tight, to stuff	
+V255	ሞላ		machine		to fill	
+V256	አወጣ		machine		to take out, to bring out	
+V257	አፈሰሰ, ቀዳ		machine		to pour, to ladle out	
+V258	ሳያስበው አፈሰሰ		machine		to spill accidentally	
+V259	ለበሰ		machine		to put on (clothes), to wear	
+V260	አወለቀ		machine		to take off (clothes)	
+V261	ታጠበ		machine		to wash oneself, to bathe	
+V262	ልብስ አጠበ		machine		to wash clothes	
+V263	አበሰ		machine		to wipe, to polish	
+V264	ጸጉር ቆረጠ		machine		to cut hair	
+V265	ላጨ		machine		to shave	
+V266	ጸጉር ጎነጎነ, ሹሩባ ሠራ		machine		to do hair, to braid	
+V267	ቀባ		machine		to smear, to anoint	
+V268	አስጌጠ		machine		to decorate, to adorn	
+V269	ምግብ አዘጋጀ		machine		to prepare food	
+V270	ቆርጦ ከፈተ		machine		to cut open	
+V271	በቀጭኑ ቆረጠ, ቆራረጠ		machine		to slice thinly, to cut into pieces	
+V272	ላጠ		machine		to peel	
+V273	ቀላቀለ, አደባለቀ		machine		to mix, to blend	
+V274	አማሰለ		machine		to stir	
+V275	አጣራ, አጠለለ		machine		to filter, to strain	
+V276	ወቀጠ		machine		to pound (in a mortar)	
+V277	አደቀቀ		machine		to crush fine, to pulverize	
+V278	ከካ	የመጀመሪያው ሻካራ ፈጨት	machine		to grind coarsely, to crack (grain)	
+V279	ፈጨ	ሁለተኛው፣ የተሻለ ልም ፈጨት	machine		to grind (into flour)	
+V280	አላመ	ሦስተኛው፣ እጅግ ልም ፈጨት	machine		to grind fine, to pulverize	
+V281	ለወሰ, አቦካ		machine		to knead	
+V282	ሊጥ ቅርጽ አስያዘ		machine		to shape dough	
+V283	ላባ ነጨ		machine		to pluck feathers	
+V284	አበሰለ		machine		to cook	
+V285	ቀቀለ, አፈላ		machine		to boil	
+V286	አንተከተከ		machine		to simmer	
+V287	ወጥ ሠራ		machine		to make stew	
+V288	ጠበሰ, ቆላ		machine		to roast, to toast	
+V289	በዘይት ጠበሰ		machine		to fry in oil	
+V290	በአመድ ውስጥ ጋገረ		machine		to bake in ashes	
+V291	በጭስ አደረቀ, አጨሰ		machine		to dry with smoke, to smoke	
+V292	ቦካ		machine		to ferment	
+V293	ተበላሸ, ሻገተ		machine		to go bad, to go mouldy	
+V294	አደረገ		machine		to do	
+V294b	ሥራ		machine		work	
+V295	ሠራ		machine		to make, to work	
+V295b	ፍጥረት		machine		creation	
+V296	ገነባ		machine		to build, to construct	
+V297	ጠገነ		machine		to repair, to mend	
+V298	ተካ		machine		to replace	
+V299	ሸክላ ሠራ		machine		to make pottery	
+V300	ሰፋ		machine		to sew	
+V301	ሸመነ		machine		to weave	
+V302	ዶቃ በክር ሰካ		machine		to thread beads on a string	
+V303	አሰረ		machine		to tie, to bind	
+V304	ፈታ		machine		to untie, to loosen	
+V305	በገመድ ጠፈረ		machine		to lash with rope	
+V306	አጠበቀ		machine		to tighten	
+V307	አላላ		machine		to loosen	
+V308	አጠረ, በአጥር ከለለ		machine		to fence, to enclose with a fence	
+V309	ቦታ ከለለ, ካስማ ቸከለ		machine		to mark off a place, to drive in a stake	
+V310	ቆፈረ		machine		to dig	
+V311	ውሃ ቀዳ		machine		to draw water	
+V312	እንጨት ለቀመ		machine		to gather firewood	
+V313	ጠረገ		machine		to sweep	
+V314	ወለወለ		machine		to polish	
+V315	ደወል መታ, ደወለ		machine		to ring a bell	
+V316	ቀረጸ, ጠረበ		machine		to carve, to hew	
+V317	ሥዕል ሳለ		machine		to draw a picture	
+V318	መሬት በእጅ ቆፈረ		machine		to dig the ground by hand	
+V318b	አረሰ		machine		to plough	
+V319	መሬት መነጠረ		machine		to clear land	
+V320	ዘራ		machine		to sow	
+V321	ዘር በተነ, ነሰነሰ		machine		to scatter seed, to sprinkle	
+V322	ችግኝ ተከለ		machine		to plant a seedling	
+V323	አዛውሮ ተከለ		machine		to transplant	
+V324	አረመ		machine		to weed	
+V325	ኮተኮተ		machine		to hoe around plants	
+V326	አጨደ, ምርት ሰበሰበ		machine		to reap, to harvest	
+V327	ቆፍሮ አወጣ		machine		to dig out, to dig up	
+V328	ፍሬ ቀጠፈ		machine		to pick fruit	
+V329	ማር ቆረጠ		machine		to harvest honey	
+V330	ወቃ		machine		to thresh	
+V331	አዘራ, አበጠረ		machine		to winnow	
+V332	ፈለፈለ		machine		to shell, to hatch	
+V333	በቆሎ ገፈፈ, ሸለቀቀ		machine		to husk, to strip off	
+V334	ከብት አሰማራ		machine		to graze cattle	
+V335	መገበ, ቀለበ		machine		to feed	
+V336	ከችካል አሰረ		machine		to tether to a stake	
+V337	አለበ		machine		to milk	
+V338	ሰለበ, ኮላሸ		machine		to castrate	
+V339	አላመደ, ገራ		machine		to tame, to domesticate	
+V340	አረደ		machine		to slaughter	
+V341	ቆዳ ገፈፈ		machine		to skin, to flay	
+V342	አደነ		machine		to hunt	
+V343	አድብቶ ተከተለ, አደባ		machine		to stalk, to lie in wait	
+V344	አሳደደ		machine		to chase, to pursue	
+V345	ወጥመድ አጠመደ		machine		to set a trap	
+V346	በወጥመድ ያዘ		machine		to catch in a trap	
+V347	ያዘ		machine		to hold, to catch	
+V348	ሸሸ		machine		to flee	
+V349	አመለጠ		machine		to escape	
+V350	ተኮሰ, ቀስት ወረወረ		machine		to shoot	
+V351	ዓሣ አጠመደ		machine		to fish	
+V352	ቀየረ, ለወጠ		machine		to change, to exchange	
+V353	አጠፋ, አፈረሰ		machine		to destroy, to demolish	
+V354	ለቀቀ, ፈታ		machine		to let go, to release	
+V355	አስቻለ		machine		to enable	
+V356	አስፋፋ, ትልቅ አደረገ		machine		to expand, to make grow	
+V356b	በዛ, ጨመረ		machine		to increase, to become more	
+V357	አሳነሰ		machine		to make smaller, to reduce	
+V357b	አነሰ, ቀነሰ		machine		to decrease, to become less	
+V358	አስረዘመ		machine		to lengthen	
+V359	አሳጠረ		machine		to shorten	
+V360	አሰፋ		machine		to widen	
+V361	አጠለቀ, ጥልቅ አደረገ		machine		to deepen, to make deep	
+V362	ጠፍጣፋ አደረገ, ደለደለ		machine		to make flat, to level	
+V363	አቃና		machine		to straighten	
+V364	ሳለ, አሾለ		machine		to sharpen	
+V365	አለሰለሰ		machine		to smooth, to make smooth	
+V366	አጠነከረ		machine		to strengthen, to harden	
+V367	አለዘበ		machine		to soften	
+V368	ልብስ አሰጣ, አደረቀ		machine		to hang clothes out to dry, to dry	
+V369	ረጨ, አርከፈከፈ		machine		to sprinkle, to spray	
+V370	ለሰነ, መረገ		machine		to plaster, to smear (mud)	
+V371	ነከረ		machine		to dip, to immerse	
+V372	ዘፈዘፈ		machine		to soak, to steep	
+V373	ጨመቀ		machine		to squeeze, to wring	
+V374	እሳት አነደደ, አቀጣጠለ		machine		to light a fire, to kindle	
+V375	እሳት አጠፋ		machine		to put out a fire	
+V376	እሳት አራገበ		machine		to fan a fire	
+V377	ጨመረ, ደመረ		machine		to add, to add up	
+V378	ቀነሰ		machine		to subtract, to decrease	
+V379	ቀነሰ, አሳነሰ		machine		to reduce, to decrease	
+V380	አገናኘ, አያያዘ		machine		to connect, to join	
+V381	አከማቸ		machine		to accumulate, to store up	
+V381b	ከመረ		machine		to heap up, to pile	
+V382	ሰበሰበ		machine		to gather, to collect	
+V383	ከፋፈለ, አካፈለ		machine		to divide up, to share out	
+V384	ሰዎችን በተነ		machine		to disperse people	
+V385	ከበበ		machine		to surround, to encircle	
+V386	ዘፈነ, ዘመረ		machine		to sing	
+V387	አንጎራጎረ		machine		to hum	
+V388	አፏጨ		machine		to whistle	
+V389	ጨፈረ		machine		to dance	
+V390	ተጫወተ		machine		to play	
+V391	ክራር ደረደረ, መሰንቆ መታ		machine		to play the lyre, to play the fiddle	
+V392	ዋሽንት ነፋ		machine		to play the flute	
+V393	በዕቃ ለወጠ		machine		to barter	
+V394	ገዛ		machine		to buy	
+V395	ሸጠ		machine		to sell	
+V396	ተደራደረ, በዋጋ ተከራከረ		machine		to bargain, to haggle	
+V397	ከፈለ		machine		to pay	
+V397b	ክፍያ		machine		payment	
+V398	ቀጠረ		machine		to hire, to employ	
+V399	ለመነ		machine		to beg	
+V400	ወረሰ		machine		to inherit	
+V401	ሰረቀ		machine		to steal	
+V402	አሰበ		machine		to think	
+V403	አመነ		machine		to believe	
+V404	አወቀ		machine		to know	
+V405	ተጠራጠረ		machine		to doubt	
+V406	ተስፋ አደረገ		machine		to hope	
+V407	ተማረ		machine		to learn	
+V408	አስተማረ		machine		to teach	
+V409	አሳየ		machine		to show	
+V410	አስታወሰ		machine		to remember	
+V411	ረሳ		machine		to forget	
+V412	ወሰነ		machine		to decide	
+V413	መረጠ		machine		to choose	
+V414	አመነታ		machine		to hesitate	
+V415	ፈለገ		machine		to want, to look for	
+V416	አስፈለገው	ብዙውን ጊዜ 'ያስፈልገዋል' ተብሎ ይነገራል	machine		to need, to want	
+V417	ሞከረ		machine		to try	
+V418	ተሳካለት		machine		to succeed	
+V419	ከሸፈ, አልተሳካለትም		machine		to fail, not to succeed	
+V420	አስመሰለ		machine		to pretend	
+V421	ገመገመ		machine		to evaluate, to assess	
+V422	ችግር ፈታ		machine		to solve a problem	
+V423	ቆጠረ		machine		to count	
+V424	ደረደረ, አስተካከለ		machine		to arrange, to put in order	
+V425	ሳቀ		machine		to laugh	
+V426	ፈገግ አለ		machine		to smile	
+V427	ተደሰተ		machine		to be happy, to rejoice	
+V428	አለቀሰ		machine		to cry, to weep	
+V429	ለሟች አለቀሰ, አዘነ		machine		to mourn for the dead, to grieve	
+V429b	ለቅሶ, ሐዘን		machine		mourning, grief	
+V430	እልል አለ		machine		to ululate	
+V431	አስፈራ		machine		to frighten	
+V432	አስደነገጠ		machine		to shock, to startle	
+V433	አባበለ		machine		to soothe, to coax	
+V433b	ተረጋጋ		machine		to calm down	
+V434	ወደደ		machine		to love	
+V435	ጠላ		machine		to hate	
+V436	ናቀ		machine		to despise	
+V437	አደነቀ		machine		to admire	
+V438	አከበረ		machine		to respect, to honour	
+V438b	ፈሪሃ እግዚአብሔር, አክብሮት		machine		fear of God, respect	
+V439	ክብር ሰጠ, አከበረ		machine		to give honour, to respect	
+V440	ተሰቃየ		machine		to suffer	
+V441	ታገለ		machine		to struggle	
+V442	አለ		machine		to say	
+V443	ተናገረ		machine		to speak	
+V443b	ንግግር		machine		speech	
+V444	ነገረ		machine		to tell	
+V445	ሹክ አለ, አንሾካሾከ		machine		to whisper	
+V446	ጮኸ		machine		to shout	
+V447	ተጨዋወተ, አወጋ		machine		to chat, to converse	
+V448	አጉተመተመ		machine		to mutter, to mumble	
+V449	ተንተባተበ		machine		to stutter, to stammer	
+V450	ሰላምታ ሰጠ, ሰላም አለ		machine		to greet	
+V451	ተሰናበተ		machine		to say goodbye	
+V452	ጠራ		machine		to call	
+V453	አስታወቀ, አወጀ		machine		to announce, to proclaim	
+V454	አስረዳ, አብራራ		machine		to explain, to clarify	
+V455	መከረ		machine		to advise	
+V456	አማ		machine		to gossip about, to slander	
+V457	ጠየቀ		machine		to ask	
+V457b	ጥያቄ		machine		question	
+V458	ተማጸነ		machine		to plead, to implore	
+V458b	ልመና, ጥያቄ		machine		begging, request	
+V459	መለሰ		machine		to answer, to reply	
+V460	አመሰገነ		machine		to thank	
+V461	ማለ		machine		to swear (an oath)	
+V462	ሰደበ		machine		to insult	
+V462b	ስድብ		machine		insult	
+V463	ስም አጠፋ		machine		to defame	
+V464	አስፈራራ		machine		to threaten	
+V465	ተከራከረ		machine		to argue, to debate	
+V465b	ክርክር, ጭቅጭቅ		machine		argument, quarrel	
+V466	አጉረመረመ		machine		to grumble, to complain	
+V467	ተቃረነ, ተቃወመ		machine		to contradict, to oppose	
+V468	ከሰሰ		machine		to accuse	
+V469	ካደ		machine		to deny	
+V470	ጥፋቱን አመነ		machine		to admit one's fault	
+V471	ተስማማ		machine		to agree	
+V471b	ስምምነት		machine		agreement	
+V472	አሳመነ		machine		to convince, to persuade	
+V473	አወደሰ, አሞገሰ		machine		to praise, to extol	
+V473b	ውዳሴ, ሙገሳ		machine		praise	
+V474	እንኳን ደስ አለህ አለ		machine		to congratulate	
+V475	ተኩራራ		machine		to boast	
+V476	ዋሸ		machine		to lie	
+V477	ተገናኘ		machine		to meet	
+V477b	ስብሰባ		machine		meeting	
+V478	አብሮ ሄደ, አጀበ		machine		to go together, to escort	
+V479	አብሮ ሆነ		machine		to be together	
+V480	ተሰበሰበ		machine		to gather, to assemble	
+V481	ጋበዘ		machine		to invite	
+V482	ተወ, ጣለ		machine		to leave, to throw away	
+V483	ራቀ		machine		to be far, to keep away	
+V484	አባረረ		machine		to chase away, to expel	
+V485	መሰለ		machine		to resemble	
+V486	አስመስሎ አደረገ, ኮረጀ		machine		to imitate, to copy	
+V487	ተገቢ ሆነ, ተስማማ		machine		to be appropriate, to fit	
+V488	እጅ አውለበለበ		machine		to wave one's hand	
+V489	በጣት ጠቆመ		machine		to point with a finger	
+V490	አቀፈ		machine		to hug, to embrace	
+V491	ደባበሰ		machine		to caress, to stroke	
+V492	ሳመ		machine		to kiss	
+V493	ግብረ ሥጋ ግንኙነት አደረገ		machine		to have sexual intercourse	
+V494	ተራከበ	ለእንስሳት ብቻ	machine		to interbreed, to crossbreed	
+V495	አጠባ		machine		to breastfeed, to suckle	
+V496	ኮረኮረ		machine		to tickle	
+V497	ቂጡን መታ		machine		to spank	
+V498	ረዳ		machine		to help	
+V499	ከለለ, ጠበቀ		machine		to shield, to protect	
+V500	ተንከባከበ		machine		to take care of, to look after	
+V501	አሳደገ		machine		to raise, to bring up	
+V502	አስተዳደረ, ገዛ		machine		to govern, to rule	
+V503	አዘዘ		machine		to order, to command	
+V503b	ትእዛዝ		machine		order, command	
+V504	ላከ		machine		to send	
+V505	አገለገለ		machine		to serve	
+V506	መራ		machine		to lead	
+V507	ተከተለ		machine		to follow	
+V508	ታዘዘ		machine		to obey	
+V509	አስደሰተ		machine		to please, to make happy	
+V510	አበሳጨ		machine		to annoy, to upset	
+V511	አታለለ		machine		to deceive, to trick	
+V512	ተጨቃጨቀ, ተጣላ		machine		to quarrel, to fight	
+V513	ተደባደበ, ተዋጋ		machine		to fight, to come to blows	
+V514	ተበቀለ		machine		to take revenge	
+V515	አማለደ		machine		to intercede, to mediate	
+V516	ተቻቻለ, ተደራድሮ ተስማማ		machine		to get along, to tolerate each other	
+V517	ዝም አሰኘ, አረጋጋ		machine		to silence, to calm	
+V518	ቀጣ		machine		to punish	
+V518b	ቅጣት		machine		punishment	
+V519	አሸነፈ		machine		to win, to defeat	
+V520	ተሸነፈ		machine		to be defeated, to lose	
+V521	ዘረፈ		machine		to rob, to loot	
+V522	ሰለለ		machine		to spy	
+V523	አስገድዶ ደፈረ		machine		to rape	
+V524	ጸለየ		machine		to pray	
+V525	ትንቢት ተናገረ		machine		to prophesy	
+V526	አስማት አደረገ, ደገመ		machine		to do magic, to cast a spell	
+V527	ረገመ		machine		to curse	
+V528	መረዘ		machine		to poison	
+V529	በክታብ ጠበቀ, ክታብ አሰረ		machine		to protect with an amulet, to tie on an amulet	
+V530	ጋኔን አስወጣ		machine		to cast out a demon	
+V531	መሥዋዕት አቀረበ, ሠዋ		machine		to offer a sacrifice, to sacrifice	
+V532	ለመናፍስት መጠጥ አፈሰሰ		machine		to pour a drink for the spirits	
+V533	ቀበረ		machine		to bury	
+V534	አጽናና, ለቅሶ ደረሰ		machine		to console, to pay a condolence visit	
+V535	አገባ		machine		to marry	
+V535b	ትዳር, ጋብቻ		machine		married life, marriage	
+V536	ታጨ		machine		to be betrothed, to be engaged	
+V537	ተፋታ, ፈታ		machine		to get divorced, to divorce	
+V538	አገደ, እንቅፋት ሆነ		machine		to block, to be an obstacle	
+V539	አስቀረ, ተከላከለ		machine		to prevent, to defend against	
+V540	ከለከለ		machine		to forbid, to prohibit	
+V541	ፈቀደ		machine		to permit, to allow	
+V542	ታቀበ, ተቆጠበ		machine		to abstain, to refrain	
+V543	ጀመረ		machine		to begin, to start	
+V543b	መጀመሪያ		machine		beginning	
+V544	ቀጠለ		machine		to continue	
+V545	ቆመ, አቆመ		machine		to stop, to stand	
+V546	ቆየ		machine		to stay, to wait	
+V547	ጠበቀ		machine		to wait	
+V548	ጊዜ አሳለፈ		machine		to spend time	
+V549	ጨረሰ		machine		to finish	
+V549b	መጨረሻ, ፍጻሜ		machine		end, conclusion	

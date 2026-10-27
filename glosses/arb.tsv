@@ -2018,7 +2018,7 @@ V039	تأرجح		machine		to swing
 V040	انزلق, تزحلق		machine		to slip, to slide	
 V041	تدحرج		machine		to roll	
 V042	سبح على سطح الماء, خاض الماء		machine		to swim (on the surface of the water)	
-V043	سبح (في الماء)		machine		to swim (in the water)	
+V043	سبح تحت الماء		machine		to swim underwater	
 V044	غطس		machine		to dive	
 V045	طفا		machine		to float	
 V046	غاص إلى القاع, غَرِقَ (الشيء)	غَرِقَ هنا للسفن والأشياء، لا بمعنى موت الإنسان غرقًا	machine		to sink (in water), to settle to the bottom	
@@ -2232,3 +2232,325 @@ V247	فتح		machine		to open
 V248	أغلق, سدّ		machine		to close, to shut	
 V249	غطّى		machine		to cover	
 V250	كشف, أزال الغطاء		machine		to uncover, to remove the cover	
+V251	سدّ		machine		to block, to stop up	
+V252	لفّ		machine		to wrap	
+V253	فكّ (الغلاف)		machine		to unwrap (the wrapping)	
+V254	عبّأ, حشر		machine		to fill (a container), to pack	
+V255	ملأ		machine		to fill	
+V256	أخرج (من الوعاء)		machine		to take out (of the container)	
+V257	صبّ		machine		to pour	
+V258	دلق		machine		to spill	
+V259	لبس		machine		to put on (clothes), to wear	
+V260	خلع (ملابسه)		machine		to take off (one's clothes), to undress	
+V261	استحمّ		machine		to bathe (oneself), to take a bath/shower	
+V262	غسل (الملابس)		machine		to wash (clothes), to do laundry	
+V263	مسح		machine		to wipe	
+V264	قصّ (الشعر)		machine		to cut (hair)	
+V265	حلق		machine		to shave	
+V266	ضفر (الشعر)		machine		to braid (hair), to plait	
+V267	دهن (بمرهم)		machine		to smear (with ointment), to anoint	
+V268	زيّن		machine		to decorate, to adorn	
+V269	أعدّ (الطعام)		machine		to prepare (food)	
+V270	شقّ (الفاكهة)		machine		to split open (fruit)	
+V271	قطّع شرائح		machine		to slice, to cut into slices	
+V272	قشّر		machine		to peel	
+V273	خلط		machine		to mix	
+V274	حرّك (القدر)		machine		to stir (the pot)	
+V275	صفّى (الطعام)		machine		to strain (food), to drain	
+V276	دقّ (في الهاون)		machine		to pound (in a mortar)	
+V277	سحق (حتى يصير مسحوقًا)		machine		to crush	
+V278	جرش (الحبّ)	طحن خشن أوّل على حجر الرحى	machine		to coarsely grind (grain), to crack (grain)	
+V279	طحن (طحنة ثانية)	طحن أنعم من الأول	machine		to grind (a second grinding)	
+V280	طحن ناعمًا (طحنة ثالثة)	أنعم طحن	machine		to grind finely (a third grinding)	
+V281	عجن		machine		to knead	
+V282	شكّل (الخبز)		machine		to shape (bread), to form (loaves)	
+V283	نتف (الريش)		machine		to pluck (feathers)	
+V284	طبخ		machine		to cook	
+V285	غلى		machine		to boil	
+V286	طها على نار هادئة		machine		to simmer, to cook over a low heat	
+V287	طبخ يخنة		machine		to stew, to cook a stew	
+V288	شوى		machine		to roast, to grill	
+V289	قلى		machine		to fry	
+V290	شوى في الرماد		machine		to roast in the ashes	
+V291	دخّن (اللحم)		machine		to smoke (meat)	
+V292	تخمّر		machine		to ferment	
+V293	فسد (الطعام)		machine		to spoil, to go bad (of food)	
+V294	فعل		machine		to do	
+V294b	عَمَل		machine		work	
+V295	صنع		machine		to make	
+V295b	صُنْع		machine		making, manufacture	
+V296	بنى		machine		to build	
+V297	أصلح		machine		to repair, to fix	
+V298	استبدل		machine		to replace, to exchange	
+V299	صنع الفخّار		machine		to make pottery	
+V300	خاط		machine		to sew	
+V301	نسج		machine		to weave	
+V302	نظم (الخرز)		machine		to string (beads)	
+V303	ربط		machine		to tie, to bind	
+V304	فكّ		machine		to untie, to undo	
+V305	حزم (بالحبل)		machine		to tie up, to bundle (with rope)	
+V306	شدّ		machine		to tighten	
+V307	أرخى		machine		to loosen, to slacken	
+V308	سيّج		machine		to fence (in), to enclose with a fence	
+V309	حدّد (قطعة أرض)		machine		to mark out (a plot of land), to demarcate	
+V310	حفر		machine		to dig	
+V311	استقى		machine		to draw water	
+V312	احتطب		machine		to gather firewood	
+V313	كنس		machine		to sweep	
+V314	لمّع		machine		to polish, to shine	
+V315	دقّ (الجرس)		machine		to ring (the bell)	
+V316	نحت		machine		to carve, to sculpt	
+V317	رسم		machine		to draw	
+V318	قلب التربة (باليد)		machine		to turn the soil (by hand)	
+V318b	حرث		machine		to plough	
+V319	نظّف الأرض (للزراعة)		machine		to clear the land (for farming)	
+V320	بذر		machine		to sow	
+V321	نثر (البذور)		machine		to scatter (seeds), to broadcast	
+V322	غرس (الشتلات)		machine		to plant (seedlings)	
+V323	شتل		machine		to transplant (seedlings)	
+V324	أزال الأعشاب الضارّة		machine		to weed	
+V325	عزق		machine		to hoe	
+V326	حصد		machine		to harvest, to reap	
+V327	قلع (اليام)		machine		to dig up (yams), to uproot	
+V328	قطف (الفاكهة)		machine		to pick (fruit)	
+V329	جنى (العسل)		machine		to collect (honey), to harvest (honey)	
+V330	درس (الحبّ)		machine		to thresh (grain)	
+V331	ذرّى (الحبّ)		machine		to winnow (grain)	
+V332	قشّر (الفول السوداني)		machine		to shell (peanuts)	
+V333	قشّر (كوز الذرة)		machine		to husk (a corncob)	
+V334	رعى		machine		to herd, to graze (animals)	
+V335	علف		machine		to feed (livestock), to fodder	
+V336	ربط (الدابّة بحبل)		machine		to tether (an animal with a rope)	
+V337	حلب		machine		to milk	
+V338	خصى		machine		to castrate	
+V339	دجّن		machine		to domesticate, to tame	
+V340	ذبح		machine		to slaughter	
+V341	سلخ		machine		to skin, to flay	
+V342	صاد		machine		to hunt	
+V343	تعقّب (الطريدة) خلسة		machine		to track (game)	
+V344	طارد		machine		to chase, to pursue	
+V345	نصب (فخًّا)		machine		to set (a trap)	
+V346	صاد بفخّ		machine		to trap, to catch in a trap	
+V347	أمسك		machine		to catch, to grab, to hold	
+V348	تفادى		machine		to dodge, to avoid	
+V349	هرب		machine		to flee, to run away	
+V350	رمى (بالسهم), أطلق النار		machine		to throw	
+V351	صاد السمك		machine		to fish	
+V352	غيّر		machine		to change (something)	
+V353	دمّر		machine		to destroy	
+V354	أطلق سراح		machine		to release, to set free	
+V355	مكّن		machine		to enable	
+V356	كبّر		machine		to enlarge, to make bigger	
+V356b	ازداد		machine		to increase, to grow (intr.)	
+V357	قلّل		machine		to reduce, to lessen	
+V357b	نقص		machine		to decrease, to diminish (intr.)	
+V358	طوّل		machine		to lengthen	
+V359	قصّر		machine		to shorten	
+V360	وسّع		machine		to widen, to expand	
+V361	عمّق		machine		to deepen	
+V362	سطّح		machine		to flatten	
+V363	قوّم		machine		to straighten	
+V364	سنّ		machine		to sharpen	
+V365	نعّم		machine		to smooth, to make smooth	
+V366	قسّى		machine		to harden	
+V367	ليّن		machine		to soften	
+V368	جفّف (الملابس)		machine		to dry (clothes)	
+V369	رشّ		machine		to sprinkle, to spray	
+V370	طيّن		machine		to plaster with mud	
+V371	غمس		machine		to dip	
+V372	نقع		machine		to soak	
+V373	عصر		machine		to squeeze, to wring	
+V374	أشعل (النار)		machine		to light (the fire), to kindle	
+V375	أطفأ (النار)		machine		to put out (the fire), to extinguish	
+V376	هوّى (النار)		machine		to fan (the fire)	
+V377	أضاف		machine		to add	
+V378	طرح		machine		to subtract	
+V379	خفّض		machine		to lower, to reduce	
+V380	وصل (بين شيئين)		machine		to connect, to join (two things)	
+V381	راكم		machine		to accumulate, to pile up	
+V381b	كوّم		machine		to heap up, to pile	
+V382	جمع		machine		to gather, to collect	
+V383	قسم		machine		to divide	
+V384	فرّق (الناس)		machine		to disperse (people), to break up	
+V385	أحاط بـ		machine		to surround, to encircle	
+V386	غنّى		machine		to sing	
+V387	دندن		machine		to hum	
+V388	صفّر		machine		to whistle	
+V389	رقص		machine		to dance	
+V390	لعب		machine		to play	
+V391	عزف (على آلة وترية)		machine		to play (a stringed instrument)	
+V392	زمّر		machine		to play a pipe (wind instrument)	
+V393	قايض		machine		to barter	
+V394	اشترى		machine		to buy	
+V395	باع		machine		to sell	
+V396	ساوم		machine		to bargain, to haggle	
+V397	دفع		machine		to pay	
+V397b	دَفْع (المال)		machine		payment	
+V398	استأجر		machine		to rent, to hire	
+V399	تسوّل		machine		to beg (for alms)	
+V400	ورث		machine		to inherit	
+V401	سرق		machine		to steal	
+V402	فكّر		machine		to think	
+V403	صدّق		machine		to believe	
+V404	عرف		machine		to know	
+V405	شكّ		machine		to doubt	
+V406	أمل		machine		to hope	
+V407	تعلّم		machine		to learn	
+V408	علّم		machine		to teach	
+V409	أَرَى		machine		to show	
+V410	تذكّر		machine		to remember	
+V411	نسي		machine		to forget	
+V412	قرّر		machine		to decide	
+V413	اختار		machine		to choose	
+V414	تردّد		machine		to hesitate	
+V415	أراد		machine		to want	
+V416	احتاج		machine		to need	
+V417	حاول		machine		to try	
+V418	نجح		machine		to succeed	
+V419	فشل		machine		to fail	
+V420	تظاهر		machine		to pretend	
+V421	قيّم		machine		to evaluate, to assess	
+V422	حلّ		machine		to solve	
+V423	عدّ		machine		to count	
+V424	رتّب		machine		to arrange, to put in order	
+V425	ضحك		machine		to laugh	
+V426	ابتسم		machine		to smile	
+V427	فرح		machine		to be happy, to rejoice	
+V428	بكى		machine		to cry, to weep	
+V429	ناح (على الميت)		machine		to wail (for the dead), to lament	
+V429b	حِداد		machine		mourning	
+V430	زغرد		machine		to ululate	
+V431	أخاف		machine		to frighten, to scare	
+V432	أفزع		machine		to terrify, to startle	
+V433	هدّأ (الطفل)		machine		to calm (the child), to soothe	
+V433b	هدأ		machine		to calm down, to become quiet	
+V434	أحبّ		machine		to love	
+V435	كره		machine		to hate	
+V436	احتقر		machine		to despise	
+V437	أُعجِبَ بـ		machine		to admire, to be impressed by	
+V438	احترم		machine		to respect	
+V438b	خَشْيَة, مَهابة		machine		fear, awe	
+V439	كرّم		machine		to honour	
+V440	عانى		machine		to suffer	
+V441	كافح		machine		to struggle, to strive	
+V442	قال		machine		to say	
+V443	تكلّم		machine		to speak	
+V443b	خِطاب		machine		speech, address	
+V444	أخبر		machine		to tell, to inform	
+V445	همس		machine		to whisper	
+V446	صرخ		machine		to shout, to scream	
+V447	دردش		machine		to chat	
+V448	تمتم		machine		to mutter, to mumble	
+V449	تأتأ		machine		to stutter, to stammer	
+V450	حيّا		machine		to greet	
+V451	ودّع		machine		to say goodbye, to bid farewell	
+V452	نادى		machine		to call (out to)	
+V453	أعلن		machine		to announce	
+V454	شرح		machine		to explain	
+V455	نصح		machine		to advise	
+V456	اغتاب		machine		to backbite, to gossip about	
+V457	سأل		machine		to ask	
+V457b	سؤال		machine		question	
+V458	توسّل		machine		to beg, to implore, to plead	
+V458b	طَلَب		machine		request	
+V459	ردّ		machine		to answer, to reply	
+V460	شكر		machine		to thank	
+V461	أقسم		machine		to swear (an oath)	
+V462	شتم		machine		to insult, to swear at	
+V462b	شتيمة		machine		insult	
+V463	افترى على		machine		to slander	
+V464	هدّد		machine		to threaten	
+V465	جادل		machine		to argue	
+V465b	جِدال, نِزاع		machine		disagreement, dispute	
+V466	تذمّر		machine		to complain, to grumble	
+V467	ناقض		machine		to contradict	
+V468	اتّهم		machine		to accuse	
+V469	أنكر		machine		to deny	
+V470	اعترف		machine		to confess, to admit	
+V471	وافق (على)		machine		to agree (to/with)	
+V471b	اتّفاق		machine		agreement	
+V472	أقنع		machine		to persuade, to convince	
+V473	مدح		machine		to praise	
+V473b	مَدْح		machine		praise	
+V474	هنّأ		machine		to congratulate	
+V475	تباهى		machine		to boast, to show off	
+V476	كذب		machine		to lie	
+V477	التقى بـ		machine		to meet	
+V477b	لقاء		machine		meeting, encounter	
+V478	رافق		machine		to accompany	
+V479	كان معًا		machine		to be together	
+V480	اجتمع		machine		to gather, to meet (as a group)	
+V481	دعا (ضيفًا)		machine		to invite	
+V482	هجر		machine		to abandon, to desert	
+V483	تجنّب		machine		to avoid	
+V484	طرد		machine		to expel, to drive away	
+V485	أشبه		machine		to resemble	
+V486	قلّد		machine		to imitate	
+V487	ناسب		machine		to suit, to fit	
+V488	لوّح (بيده)		machine		to wave (one's hand)	
+V489	أشار (بإصبعه)		machine		to point (with one's finger)	
+V490	عانق		machine		to hug, to embrace	
+V491	داعب		machine		to caress, to fondle	
+V492	قبّل		machine		to kiss	
+V493	مارس الجنس	جامع لفظ فصيح مهذّب	machine		to have sex	
+V494	تزاوج		machine		to mate	
+V495	أرضع		machine		to breastfeed, to suckle	
+V496	دغدغ		machine		to tickle	
+V497	ضرب على المؤخّرة		machine		to spank	
+V498	ساعد		machine		to help	
+V499	حمى		machine		to protect	
+V500	اعتنى بـ		machine		to take care of, to look after	
+V501	ربّى		machine		to raise, to bring up (children)	
+V502	حكم		machine		to rule, to govern	
+V503	أمر		machine		to order, to command	
+V503b	أَمْر	بمعنى الأمر الصادر لا الشأن	machine		order, command	
+V504	أرسل		machine		to send	
+V505	خدم		machine		to serve	
+V506	أرشد		machine		to guide	
+V507	تبع		machine		to follow	
+V508	أطاع		machine		to obey	
+V509	أرضى		machine		to please, to satisfy	
+V510	أزعج		machine		to annoy, to bother	
+V511	خدع		machine		to deceive, to trick	
+V512	تشاجر		machine		to quarrel	
+V513	قاتل		machine		to fight	
+V514	انتقم		machine		to take revenge	
+V515	توسّط		machine		to mediate	
+V516	توصّل إلى حلّ وسط		machine		to reach a compromise	
+V517	أسكت		machine		to silence	
+V518	عاقب		machine		to punish	
+V518b	عُقوبة		machine		punishment, penalty	
+V519	هزم		machine		to defeat	
+V520	هُزِمَ		machine		to be defeated	
+V521	نهب		machine		to loot, to plunder	
+V522	تجسّس على		machine		to spy on	
+V523	اغتصب		machine		to rape	
+V524	صلّى		machine		to pray	
+V525	تنبّأ		machine		to prophesy, to predict	
+V526	سحر	السحر موضوع حسّاس	machine		to bewitch, to cast a spell	
+V527	لعن		machine		to curse	
+V528	سمّم		machine		to poison	
+V529	حصّن بتميمة	التميمة: الحجاب أو الحِرز	machine		to protect with an amulet	
+V530	طرد الأرواح الشريرة		machine		to exorcise (evil spirits)	
+V531	قدّم ذبيحة		machine		to offer a sacrifice	
+V532	سكب شرابًا قربانًا	سكب الشراب قربانًا للأرواح أو الأسلاف	machine		to pour a libation	
+V533	دفن		machine		to bury	
+V534	عزّى		machine		to console, to offer condolences	
+V535	تزوّج		machine		to marry, to get married	
+V535b	زواج		machine		marriage	
+V536	خُطِبَ	الفعل للمخطوب أو المخطوبة	machine		to be engaged (betrothed)	
+V537	طلّق	طلّق فعل الزوج	machine		to divorce	
+V538	عرقل		machine		to obstruct, to hinder	
+V539	منع		machine		to prevent	
+V540	حظر		machine		to ban, to prohibit	
+V541	سمح		machine		to allow, to permit	
+V542	امتنع		machine		to refrain, to abstain	
+V543	بدأ		machine		to begin, to start	
+V543b	بداية		machine		beginning	
+V544	استمرّ		machine		to continue	
+V545	توقّف		machine		to stop	
+V546	انتظر		machine		to wait	
+V547	انتظر (شخصًا أو شيئًا)		machine		to wait	
+V548	قضى الوقت		machine		to spend time, to pass the time	
+V549	أنهى		machine		to finish, to end	
+V549b	نِهاية		machine		end	

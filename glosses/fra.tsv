@@ -2018,7 +2018,7 @@ V039	se balancer		machine		to swing
 V040	glisser		machine		to slide	
 V041	rouler		machine		to roll	
 V042	nager en surface, patauger		machine		to swim (on the surface of the water)	
-V043	nager (dans l'eau)		machine		to swim (in the water)	
+V043	nager sous l'eau	comme un poisson	machine		to swim underwater	
 V044	plonger		machine		to dive	
 V045	flotter		machine		to float	
 V046	couler (au fond), sombrer		machine		to sink, to go down	
@@ -2232,3 +2232,325 @@ V247	ouvrir		machine		to open
 V248	fermer		machine		to close	
 V249	couvrir		machine		to cover	
 V250	découvrir (ôter ce qui couvre)		machine		to uncover, to take the lid off	
+V251	boucher		machine		to plug, to stop up	
+V252	envelopper		machine		to wrap	
+V253	déballer, défaire (un paquet)		machine		to unwrap, to undo (a package)	
+V254	mettre dedans, tasser		machine		to pack, to put inside	
+V255	remplir		machine		to fill	
+V256	sortir (d'un récipient), retirer		machine		to take out (of a container), to remove	
+V257	verser		machine		to pour	
+V258	renverser (un liquide)		machine		to spill (a liquid)	
+V259	mettre (un vêtement), s'habiller		machine		to put on (clothing), to get dressed	
+V260	enlever (un vêtement), se déshabiller		machine		to take off (clothing), to undress	
+V261	se laver (le corps), se baigner		machine		to wash oneself, to bathe	
+V262	laver (le linge)		machine		to wash (laundry)	
+V263	essuyer		machine		to wipe	
+V264	couper (les cheveux)		machine		to cut (hair)	
+V265	raser, se raser		machine		to shave, to shave oneself	
+V266	tresser (les cheveux)		machine		to braid (hair)	
+V267	appliquer (une pommade), enduire		machine		to apply (an ointment), to smear	
+V268	décorer, orner		machine		to decorate, to adorn	
+V269	préparer (la nourriture)		machine		to prepare (food)	
+V270	ouvrir (un fruit), fendre		machine		to open (a fruit), to split	
+V271	trancher, couper en tranches		machine		to slice, to cut into slices	
+V272	éplucher, peler		machine		to peel	
+V273	mélanger		machine		to mix	
+V274	remuer		machine		to stir	
+V275	filtrer, égoutter		machine		to filter, to drain	
+V276	piler		machine		to pound (in a mortar)	
+V277	pulvériser, réduire en poudre		machine		to pulverize, to reduce to powder	
+V278	concasser, moudre grossièrement	première mouture, sur la meule dormante	machine		to crush, to grind coarsely	
+V279	moudre plus fin	deuxième mouture	machine		to grind finer	
+V280	moudre très fin	troisième mouture, la plus fine	machine		to grind very fine	
+V281	pétrir		machine		to knead	
+V282	façonner (le pain)		machine		to shape (bread)	
+V283	plumer		machine		to pluck (a bird)	
+V284	cuisiner, faire cuire		machine		to cook	
+V285	faire bouillir, bouillir		machine		to boil (something), to boil	
+V286	mijoter		machine		to simmer	
+V287	cuire en ragoût, braiser		machine		to stew, to braise	
+V288	rôtir, griller		machine		to roast, to grill	
+V289	frire, faire frire		machine		to fry	
+V290	cuire sous la cendre		machine		to cook in the ashes	
+V291	fumer (la viande), boucaner		machine		to smoke (meat), to smoke-cure	
+V292	fermenter		machine		to ferment	
+V293	se gâter, pourrir		machine		to go bad, to rot	
+V294	faire		machine		to do	
+V294b	travail		machine		work	
+V295	fabriquer, faire		machine		to make, to manufacture	
+V295b	création		machine		creation	
+V296	construire, bâtir		machine		to build, to construct	
+V297	réparer		machine		to repair	
+V298	remplacer		machine		to replace	
+V299	modeler (des pots), façonner		machine		to mould (pots), to shape	
+V300	coudre		machine		to sew	
+V301	tisser		machine		to weave	
+V302	enfiler (des perles)		machine		to string (beads)	
+V303	attacher, nouer		machine		to tie, to knot	
+V304	détacher, dénouer		machine		to untie, to unknot	
+V305	lier (avec une corde), ligoter		machine		to bind (with a rope), to tie up	
+V306	serrer		machine		to tighten	
+V307	desserrer		machine		to loosen	
+V308	clôturer, entourer d'une clôture		machine		to fence (in)	
+V309	délimiter, piqueter		machine		to mark out boundaries, to stake out	
+V310	creuser		machine		to dig	
+V311	puiser (de l'eau)		machine		to draw (water)	
+V312	aller chercher du bois (de feu)		machine		to fetch (fire)wood	
+V313	balayer		machine		to sweep	
+V314	polir, cirer		machine		to polish, to wax	
+V315	sonner (une cloche)		machine		to ring (a bell)	
+V316	sculpter, tailler		machine		to carve, to sculpt	
+V317	dessiner		machine		to draw	
+V318	retourner la terre (à la main), bêcher		machine		to turn the soil (by hand), to dig (with a spade)	
+V318b	labourer (à la charrue)		machine		to plough (with a plough)	
+V319	défricher		machine		to clear (land)	
+V320	semer		machine		to sow	
+V321	semer à la volée		machine		to broadcast-sow, to sow by scattering	
+V322	planter (des plants)		machine		to plant	
+V323	repiquer, transplanter		machine		to transplant	
+V324	désherber, sarcler		machine		to weed	
+V325	biner, travailler à la houe		machine		to hoe, to work with a hoe	
+V326	récolter, moissonner		machine		to harvest, to reap	
+V327	arracher (des ignames), déterrer		machine		to dig up (yams), to unearth	
+V328	cueillir (des fruits)		machine		to pick (fruit)	
+V329	récolter (le miel)		machine		to harvest (honey)	
+V330	battre (le grain)		machine		to thresh (grain)	
+V331	vanner		machine		to winnow	
+V332	décortiquer (des arachides)		machine		to shell (peanuts)	
+V333	effeuiller (le maïs), dépouiller (l'épi)		machine		to husk (maize), to strip (the ear)	
+V334	faire paître, mener au pâturage		machine		to graze (livestock), to lead to pasture	
+V335	nourrir, donner à manger (aux animaux)		machine		to feed (animals)	
+V336	attacher (un animal au piquet)		machine		to tether (an animal to a stake)	
+V337	traire		machine		to milk	
+V338	castrer, châtrer		machine		to castrate, to geld	
+V339	domestiquer, apprivoiser		machine		to domesticate, to tame	
+V340	abattre, égorger		machine		to slaughter, to cut the throat	
+V341	dépouiller, écorcher		machine		to skin, to flay	
+V342	chasser		machine		to hunt	
+V343	traquer		machine		to track, to stalk	
+V344	poursuivre, pourchasser		machine		to chase, to pursue	
+V345	tendre (un piège)		machine		to set (a trap)	
+V346	prendre au piège, piéger		machine		to trap, to catch in a trap	
+V347	attraper		machine		to catch	
+V348	esquiver, se soustraire (à)		machine		to dodge, to avoid	
+V349	s'échapper, s'enfuir		machine		to escape, to flee	
+V350	tirer (avec une arme)		machine		to shoot (with a weapon)	
+V351	pêcher		machine		to fish	
+V352	changer, modifier		machine		to change, to modify	
+V353	détruire		machine		to destroy	
+V354	libérer, relâcher		machine		to free, to release	
+V355	rendre capable, donner la capacité (de)		machine		to enable, to allow	
+V356	agrandir		machine		to enlarge	
+V356b	augmenter, croître		machine		to increase, to grow	
+V357	rendre plus petit, amoindrir		machine		to decrease, to diminish	
+V357b	diminuer, baisser		machine		to decrease, to go down	
+V358	allonger, rallonger		machine		to lengthen, to extend	
+V359	raccourcir		machine		to shorten	
+V360	élargir		machine		to widen	
+V361	approfondir, creuser plus profond		machine		to deepen, to dig deeper	
+V362	aplatir, aplanir		machine		to flatten, to level	
+V363	redresser		machine		to straighten	
+V364	aiguiser		machine		to sharpen	
+V365	lisser, rendre lisse		machine		to smooth, to make smooth	
+V366	durcir		machine		to harden	
+V367	ramollir		machine		to soften	
+V368	faire sécher (le linge), sécher		machine		to dry (laundry), to dry	
+V369	asperger		machine		to sprinkle	
+V370	enduire (les murs, le sol) de terre ou de bouse	avec de la boue ou de la bouse	machine		to plaster (walls, floor), to render (a wall)	
+V371	tremper, plonger		machine		to dip, to plunge	
+V372	faire tremper		machine		to soak (something)	
+V373	essorer, tordre		machine		to wring, to twist	
+V374	allumer (le feu)		machine		to light (the fire)	
+V375	éteindre (le feu)		machine		to put out (the fire)	
+V376	attiser (le feu), éventer		machine		to stoke (the fire), to fan	
+V377	ajouter		machine		to add	
+V378	soustraire, retrancher		machine		to subtract, to take away	
+V379	réduire		machine		to reduce	
+V380	joindre, assembler		machine		to join, to assemble	
+V381	accumuler		machine		to accumulate	
+V381b	entasser, mettre en tas		machine		to pile up, to heap up	
+V382	rassembler, ramasser		machine		to gather, to collect	
+V383	diviser, partager		machine		to divide, to share	
+V384	disperser		machine		to scatter, to disperse	
+V385	entourer, encercler		machine		to surround, to encircle	
+V386	chanter		machine		to sing	
+V387	fredonner		machine		to hum	
+V388	siffler		machine		to whistle	
+V389	danser		machine		to dance	
+V390	jouer		machine		to play	
+V391	jouer (d'un instrument à cordes)		machine		to play (a string instrument)	
+V392	jouer (d'un instrument à vent), souffler dans		machine		to play (a wind instrument), to blow into	
+V393	troquer, faire du troc		machine		to barter	
+V394	acheter		machine		to buy	
+V395	vendre		machine		to sell	
+V396	marchander		machine		to haggle	
+V397	payer		machine		to pay	
+V397b	paiement		machine		payment	
+V398	embaucher, prendre en location		machine		to hire, to rent	
+V399	mendier		machine		to beg	
+V400	hériter		machine		to inherit	
+V401	voler, dérober		machine		to steal, to rob	
+V402	penser, réfléchir		machine		to think, to reflect	
+V403	croire		machine		to believe	
+V404	savoir, connaître		machine		to know (a fact), to know (be acquainted with)	
+V405	douter		machine		to doubt	
+V406	espérer		machine		to hope	
+V407	apprendre		machine		to learn	
+V408	enseigner		machine		to teach	
+V409	montrer		machine		to show	
+V410	se souvenir, se rappeler		machine		to remember, to recall	
+V411	oublier		machine		to forget	
+V412	décider		machine		to decide	
+V413	choisir		machine		to choose	
+V414	hésiter		machine		to hesitate	
+V415	vouloir		machine		to want	
+V416	avoir besoin (de)		machine		to need	
+V417	essayer		machine		to try	
+V418	réussir		machine		to succeed	
+V419	échouer		machine		to fail	
+V420	faire semblant		machine		to pretend	
+V421	évaluer, juger		machine		to evaluate, to judge	
+V422	résoudre		machine		to solve, to resolve	
+V423	compter		machine		to count	
+V424	ranger, mettre en ordre		machine		to tidy, to put in order	
+V425	rire		machine		to laugh	
+V426	sourire		machine		to smile	
+V427	se réjouir		machine		to rejoice	
+V428	pleurer		machine		to cry	
+V429	pleurer un mort, se lamenter		machine		to mourn the dead, to lament	
+V429b	deuil		machine		mourning	
+V430	pousser des youyous		machine		to ululate	
+V431	faire peur, effrayer		machine		to frighten, to scare	
+V432	faire sursauter, surprendre		machine		to startle, to surprise	
+V433	calmer (un enfant), apaiser		machine		to calm (a child), to soothe	
+V433b	se calmer		machine		to calm down	
+V434	aimer		machine		to love	
+V435	haïr, détester		machine		to hate, to detest	
+V436	mépriser		machine		to despise	
+V437	admirer		machine		to admire	
+V438	respecter		machine		to respect	
+V438b	crainte révérencielle, vénération		machine		reverence, reverential awe	
+V439	honorer		machine		to honour	
+V440	souffrir		machine		to suffer	
+V441	lutter, se débattre		machine		to struggle, to struggle (physically against)	
+V442	dire		machine		to say	
+V443	parler		machine		to speak	
+V443b	discours		machine		speech	
+V444	raconter		machine		to tell (a story), to narrate	
+V445	chuchoter		machine		to whisper	
+V446	crier, hurler		machine		to shout, to scream	
+V447	bavarder, causer		machine		to chat	
+V448	marmonner		machine		to mumble	
+V449	bégayer		machine		to stutter	
+V450	saluer		machine		to greet	
+V451	dire au revoir, prendre congé		machine		to say goodbye, to take leave	
+V452	appeler, interpeller		machine		to call, to call out to	
+V453	annoncer		machine		to announce	
+V454	expliquer		machine		to explain	
+V455	conseiller		machine		to advise	
+V456	faire des commérages, cancaner		machine		to gossip	
+V457	demander, poser une question		machine		to ask, to ask a question	
+V457b	question		machine		question	
+V458	supplier, implorer		machine		to beg, to implore	
+V458b	demande, requête		machine		request	
+V459	répondre		machine		to answer	
+V460	remercier		machine		to thank	
+V461	jurer, prêter serment		machine		to swear, to take an oath	
+V462	insulter		machine		to insult	
+V462b	insulte		machine		insult	
+V463	calomnier		machine		to slander	
+V464	menacer		machine		to threaten	
+V465	se disputer		machine		to argue, to quarrel	
+V465b	dispute, querelle		machine		argument, quarrel	
+V466	râler, ronchonner		machine		to grumble, to complain	
+V467	contredire		machine		to contradict	
+V468	accuser		machine		to accuse	
+V469	nier		machine		to deny	
+V470	avouer, reconnaître (une faute)		machine		to confess, to admit (a fault)	
+V471	être d'accord (avec)		machine		to agree (with)	
+V471b	accord		machine		agreement	
+V472	persuader, convaincre		machine		to persuade, to convince	
+V473	louer, faire l'éloge (de)		machine		to praise	
+V473b	louange, éloge		machine		praise	
+V474	féliciter		machine		to congratulate	
+V475	se vanter		machine		to boast	
+V476	mentir		machine		to lie (tell lies)	
+V477	rencontrer		machine		to meet	
+V477b	réunion, rencontre		machine		meeting, encounter	
+V478	accompagner		machine		to accompany	
+V479	être ensemble		machine		to be together	
+V480	se rassembler, se réunir		machine		to gather, to meet	
+V481	inviter		machine		to invite	
+V482	abandonner		machine		to abandon	
+V483	éviter		machine		to avoid	
+V484	faire fuir, faire partir		machine		to chase away, to drive off	
+V485	ressembler (à)		machine		to resemble	
+V486	imiter		machine		to imitate	
+V487	convenir (à), être convenable		machine		to suit, to be suitable	
+V488	faire signe de la main		machine		to wave (the hand)	
+V489	montrer du doigt		machine		to point (at)	
+V490	serrer dans ses bras, étreindre		machine		to hug, to embrace	
+V491	caresser		machine		to stroke, to caress	
+V492	embrasser, donner un baiser		machine		to kiss	
+V493	avoir des rapports sexuels, faire l'amour		machine		to have sexual intercourse, to make love	
+V494	s'accoupler		machine		to mate	
+V495	allaiter		machine		to breastfeed	
+V496	chatouiller		machine		to tickle	
+V497	donner une fessée, fesser		machine		to spank	
+V498	aider		machine		to help	
+V499	protéger, défendre		machine		to protect, to defend	
+V500	s'occuper de, prendre soin de		machine		to take care of, to look after	
+V501	élever (un enfant)		machine		to raise (a child)	
+V502	gouverner, régner sur		machine		to govern, to rule over	
+V503	commander, ordonner		machine		to command, to order	
+V503b	ordre		machine		order	
+V504	envoyer		machine		to send	
+V505	servir		machine		to serve	
+V506	guider, conduire		machine		to guide, to lead	
+V507	suivre		machine		to follow	
+V508	obéir		machine		to obey	
+V509	plaire (à), faire plaisir (à)		machine		to please	
+V510	agacer, ennuyer		machine		to annoy, to bother	
+V511	tromper, duper		machine		to deceive, to dupe	
+V512	se quereller		machine		to quarrel	
+V513	se battre, combattre		machine		to fight, to combat	
+V514	se venger		machine		to take revenge	
+V515	intercéder		machine		to intercede	
+V516	trouver un compromis, transiger		machine		to find a compromise, to compromise	
+V517	faire taire		machine		to silence	
+V518	punir		machine		to punish	
+V518b	punition, peine		machine		punishment, penalty	
+V519	vaincre		machine		to defeat	
+V520	être vaincu		machine		to be defeated	
+V521	piller		machine		to loot	
+V522	espionner		machine		to spy (on)	
+V523	violer		machine		to rape	
+V524	prier		machine		to pray	
+V525	prophétiser		machine		to prophesy	
+V526	jeter un sort, ensorceler		machine		to cast a spell, to bewitch	
+V527	maudire		machine		to curse	
+V528	empoisonner		machine		to poison	
+V529	protéger par une amulette		machine		to protect with an amulet	
+V530	exorciser		machine		to exorcise	
+V531	sacrifier, offrir un sacrifice		machine		to sacrifice, to offer a sacrifice	
+V532	verser une libation		machine		to pour a libation	
+V533	enterrer, inhumer		machine		to bury, to inter	
+V534	présenter ses condoléances, consoler		machine		to offer one's condolences, to console	
+V535	se marier, épouser		machine		to get married, to marry	
+V535b	mariage (l'état), union conjugale	l'état de personne mariée, pas la cérémonie	machine		marriage (the state), conjugal union	
+V536	être fiancé		machine		to be engaged	
+V537	divorcer		machine		to divorce	
+V538	obstruer, bloquer		machine		to obstruct, to block	
+V539	empêcher		machine		to prevent	
+V540	interdire, défendre		machine		to forbid, to prohibit	
+V541	permettre, autoriser		machine		to allow, to authorize	
+V542	s'abstenir		machine		to abstain	
+V543	commencer		machine		to begin	
+V543b	début, commencement		machine		beginning, start	
+V544	continuer		machine		to continue	
+V545	s'arrêter, cesser		machine		to stop, to cease	
+V546	attendre		machine		to wait	
+V547	attendre (quelqu'un, quelque chose)		machine		to wait for (someone, something)	
+V548	passer du temps, séjourner		machine		to spend time, to stay	
+V549	finir, terminer		machine		to finish, to end	
+V549b	fin		machine		end	
