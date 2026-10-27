@@ -4,7 +4,7 @@ Each edition is named by its date. The newest is at the top.
 
 ## Next edition (not yet released)
 
-- **Glosses in other languages** (`glosses/`): French, Arabic and Amharic for sections A, B and C, machine audited only so far.
+- **Glosses in other languages** (`glosses/`): French, Arabic and Amharic for sections A to E, machine audited only so far.
 - **Ethnic groups, ready to insert:** `ethnic_groups.tsv`, 119 groups in the C + ISO 639-3 pattern (CAMH *Amhara person*, CAMHf, CAMHm), 357 items, all hidden and **not counted in the list's totals**, each with its regional code and a Clarification naming the language its code comes from. One code per ethnonym: where one name covers several ISO languages, the macrolanguage code (CARA *Arab*, CSWA *Swahili*, CFUL *Fulani*).
 - Clarifications added after the first gloss pilot (section A in French, Amharic and Arabic): A001 *body*, A016 *pupil*, A034 *gum*, A037 *canine*, A073b *middle* (revised), A128 *calf*, A003 *hair*, A003c *tuft*, A008 *vein*, A054 *neckbone*, A092 *arm bone*, A093a *outer elbow*, A093b *inner elbow*, A120 *vagina*, A125a *outer knee*, A125b *inner knee*; and from section B: B016 *chief*, B026 *metalsmith*, B041 *mage*, B042 *priest*, B049m *impotent man*, B053 *cripple*, B055 *giant*; and from section C: C014f *paternal aunt*, C014m *paternal uncle*, C015 *paternal cousin*, C018f *maternal aunt*, C018m *maternal uncle*, C019 *maternal cousin*, C045 *white person*. No gloss or number changed.
 

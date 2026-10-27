@@ -470,3 +470,278 @@ C044m	ቀይ ወንድ		machine		light-skinned man
 C045	ነጭ ሰው, ፈረንጅ	ፈረንጅ ማንኛውንም የምዕራብ አገር ሰው ያመለክታል፤ ቀልድ አዘል ሊሆን ይችላል	machine		white person, European/Westerner	
 C045f	ነጭ ሴት, ፈረንጅ ሴት		machine		white woman, European woman	
 C045m	ነጭ ወንድ, ፈረንጅ ወንድ		machine		white man, European man	
+D001	እንስሳ		machine		animal	
+D002	የቤት እንስሳ		machine		domestic animal	
+D003	የዱር እንስሳ, አውሬ	አውሬ በተለይ አደገኛ የዱር እንስሳን ያመለክታል።	machine		wild animal, beast	
+D004	ሥጋ		machine		meat	
+D004b	ቋንጣ		machine		dried meat (in strips)	
+D005	ስብ		machine		fat	
+D006	መቅኒ		machine		bone marrow	
+D007	የቀለጠ ስብ		machine		melted fat	
+D008	መንጋ		machine		herd	
+D009	ፍየል		machine		goat	
+D009b	የፍየል ግልገል		machine		young goat, kid	
+D009f	ሴት ፍየል		machine		female goat, she-goat	
+D009m	አውራ ፍየል		machine		male goat, billy goat	
+D010	የፍየል ጢም		machine		goat's beard	
+D011	በግ		machine		sheep	
+D011b	ጠቦት		machine		lamb	
+D011f	ሴት በግ		machine		female sheep, ewe	
+D011m	አውራ በግ		machine		ram	
+D012	የእንስሳ ጸጉር		machine		animal hair	
+D013	ሱፍ, የበግ ጸጉር		machine		wool, sheep's hair	
+D014	ከብት, የቀንድ ከብት	ከብት ብቻውን ሌሎች የቤት እንስሳትንም ሊያመለክት ይችላል።	machine		cattle, horned livestock	
+D014b	ጥጃ		machine		calf	
+D014f	ላም		machine		cow	
+D014m	ኮርማ, በሬ	ኮርማ ያልተኮላሸ ወንድ ከብት ነው፤ በሬ ብዙ ጊዜ የተኮላሸውን የእርሻ በሬ ያመለክታል።	machine		ox, bull	
+D015	ሰንጋ, የተኮላሸ በሬ		machine		fattened ox, castrated ox	
+D016	ጊደር		machine		heifer	
+D017	የከብት የአንገት ሥር ተንጠልጣይ ቆዳ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		hanging skin under the base of a cow's neck	
+D018	እበት, ፋንድያ	እበት የከብት፣ ፋንድያ የጋማ ከብት ዐይነ ምድር ነው፤ ፍግ ደግሞ ለማዳበሪያ የሚውል የእንስሳ ዐይነ ምድር ነው።	machine		dung, manure	
+D019	ቀንድ		machine		horn	
+D020	ጅራት		machine		tail	
+D021	ቆዳ, ቁርበት		machine		skin, hide	
+D022	ሻኛ		machine		hump (of cattle)	
+D023	ሰኮና		machine		hoof	
+D024	ግት		machine		udder	
+D025	የግት ጡቶች		machine		teats of the udder	
+D026	ወተት		machine		milk	
+D027	ቅቤ		machine		butter	
+D028	እርጎ		machine		yoghurt, soured/curdled milk	
+D029	ፈረስ		machine		horse	
+D029b	የፈረስ ውርንጭላ		machine		horse's foal	
+D029f	ባዝራ		machine		mare	
+D029m	ድንጉላ, አውራ ፈረስ		machine		stallion	
+D030	የፈረስ ጋማ		machine		horse's mane	
+D031	አህያ		machine		donkey	
+D031b	ውርንጭላ		machine		foal	
+D031f	ሴት አህያ		machine		female donkey, jenny	
+D031m	ወንድ አህያ, ወደል አህያ		machine		male donkey, jack	
+D032	ግመል		machine		camel	
+D032b	የግመል ግልገል		machine		young camel, camel calf	
+D032f	ሴት ግመል		machine		female camel	
+D032m	አውራ ግመል		machine		male camel, bull camel	
+D033	የግመል ሻኛ		machine		camel's hump	
+D034	ውሻ		machine		dog	
+D034b	ቡችላ		machine		puppy	
+D034f	ሴት ውሻ		machine		female dog, bitch	
+D034m	ወንድ ውሻ		machine		male dog	
+D035	ድመት		machine		cat	
+D035b	የድመት ግልገል		machine		kitten	
+D035f	ሴት ድመት		machine		female cat	
+D035m	ወንድ ድመት		machine		male cat, tomcat	
+D036	አሳማ		machine		pig	
+D036b	የአሳማ ግልገል		machine		piglet	
+D036f	ሴት አሳማ		machine		female pig, sow	
+D036m	ወንድ አሳማ		machine		male pig, boar	
+D037	ከርከሮ		machine		warthog	
+D038	የጫካ አሳማ		machine		forest pig, bush pig	
+D039	አርድቫርክ, ምስጥ በሊ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		aardvark, termite-eater	
+D040	ጉንዳን በሊ	እዚህ የሚፈለገው አርድቫርክ (D039) ነው፤ የአሜሪካው ጉንዳን በሊ ወይም ቅርፊታሙ ጉንዳን በሊ አይደለም።	machine		ant-eater	
+D041	ቅርፊታም ጉንዳን በሊ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		scaly ant-eater	
+D042	ጦጣ, ዝንጀሮ	ጦጣ ትንንሾቹን፣ ዝንጀሮ ትልልቆቹን (ለምሳሌ ጭላዳን) ያመለክታል፤ እዚህ የሚፈለገው ሁሉንም ነው።	machine		baboon, monkey	
+D043	ዝንጀሮ	ዝንጀሮ እዚህ ወይራ ዝንጀሮን (baboon) ያመለክታል፤ ጭላዳ አይደለም።	machine		baboon	
+D044	ጦጣ		machine		monkey	
+D045	ሰማያዊ ጦጣ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		blue monkey	
+D046	ቀይ ጦጣ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red monkey	
+D047	ጉሬዛ		machine		colobus monkey (black-and-white colobus)	
+D048	የሌሊት ጦጣ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		night monkey	
+D049	የሜዳ ፍየል		machine		gazelle (lit. 'field goat')	
+D050	ጎሽ		machine		buffalo	
+D051	ዊልደቢስት	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		wildebeest (loan)	
+D052	ኦሪቢ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		oribi (loan)	
+D053	አጋዘን, ጠምዛዛ ቀንድ ያለው አጋዘን	አጋዘን አንዳንድ ጊዜ ለአጋዘን (deer) ወይም ለሌሎች አጋዘኖች ይውላል፤ እዚህ ታላቁና ትንሹ አጋዘን (kudu) ነው።	machine		antelope, deer	
+D054	የሜዳ አህያ		machine		zebra (lit. 'field donkey')	
+D055	የሜዳ ፍየል, ሚዳቋ	ሚዳቋ ብቻውን የጫካውን ሚዳቋ (duiker) ሊያመለክት ይችላል፤ እዚህ በሜዳ የምትኖረው ቀጭን ቀንድ ያላት የሜዳ ፍየል (gazelle) ናት።	machine		duiker	
+D056	ስፕሪንግቦክ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		springbok (loan)	
+D057	ኢምፓላ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		impala (loan)	
+D058	ነጭ ጆሮ ኮብ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		white-eared kob	
+D059	የናይል ሌችዌ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		Nile lechwe	
+D060	ቲያንግ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		tiang (loan)	
+D061	ሲታቱንጋ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		sitatunga (loan)	
+D062	ቦሆር, የሸምበቆ ፍየል	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		reed goat	
+D063	ድኩላ		machine		bushbuck	
+D064	የውሃ አጋዘን	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		waterbuck (lit. 'water deer/antelope')	
+D065	ቆርኬ		machine		hartebeest	
+D066	ኢላንድ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		eland (loan)	
+D067	ሮአን	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		roan antelope (loan)	
+D068	ሳላ		machine		oryx	
+D069	የበረሃ በግ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		desert sheep	
+D070	ሚዳቋ	ሚዳቋ እዚህ በጫካና በቁጥቋጦ የምትኖረውን ትንሽ አጋዘን (duiker) ያመለክታል።	machine		duiker	
+D071	ድክድክ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		dik-dik	
+D072	ዝሆን		machine		elephant	
+D073	የዝሆን ኩምቢ		machine		elephant's trunk	
+D074	የዝሆን ጥርስ		machine		elephant tusk, ivory	
+D075	ጉማሬ		machine		hippopotamus	
+D076	አውራሪስ		machine		rhinoceros	
+D077	የአውራሪስ ቀንድ		machine		rhinoceros horn	
+D078	ቀጭኔ		machine		giraffe	
+D079	ጅብ, ዥንጉርጉር ጅብ		machine		hyena	
+D080	ሽንትራም ጅብ		machine		striped hyena	
+D081	የዱር ውሻ		machine		wild dog	
+D082	ቀበሮ	ቀበሮ ቀበሮንም (fox) ያመለክታል፤ እዚህ የሚፈለገው ጃካል ነው። ቀይ ቀበሮ ግን የኢትዮጵያ ተኩላ ነው።	machine		fox	
+D083	ትንሽ ቀበሮ, ቀበሮ	በአማርኛ ቀበሮ ጃካልንም (D082) ያመለክታል፤ እዚህ ትንሹ ቀበሮ (fox) ነው።	machine		fox	
+D083b	የበረሃ ቀበሮ		machine		desert fox	
+D084	ጥርኝ, ዝባድ የሚሰጥ ጥርኝ		machine		civet	
+D085	የማር ባጀር	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		honey badger	
+D086	ሸለምጥማጥ, ትልቅ ግራጫ ሸለምጥማጥ		machine		mongoose	
+D087	ድንክ ሸለምጥማጥ		machine		dwarf mongoose	
+D088	ሜርካት	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		meerkat (loan)	
+D089	ጃርት, ረጃጅም እሾህ ያለው ጃርት	ጃርት ለትንሹ ጃርትም (hedgehog) ይውላል።	machine		porcupine	
+D090	የዛፍ ሽኮኮ		machine		tree squirrel	
+D091	የመሬት ሽኮኮ		machine		ground squirrel	
+D092	አይጥ		machine		mouse	
+D093	ትልቅ አይጥ	አይጥ ለአይጥም (mouse) ለትልቁ አይጥም (rat) ይውላል።	machine		rat, big mouse	
+D094	የሸምበቆ አይጥ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		reed rat	
+D095	ሽንትራም የመሬት ሽኮኮ	በምዕራብ አፍሪካ እንግሊዝኛ 'palm rat' ይባላል፤ አይጥ ሳይሆን ሽንትራም የመሬት ሽኮኮ ነው።	machine		striped ground squirrel	
+D096	ሹል አፍንጫ አይጥ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		pointed-nosed mouse	
+D097	ፍልፈል		machine		mole	
+D098	ጥንቸል		machine		hare	
+D099	ጥንቸል መሰል ዘላይ አይጥ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		jumping mouse	
+D100	ሽኮኮ, የአለት ሽኮኮ	ሽኮኮ ለሽኮኮም (squirrel) ይውላል፤ እዚህ በአለት ላይ የሚኖረው ሽኮኮ (hyrax) ነው።	machine		squirrel	
+D101	የዱር ድመት		machine		wild cat	
+D102	አንበሳ		machine		lion	
+D103	ጎፈር		machine		lion's mane	
+D104	የአንበሳ ጥፍር		machine		lion's claw	
+D105	ነብር, ዥንጉርጉር ነብር	ነብር አንዳንድ ጊዜ ለሽንትራሙ ነብር (tiger) ይውላል፤ እዚህ ዥንጉርጉሩ ነው።	machine		leopard	
+D106	አቦሸማኔ		machine		cheetah	
+D107	ካራካል	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		caracal (loan)	
+D108	አነር, እግረ ረጅም ዥንጉርጉር የዱር ድመት	አነር ለሌሎች ዥንጉርጉር የዱር ድመቶችም ይውላል።	machine		serval	
+D109	ትንሽ ጥርኝ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small civet	
+D110	የሌሊት ወፍ		machine		bat (lit. 'night bird')	
+D111	ፍራፍሬ በሊ የሌሊት ወፍ		machine		fruit-eating bat, fruit bat	
+E001	ወፍ		machine		bird	
+E002	ዶሮ		machine		chicken	
+E002b	ጫጩት		machine		chick	
+E002f	ሴት ዶሮ		machine		hen	
+E002m	አውራ ዶሮ		machine		rooster, cock	
+E003	አንገተ መላጣ ዶሮ		machine		bald-necked chicken	
+E004	የፈረንጅ ዶሮ, የቱርክ ዶሮ		machine		turkey (lit. 'foreigner's chicken, Turkish chicken')	
+E005	መንቁር		machine		beak	
+E006	ጥፍር		machine		claw	
+E007	ክንፍ		machine		wing	
+E008	ላባ		machine		feather	
+E009	የአውራ ዶሮ ቁንጮ		machine		rooster's comb	
+E010	የወፍ ቁንጮ		machine		bird's crest	
+E011	የወፍ ጉሮሮ ከረጢት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		bird's throat pouch	
+E012	የዶሮ ጨጓራ		machine		chicken's stomach	
+E013	እንቁላል		machine		egg	
+E014	የእንቁላል ቅርፊት		machine		eggshell	
+E015	የእንቁላል ነጭ		machine		egg white	
+E016	አስኳል		machine		egg yolk	
+E017	የወፍ ጎጆ		machine		bird's nest	
+E018	የወፍ መንጋ		machine		flock of birds	
+E019	ሰጎን		machine		ostrich	
+E019b	የሰጎን እንቁላል ቅርፊት		machine		ostrich eggshell	
+E020	ፊሽካ ዳክዬ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		whistle duck	
+E021	የግብፅ ዝይ		machine		Egyptian goose	
+E022	ጅግራ		machine		guineafowl	
+E023	ቆቅ		machine		francolin, partridge	
+E024	ፍላሚንጎ	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		flamingo (loan)	
+E025	ዥንጉርጉር ርግብ		machine		speckled pigeon	
+E026	ዋኖስ	ዋኖስ ለሁሉም ዐይነት ዋኖሶች ይውላል።	machine		dove	
+E027	ጥቁር መንቁር ዋኖስ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		black-billed dove	
+E028	ጭራ ረጅም ትንሽ ዋኖስ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small long-tailed dove	
+E029	አረንጓዴ ርግብ		machine		green pigeon	
+E030	ጅግራ መሰል ትልቅ የሜዳ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		large field bird resembling a guineafowl	
+E031	ትልቅ የመሬት ኩኩ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		large ground cuckoo	
+E032	የክላስ ኩኩ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		Klaas's cuckoo	
+E033	ዲደሪክ ኩኩ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		Diederik cuckoo	
+E034	የአፍሪካ ኩኩ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		African cuckoo	
+E035	በሌሊት የምትበር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		bird that flies at night	
+E036	የዘንባባ ጨረባ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		palm swallow	
+E037	ጥቁር ጨረባ	ጨረባ ለጨረባም (swallow) ይውላል፤ እዚህ የሚፈለገው ጠቆር ያለው፣ ሁልጊዜ በአየር ላይ የሚበረው ወፍ (swift) ነው።	machine		swallow	
+E038	ጥቁር የረግረግ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		black marsh bird	
+E039	ዘውድ ያላት እግረ ረጅም ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-legged bird with a crown	
+E040	ዐይነ ትልቅ የሜዳ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		big-eyed field bird	
+E041	እግረ ረጅም የውሃ ዳር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-legged waterside bird	
+E042	መንቁሩ ወደ ላይ የታጠፈ የውሃ ዳር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		waterside bird whose beak curves upward	
+E043	ክንፈ ሾካ የውሃ ዳር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		spur-winged waterside bird	
+E044	በቅጠል ላይ የምትሄድ የውሃ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		water bird that walks on leaves	
+E045	ረጅም መንቁር የረግረግ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-billed marsh bird	
+E046	ትንሽ የውሃ ዳር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small waterside bird	
+E047	የባሕር ጭላት		machine		gull	
+E048	ቢጫ መንቁር ሽመላ	ሽመላ በአማርኛ ለሽመላ፣ ለጋጋኖና ለሌሎች ረጃጅም እግር ያላቸው የውሃ ዳር ወፎች ይውላል።	machine		yellow-billed stork	
+E049	ክፍት መንቁር ሽመላ	ሽመላ በአማርኛ ለሽመላ፣ ለጋጋኖና ለሌሎች ረጃጅም እግር ያላቸው የውሃ ዳር ወፎች ይውላል።	machine		open-billed stork	
+E050	ነጭ ሆድ ሽመላ	ሽመላ በአማርኛ ለሽመላ፣ ለጋጋኖና ለሌሎች ረጃጅም እግር ያላቸው የውሃ ዳር ወፎች ይውላል።	machine		white-bellied stork	
+E051	ኮርቻ መንቁር ሽመላ	ሽመላ በአማርኛ ለሽመላ፣ ለጋጋኖና ለሌሎች ረጃጅም እግር ያላቸው የውሃ ዳር ወፎች ይውላል።	machine		saddle-billed stork	
+E052	እርኩም		machine		marabou stork	
+E053	ይብራ, ከረጢት መንቁር ትልቅ የውሃ ወፍ	ይብራ በብዙዎች ዘንድ የማይታወቅ ስም ነው፤ መንቁሩ ሥር ከረጢት ያለው ትልቅ የሐይቅ ወፍ (pelican) ነው።	machine		large wading bird (ይብራ; species uncertain)	
+E054	ጫማ መንቁር	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		shoebill (lit. 'shoe beak')	
+E055	መዶሻ ራስ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		hammer-headed bird	
+E056	ትንሽ ቡናማ ሽመላ	ሽመላ ለሽመላም ለሌሎች እግረ ረጃጅም የውሃ ዳር ወፎችም ይውላል፤ እዚህ የሚፈለገው ሽመላ መሰሉ የውሃ ዳር ወፍ (heron) ነው።	machine		small brown stork/heron	
+E057	ትንሽ ጠቆር ያለ ሽመላ	ሽመላ ለሽመላም ለሌሎች እግረ ረጃጅም የውሃ ዳር ወፎችም ይውላል፤ እዚህ የሚፈለገው ሽመላ መሰሉ የውሃ ዳር ወፍ (heron) ነው።	machine		small darkish stork/heron	
+E058	ነጭ የከብት ወፍ		machine		cattle bird	
+E059	ጥቁር ራስ ሽመላ	ሽመላ ለሽመላም ለሌሎች እግረ ረጃጅም የውሃ ዳር ወፎችም ይውላል፤ እዚህ የሚፈለገው ሽመላ መሰሉ የውሃ ዳር ወፍ (heron) ነው።	machine		black-headed stork/heron	
+E060	ግዙፍ ሽመላ	ሽመላ ለሽመላም ለሌሎች እግረ ረጃጅም የውሃ ዳር ወፎችም ይውላል፤ እዚህ የሚፈለገው ሽመላ መሰሉ የውሃ ዳር ወፍ (heron) ነው።	machine		giant stork/heron	
+E061	ትልቅ ነጭ ሽመላ	ሽመላ ለሽመላም ለሌሎች እግረ ረጃጅም የውሃ ዳር ወፎችም ይውላል፤ እዚህ የሚፈለገው ሽመላ መሰሉ የውሃ ዳር ወፍ (heron) ነው።	machine		large white stork/heron	
+E062	ነጭ ጋጋኖ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		white ibis	
+E063	ጋጋኖ		machine		ibis	
+E064	ማንኪያ መንቁር	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		spoonbill (lit. 'spoon beak')	
+E065	ዓሣ አጥማጅ ጭልፊት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		fishing eagle	
+E066	ትንሽ ቡናማ ጥንብ አንሳ	ጥንብ አንሳ ለሁሉም ጥንብ አንሳዎች ይውላል፤ እዚህ በከተማ የሚታየው ትንሹ ነው።	machine		vulture	
+E067	ነጭ ጀርባ ጥንብ አንሳ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		white-backed vulture	
+E068	እባብ በሊ ንስር	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		snake-eating eagle, snake eagle	
+E069	ጭራ አጭር ንስር	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		short-tailed eagle	
+E070	ጭልፊት, ሹካ ጭራ ጭልፊት	ጭልፊት ለሌሎች አዳኝ ወፎችም (falcon, hawk) ይውላል።	machine		hawk	
+E071	የዓሣ ንስር		machine		fish eagle	
+E072	ቁንጮ ንስር	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		crested eagle	
+E073	ትንሽ ጉጉት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small owl	
+E074	ትልቅ ግራጫ ጉጉት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		large grey owl	
+E075	ጭራ ረጅም ፍራፍሬ በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-tailed fruit-eating bird	
+E076	ጉትዬ ያላት መንቁረ ረጅም ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		brown bird with a crest	
+E077	አረንጓዴ የዛፍ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		green tree bird	
+E078	ቀንድ መንቁር የመሬት ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		ground hornbill (lit. 'horn-beaked ground bird')	
+E079	ግራጫ ቀንድ መንቁር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		grey hornbill	
+E080	ብርማ ጉንጭ ቀንድ መንቁር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		silvery-cheeked hornbill	
+E081	ትንሽ ዓሣ አጥማጅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small fishing bird	
+E082	የጫካ ዓሣ አጥማጅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		forest fishing bird	
+E083	ግራጫ ራስ ዓሣ አጥማጅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		grey-headed fishing bird	
+E084	ሽንትራም ዓሣ አጥማጅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		striped fishing bird	
+E085	ትልቅ ዓሣ አጥማጅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		large fishing bird	
+E086	ጥቁርና ነጭ ዓሣ አጥማጅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		black-and-white fishing bird	
+E087	ትንሽ ንብ በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small bee-eating bird	
+E088	አረንጓዴ ንብ በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		green bee-eating bird	
+E089	ቀይ ንብ በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red bee-eating bird	
+E090	ሰማያዊ ክንፍ ያላት ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		bird with blue wings	
+E091	ቀይ ደረት ጥቁር መንቁር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red-breasted black-billed bird	
+E092	ቀይ ደረት ጥርሳም መንቁር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red-breasted bird with a toothed beak	
+E093	ማር ጠቋሚ ወፍ		machine		honey-pointing bird	
+E094	እንጨት ቆርቋሪ ወፍ		machine		wood-knocking bird	
+E095	ትንሽ ጭልፊት	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small hawk	
+E096	በቀቀን		machine		parrot	
+E097	ትንሽ ጥቁርና ነጭ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small black-and-white bird	
+E098	ቀይና ጥቁር የቁጥቋጦ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red-and-black bush bird	
+E099	ቡናማ የቁጥቋጦ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		brown bush bird	
+E100	ጭራ ሹካ ጥቁር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		fork-tailed black bird	
+E101	ጭራ ረጅም ነፍሳት በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-tailed insect-eating bird	
+E102	አዳኝ ትንሽ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small predatory bird	
+E103	ቁራ, አንገተ ነጭ ቁራ		machine		crow	
+E104	ጥቁር ቁራ		machine		black crow	
+E105	ክንፏን የምታጨበጭብ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		bird that claps its wings	
+E106	ጭራ አጭር ትንሽ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		short-tailed small bird	
+E107	ቀይ ራስ የሣር ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red-headed grass bird	
+E108	ጭራ ረጅም ቡናማ ትንሽ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small long-tailed brown bird	
+E109	ጨረባ	ጨረባ ለሌሎች ጨረባ መሰል ወፎችም (swift) ይውላል።	machine		swallow	
+E110	ቡልቡል	የውጭ ቃል ነው (ተውሶ)፤ በአማርኛ የተለመደ ስም የለውም።	machine		bulbul (loan)	
+E111	ዐይነ ነጭ አረንጓዴ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		white-eyed green bird	
+E112	የምትንጫጫ ቡናማ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		chattering brown bird	
+E113	መዥገር ለቃሚ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		tick-picking bird	
+E114	የሚያብረቀርቅ ሰማያዊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		shining blue bird	
+E115	ጭራ ረጅም የሚያብረቀርቅ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		long-tailed shining bird	
+E116	ሆደ ብርቱካናማ ቡናማ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		Ethiopian brown bird	
+E117	ዝንብ አዳኝ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		fly-hunting bird	
+E118	ዘማሪ ቡናማ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		singing brown bird	
+E119	ቀይ ደረት ማር መጣጭ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red-breasted honey-sucking bird	
+E120	ማር መጣጭ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		honey-sucking bird	
+E121	ወፍራም መንቁር ሸማኔ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		thick-billed weaver bird	
+E122	ሸማኔ ወፍ, ቢጫ ሸማኔ ወፍ		machine		weaver bird	
+E123	ግሪሳ		machine		quelea (flocking grain-eating bird)	
+E124	ቀይና ጥቁር ሸማኔ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		red-and-black weaver bird	
+E125	ትንሽ ቀይ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small red bird	
+E126	ትንሽ ሰማያዊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small blue bird	
+E127	ትንሽ ጥቁርና ነጭ እህል በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small black-and-white grain-eating bird	
+E128	ጭራ ረጅም ትንሽ እህል በሊ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small long-tailed grain-eating bird	
+E129	ድንቢጥ	ድንቢጥ ለሌሎች ትንንሽ ወፎችም ይውላል።	machine		sparrow	
+E130	ጭራ ነቅናቂ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		tail-wagging bird	
+E131	ቢጫ ግንባር ትንሽ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small yellow-fronted bird	

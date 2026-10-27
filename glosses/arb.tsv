@@ -470,3 +470,278 @@ C044m	رجل أحمر, فاتح البشرة		machine		red (light-skinned) man
 C045	شخص أبيض البشرة, خواجة	خواجة (عامية): أجنبي أبيض، أوروبي في الغالب.	machine		white-skinned person, white foreigner	
 C045f	امرأة بيضاء البشرة, خواجية	خواجية (عامية): أجنبية بيضاء، أوروبية في الغالب.	machine		white-skinned woman, white foreign woman	
 C045m	رجل أبيض البشرة, خواجة		machine		white-skinned man, white foreigner	
+D001	حيوان		machine		animal	
+D002	حيوان داجن, حيوان أليف		machine		domestic animal, pet	
+D003	حيوان بري		machine		wild animal	
+D004	لحم		machine		meat	
+D004b	لحم مجفف, قديد		machine		dried meat, jerky	
+D005	دهن, شحم		machine		fat, grease	
+D006	نخاع العظم		machine		bone marrow	
+D007	شحم مذاب, وَدَك		machine		rendered fat, dripping	
+D008	قطيع		machine		herd	
+D009	ماعز		machine		goats	
+D009b	جَدْي		machine		kid (young goat)	
+D009f	عنزة		machine		she-goat, nanny goat	
+D009m	تيس		machine		he-goat, billy goat	
+D010	لحية الماعز		machine		goat's beard	
+D011	خروف, شاة		machine		sheep	
+D011b	حَمَل		machine		lamb	
+D011f	نعجة		machine		ewe	
+D011m	كبش		machine		ram	
+D012	فرو		machine		fur	
+D013	صوف		machine		wool	
+D014	بقر		machine		cattle	
+D014b	عِجْل		machine		calf	
+D014f	بقرة		machine		cow	
+D014m	ثور		machine		bull	
+D015	ثور مخصي		machine		castrated bull, ox	
+D016	عِجْلَة, بقرة لم تلد		machine		heifer, cow that has not calved	
+D017	غَبَب, الجلد المتدلي تحت عنق البقر		machine		dewlap, the loose skin hanging under a cow's neck	
+D018	روث		machine		dung	
+D019	قَرْن		machine		horn	
+D020	ذيل		machine		tail	
+D021	جلد حيوان		machine		animal skin, hide	
+D022	سنام البقر		machine		cattle hump	
+D023	حافر, ظِلف	الحافر للخيل والحمير، والظِّلف للبقر والغنم والماعز، والخُفّ للجمل.	machine		hoof	
+D024	ضرع		machine		udder	
+D025	حلمات الضرع		machine		teats	
+D026	حليب	«لبن» هو الحليب في السودان وتشاد ومصر، لكنه الزبادي في الشام والخليج.	machine		milk	
+D027	زبدة		machine		butter	
+D028	لبن رائب, زبادي	«لبن» وحده حليب في السودان ومصر وزبادي في الشام والخليج؛ ويقال «روب» في السودان وتشاد.	machine		yoghurt, soured milk	
+D029	حصان		machine		horse	
+D029b	مُهْر		machine		foal, colt	
+D029f	فرس, أنثى الحصان		machine		mare	
+D029m	حصان فحل		machine		stallion	
+D030	عُرْف الحصان		machine		horse's mane	
+D031	حمار		machine		donkey	
+D031b	جَحْش		machine		young donkey, donkey foal	
+D031f	أتان, حمارة		machine		she-ass, jenny	
+D031m	حمار ذكر		machine		jack, male donkey	
+D032	جمل, بعير		machine		camel	
+D032b	حُوار, جمل صغير		machine		camel calf, young camel	
+D032f	ناقة		machine		she-camel	
+D032m	جمل ذكر		machine		bull camel, male camel	
+D033	سنام الجمل		machine		camel's hump	
+D034	كلب		machine		dog	
+D034b	جرو		machine		puppy	
+D034f	كلبة		machine		bitch, female dog	
+D034m	كلب ذكر		machine		male dog	
+D035	قط		machine		cat	
+D035b	قطة صغيرة, هُرَيْرة		machine		kitten	
+D035f	قطة		machine		female cat	
+D035m	قط ذكر		machine		tomcat	
+D036	خنزير		machine		pig	
+D036b	خنزير صغير		machine		piglet	
+D036f	خنزيرة, أنثى الخنزير		machine		sow	
+D036m	خنزير ذكر		machine		boar, male pig	
+D037	خنزير الثآليل, حلوف		machine		warthog	
+D038	خنزير الأدغال		machine		bushpig	
+D039	خنزير الأرض		machine		aardvark	
+D040	آكل النمل, خنزير الأرض	المقصود خنزير الأرض الأفريقي (كما في D039)، لا آكل النمل الأمريكي.	machine		anteater	
+D041	آكل النمل الحرشفي, بنغول		machine		pangolin, scaly anteater	
+D042	قرد		machine		monkey	
+D043	قرد البابون, رُبّاح		machine		baboon	
+D044	القرد الأخضر الحبشي		machine		grivet, Abyssinian green monkey	
+D045	القرد الأزرق, قرد الغابة		machine		blue monkey	
+D046	القرد الأحمر, قرد الباتاس		machine		patas monkey	
+D047	قرد الكولوبس الأبيض والأسود		machine		black-and-white colobus	
+D048	غلاغو, قرد ليلي صغير		machine		galago, bushbaby	
+D049	ظبي		machine		antelope	
+D050	الجاموس الأفريقي, جاموس بري		machine		African buffalo	
+D051	حيوان النُّو		machine		wildebeest, gnu	
+D052	ظبي الأوريبي, ظبي عشبي صغير		machine		oribi	
+D053	ظبي الكودو		machine		kudu	
+D054	حمار وحشي		machine		zebra	
+D055	غزال		machine		gazelle	
+D056	ظبي القفز, سبرينغبوك		machine		springbok	
+D057	ظبي الإمبالا		machine		impala	
+D058	ظبي الكوب أبيض الأذنين		machine		white-eared kob	
+D059	ظبي الليشوي, كوب المستنقعات		machine		lechwe	
+D060	ظبي التيانغ, التوبي		machine		tiang, topi	
+D061	السيتاتونغا, ظبي المستنقعات		machine		sitatunga	
+D062	ظبي القصب		machine		reedbuck	
+D063	ظبي الأدغال		machine		bushbuck	
+D064	ظبي الماء		machine		waterbuck	
+D065	التيتل, بقر الوحش		machine		tetel, hartebeest	
+D066	ظبي الإيلاند		machine		eland	
+D067	ظبي الروان		machine		roan antelope	
+D068	مها		machine		oryx	
+D069	الأروي, الكبش البربري		machine		aoudad, Barbary sheep	
+D070	ظبي الدويكر الصغير		machine		duiker	
+D071	ديك ديك, ظبي صغير جداً		machine		dik-dik	
+D072	فيل		machine		elephant	
+D073	خرطوم الفيل		machine		elephant's trunk	
+D074	ناب الفيل		machine		elephant tusk	
+D075	فرس النهر		machine		hippopotamus	
+D076	وحيد القرن		machine		rhinoceros	
+D077	قرن وحيد القرن		machine		rhinoceros horn	
+D078	زرافة		machine		giraffe	
+D079	الضبع المرقط		machine		spotted hyena	
+D080	الضبع المخطط		machine		striped hyena	
+D081	الكلب البري الأفريقي		machine		African wild dog	
+D082	ابن آوى		machine		jackal	
+D083	ثعلب		machine		fox	
+D083b	الفنك, ثعلب الصحراء		machine		fennec fox	
+D084	قط الزباد		machine		civet	
+D085	غرير العسل		machine		honey badger, ratel	
+D086	النمس المصري		machine		Egyptian mongoose	
+D087	النمس القزم		machine		dwarf mongoose	
+D088	السرقاط		machine		meerkat	
+D089	نيص, شَيْهَم		machine		porcupine	
+D090	سنجاب الشجر		machine		tree squirrel	
+D091	السنجاب الأرضي		machine		ground squirrel	
+D092	فأر		machine		mouse	
+D093	جُرَذ		machine		rat	
+D094	جرذ القصب		machine		cane rat	
+D095	سنجاب أرضي مخطط, فأر النخيل	يسمّى بالإنجليزية الأفريقية palm rat، وهو سنجاب أرضي مخطط لا فأر.	machine		striped ground squirrel	
+D096	زَبَابة		machine		shrew	
+D097	خُلْد, فأر الخلد		machine		mole, mole-rat	
+D098	أرنب بري, أرنب		machine		hare, rabbit	
+D099	الأرنب القافز		machine		springhare	
+D100	الوبر		machine		hyrax	
+D101	قط بري		machine		wildcat	
+D102	أسد		machine		lion	
+D103	لِبْدة الأسد		machine		lion's mane	
+D104	مخلب الأسد		machine		lion's claw	
+D105	نمر مرقط, نمر	النمر في السودان وتشاد هو المرقط؛ والمخطط هو الببر (tiger).	machine		leopard	
+D106	الفهد الصياد	«فهد» وحده قد يُفهم منه النمر المرقط.	machine		cheetah	
+D107	عَناق الأرض, الوشق الصحراوي		machine		caracal	
+D108	قط السرفال		machine		serval	
+D109	جرنيط, قط الزباد المرقط		machine		genet	
+D110	خفاش		machine		bat	
+D111	خفاش الفاكهة		machine		fruit bat	
+E001	طائر		machine		bird	
+E002	دجاجة		machine		chicken	
+E002b	كتكوت, فرخ الدجاج		machine		chick	
+E002f	دجاجة, أنثى الدجاج		machine		hen	
+E002m	ديك		machine		rooster, cock	
+E003	دجاجة عارية الرقبة		machine		naked-neck chicken	
+E004	ديك رومي		machine		turkey	
+E005	منقار		machine		beak	
+E006	مخلب		machine		claw, talon	
+E007	جناح		machine		wing	
+E008	ريشة		machine		feather	
+E009	عُرْف الديك		machine		cock's comb	
+E010	قُنْزُعة, عُرْف الطائر		machine		crest (of a bird)	
+E011	حوصلة		machine		crop (of a bird)	
+E012	قانصة		machine		gizzard	
+E013	بيضة		machine		egg	
+E014	قشرة البيضة		machine		eggshell	
+E015	بياض البيض		machine		egg white	
+E016	صفار البيض		machine		egg yolk	
+E017	عُشّ		machine		nest	
+E018	سرب طيور		machine		flock of birds	
+E019	نعامة		machine		ostrich	
+E019b	قشرة بيض النعام		machine		ostrich eggshell	
+E020	البط الصفّار, بط الشجر		machine		whistling duck, tree duck	
+E021	الإوز المصري		machine		Egyptian goose	
+E022	دجاج غينيا		machine		guineafowl	
+E023	دُرّاج, حجل أفريقي		machine		francolin	
+E024	نُحام, فلامنجو		machine		flamingo	
+E025	حمام الصخر المرقط		machine		speckled pigeon	
+E026	اليمامة الخمرية		machine		vinaceous dove	
+E027	يمامة الغابة سوداء المنقار		machine		black-billed wood dove	
+E028	يمامة ناماكوا		machine		Namaqua dove	
+E029	الحمام الأخضر		machine		green pigeon	
+E030	حُبارى		machine		bustard	
+E031	الكوكال, وقواق أرضي كبير		machine		coucal	
+E032	وقواق كلاس		machine		Klaas's cuckoo	
+E033	وقواق ديدريك		machine		Diederik cuckoo	
+E034	الوقواق الأفريقي		machine		African cuckoo	
+E035	السُّبَد		machine		nightjar	
+E036	سمامة النخيل		machine		palm swift	
+E037	سمامة		machine		swift	
+E038	المرعة السوداء		machine		black crake	
+E039	الكركي المتوج الأسود		machine		black crowned crane	
+E040	الكَرَوان		machine		stone-curlew, thick-knee	
+E041	أبو المغازل		machine		black-winged stilt	
+E042	النكات, خوّاض منقاره معقوف لأعلى	«النكات» اسمه في قوائم الطيور، وهو غير مألوف عند العامة.	machine		avocet (a wader with an upturned bill)	
+E043	الزقزاق شوكي الجناح		machine		spur-winged lapwing	
+E044	الجاكانا		machine		jacana	
+E045	الشُّنْقُب		machine		snipe	
+E046	الطيطوى, طائر شاطئ صغير طويل المنقار	المقصود طيور الشاطئ الصغيرة من فصيلة الشنقبيات، لا الزقزاق.	machine		lapwing	
+E047	نورس		machine		gull	
+E048	اللقلق أصفر المنقار		machine		yellow-billed stork	
+E049	اللقلق مفتوح المنقار		machine		openbill stork	
+E050	لقلق أبديم		machine		Abdim's stork	
+E051	اللقلق سرجي المنقار		machine		saddle-billed stork	
+E052	لقلق المرابو, أبو سعن		machine		marabou stork	
+E053	بَجَع		machine		pelican	
+E054	أبو مركوب		machine		shoebill	
+E055	أبو مطرقة		machine		hamerkop	
+E056	البلشون الأصفر		machine		squacco heron	
+E057	البلشون المخطط		machine		striated heron	
+E058	أبو قردان, بلشون الماشية		machine		cattle egret	
+E059	مالك الحزين أسود الرأس		machine		black-headed heron	
+E060	مالك الحزين العملاق		machine		Goliath heron	
+E061	البلشون الأبيض الكبير		machine		great egret	
+E062	أبو منجل المقدس		machine		sacred ibis	
+E063	أبو منجل الهادادا		machine		hadada ibis	
+E064	أبو ملعقة		machine		spoonbill	
+E065	العقاب النساري		machine		osprey	
+E066	النسر المقلنس, نسر صغير آكل للجيف	النسر هنا آكل الجيف (vulture)، لا العُقاب.	machine		hooded vulture	
+E067	النسر أبيض الظهر, نسر آكل للجيف	النسر هنا آكل الجيف (vulture)، لا العُقاب.	machine		white-backed vulture	
+E068	عقاب الحيات		machine		snake eagle	
+E069	عقاب البهلوان		machine		bateleur	
+E070	الحدأة السوداء		machine		black kite	
+E071	عقاب السمك الأفريقي		machine		African fish eagle	
+E072	العقاب طويل العرف		machine		long-crested eagle	
+E073	الثبج, بومة صغيرة ذات خُصَل أذنية	«الثبج» اسمه في قوائم الطيور، وهو غير مألوف عند العامة؛ ويسمّى في قطر «قبسة».	machine		thabaj (unidentified bird)	
+E074	البومة النسرية الرمادية		machine		greyish eagle-owl	
+E075	الطائر الفأري		machine		mousebird	
+E076	هدهد		machine		hoopoe	
+E077	هدهد الشجر الأخضر		machine		green wood hoopoe	
+E078	أبو قرن الأرضي		machine		ground hornbill	
+E079	أبو قرن الرمادي		machine		grey hornbill	
+E080	أبو قرن فضي الخدين		machine		silvery-cheeked hornbill	
+E081	رفراف الملاكيت		machine		malachite kingfisher	
+E082	رفراف الغابات		machine		woodland kingfisher	
+E083	الرفراف رمادي الرأس		machine		grey-headed kingfisher	
+E084	الرفراف المخطط		machine		striped kingfisher	
+E085	الرفراف العملاق		machine		giant kingfisher	
+E086	الرفراف الأبقع		machine		pied kingfisher	
+E087	الوروار الصغير		machine		little bee-eater	
+E088	الوروار الأخضر		machine		green bee-eater	
+E089	الوروار القرمزي		machine		carmine bee-eater	
+E090	الشقراق الحبشي		machine		Abyssinian roller	
+E091	الباربيت أسود المنقار		machine		black-billed barbet	
+E092	الباربيت مزدوج الأسنان		machine		double-toothed barbet	
+E093	طائر دليل العسل		machine		honeyguide	
+E094	نقار الخشب		machine		woodpecker	
+E095	عوسق		machine		kestrel	
+E096	ببغاء		machine		parrot	
+E097	الباتيس, صائد ذباب صغير أبيض وأسود		machine		batis (small black-and-white flycatcher)	
+E098	صرد الأدغال الأحمر والأسود		machine		red-and-black bushshrike	
+E099	التشاغرا, صرد الأدغال البني		machine		tchagra, brown bushshrike	
+E100	الدرونغو, طائر أسود مشقوق الذيل		machine		drongo (black fork-tailed bird)	
+E101	خاطف الذباب الفردوسي		machine		paradise flycatcher	
+E102	الصُّرَد		machine		shrike	
+E103	الغراب الأبقع		machine		pied crow	
+E104	الغراب مروحي الذيل		machine		fan-tailed raven	
+E105	القبرة المصفقة, قبرة تصفق بجناحيها		machine		flappet lark	
+E106	الكرومبك, دخلة قصيرة الذيل		machine		crombec	
+E107	سيستيكولا حمراء الهامة		machine		red-capped cisticola	
+E108	البرينيا السمراء, دخلة صغيرة		machine		tawny prinia (small warbler)	
+E109	السنونو		machine		swallow	
+E110	بلبل	المقصود البلبل البني الشائع في الحدائق، لا العندليب.	machine		bulbul	
+E111	طائر العين البيضاء		machine		white-eye	
+E112	الثرثار		machine		babbler	
+E113	نقار الماشية		machine		oxpecker	
+E114	الزرزور اللامع الأزرق الأذن الصغير		machine		lesser blue-eared glossy starling	
+E115	زرزور روبل اللامع		machine		Rüppell's glossy starling	
+E116	السُّمَّنة الحبشية		machine		Abyssinian thrush	
+E117	خاطف الذباب المرقط		machine		spotted flycatcher	
+E118	أبو الحناء الأفريقي		machine		African robin-chat	
+E119	طائر الشمس قرمزي الصدر		machine		scarlet-chested sunbird	
+E120	طائر الشمس المتغير		machine		variable sunbird	
+E121	النساج غليظ المنقار		machine		thick-billed weaver	
+E122	نساج القرية		machine		village weaver	
+E123	الكويليا حمراء المنقار		machine		red-billed quelea	
+E124	النساج الأحمر الشمالي		machine		northern red bishop	
+E125	عصفور النار		machine		firefinch	
+E126	الكوردون بلو أحمر الخدين, عصفور أزرق صغير		machine		red-cheeked cordon-bleu (small blue finch)	
+E127	المانيكين البرونزي, عصفور صغير أبيض وأسود		machine		bronze mannikin (small black-and-white finch)	
+E128	الأرملة دبوسية الذيل		machine		pin-tailed whydah	
+E129	عصفور الدوري, عصفور	«عصفور» وحده يطلق على أي طائر صغير.	machine		sparrow	
+E130	الذُّعَرة		machine		wagtail	
+E131	الكناري أصفر الجبهة		machine		yellow-fronted canary	

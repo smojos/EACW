@@ -470,3 +470,278 @@ C044m	homme au teint clair, dit « rouge »		machine		light-skinned man
 C045	personne blanche, Blanc		machine		white person	
 C045f	femme blanche, Blanche		machine		white woman	
 C045m	homme blanc, Blanc		machine		white man	
+D001	animal		machine		animal	
+D002	animal domestique		machine		domestic animal	
+D003	animal sauvage		machine		wild animal	
+D004	viande, chair		machine		meat, flesh	
+D004b	viande séchée		machine		dried meat	
+D005	graisse		machine		fat	
+D006	moelle osseuse		machine		bone marrow	
+D007	graisse fondue		machine		rendered fat	
+D008	troupeau		machine		herd	
+D009	chèvre (terme général)		machine		goat	
+D009b	chevreau, cabri		machine		kid (young goat)	
+D009f	chèvre (femelle)		machine		nanny goat, female goat	
+D009m	bouc		machine		billy goat, male goat	
+D010	barbe de chèvre		machine		goat's beard, goatee	
+D011	mouton		machine		sheep	
+D011b	agneau		machine		lamb	
+D011f	brebis		machine		ewe	
+D011m	bélier		machine		ram	
+D012	pelage, fourrure		machine		coat (of an animal), fur	
+D013	laine		machine		wool	
+D014	bovin, bœuf	« bœuf » : ici au sens général (bovin) ; au sens strict, mâle castré (voir D015).	machine		ox, cattle (bovine)	
+D014b	veau		machine		calf	
+D014f	vache		machine		cow	
+D014m	taureau		machine		bull	
+D015	bœuf castré, bouvillon		machine		castrated ox, steer	
+D016	génisse		machine		heifer	
+D017	fanon (de bovin)		machine		dewlap	
+D018	excréments d'animal, bouse	bouse : de bovin ; crottin : de cheval ou d'âne ; crottes : de chèvre ou de mouton ; fiente : d'oiseau.	machine		dung, animal droppings	
+D019	corne		machine		horn	
+D020	queue		machine		tail	
+D021	peau d'animal		machine		animal skin, hide	
+D022	bosse de zébu		machine		zebu hump	
+D023	sabot		machine		hoof	
+D024	pis		machine		udder	
+D025	trayons		machine		teats	
+D026	lait		machine		milk	
+D027	beurre		machine		butter	
+D028	lait caillé, yaourt		machine		curdled milk, yoghurt	
+D029	cheval		machine		horse	
+D029b	poulain		machine		foal, colt	
+D029f	jument		machine		mare	
+D029m	étalon		machine		stallion	
+D030	crinière de cheval		machine		horse's mane	
+D031	âne		machine		donkey	
+D031b	ânon		machine		donkey foal	
+D031f	ânesse		machine		female donkey, jenny	
+D031m	âne (mâle), baudet		machine		male donkey, jack	
+D032	chameau, dromadaire		machine		camel, dromedary	
+D032b	chamelon		machine		camel calf	
+D032f	chamelle		machine		female camel	
+D032m	chameau (mâle)		machine		male camel	
+D033	bosse de chameau		machine		camel's hump	
+D034	chien		machine		dog	
+D034b	chiot		machine		puppy	
+D034f	chienne		machine		female dog, bitch	
+D034m	chien (mâle)		machine		male dog	
+D035	chat		machine		cat	
+D035b	chaton		machine		kitten	
+D035f	chat (femelle), chatte	« chatte » est le mot courant, mais il a aussi un sens vulgaire en argot ; « chat (femelle) » l'évite.	machine		female cat, queen	
+D035m	matou, chat (mâle)		machine		tomcat, male cat	
+D036	porc, cochon		machine		pig	
+D036b	porcelet, cochonnet		machine		piglet	
+D036f	truie		machine		sow	
+D036m	verrat		machine		boar (breeding male pig)	
+D037	phacochère		machine		warthog	
+D038	potamochère		machine		bushpig	
+D039	oryctérope, cochon de terre		machine		aardvark	
+D040	fourmilier	Ici, nom populaire de l'oryctérope (D039), et non le fourmilier d'Amérique ni le pangolin.	machine		anteater	
+D041	pangolin		machine		pangolin	
+D042	singe		machine		monkey	
+D043	babouin		machine		baboon	
+D044	grivet, singe vert		machine		grivet monkey, green monkey	
+D045	singe bleu, cercopithèque à diadème		machine		blue monkey, diademed monkey	
+D046	patas, singe rouge		machine		patas monkey, red monkey	
+D047	colobe guéréza, colobe noir et blanc		machine		guereza colobus, black-and-white colobus	
+D048	galago		machine		galago, bushbaby	
+D049	antilope		machine		antelope	
+D050	buffle d'Afrique		machine		African buffalo	
+D051	gnou		machine		wildebeest, gnu	
+D052	ourébi		machine		oribi	
+D053	koudou		machine		kudu	
+D054	zèbre		machine		zebra	
+D055	gazelle		machine		gazelle	
+D056	springbok		machine		springbok	
+D057	impala		machine		impala	
+D058	cobe à oreilles blanches		machine		white-eared kob	
+D059	cobe lechwe, cobe de Mrs Gray		machine		lechwe, Nile lechwe (Mrs Gray's lechwe)	
+D060	damalisque, topi		machine		topi	
+D061	sitatunga, guib d'eau		machine		sitatunga	
+D062	cobe des roseaux		machine		reedbuck	
+D063	guib harnaché		machine		bushbuck	
+D064	cobe à croissant, cobe defassa		machine		waterbuck, defassa waterbuck	
+D065	bubale		machine		hartebeest	
+D066	éland		machine		eland	
+D067	hippotrague, antilope rouanne		machine		roan antelope	
+D068	oryx		machine		oryx	
+D069	mouflon à manchettes		machine		Barbary sheep, aoudad	
+D070	céphalophe		machine		duiker	
+D071	dik-dik		machine		dik-dik	
+D072	éléphant		machine		elephant	
+D073	trompe d'éléphant		machine		elephant's trunk	
+D074	défense d'éléphant		machine		elephant tusk	
+D075	hippopotame		machine		hippopotamus	
+D076	rhinocéros		machine		rhinoceros	
+D077	corne de rhinocéros		machine		rhinoceros horn	
+D078	girafe		machine		giraffe	
+D079	hyène tachetée		machine		spotted hyena	
+D080	hyène rayée		machine		striped hyena	
+D081	lycaon, chien sauvage d'Afrique		machine		African wild dog, painted dog	
+D082	chacal		machine		jackal	
+D083	renard		machine		fox	
+D083b	fennec		machine		fennec fox	
+D084	civette		machine		civet	
+D085	ratel		machine		honey badger, ratel	
+D086	mangouste ichneumon		machine		Egyptian mongoose, ichneumon	
+D087	mangouste naine		machine		dwarf mongoose	
+D088	suricate		machine		meerkat, suricate	
+D089	porc-épic		machine		porcupine	
+D090	écureuil arboricole		machine		tree squirrel	
+D091	écureuil terrestre		machine		ground squirrel	
+D092	souris		machine		mouse	
+D093	rat		machine		rat	
+D094	aulacode, agouti	« agouti » est le nom courant en Afrique de l'Ouest et centrale (au sens propre, un rongeur d'Amérique) ; « aulacode » est le terme standard.	machine		cane rat, grasscutter	
+D095	rat palmiste	Malgré son nom, un écureuil terrestre (Euxerus erythropus), et non un rat.	machine		ground squirrel (Xerus)	
+D096	musaraigne		machine		shrew	
+D097	taupe, rat-taupe		machine		mole, mole-rat	
+D098	lièvre		machine		hare	
+D099	lièvre sauteur, pédète		machine		springhare	
+D100	daman		machine		hyrax	
+D101	félin sauvage, chat sauvage		machine		wild cat, wild feline	
+D102	lion		machine		lion	
+D103	crinière de lion		machine		lion's mane	
+D104	griffe de lion		machine		lion's claw	
+D105	léopard, panthère		machine		leopard, panther	
+D106	guépard		machine		cheetah	
+D107	caracal		machine		caracal	
+D108	serval		machine		serval	
+D109	genette		machine		genet	
+D110	chauve-souris		machine		bat	
+D111	roussette (chauve-souris)		machine		fruit bat	
+E001	oiseau		machine		bird	
+E002	poulet		machine		chicken	
+E002b	poussin		machine		chick	
+E002f	poule		machine		hen	
+E002m	coq		machine		rooster, cock	
+E003	poulet cou nu		machine		naked-neck chicken	
+E004	dinde, dindon	« dinde » désigne aussi la femelle et la viande, « dindon » le mâle ; ici l'espèce.	machine		turkey (hen), turkey (cock)	
+E005	bec		machine		beak, bill	
+E006	griffe		machine		claw	
+E007	aile		machine		wing	
+E008	plume		machine		feather	
+E009	crête de coq		machine		cockscomb, rooster's comb	
+E010	huppe d'oiseau		machine		bird's crest	
+E011	jabot (d'oiseau)		machine		crop (of a bird)	
+E012	gésier		machine		gizzard	
+E013	œuf		machine		egg	
+E014	coquille d'œuf		machine		eggshell	
+E015	blanc d'œuf		machine		egg white	
+E016	jaune d'œuf		machine		egg yolk	
+E017	nid		machine		nest	
+E018	volée d'oiseaux		machine		flock of birds	
+E019	autruche		machine		ostrich	
+E019b	coquille d'œuf d'autruche		machine		ostrich eggshell	
+E020	dendrocygne, canard siffleur		machine		whistling duck	
+E021	ouette d'Égypte		machine		Egyptian goose	
+E022	pintade		machine		guineafowl	
+E023	francolin		machine		francolin	
+E024	flamant		machine		flamingo	
+E025	pigeon de Guinée		machine		speckled pigeon	
+E026	tourterelle vineuse		machine		vinaceous dove	
+E027	tourtelette d'Abyssinie		machine		black-billed wood dove	
+E028	tourterelle masquée		machine		Namaqua dove	
+E029	colombar		machine		green pigeon	
+E030	outarde		machine		bustard	
+E031	coucal		machine		coucal	
+E032	coucou de Klaas		machine		Klaas's cuckoo	
+E033	coucou didric		machine		diederik cuckoo	
+E034	coucou africain		machine		African cuckoo	
+E035	engoulevent		machine		nightjar	
+E036	martinet des palmes		machine		African palm swift	
+E037	martinet (oiseau)		machine		swift	
+E038	râle à bec jaune		machine		black crake	
+E039	grue couronnée		machine		crowned crane	
+E040	œdicnème		machine		thick-knee, stone curlew	
+E041	échasse (oiseau)		machine		stilt	
+E042	avocette		machine		avocet	
+E043	vanneau éperonné		machine		spur-winged lapwing	
+E044	jacana		machine		jacana	
+E045	bécassine		machine		snipe	
+E046	bécasseau, chevalier (oiseau)		machine		sandpiper, stint; shank	
+E047	mouette, goéland		machine		gull	
+E048	tantale ibis		machine		yellow-billed stork	
+E049	bec-ouvert		machine		openbill stork	
+E050	cigogne d'Abdim		machine		Abdim's stork	
+E051	jabiru d'Afrique		machine		saddle-billed stork	
+E052	marabout (oiseau)		machine		marabou stork	
+E053	pélican		machine		pelican	
+E054	bec-en-sabot		machine		shoebill	
+E055	ombrette		machine		hamerkop	
+E056	crabier chevelu		machine		squacco heron	
+E057	héron strié		machine		striated heron	
+E058	héron garde-bœufs		machine		cattle egret	
+E059	héron mélanocéphale		machine		black-headed heron	
+E060	héron goliath		machine		goliath heron	
+E061	grande aigrette		machine		great egret	
+E062	ibis sacré		machine		sacred ibis	
+E063	ibis hagedash		machine		hadada ibis	
+E064	spatule (oiseau)		machine		spoonbill	
+E065	balbuzard pêcheur		machine		osprey	
+E066	vautour charognard		machine		hooded vulture	
+E067	vautour africain		machine		white-backed vulture	
+E068	circaète		machine		snake eagle	
+E069	aigle bateleur		machine		bateleur	
+E070	milan noir		machine		black kite	
+E071	pygargue vocifère, aigle pêcheur		machine		African fish eagle	
+E072	aigle huppard		machine		long-crested eagle	
+E073	petit-duc		machine		scops owl	
+E074	grand-duc cendré		machine		greyish eagle-owl	
+E075	coliou		machine		mousebird	
+E076	huppe fasciée		machine		hoopoe	
+E077	irrisor moqueur		machine		green wood-hoopoe	
+E078	bucorve, calao terrestre		machine		ground hornbill	
+E079	calao à bec noir		machine		African grey hornbill	
+E080	calao à joues argentées		machine		silvery-cheeked hornbill	
+E081	martin-pêcheur huppé		machine		malachite kingfisher	
+E082	martin-chasseur du Sénégal		machine		woodland kingfisher	
+E083	martin-chasseur à tête grise		machine		grey-headed kingfisher	
+E084	martin-chasseur strié		machine		striped kingfisher	
+E085	martin-pêcheur géant		machine		giant kingfisher	
+E086	martin-pêcheur pie		machine		pied kingfisher	
+E087	guêpier nain		machine		little bee-eater	
+E088	guêpier vert		machine		green bee-eater	
+E089	guêpier écarlate, guêpier carmin		machine		carmine bee-eater	
+E090	rollier d'Abyssinie		machine		Abyssinian roller	
+E091	barbican à bec noir		machine		black-billed barbet	
+E092	barbican bidenté		machine		double-toothed barbet	
+E093	grand indicateur		machine		greater honeyguide	
+E094	pic (oiseau)		machine		woodpecker	
+E095	crécerelle		machine		kestrel	
+E096	perroquet		machine		parrot	
+E097	batis		machine		batis	
+E098	gonolek		machine		gonolek	
+E099	tchagra		machine		tchagra	
+E100	drongo		machine		drongo	
+E101	tchitrec		machine		paradise flycatcher	
+E102	pie-grièche		machine		shrike	
+E103	corbeau pie		machine		pied crow	
+E104	corbeau à queue courte		machine		fan-tailed raven	
+E105	alouette bourdonnante		machine		flappet lark	
+E106	crombec		machine		crombec	
+E107	cisticole à tête rousse		machine		red-pate cisticola	
+E108	prinia modeste		machine		tawny-flanked prinia	
+E109	hirondelle rustique		machine		barn swallow	
+E110	bulbul des jardins		machine		common bulbul	
+E111	zostérops		machine		white-eye	
+E112	cratérope		machine		babbler	
+E113	pique-bœuf		machine		oxpecker	
+E114	choucador de Swainson		machine		lesser blue-eared starling	
+E115	choucador de Rüppell		machine		Rüppell's starling	
+E116	grive abyssinienne		machine		Abyssinian thrush	
+E117	gobemouche gris		machine		spotted flycatcher	
+E118	cossyphe		machine		robin-chat	
+E119	souimanga à poitrine rouge		machine		scarlet-chested sunbird	
+E120	souimanga à ventre jaune		machine		variable sunbird	
+E121	grosbec à front blanc		machine		thick-billed weaver, grosbeak weaver	
+E122	tisserin gendarme		machine		village weaver	
+E123	travailleur à bec rouge, mange-mil		machine		red-billed quelea	
+E124	euplecte franciscain		machine		northern red bishop	
+E125	amarante (oiseau)		machine		firefinch	
+E126	cordonbleu à joues rouges		machine		red-cheeked cordon-bleu	
+E127	capucin nonnette		machine		bronze mannikin	
+E128	veuve dominicaine		machine		pin-tailed whydah	
+E129	moineau		machine		sparrow	
+E130	bergeronnette		machine		wagtail	
+E131	serin du Mozambique		machine		yellow-fronted canary	
