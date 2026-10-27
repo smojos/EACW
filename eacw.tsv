@@ -2,7 +2,7 @@ ref	gloss	word_class	default	sub	clarification	taxon
 A001	body	NOUN	yes		the (living) body as a whole, not a corpse	
 A002	skin	NOUN	yes			
 A002b	wrinkle	NOUN	yes			
-A003	hair	NOUN	yes		of either (a) head, or (b) body	
+A003	hair	NOUN	yes		of the head	
 A003b	body hair	NOUN	yes			
 A003c	tuft	NOUN	yes		a single unit of the head hair standing apart from the rest, e.g. a braided or mudded lock, a bunch, or a tuft left on a shaved head	
 A004	bone	NOUN	yes			
@@ -265,9 +265,9 @@ B035m	male slave	NOUN	no
 B036	guide	NOUN	yes			
 B036f	female guide	NOUN	no			
 B036m	male guide	NOUN	no			
-B037	traveler	NOUN	yes			
-B037f	female traveler	NOUN	no			
-B037m	male traveler	NOUN	no			
+B037	traveller	NOUN	yes			
+B037f	female traveller	NOUN	no			
+B037m	male traveller	NOUN	no			
 B038	messenger	NOUN	yes			
 B038f	female messenger	NOUN	no			
 B038m	male messenger	NOUN	no			
@@ -279,7 +279,7 @@ B040f	female spiritist	NOUN	no
 B040m	male spiritist	NOUN	no			
 B041	mage	NOUN	no		one who practises sorcery or witchcraft, of either sex	
 B041f	witch	NOUN	yes			
-B041m	warlock	NOUN	yes		sorcerer	
+B041m	sorcerer	NOUN	yes		male practitioner of sorcery (warlock)	
 B042	priest	NOUN	no		officiant of any religion, including traditional	
 B042f	female priest	NOUN	no			
 B042m	male priest	NOUN	yes			
@@ -577,7 +577,7 @@ D076	rhino	NOUN	yes			Rhinocerotidae
 D077	rhino horn	NOUN	yes			
 D078	giraffe	NOUN	yes	E W S C		Giraffa (Giraffidae)
 D079	spotted hyena	NOUN	yes	E W S C		Crocuta crocuta (Hyaenidae)
-D080	striped hyena	NOUN	yes			Hyaena hyaena (Hyaenidae)
+D080	striped hyena	NOUN	yes	E W N		Hyaena hyaena (Hyaenidae)
 D081	wilddog	NOUN	yes	E W S C	African wild dog, painted dog	Lycaon pictus (Canidae)
 D082	jackal	NOUN	yes			Lupulella, Canis (part) (Canidae)
 D083	fox	NOUN	yes			Vulpes (Canidae)
@@ -593,7 +593,7 @@ D091	ground squirrel	NOUN	yes			Sciuridae (part)
 D092	mouse	NOUN	yes			Muroidea (part) (Muridae (mainly))
 D093	rat	NOUN	yes			Muroidea (part) (Muridae (mainly))
 D094	cane rat	NOUN	yes	E W S C	grasscutter, Thryonomys	Thryonomys (Thryonomyidae)
-D095	palm rat	NOUN	yes	E W N C	the striped ground squirrel, Euxerus erythropus, called palm rat in West Africa; a kind of D091	Euxerus erythropus (Sciuridae)
+D095	palm rat	NOUN	yes	E W C	the striped ground squirrel, Euxerus erythropus, called palm rat in West Africa; a kind of D091	Euxerus erythropus (Sciuridae)
 D096	shrew	NOUN	yes			Soricidae
 D097	mole	NOUN	yes		burrowing animal; in Africa a mole-rat or golden mole	Bathyergidae, Spalacidae (part), Chrysochloridae (Bathyergidae, Spalacidae, Chrysochloridae)
 D098	hare	NOUN	yes			Lepus (Leporidae)
@@ -606,7 +606,7 @@ D104	lion claw	NOUN	yes
 D105	leopard	NOUN	yes			Panthera pardus (Felidae)
 D106	cheetah	NOUN	yes			Acinonyx jubatus (Felidae)
 D107	caracal	NOUN	yes		lynx-like desert cat	Caracal caracal (Felidae)
-D108	serval	NOUN	yes	A	long-legged spotted wild cat	Leptailurus serval (Felidae)
+D108	serval	NOUN	yes	E W S C	long-legged spotted wild cat	Leptailurus serval (Felidae)
 D109	genet	NOUN	yes		spotted cat-like carnivore related to civets	Genetta (Viverridae)
 D110	bat	NOUN	yes			Chiroptera
 D111	fruit bat	NOUN	yes			Pteropodidae
@@ -682,14 +682,14 @@ E065	osprey	NOUN	yes			Pandion haliaetus (Pandionidae)
 E066	hooded vulture	NOUN	yes	E W S C		Necrosyrtes monachus (Accipitridae)
 E067	white-backed vulture	NOUN	yes	E W S C		Gyps africanus (Accipitridae)
 E068	snake eagle	NOUN	yes			Circaetus (Accipitridae)
-E069	bataleur	NOUN	yes	E W S C	bateleur eagle	Terathopius ecaudatus (Accipitridae)
+E069	bateleur	NOUN	yes	E W S C	bateleur eagle	Terathopius ecaudatus (Accipitridae)
 E070	black kite	NOUN	yes			Milvus migrans (Accipitridae)
 E071	fish eagle	NOUN	yes	E W S C		Icthyophaga vocifer (Accipitridae)
 E072	long crested eagle	NOUN	yes	E W S C		Lophaetus occipitalis (Accipitridae)
 E073	scops owl	NOUN	yes			Otus (Strigidae)
 E074	greyish eagle owl	NOUN	yes	E W C		Bubo cinerascens (Strigidae)
 E075	mousebird	NOUN	yes	E W S C	long-tailed fruit-eating bird, Colius	Coliidae
-E076	eurasian hoopoe	NOUN	yes			Upupa epops (Upupidae)
+E076	hoopoe	NOUN	yes			Upupa epops (Upupidae)
 E077	green woodhoopoe	NOUN	yes	E W S C		Phoeniculus purpureus (Phoeniculidae)
 E078	ground hornbill	NOUN	yes	E W S C		Bucorvus (Bucerotidae)
 E079	grey hornbill	NOUN	yes	E W S C		Lophoceros nasutus (Bucerotidae)
@@ -728,7 +728,7 @@ E111	white-eye	NOUN	yes		small green bird with a white eye-ring	Zosterops (Zoste
 E112	babbler	NOUN	yes	E W S C	noisy brown social songbird, Turdoides	Turdoides (Leiothrichidae)
 E113	oxpecker	NOUN	yes	E W S C	tickbird that rides on cattle	Buphagus (Buphagidae)
 E114	lesser blue-eared starling	NOUN	yes	E W S C		Lamprotornis chloropterus (Sturnidae)
-E115	ruppels starling	NOUN	yes	E C	Ruppell's glossy starling	Lamprotornis purpuroptera (Sturnidae)
+E115	ruppells starling	NOUN	yes	E C	Rüppell's glossy starling	Lamprotornis purpuroptera (Sturnidae)
 E116	abyssinian thrush	NOUN	yes	E S C		Turdus abyssinicus (Turdidae)
 E117	spotted flycatcher	NOUN	yes			Muscicapa striata (Muscicapidae)
 E118	robin-chat	NOUN	yes	E W S C		Cossypha (Muscicapidae)
@@ -766,7 +766,7 @@ F018	Nile perch	NOUN	yes	E W N C		Lates niloticus (Latidae)
 F019	tilapia	NOUN	yes			Tilapiine cichlids (tribes Oreochromini, Coptodonini, Tilapiini etc.) (Cichlidae)
 F020	tigerfish	NOUN	yes	A	Hydrocynus, toothed predatory river fish	Hydrocynus (Alestidae)
 F021	elephant-snout fish	NOUN	yes	A	mormyrid, fish with a long trunk-like snout	Mormyridae
-F022	Nile bichir	NOUN	yes	A	Polypterus, primitive eel-like fish with a row of dorsal finlets	Polypterus (Polypteridae)
+F022	bichir	NOUN	yes	A	Polypterus, primitive eel-like fish with a row of dorsal finlets	Polypterus (Polypteridae)
 F023	electric catfish	NOUN	yes	A		Malapterurus (Malapteruridae)
 G001	snake	NOUN	yes			Serpentes
 G002	fang	NOUN	yes			
@@ -780,7 +780,7 @@ G009	cobra	NOUN	yes			Naja (Elapidae)
 G010	green mamba	NOUN	yes	E W S C		Dendroaspis angusticeps, D. viridis, D. jamesoni (green mambas) (Elapidae)
 G011	puff adder	NOUN	yes	A		Bitis arietans (Viperidae)
 G012	rhinoceros viper	NOUN	yes	E W S C	Bitis nasicornis, forest viper with horns on the nose	Bitis nasicornis (Viperidae)
-G013	horned viper	NOUN	yes		Cerastes, desert viper with horns over the eyes	Cerastes (Viperidae)
+G013	horned viper	NOUN	yes	E W N	Cerastes, desert viper with horns over the eyes	Cerastes (Viperidae)
 G014	python	NOUN	yes			Python (Pythonidae)
 G015	crocodile	NOUN	yes			Crocodylidae
 G016	lizard	NOUN	yes		any lizard, generic term	Lacertilia (paraphyletic; Squamata minus snakes and amphisbaenians)
@@ -809,7 +809,7 @@ H007	beeswax	NOUN	yes
 H008	honey	NOUN	yes			
 H009	honeycomb	NOUN	yes			
 H010	stinger	NOUN	yes			
-H011	hornet	NOUN	yes		large stinging wasp	Vespa (Vespidae)
+H011	hornet	NOUN	yes	E N	large stinging wasp	Vespa (Vespidae)
 H012	mud wasp	NOUN	yes		wasp that builds its nest of mud (mud dauber, potter wasp)	Sceliphron, Eumeninae (Sphecidae, Vespidae)
 H013	wasp	NOUN	yes			Apocrita (part) (Hymenoptera)
 H014	ant	NOUN	yes			Formicidae
@@ -828,7 +828,7 @@ H026	locust	NOUN	yes		grasshopper in its swarming phase, travelling in destructi
 H027	cricket	NOUN	yes			Gryllidae
 H028	praying mantis	NOUN	yes			Mantodea
 H029	cockroach	NOUN	yes			Blattodea (part)
-H030	june beetle	NOUN	yes		chafer, brown scarab beetle that flies at night	Melolonthinae (Scarabaeidae)
+H030	chafer	NOUN	yes		brown scarab beetle that flies at night (June beetle)	Melolonthinae (Scarabaeidae)
 H031	dung beetle	NOUN	yes			Scarabaeinae (Scarabaeidae)
 H032	shell (of beetle)	NOUN	yes		wing case, elytra	
 H033	butterfly	NOUN	yes			Papilionoidea (Lepidoptera)
@@ -854,14 +854,14 @@ H052	scorpion	NOUN	yes			Scorpiones
 H053	centipede	NOUN	yes			Chilopoda
 H054	millipede	NOUN	yes			Diplopoda
 H055	snail	NOUN	yes			Gastropoda (part)
-H056	tree snail	NOUN	yes			Gastropoda (part)
-H057	ground snail	NOUN	yes		land snail, e.g. giant African land snail	Stylommatophora (part)
-H058	aquatic snail	NOUN	yes			Gastropoda (part)
-H059	shell (of snail)	NOUN	yes			
-H060	crab	NOUN	yes			Brachyura (Decapoda)
-H061	shrimp	NOUN	yes			Decapoda (part)
-H062	clam	NOUN	yes		rounded bivalve that burrows in sand or mud	Bivalvia (part)
-H063	mussel	NOUN	yes		elongated bivalve that clings to rocks	Bivalvia (part)
+H055b	tree snail	NOUN	no			Gastropoda (part)
+H055c	ground snail	NOUN	no		land snail, e.g. giant African land snail	Stylommatophora (part)
+H055d	aquatic snail	NOUN	no			Gastropoda (part)
+H056	shell (of snail)	NOUN	yes			
+H057	crab	NOUN	yes			Brachyura (Decapoda)
+H058	shrimp	NOUN	yes			Decapoda (part)
+H059	clam	NOUN	yes		rounded bivalve that burrows in sand or mud	Bivalvia (part)
+H060	mussel	NOUN	yes		elongated bivalve that clings to rocks	Bivalvia (part)
 I001	spirit (greater)	NOUN	yes		God, the supreme being	
 I002	spirit (lower)	NOUN	yes		lesser god or spirit	
 I003	spirit (evil)	NOUN	yes			
@@ -1190,13 +1190,13 @@ K026	granary	NOUN	yes
 K027	cattle pen	NOUN	yes			
 K028	cattle camp	NOUN	yes	E	seasonal camp where herders keep their cattle	
 K029	fence	NOUN	yes			
-K030	fence (see-thru)	NOUN	yes		open lattice fence one can see through	
+K030	fence (see-through)	NOUN	yes		open lattice fence one can see through	
 K031	stake	NOUN	yes		pointed post driven into the ground	
 K032	well	NOUN	yes			
 K033	bathing place	NOUN	yes			
 K034	toilet	NOUN	yes			
-K035	garbage dump	NOUN	yes			
-K036	garbage	NOUN	yes			
+K035	garbage dump	NOUN	yes		rubbish dump, refuse heap	
+K036	garbage	NOUN	yes		rubbish, refuse	
 K037	garden	NOUN	yes			
 K038	farm field	NOUN	yes			
 K038b	field boundary	NOUN	yes			
@@ -1400,15 +1400,15 @@ K207	lyre	NOUN	yes	E
 K208	fiddle	NOUN	yes			
 K209	xylophone	NOUN	yes	W	balafon, gourd-resonated xylophone	
 K210	rattle (musical)	NOUN	yes			
-K211	clave	NOUN	yes		pair of sticks struck together	
+K211	clapping sticks	NOUN	yes		pair of sticks struck together (claves)	
 K212	whistle	NOUN	yes			
 K213	mask	NOUN	yes			
 K214	tobacco pipe	NOUN	yes			
 K215	pipe-stem	NOUN	yes			
-K216	bong	NOUN	yes	E	water pipe for smoking tobacco	
-K216a	bong downstem	NOUN	yes	E	tube from the bowl down into the water	
-K216b	bong cap	NOUN	yes	E	bowl on top holding the tobacco	
-K216c	bong straw	NOUN	yes	E	tube for drawing the smoke	
+K216	water pipe	NOUN	yes	E	water pipe for smoking tobacco (hookah, bong)	
+K216a	water pipe downstem	NOUN	yes	E	tube from the bowl down into the water	
+K216b	water pipe bowl	NOUN	yes	E	bowl on top holding the tobacco	
+K216c	water pipe mouthpiece	NOUN	yes	E	tube for drawing the smoke	
 K217	toy ring	NOUN	yes		a rolling hoop, pushed along with a stick	
 K218	ball	NOUN	yes			
 K219	mancala	NOUN	yes	A	pit-and-pebble board game (gebeta, bao, oware)	
@@ -1536,7 +1536,7 @@ L106	cliff	NOUN	yes
 L107	valley	NOUN	yes			
 L108	ditch	NOUN	yes			
 L109	pit	NOUN	yes			
-L110	hole	NOUN	yes		either hole, (c) hole in the ground, pit, or (d) hole through something, perforation	
+L110	hole	NOUN	yes		either hole, (c) hole in the ground, or (d) hole through something, perforation; a pit is L109	
 L110b	den	NOUN	yes		animal den, lair or burrow	
 L111	sinkhole	NOUN	yes		natural collapse hole in the ground	
 L112	crevice	NOUN	yes			
@@ -1637,15 +1637,14 @@ O009b	whole	QUANT	yes		entire
 O009c	everybody	QUANT	yes			
 O009d	everything	QUANT	yes			
 O009e	everywhere	ADVERB	yes			
-O010	many	QUANT	yes			
-O011	some	QUANT	yes			
-O011b	someone	PRONOUN	no			
-O011c	something	PRONOUN	no			
-O012	none	QUANT	yes		either none, (a) nobody, or (b) nothing	
-O013	both	QUANT	yes			
-O014	half	QUANT	yes			
-O014b	piece	NOUN	yes			
-O015	only	ADVERB	yes			
+O010	some	QUANT	yes			
+O010b	someone	PRONOUN	no			
+O010c	something	PRONOUN	no			
+O011	none	QUANT	yes		either none, (a) nobody, or (b) nothing	
+O012	both	QUANT	yes			
+O013	half	QUANT	yes			
+O013b	piece	NOUN	yes			
+O014	only	ADVERB	yes			
 P001	(be) big	ADJECTIVE	yes			
 P001b	size	NOUN	yes			
 P002	(be) small	ADJECTIVE	yes			
@@ -1734,7 +1733,7 @@ P071	(be) spotted	ADJECTIVE	yes
 P071b	very (spotted)	ADVERB	yes	E	intensified form, often an ideophone	
 P072	(be) solid coloured	ADJECTIVE	yes	E	of one colour, without markings (of hides)	
 P073	(be) piebald	ADJECTIVE	yes	E	patched black and white (of animals)	
-P074	(be) savory	ADJECTIVE	yes		tasty, delicious	
+P074	(be) savoury	ADJECTIVE	yes		tasty, delicious	
 P075	(be) sweet	ADJECTIVE	yes			
 P076	(be) sour	ADJECTIVE	yes			
 P077	(be) bitter	ADJECTIVE	yes			
@@ -1763,103 +1762,102 @@ P092	(be) naked	ADJECTIVE	yes
 P093	(be) healthy	ADJECTIVE	yes			
 P093b	health	NOUN	yes			
 P094	(be) sick	ADJECTIVE	yes			
-P095	(be) ill	ADJECTIVE	yes			
-P096	(be) strong	ADJECTIVE	yes			
-P096b	strength	NOUN	yes			
-P096c	(be) powerful	ADJECTIVE	no		great, mighty	
-P096d	glory	NOUN	no		splendour	
-P097	(be) muscular	ADJECTIVE	yes			
-P098	(be) weak	ADJECTIVE	yes			
-P098b	weakness	NOUN	yes			
-P099	(be) fat	ADJECTIVE	yes			
-P100	(be) skinny	ADJECTIVE	yes			
-P101	(be) emaciated	ADJECTIVE	yes		extremely thin, wasted	
-P102	(be) lame	ADJECTIVE	yes		crippled, walking with a limp	
-P103	(be) blind	ADJECTIVE	yes			
-P103b	blindness	NOUN	yes			
-P104	(be) myopic	ADJECTIVE	yes		short-sighted	
-P105	(be) mute	ADJECTIVE	yes			
-P106	(be) bald	ADJECTIVE	yes			
-P107	(be) impotent	ADJECTIVE	yes		unable to have sex (of a man)	
-P108	(be) alive	ADJECTIVE	yes			
-P109	(be) dead	ADJECTIVE	yes			
-P110	(be) young	ADJECTIVE	yes			
-P111	(be) old (not young)	ADJECTIVE	yes			
-P112	(be) happy	ADJECTIVE	yes			
-P112b	happiness	NOUN	yes			
-P113	(be) sad	ADJECTIVE	yes			
-P113b	sadness	NOUN	yes			
-P114	(be) angry	ADJECTIVE	yes			
-P114b	anger	NOUN	yes			
-P115	(be) afraid	ADJECTIVE	yes			
-P115b	fear	NOUN	yes			
-P116	(be) proud	ADJECTIVE	yes			
-P116b	pride	NOUN	yes			
-P117	(be) jealous	ADJECTIVE	yes			
-P117b	jealousy	NOUN	yes			
-P118	(be) shy	ADJECTIVE	yes			
-P118b	shame	NOUN	yes			
-P119	(be) bored	ADJECTIVE	yes			
-P120	(be) restless	ADJECTIVE	yes			
-P121	(be) eager	ADJECTIVE	yes			
-P122	(be) curious	ADJECTIVE	yes		inquisitive, eager to know	
-P123	(be) alone	ADJECTIVE	yes			
-P124	(be) brave	ADJECTIVE	yes			
-P124b	bravery	NOUN	yes			
-P125	(be) kind	ADJECTIVE	yes			
-P125b	kindness	NOUN	yes			
-P125c	pity	NOUN	yes		compassion	
-P126	(be) generous	ADJECTIVE	yes			
-P127	(be) selfish	ADJECTIVE	yes			
-P128	(be) honest	ADJECTIVE	yes			
-P129	(be) just	ADJECTIVE	no		fair, righteous	
-P129b	justice	NOUN	no			
-P130	(be) corrupt	ADJECTIVE	yes			
-P131	(be) wicked	ADJECTIVE	yes			
-P132	(be) fierce	ADJECTIVE	yes			
-P133	(be) lazy	ADJECTIVE	yes			
-P133b	laziness	NOUN	yes			
-P134	(be) patient	ADJECTIVE	yes			
-P134b	patience	NOUN	yes			
-P135	(be) impatient	ADJECTIVE	yes			
-P136	(be) stubborn	ADJECTIVE	yes			
-P136b	stubbornness	NOUN	yes			
-P137	(be) wise	ADJECTIVE	yes			
-P138	(be) intelligent	ADJECTIVE	yes			
-P139	(be) foolish	ADJECTIVE	yes			
-P139b	foolishness	NOUN	yes			
-P140	(be) confused	ADJECTIVE	yes			
-P141	(be) ignorant	ADJECTIVE	yes		lacking knowledge, unaware	
-P142	(be) skilled	ADJECTIVE	yes			
-P143	(be) able	ADJECTIVE	yes			
-P143b	ability	NOUN	yes			
-P144	(be) eloquent	ADJECTIVE	yes			
-P145	(be) silent	ADJECTIVE	yes			
-P146	(be) good	ADJECTIVE	yes			
-P146b	(be) perfect	ADJECTIVE	no			
-P146c	properly	ADVERB	no		well, in a good way (adverb)	
-P146d	perfection	NOUN	no			
-P147	(be) bad	ADJECTIVE	yes			
-P147b	badly	ADVERB	no		poorly, in a bad way (adverb)	
-P148	(be) correct	ADJECTIVE	yes			
-P149	(be) wrong	ADJECTIVE	yes			
-P150	(be) guilty	ADJECTIVE	yes			
-P151	(be) innocent	ADJECTIVE	yes			
-P152	(be) beautiful	ADJECTIVE	yes			
-P153	(be) ugly	ADJECTIVE	yes			
-P154	(be) important	ADJECTIVE	yes			
-P155	(be) amusing	ADJECTIVE	yes			
-P156	(be) easy	ADJECTIVE	yes			
-P157	(be) difficult	ADJECTIVE	yes			
-P158	(be) rich	ADJECTIVE	yes			
-P159	(be) poor	ADJECTIVE	yes			
-P160	(be) expensive	ADJECTIVE	yes			
-P161	(be) inexpensive	ADJECTIVE	yes			
-P162	(be) lost	ADJECTIVE	yes			
-P163	(be) absent	ADJECTIVE	yes			
-P164	(be) near here	ADJECTIVE	yes		near the speaker	
-P165	(be) near there	ADJECTIVE	yes		near a place away from the speaker	
-P166	(be) far	ADJECTIVE	yes			
+P095	(be) strong	ADJECTIVE	yes			
+P095b	strength	NOUN	yes			
+P095c	(be) powerful	ADJECTIVE	no		great, mighty	
+P095d	glory	NOUN	no		splendour	
+P096	(be) muscular	ADJECTIVE	yes			
+P097	(be) weak	ADJECTIVE	yes			
+P097b	weakness	NOUN	yes			
+P098	(be) fat	ADJECTIVE	yes			
+P099	(be) skinny	ADJECTIVE	yes			
+P100	(be) emaciated	ADJECTIVE	yes		extremely thin, wasted	
+P101	(be) lame	ADJECTIVE	yes		crippled, walking with a limp	
+P102	(be) blind	ADJECTIVE	yes			
+P102b	blindness	NOUN	yes			
+P103	(be) myopic	ADJECTIVE	yes		short-sighted	
+P104	(be) mute	ADJECTIVE	yes			
+P105	(be) bald	ADJECTIVE	yes			
+P106	(be) impotent	ADJECTIVE	yes		unable to have sex (of a man)	
+P107	(be) alive	ADJECTIVE	yes			
+P108	(be) dead	ADJECTIVE	yes			
+P109	(be) young	ADJECTIVE	yes			
+P110	(be) old (not young)	ADJECTIVE	yes			
+P111	(be) happy	ADJECTIVE	yes			
+P111b	happiness	NOUN	yes			
+P112	(be) sad	ADJECTIVE	yes			
+P112b	sadness	NOUN	yes			
+P113	(be) angry	ADJECTIVE	yes			
+P113b	anger	NOUN	yes			
+P114	(be) afraid	ADJECTIVE	yes			
+P114b	fear	NOUN	yes			
+P115	(be) proud	ADJECTIVE	yes			
+P115b	pride	NOUN	yes			
+P116	(be) jealous	ADJECTIVE	yes			
+P116b	jealousy	NOUN	yes			
+P117	(be) shy	ADJECTIVE	yes			
+P117b	shame	NOUN	yes			
+P118	(be) bored	ADJECTIVE	yes			
+P119	(be) restless	ADJECTIVE	yes			
+P120	(be) eager	ADJECTIVE	yes			
+P121	(be) curious	ADJECTIVE	yes		inquisitive, eager to know	
+P122	(be) alone	ADJECTIVE	yes			
+P123	(be) brave	ADJECTIVE	yes			
+P123b	bravery	NOUN	yes			
+P124	(be) kind	ADJECTIVE	yes			
+P124b	kindness	NOUN	yes			
+P124c	pity	NOUN	yes		compassion	
+P125	(be) generous	ADJECTIVE	yes			
+P126	(be) selfish	ADJECTIVE	yes			
+P127	(be) honest	ADJECTIVE	yes			
+P128	(be) just	ADJECTIVE	no		fair, righteous	
+P128b	justice	NOUN	no			
+P129	(be) corrupt	ADJECTIVE	yes			
+P130	(be) wicked	ADJECTIVE	yes			
+P131	(be) fierce	ADJECTIVE	yes			
+P132	(be) lazy	ADJECTIVE	yes			
+P132b	laziness	NOUN	yes			
+P133	(be) patient	ADJECTIVE	yes			
+P133b	patience	NOUN	yes			
+P134	(be) impatient	ADJECTIVE	yes			
+P135	(be) stubborn	ADJECTIVE	yes			
+P135b	stubbornness	NOUN	yes			
+P136	(be) wise	ADJECTIVE	yes			
+P137	(be) intelligent	ADJECTIVE	yes			
+P138	(be) foolish	ADJECTIVE	yes			
+P138b	foolishness	NOUN	yes			
+P139	(be) confused	ADJECTIVE	yes			
+P140	(be) ignorant	ADJECTIVE	yes		lacking knowledge, unaware	
+P141	(be) skilled	ADJECTIVE	yes			
+P142	(be) able	ADJECTIVE	yes			
+P142b	ability	NOUN	yes			
+P143	(be) eloquent	ADJECTIVE	yes			
+P144	(be) silent	ADJECTIVE	yes			
+P145	(be) good	ADJECTIVE	yes			
+P145b	(be) perfect	ADJECTIVE	no			
+P145c	properly	ADVERB	no		well, in a good way (adverb)	
+P145d	perfection	NOUN	no			
+P146	(be) bad	ADJECTIVE	yes			
+P146b	badly	ADVERB	no		poorly, in a bad way (adverb)	
+P147	(be) correct	ADJECTIVE	yes			
+P148	(be) wrong	ADJECTIVE	yes			
+P149	(be) guilty	ADJECTIVE	yes			
+P150	(be) innocent	ADJECTIVE	yes			
+P151	(be) beautiful	ADJECTIVE	yes			
+P152	(be) ugly	ADJECTIVE	yes			
+P153	(be) important	ADJECTIVE	yes			
+P154	(be) amusing	ADJECTIVE	yes			
+P155	(be) easy	ADJECTIVE	yes			
+P156	(be) difficult	ADJECTIVE	yes			
+P157	(be) rich	ADJECTIVE	yes			
+P158	(be) poor	ADJECTIVE	yes			
+P159	(be) expensive	ADJECTIVE	yes			
+P160	(be) inexpensive	ADJECTIVE	yes			
+P161	(be) lost	ADJECTIVE	yes			
+P162	(be) absent	ADJECTIVE	yes			
+P163	(be) near here	ADJECTIVE	yes		near the speaker	
+P164	(be) near there	ADJECTIVE	yes		near a place away from the speaker	
+P165	(be) far	ADJECTIVE	yes			
 Q001	one	QUANT	yes			
 Q001b	first	QUANT	yes			
 Q001c	once	ADVERB	yes		one time, not formerly	
@@ -2258,7 +2256,7 @@ V273	to mix	VERB	yes
 V274	to stir	VERB	yes			
 V275	to strain (food)	VERB	yes			
 V276	to pound	VERB	yes			
-V277	to pulverise	VERB	yes			
+V277	to pulverize	VERB	yes			
 V278	to grind (first pass)	VERB	yes	A	first, coarse grinding on a grinding stone	
 V279	to grind (second pass)	VERB	yes	A	second, finer grinding	
 V280	to grind (third pass)	VERB	yes	A	third, finest grinding	
@@ -2288,7 +2286,7 @@ V301	to weave	VERB	yes
 V302	to thread	VERB	yes		string beads	
 V303	to tie	VERB	yes			
 V304	to untie	VERB	yes			
-V305	to bind (rope)	VERB	yes			
+V305	to bind (rope)	VERB	yes		bind up a bundle	
 V306	to tighten	VERB	yes			
 V307	to loosen	VERB	yes			
 V308	to fence in	VERB	yes			
@@ -2342,7 +2340,7 @@ V354	to release	VERB	yes		either release, (a) set free a captive or animal, or (
 V355	to make able	VERB	yes			
 V356	to enlarge	VERB	yes			
 V356b	to increase	VERB	yes		intransitive: become more or bigger	
-V357	to diminish	VERB	yes		make less or smaller	
+V357	to make less	VERB	yes		transitive: make something less or smaller	
 V357b	to decrease	VERB	yes		intransitive: become less or smaller	
 V358	to lengthen	VERB	yes			
 V359	to shorten	VERB	yes			
@@ -2365,7 +2363,7 @@ V375	to quench (fire)	VERB	yes
 V376	to fan (fire)	VERB	yes			
 V377	to add	VERB	yes		either add, (a) put more in, or (b) sum numbers	
 V378	to subtract	VERB	yes			
-V379	to reduce	VERB	yes			
+V379	to shrink	VERB	yes		intransitive: become less or smaller	
 V380	to join together	VERB	yes			
 V381	to accumulate	VERB	yes			
 V381b	to heap up	VERB	yes		pile up into a heap	
@@ -2432,7 +2430,7 @@ V438	to respect	VERB	yes
 V438b	reverence	NOUN	yes		awe, especially toward God	
 V439	to honour	VERB	yes			
 V440	to suffer	VERB	yes			
-V441	to struggle	VERB	yes		either struggle, (a) wrestle or fight physically, or (b) strive against a difficulty	
+V441	to struggle	VERB	yes		strive against a difficulty; not a physical fight (V513)	
 V442	to say	VERB	yes			
 V443	to speak	VERB	yes			
 V443b	speech	NOUN	yes		a formal address, discourse	
@@ -2460,7 +2458,7 @@ V462	to insult	VERB	yes
 V462b	insult	NOUN	yes			
 V463	to slander	VERB	yes			
 V464	to threaten	VERB	yes			
-V465	to argue	VERB	yes			
+V465	to argue	VERB	yes		argue verbally, with words only	
 V465b	argument	NOUN	yes		dispute, quarrel	
 V466	to grumble	VERB	yes			
 V467	to contradict	VERB	yes			
@@ -2512,7 +2510,7 @@ V508	to obey	VERB	yes
 V509	to please	VERB	yes			
 V510	to annoy	VERB	yes			
 V511	to deceive	VERB	yes			
-V512	to quarrel	VERB	yes			
+V512	to be in dispute	VERB	yes		be in a dispute or feud, not necessarily verbally	
 V513	to fight	VERB	yes			
 V514	to take revenge	VERB	yes			
 V515	to intercede	VERB	yes		mediate on behalf of another	

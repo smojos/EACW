@@ -854,14 +854,14 @@ H052	عقرب		machine		scorpion
 H053	حريش, أم أربعة وأربعين (سريعة لاسعة)		machine		centipede	
 H054	دودة ألفية الأرجل (بطيئة أسطوانية تلتف على نفسها)		machine		millipede	
 H055	حلزون, قوقع		machine		snail	
-H056	حلزون الشجر		machine		tree snail	
-H057	حلزون بري		machine		land snail	
-H058	حلزون مائي, قوقع الماء		machine		water snail, aquatic snail	
-H059	صدفة الحلزون, قوقعة		machine		snail shell	
-H060	سرطان, سلطعون		machine		crab	
-H061	جمبري, روبيان		machine		shrimp, prawn	
-H062	محارة (حيوان ذو صدفتين)		machine		oyster; shellfish, clam, mussel	
-H063	بلح البحر, محار المياه العذبة		machine		mussel; freshwater mussel	
+H055b	حلزون الشجر		machine		tree snail	
+H055c	حلزون بري		machine		land snail	
+H055d	حلزون مائي, قوقع الماء		machine		water snail, aquatic snail	
+H056	صدفة الحلزون, قوقعة		machine		snail shell	
+H057	سرطان, سلطعون		machine		crab	
+H058	جمبري, روبيان		machine		shrimp, prawn	
+H059	محارة (حيوان ذو صدفتين)		machine		oyster; shellfish, clam, mussel	
+H060	بلح البحر, محار المياه العذبة		machine		mussel; freshwater mussel	
 I001	الإله الأعلى, الإله الخالق	الكائن الأعلى خالق الكون، أيًّا كان دين المتكلم؛ ويقول المسلمون والمسيحيون العرب «الله».	machine		God, the Creator God	
 I002	إله أدنى, روح	إله أو روح أدنى منزلة من الإله الأعلى، كما في الديانات التقليدية.	machine		lesser god, spirit	
 I003	روح شريرة, شيطان		machine		evil spirit, devil	
@@ -1637,15 +1637,14 @@ O009b	كامل, بأكمله		machine		whole, entire
 O009c	الجميع, كل الناس		machine		everyone, everybody	
 O009d	كل شيء		machine		everything	
 O009e	في كل مكان		machine		everywhere	
-O010	كثير, عديد		machine		many, much	
-O011	بعض		machine		some	
-O011b	شخص ما, أحد		machine		someone, somebody	
-O011c	شيء ما		machine		something	
-O012	لا أحد, لا شيء		machine		nobody, nothing	
-O013	كلاهما, الاثنان		machine		both	
-O014	نصف		machine		half	
-O014b	قطعة		machine		piece	
-O015	فقط		machine		only	
+O010	بعض		machine		some	
+O010b	شخص ما, أحد		machine		someone, somebody	
+O010c	شيء ما		machine		something	
+O011	لا أحد, لا شيء		machine		nobody, nothing	
+O012	كلاهما, الاثنان		machine		both	
+O013	نصف		machine		half	
+O013b	قطعة		machine		piece	
+O014	فقط		machine		only	
 P001	كبير		machine		big, large	
 P001b	حجم, مقاس		machine		size, measurement	
 P002	صغير		machine		small, little	
@@ -1763,103 +1762,102 @@ P092	عارٍ, عريان		machine		naked
 P093	بصحة جيدة, معافى		machine		healthy, in good health, well	
 P093b	صحة, عافية		machine		health, wellness	
 P094	مريض		machine		sick, ill	
-P095	مريض, عليل		machine		sick, ailing	
-P096	قويّ		machine		strong	
-P096b	قوة		machine		strength, power	
-P096c	عظيم, مقتدر		machine		great, powerful, mighty	
-P096d	مجد, عظمة		machine		glory, greatness	
-P097	مفتول العضلات		machine		muscular, well-built	
-P098	ضعيف		machine		weak	
-P098b	ضعف		machine		weakness	
-P099	سمين, بدين		machine		fat, obese	
-P100	نحيف, نحيل		machine		thin, slim	
-P101	هزيل, ناحل		machine		emaciated, skinny, gaunt	
-P102	أعرج		machine		lame, limping	
-P103	أعمى, كفيف	«كفيف» ألطف من «أعمى»	machine		blind	
-P103b	عمى, فقدان البصر		machine		blindness, loss of sight	
-P104	قصير النظر		machine		short-sighted, near-sighted	
-P105	أبكم, أخرس		machine		mute, dumb	
-P106	أصلع		machine		bald	
-P107	عاجز جنسيًا, عِنّين		machine		(sexually) impotent	
-P108	حيّ		machine		alive, living	
-P109	ميّت		machine		dead	
-P110	شابّ, صغير السنّ		machine		young, youthful	
-P111	مُسِنّ, كبير السنّ		machine		elderly, old (in age)	
-P112	سعيد, فرحان		machine		happy, glad	
-P112b	سعادة, فرح		machine		happiness, joy	
-P113	حزين		machine		sad	
-P113b	حزن		machine		sadness, grief	
-P114	غاضب		machine		angry	
-P114b	غضب		machine		anger	
-P115	خائف		machine		afraid, scared	
-P115b	خوف		machine		fear	
-P116	فخور		machine		proud	
-P116b	فخر, اعتزاز		machine		pride	
-P117	غيور		machine		jealous	
-P117b	غيرة		machine		jealousy	
-P118	خجول		machine		shy, bashful	
-P118b	خجل, عار		machine		shyness, embarrassment, shame	
-P119	ضَجِر, شاعر بالملل		machine		bored, fed up	
-P120	متململ, لا يهدأ	لا يستقرّ في مكانه	machine		worried, anxious, troubled	
-P121	متحمّس, متلهّف		machine		excited, eager, enthusiastic	
-P122	فضولي, محبّ للاستطلاع		machine		curious, inquisitive	
-P123	وحيد, بمفرده		machine		alone, lonely, by oneself	
-P124	شجاع		machine		brave	
-P124b	شجاعة		machine		courage, bravery	
-P125	لطيف, طيّب		machine		kind, nice	
-P125b	لطف, طيبة		machine		kindness, goodness	
-P125c	شفقة, رحمة		machine		pity, mercy, compassion	
-P126	كريم		machine		generous	
-P127	أناني		machine		selfish	
-P128	صادق, أمين		machine		honest, truthful, trustworthy	
-P129	عادل		machine		fair, just	
-P129b	عدل, عدالة		machine		justice, fairness	
-P130	فاسد, مرتشٍ		machine		corrupt, bribe-taking	
-P131	شرير		machine		evil, wicked	
-P132	شرس, ضارٍ		machine		fierce, ferocious, vicious	
-P133	كسول, كسلان		machine		lazy	
-P133b	كسل		machine		laziness	
-P134	صبور		machine		patient	
-P134b	صبر		machine		patience	
-P135	نافد الصبر, قليل الصبر		machine		impatient	
-P136	عنيد		machine		stubborn	
-P136b	عناد		machine		stubbornness	
-P137	حكيم		machine		wise	
-P138	ذكيّ		machine		intelligent, clever	
-P139	أحمق, غبيّ		machine		foolish, stupid	
-P139b	حماقة, غباء		machine		foolishness, stupidity	
-P140	مرتبك, حائر		machine		confused, puzzled, perplexed	
-P141	جاهل		machine		ignorant	
-P142	ماهر, حاذق		machine		skilled, skilful, clever	
-P143	قادر		machine		able, capable	
-P143b	قدرة, استطاعة		machine		ability, capability	
-P144	فصيح, بليغ		machine		eloquent, articulate	
-P145	صامت, ساكت		machine		silent, quiet	
-P146	جيّد, حسن		machine		good, fine	
-P146b	كامل, مثالي		machine		complete, perfect, ideal	
-P146c	جيّدًا, كما ينبغي		machine		well, properly, as it should be	
-P146d	كمال		machine		perfection	
-P147	سيّئ, رديء		machine		bad, poor (in quality)	
-P147b	بشكل سيّئ, على نحو رديء		machine		badly, poorly	
-P148	صحيح, صائب		machine		correct, right	
-P149	خاطئ, مخطئ		machine		wrong, mistaken	
-P150	مذنب		machine		guilty	
-P151	بريء		machine		innocent	
-P152	جميل		machine		beautiful, pretty	
-P153	قبيح, دميم		machine		ugly	
-P154	مهمّ		machine		important	
-P155	مسلٍّ, مضحك		machine		entertaining, funny, amusing	
-P156	سهل		machine		easy	
-P157	صعب		machine		difficult, hard	
-P158	غنيّ		machine		rich, wealthy	
-P159	فقير		machine		poor	
-P160	غالٍ, مرتفع الثمن		machine		expensive, costly	
-P161	رخيص		machine		cheap	
-P162	ضائع, مفقود		machine		lost, missing	
-P163	غائب		machine		absent	
-P164	قريب من هنا		machine		near here, close by	
-P165	قريب من هناك		machine		near there, close to there	
-P166	بعيد		machine		far, distant	
+P095	قويّ		machine		strong	
+P095b	قوة		machine		strength, power	
+P095c	عظيم, مقتدر		machine		great, powerful, mighty	
+P095d	مجد, عظمة		machine		glory, greatness	
+P096	مفتول العضلات		machine		muscular, well-built	
+P097	ضعيف		machine		weak	
+P097b	ضعف		machine		weakness	
+P098	سمين, بدين		machine		fat, obese	
+P099	نحيف, نحيل		machine		thin, slim	
+P100	هزيل, ناحل		machine		emaciated, skinny, gaunt	
+P101	أعرج		machine		lame, limping	
+P102	أعمى, كفيف	«كفيف» ألطف من «أعمى»	machine		blind	
+P102b	عمى, فقدان البصر		machine		blindness, loss of sight	
+P103	قصير النظر		machine		short-sighted, near-sighted	
+P104	أبكم, أخرس		machine		mute, dumb	
+P105	أصلع		machine		bald	
+P106	عاجز جنسيًا, عِنّين		machine		(sexually) impotent	
+P107	حيّ		machine		alive, living	
+P108	ميّت		machine		dead	
+P109	شابّ, صغير السنّ		machine		young, youthful	
+P110	مُسِنّ, كبير السنّ		machine		elderly, old (in age)	
+P111	سعيد, فرحان		machine		happy, glad	
+P111b	سعادة, فرح		machine		happiness, joy	
+P112	حزين		machine		sad	
+P112b	حزن		machine		sadness, grief	
+P113	غاضب		machine		angry	
+P113b	غضب		machine		anger	
+P114	خائف		machine		afraid, scared	
+P114b	خوف		machine		fear	
+P115	فخور		machine		proud	
+P115b	فخر, اعتزاز		machine		pride	
+P116	غيور		machine		jealous	
+P116b	غيرة		machine		jealousy	
+P117	خجول		machine		shy, bashful	
+P117b	خجل, عار		machine		shyness, embarrassment, shame	
+P118	ضَجِر, شاعر بالملل		machine		bored, fed up	
+P119	متململ, لا يهدأ	لا يستقرّ في مكانه	machine		worried, anxious, troubled	
+P120	متحمّس, متلهّف		machine		excited, eager, enthusiastic	
+P121	فضولي, محبّ للاستطلاع		machine		curious, inquisitive	
+P122	وحيد, بمفرده		machine		alone, lonely, by oneself	
+P123	شجاع		machine		brave	
+P123b	شجاعة		machine		courage, bravery	
+P124	لطيف, طيّب		machine		kind, nice	
+P124b	لطف, طيبة		machine		kindness, goodness	
+P124c	شفقة, رحمة		machine		pity, mercy, compassion	
+P125	كريم		machine		generous	
+P126	أناني		machine		selfish	
+P127	صادق, أمين		machine		honest, truthful, trustworthy	
+P128	عادل		machine		fair, just	
+P128b	عدل, عدالة		machine		justice, fairness	
+P129	فاسد, مرتشٍ		machine		corrupt, bribe-taking	
+P130	شرير		machine		evil, wicked	
+P131	شرس, ضارٍ		machine		fierce, ferocious, vicious	
+P132	كسول, كسلان		machine		lazy	
+P132b	كسل		machine		laziness	
+P133	صبور		machine		patient	
+P133b	صبر		machine		patience	
+P134	نافد الصبر, قليل الصبر		machine		impatient	
+P135	عنيد		machine		stubborn	
+P135b	عناد		machine		stubbornness	
+P136	حكيم		machine		wise	
+P137	ذكيّ		machine		intelligent, clever	
+P138	أحمق, غبيّ		machine		foolish, stupid	
+P138b	حماقة, غباء		machine		foolishness, stupidity	
+P139	مرتبك, حائر		machine		confused, puzzled, perplexed	
+P140	جاهل		machine		ignorant	
+P141	ماهر, حاذق		machine		skilled, skilful, clever	
+P142	قادر		machine		able, capable	
+P142b	قدرة, استطاعة		machine		ability, capability	
+P143	فصيح, بليغ		machine		eloquent, articulate	
+P144	صامت, ساكت		machine		silent, quiet	
+P145	جيّد, حسن		machine		good, fine	
+P145b	كامل, مثالي		machine		complete, perfect, ideal	
+P145c	جيّدًا, كما ينبغي		machine		well, properly, as it should be	
+P145d	كمال		machine		perfection	
+P146	سيّئ, رديء		machine		bad, poor (in quality)	
+P146b	بشكل سيّئ, على نحو رديء		machine		badly, poorly	
+P147	صحيح, صائب		machine		correct, right	
+P148	خاطئ, مخطئ		machine		wrong, mistaken	
+P149	مذنب		machine		guilty	
+P150	بريء		machine		innocent	
+P151	جميل		machine		beautiful, pretty	
+P152	قبيح, دميم		machine		ugly	
+P153	مهمّ		machine		important	
+P154	مسلٍّ, مضحك		machine		entertaining, funny, amusing	
+P155	سهل		machine		easy	
+P156	صعب		machine		difficult, hard	
+P157	غنيّ		machine		rich, wealthy	
+P158	فقير		machine		poor	
+P159	غالٍ, مرتفع الثمن		machine		expensive, costly	
+P160	رخيص		machine		cheap	
+P161	ضائع, مفقود		machine		lost, missing	
+P162	غائب		machine		absent	
+P163	قريب من هنا		machine		near here, close by	
+P164	قريب من هناك		machine		near there, close to there	
+P165	بعيد		machine		far, distant	
 Q001	واحد		machine		one (masculine)	
 Q001b	أوّل		machine		first (masculine ordinal)	
 Q001c	مرّة واحدة		machine		once; one time	

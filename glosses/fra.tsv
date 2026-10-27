@@ -854,14 +854,14 @@ H052	scorpion		machine		scorpion
 H053	scolopendre, mille-pattes plat qui pique	En français courant, « mille-pattes » désigne aussi la scolopendre.	machine		centipede, scolopendra	
 H054	iule, mille-pattes rond qui s’enroule		machine		millipede	
 H055	escargot		machine		snail	
-H056	escargot arboricole		machine		tree snail	
-H057	escargot terrestre, achatine		machine		land snail, giant African snail (Achatina)	
-H058	escargot aquatique		machine		water snail	
-H059	coquille d’escargot		machine		snail shell	
-H060	crabe		machine		crab	
-H061	crevette		machine		shrimp, prawn	
-H062	palourde		machine		clam	
-H063	moule (coquillage)		machine		mussel	
+H055b	escargot arboricole		machine		tree snail	
+H055c	escargot terrestre, achatine		machine		land snail, giant African snail (Achatina)	
+H055d	escargot aquatique		machine		water snail	
+H056	coquille d’escargot		machine		snail shell	
+H057	crabe		machine		crab	
+H058	crevette		machine		shrimp, prawn	
+H059	palourde		machine		clam	
+H060	moule (coquillage)		machine		mussel	
 I001	Dieu, être suprême		machine		God, Supreme Being	
 I002	divinité secondaire, esprit		machine		lesser deity, spirit	
 I003	esprit mauvais, démon		machine		evil spirit, demon	
@@ -1637,15 +1637,14 @@ O009b	entier, tout entier		machine		whole, entire
 O009c	tout le monde		machine		everyone, everybody	
 O009d	tout, toute chose		machine		everything	
 O009e	partout		machine		everywhere	
-O010	beaucoup (de), nombreux		machine		many, a lot (of)	
-O011	quelques, certains		machine		some, a few	
-O011b	quelqu'un		machine		someone, somebody	
-O011c	quelque chose		machine		something	
-O012	aucun, nul		machine		none, no	
-O013	les deux, tous les deux		machine		both	
-O014	moitié		machine		half	
-O014b	morceau		machine		piece	
-O015	seulement		machine		only	
+O010	quelques, certains		machine		some, a few	
+O010b	quelqu'un		machine		someone, somebody	
+O010c	quelque chose		machine		something	
+O011	aucun, nul		machine		none, no	
+O012	les deux, tous les deux		machine		both	
+O013	moitié		machine		half	
+O013b	morceau		machine		piece	
+O014	seulement		machine		only	
 P001	grand, gros		machine		be big, be large	
 P001b	taille, grandeur		machine		size, largeness	
 P002	petit		machine		be small	
@@ -1763,103 +1762,102 @@ P092	nu		machine		be naked
 P093	en bonne santé		machine		be in good health, be healthy	
 P093b	santé		machine		health	
 P094	malade		machine		be sick, be ill	
-P095	malade, souffrant		machine		be sick, be unwell, be ailing	
-P096	fort		machine		be strong	
-P096b	force		machine		strength, force	
-P096c	puissant		machine		be powerful	
-P096d	gloire, splendeur		machine		glory, splendour	
-P097	musclé		machine		be muscular	
-P098	faible		machine		be weak	
-P098b	faiblesse		machine		weakness	
-P099	gros		machine		be fat	
-P100	maigre, mince		machine		be thin, be skinny	
-P101	très maigre, décharné		machine		be very thin, be emaciated	
-P102	qui boite, boiteux	« Boiteux » peut être perçu comme peu respectueux.	machine		limp, be lame	
-P103	aveugle		machine		be blind	
-P103b	cécité		machine		blindness	
-P104	myope		machine		be short-sighted, be near-sighted	
-P105	muet		machine		be mute, be dumb	
-P106	chauve		machine		be bald	
-P107	impuissant (sexuellement)		machine		be impotent (sexually)	
-P108	vivant, en vie		machine		be alive, be living	
-P109	mort		machine		be dead	
-P110	jeune		machine		be young	
-P111	vieux, âgé		machine		be old, be elderly, be aged	
-P112	heureux, content		machine		be happy, be glad, be pleased	
-P112b	bonheur, joie		machine		happiness, joy	
-P113	triste		machine		be sad	
-P113b	tristesse		machine		sadness	
-P114	en colère, fâché		machine		be angry, be annoyed	
-P114b	colère		machine		anger	
-P115	avoir peur		machine		be afraid, be scared	
-P115b	peur		machine		fear	
-P116	fier		machine		be proud	
-P116b	fierté, orgueil		machine		pride	
-P117	jaloux		machine		be jealous	
-P117b	jalousie		machine		jealousy	
-P118	timide		machine		be shy, be timid	
-P118b	honte		machine		shame	
-P119	s'ennuyer		machine		be bored	
-P120	agité		machine		be restless, be agitated	
-P121	impatient (de faire), enthousiaste		machine		be eager (to do), be enthusiastic	
-P122	curieux		machine		be curious	
-P123	seul		machine		be alone	
-P124	courageux		machine		be brave, be courageous	
-P124b	courage		machine		courage, bravery	
-P125	gentil, bon		machine		be kind, be good	
-P125b	gentillesse, bonté		machine		kindness, goodness	
-P125c	pitié, compassion		machine		pity, compassion	
-P126	généreux		machine		be generous	
-P127	égoïste		machine		be selfish	
-P128	honnête		machine		be honest	
-P129	juste		machine		be fair, be just	
-P129b	justice		machine		justice	
-P130	corrompu		machine		be corrupt	
-P131	méchant		machine		be wicked, be mean, be nasty	
-P132	féroce		machine		be fierce, be ferocious	
-P133	paresseux		machine		be lazy	
-P133b	paresse		machine		laziness	
-P134	patient		machine		be patient	
-P134b	patience		machine		patience	
-P135	impatient		machine		be impatient	
-P136	têtu, obstiné		machine		be stubborn, be obstinate	
-P136b	entêtement, obstination		machine		stubbornness, obstinacy	
-P137	sage		machine		be wise	
-P138	intelligent		machine		be intelligent, be clever	
-P139	bête, sot		machine		be stupid, be foolish	
-P139b	bêtise, sottise		machine		stupidity, foolishness	
-P140	confus, désorienté		machine		be confused, be disoriented	
-P141	ignorant		machine		be ignorant	
-P142	habile, doué		machine		be skilful, be talented	
-P143	capable, pouvoir		machine		be able, can	
-P143b	capacité		machine		ability, capacity	
-P144	éloquent		machine		be eloquent	
-P145	silencieux, se taire		machine		be quiet, be silent	
-P146	bon		machine		be good	
-P146b	parfait		machine		be perfect	
-P146c	bien, comme il faut		machine		well, properly	
-P146d	perfection		machine		perfection	
-P147	mauvais		machine		be bad	
-P147b	mal		machine		badly	
-P148	correct, juste		machine		be correct, be right	
-P149	faux, incorrect		machine		be false, be incorrect, be wrong	
-P150	coupable		machine		be guilty	
-P151	innocent		machine		be innocent	
-P152	beau		machine		be beautiful, be handsome	
-P153	laid		machine		be ugly	
-P154	important		machine		be important	
-P155	drôle, amusant		machine		be funny, be amusing	
-P156	facile		machine		be easy	
-P157	difficile		machine		be difficult, be hard	
-P158	riche		machine		be rich, be wealthy	
-P159	pauvre		machine		be poor	
-P160	cher, coûteux		machine		be expensive, cost a lot	
-P161	bon marché, pas cher		machine		be cheap, be inexpensive	
-P162	perdu, égaré		machine		be lost, be astray	
-P163	absent		machine		be absent	
-P164	proche (d'ici), tout près d'ici		machine		be near (here), be close to here	
-P165	proche de là-bas, près de là-bas	Près d'un endroit éloigné du locuteur.	machine		be near there, be close to over there	
-P166	éloigné, lointain		machine		be far, be distant	
+P095	fort		machine		be strong	
+P095b	force		machine		strength, force	
+P095c	puissant		machine		be powerful	
+P095d	gloire, splendeur		machine		glory, splendour	
+P096	musclé		machine		be muscular	
+P097	faible		machine		be weak	
+P097b	faiblesse		machine		weakness	
+P098	gros		machine		be fat	
+P099	maigre, mince		machine		be thin, be skinny	
+P100	très maigre, décharné		machine		be very thin, be emaciated	
+P101	qui boite, boiteux	« Boiteux » peut être perçu comme peu respectueux.	machine		limp, be lame	
+P102	aveugle		machine		be blind	
+P102b	cécité		machine		blindness	
+P103	myope		machine		be short-sighted, be near-sighted	
+P104	muet		machine		be mute, be dumb	
+P105	chauve		machine		be bald	
+P106	impuissant (sexuellement)		machine		be impotent (sexually)	
+P107	vivant, en vie		machine		be alive, be living	
+P108	mort		machine		be dead	
+P109	jeune		machine		be young	
+P110	vieux, âgé		machine		be old, be elderly, be aged	
+P111	heureux, content		machine		be happy, be glad, be pleased	
+P111b	bonheur, joie		machine		happiness, joy	
+P112	triste		machine		be sad	
+P112b	tristesse		machine		sadness	
+P113	en colère, fâché		machine		be angry, be annoyed	
+P113b	colère		machine		anger	
+P114	avoir peur		machine		be afraid, be scared	
+P114b	peur		machine		fear	
+P115	fier		machine		be proud	
+P115b	fierté, orgueil		machine		pride	
+P116	jaloux		machine		be jealous	
+P116b	jalousie		machine		jealousy	
+P117	timide		machine		be shy, be timid	
+P117b	honte		machine		shame	
+P118	s'ennuyer		machine		be bored	
+P119	agité		machine		be restless, be agitated	
+P120	impatient (de faire), enthousiaste		machine		be eager (to do), be enthusiastic	
+P121	curieux		machine		be curious	
+P122	seul		machine		be alone	
+P123	courageux		machine		be brave, be courageous	
+P123b	courage		machine		courage, bravery	
+P124	gentil, bon		machine		be kind, be good	
+P124b	gentillesse, bonté		machine		kindness, goodness	
+P124c	pitié, compassion		machine		pity, compassion	
+P125	généreux		machine		be generous	
+P126	égoïste		machine		be selfish	
+P127	honnête		machine		be honest	
+P128	juste		machine		be fair, be just	
+P128b	justice		machine		justice	
+P129	corrompu		machine		be corrupt	
+P130	méchant		machine		be wicked, be mean, be nasty	
+P131	féroce		machine		be fierce, be ferocious	
+P132	paresseux		machine		be lazy	
+P132b	paresse		machine		laziness	
+P133	patient		machine		be patient	
+P133b	patience		machine		patience	
+P134	impatient		machine		be impatient	
+P135	têtu, obstiné		machine		be stubborn, be obstinate	
+P135b	entêtement, obstination		machine		stubbornness, obstinacy	
+P136	sage		machine		be wise	
+P137	intelligent		machine		be intelligent, be clever	
+P138	bête, sot		machine		be stupid, be foolish	
+P138b	bêtise, sottise		machine		stupidity, foolishness	
+P139	confus, désorienté		machine		be confused, be disoriented	
+P140	ignorant		machine		be ignorant	
+P141	habile, doué		machine		be skilful, be talented	
+P142	capable, pouvoir		machine		be able, can	
+P142b	capacité		machine		ability, capacity	
+P143	éloquent		machine		be eloquent	
+P144	silencieux, se taire		machine		be quiet, be silent	
+P145	bon		machine		be good	
+P145b	parfait		machine		be perfect	
+P145c	bien, comme il faut		machine		well, properly	
+P145d	perfection		machine		perfection	
+P146	mauvais		machine		be bad	
+P146b	mal		machine		badly	
+P147	correct, juste		machine		be correct, be right	
+P148	faux, incorrect		machine		be false, be incorrect, be wrong	
+P149	coupable		machine		be guilty	
+P150	innocent		machine		be innocent	
+P151	beau		machine		be beautiful, be handsome	
+P152	laid		machine		be ugly	
+P153	important		machine		be important	
+P154	drôle, amusant		machine		be funny, be amusing	
+P155	facile		machine		be easy	
+P156	difficile		machine		be difficult, be hard	
+P157	riche		machine		be rich, be wealthy	
+P158	pauvre		machine		be poor	
+P159	cher, coûteux		machine		be expensive, cost a lot	
+P160	bon marché, pas cher		machine		be cheap, be inexpensive	
+P161	perdu, égaré		machine		be lost, be astray	
+P162	absent		machine		be absent	
+P163	proche (d'ici), tout près d'ici		machine		be near (here), be close to here	
+P164	proche de là-bas, près de là-bas	Près d'un endroit éloigné du locuteur.	machine		be near there, be close to over there	
+P165	éloigné, lointain		machine		be far, be distant	
 Q001	un (1)		machine		one (1)	
 Q001b	premier		machine		first	
 Q001c	une fois		machine		once, one time	

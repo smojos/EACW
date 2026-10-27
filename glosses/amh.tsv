@@ -854,14 +854,14 @@ H052	ጊንጥ		machine		scorpion
 H053	መቶ እግር	ጠፍጣፋ ነካሽ ባለ ብዙ እግር።	machine		centipede (lit. hundred-legs)	
 H054	ሺ እግር	ክብ፣ የሚጠቀለል ባለ ብዙ እግር።	machine		millipede (lit. thousand-legs)	
 H055	ቀንድ አውጣ		machine		snail	
-H056	የዛፍ ቀንድ አውጣ		machine		tree snail	
-H057	የየብስ ቀንድ አውጣ		machine		land snail	
-H058	የውሃ ቀንድ አውጣ		machine		water snail	
-H059	የቀንድ አውጣ ቅርፊት		machine		snail shell	
-H060	ሸርጣን		machine		crab	
-H061	ሽሪምፕ		machine		shrimp (loan)	
-H062	ክብ ባለ ሁለት ቅርፊት ዛጎል		machine		round two-shelled shell (round bivalve, clam)	
-H063	ሞላላ ጥቁር ባለ ሁለት ቅርፊት ዛጎል		machine		oval black two-shelled shell (mussel)	
+H055b	የዛፍ ቀንድ አውጣ		machine		tree snail	
+H055c	የየብስ ቀንድ አውጣ		machine		land snail	
+H055d	የውሃ ቀንድ አውጣ		machine		water snail	
+H056	የቀንድ አውጣ ቅርፊት		machine		snail shell	
+H057	ሸርጣን		machine		crab	
+H058	ሽሪምፕ		machine		shrimp (loan)	
+H059	ክብ ባለ ሁለት ቅርፊት ዛጎል		machine		round two-shelled shell (round bivalve, clam)	
+H060	ሞላላ ጥቁር ባለ ሁለት ቅርፊት ዛጎል		machine		oval black two-shelled shell (mussel)	
 I001	ፈጣሪ, አምላክ	ክርስቲያኖች እግዚአብሔር፣ ሙስሊሞች አላህ ይላሉ።	machine		Creator, God	
 I002	ከፈጣሪ በታች ያለ መንፈስ, ታናሽ አምላክ	ቆሌ፣ ውቃቢና አድባር የሰው ወይም የቦታ ጠባቂ መንፈስ ናቸው፤ ዛር የሚሰፍር መንፈስ ነው።	machine		spirit, guardian spirit	
 I003	እርኩስ መንፈስ		machine		evil spirit, demon	
@@ -1637,15 +1637,14 @@ O009b	ሙሉ, መላ		machine		whole, full
 O009c	ሁሉም ሰው		machine		everyone	
 O009d	ሁሉም ነገር		machine		everything	
 O009e	በየቦታው, ሁሉም ቦታ		machine		everywhere	
-O010	ብዙ		machine		many, much	
-O011	አንዳንድ, ጥቂት		machine		some, a few	
-O011b	አንድ ሰው		machine		someone	
-O011c	አንድ ነገር		machine		something	
-O012	ምንም, አንድም	ከአሉታዊ ግስ ጋር ይመጣል (ምንም የለም፣ አንድም አልቀረም)።	machine		none, not even one	
-O013	ሁለቱም		machine		both	
-O014	ግማሽ		machine		half	
-O014b	ቁራጭ		machine		piece	
-O015	ብቻ		machine		only	
+O010	አንዳንድ, ጥቂት		machine		some, a few	
+O010b	አንድ ሰው		machine		someone	
+O010c	አንድ ነገር		machine		something	
+O011	ምንም, አንድም	ከአሉታዊ ግስ ጋር ይመጣል (ምንም የለም፣ አንድም አልቀረም)።	machine		none, not even one	
+O012	ሁለቱም		machine		both	
+O013	ግማሽ		machine		half	
+O013b	ቁራጭ		machine		piece	
+O014	ብቻ		machine		only	
 P001	ትልቅ		machine		big, large	
 P001b	መጠን		machine		size, amount	
 P002	ትንሽ		machine		small, little	
@@ -1763,103 +1762,102 @@ P092	ራቁት		machine		naked
 P093	ጤነኛ, ጤናማ		machine		healthy	
 P093b	ጤና		machine		health	
 P094	የታመመ, በሽተኛ		machine		fell ill, was sick	
-P095	አመመው		machine		it hurt him, felt pain	
-P096	ጠንካራ		machine		strong	
-P096b	ጥንካሬ, ጉልበት		machine		strength, power, energy	
-P096c	ኃያል		machine		mighty, powerful	
-P096d	ግርማ, ክብር		machine		majesty, splendour; honour, glory	
-P097	ጡንቻማ		machine		muscular	
-P098	ደካማ		machine		weak	
-P098b	ደካማነት		machine		weakness	
-P099	ወፍራም		machine		fat	
-P100	ቀጭን, ከሲታ		machine		thin, skinny	
-P101	በጣም የከሳ, የመነመነ		machine		emaciated, very thin; wasted away	
-P102	የሚያነክስ, አንካሳ	አንካሳ ሰውን ለመጥራት ሲውል እንደ ስድብ ሊቆጠር ይችላል።	machine		limping; lame, crippled	
-P103	ዓይነ ስውር, ዕውር	ዕውር ሰውን ለመጥራት ሲውል ሊያስከፋ ይችላል፤ ጨዋው ቃል ዓይነ ስውር ነው።	machine		blind	
-P103b	ዓይነ ስውርነት		machine		blindness	
-P104	ሩቅ ማየት የማይችል		machine		unable to see far, short-sighted	
-P105	መናገር የተሳነው, ዲዳ	ዲዳ ሰውን ለመጥራት ሲውል ሊያስከፋ ይችላል (የሞኝነት ፍቺም ይሰጠዋል)።	machine		unable to speak, mute; dumb	
-P106	መላጣ, ራሰ በራ		machine		bald	
-P107	ስንፈተ ወሲብ ያለበት	የሕክምና አገላለጽ ነው፤ የዕለት ቃላቱ ጸያፍ ሊሆኑ ይችላሉ።	machine		impotent (sexually)	
-P108	በሕይወት ያለ, ሕያው		machine		alive, living	
-P109	የሞተ		machine		dead	
-P110	ወጣት		machine		young; youth	
-P111	አረጋዊ, በዕድሜ የገፋ		machine		elderly, aged	
-P112	ደስተኛ		machine		happy, joyful	
-P112b	ደስታ		machine		happiness, joy	
-P113	ያዘነ		machine		sad, sorrowful	
-P113b	ሐዘን		machine		sadness, grief	
-P114	የተናደደ		machine		angry, annoyed	
-P114b	ቁጣ, ንዴት		machine		anger, rage	
-P115	የፈራ		machine		was afraid, feared	
-P115b	ፍርሃት		machine		fear	
-P116	ኩሩ		machine		proud	
-P116b	ኩራት		machine		pride	
-P117	ቀናተኛ		machine		jealous	
-P117b	ቅናት		machine		jealousy, envy	
-P118	ዓይን አፋር		machine		shy	
-P118b	እፍረት		machine		shame, embarrassment	
-P119	ሰለቸው, ደበረው		machine		was bored, fed up	
-P120	እረፍት የሌለው, ቁንጥንጥ		machine		restless, fidgety	
-P121	ጉጉ		machine		was eager, longed for	
-P122	ለማወቅ የሚጓጓ		machine		curious, eager to know	
-P123	ብቻውን		machine		alone, by himself	
-P124	ደፋር, ጀግና		machine		brave, bold; hero	
-P124b	ጀግንነት		machine		bravery, heroism	
-P125	ደግ		machine		kind, generous	
-P125b	ደግነት		machine		kindness, generosity	
-P125c	ርኅራኄ, ሐዘኔታ		machine		compassion, mercy; sympathy	
-P126	ለጋስ		machine		generous	
-P127	ራስ ወዳድ		machine		selfish	
-P128	ሐቀኛ, ታማኝ		machine		faithful, loyal; honest	
-P129	ፍትሐዊ, ጻድቅ		machine		just, fair; righteous	
-P129b	ፍትሕ		machine		justice	
-P130	ሙሰኛ, ብልሹ		machine		corrupt (bribe-taking); corrupt, degenerate	
-P131	ክፉ		machine		evil, wicked	
-P132	ኃይለኛ, ቁጡ		machine		aggressive, fierce; hot-tempered	
-P133	ሰነፍ		machine		lazy	
-P133b	ስንፍና		machine		laziness	
-P134	ታጋሽ		machine		patient	
-P134b	ትዕግስት		machine		patience	
-P135	ትዕግስት የሌለው		machine		impatient	
-P136	ግትር, እልኸኛ		machine		stubborn, obstinate	
-P136b	ግትርነት		machine		stubbornness	
-P137	ጥበበኛ, አስተዋይ		machine		wise; perceptive, discerning	
-P138	ብልህ, ጎበዝ		machine		clever, intelligent; capable, smart	
-P139	ሞኝ		machine		foolish, stupid; fool	
-P139b	ሞኝነት		machine		foolishness	
-P140	ግራ የተጋባ		machine		was confused, perplexed	
-P141	የማያውቅ, አላዋቂ		machine		ignorant, not knowing	
-P142	የተካነ, ባለሙያ		machine		skilled, proficient; expert	
-P143	ቻለ		machine		was able, could	
-P143b	ችሎታ		machine		ability, skill	
-P144	አንደበተ ርቱዕ		machine		eloquent	
-P145	ዝም ያለ, ጸጥ ያለ		machine		silent, quiet	
-P146	ጥሩ		machine		good	
-P146b	ፍጹም		machine		perfect, complete	
-P146c	በደንብ		machine		well, thoroughly	
-P146d	ፍጹምነት		machine		perfection	
-P147	መጥፎ		machine		bad	
-P147b	በመጥፎ ሁኔታ, ክፉኛ		machine		badly, severely	
-P148	ትክክል		machine		correct, right	
-P149	የተሳሳተ, ስህተት		machine		wrong, mistaken; mistake, error	
-P150	ጥፋተኛ		machine		guilty	
-P151	ከጥፋት ነጻ, ንጹሕ		machine		free of guilt, innocent	
-P152	ቆንጆ		machine		beautiful, pretty	
-P153	አስቀያሚ		machine		ugly	
-P154	አስፈላጊ		machine		important, necessary	
-P155	አስቂኝ		machine		funny	
-P156	ቀላል		machine		easy; light	
-P157	ከባድ, አስቸጋሪ		machine		difficult, hard	
-P158	ሀብታም		machine		rich, wealthy	
-P159	ድሃ		machine		poor	
-P160	ውድ		machine		expensive; dear, precious	
-P161	ርካሽ, ዋጋው ቀላል		machine		cheap, inexpensive	
-P162	የጠፋ		machine		lost, missing	
-P163	ያልተገኘ, የቀረ		machine		not found; absent, left behind	
-P164	እዚህ ቅርብ		machine		near here	
-P165	እዚያ ቅርብ		machine		near there	
-P166	ሩቅ		machine		far, distant	
+P095	ጠንካራ		machine		strong	
+P095b	ጥንካሬ, ጉልበት		machine		strength, power, energy	
+P095c	ኃያል		machine		mighty, powerful	
+P095d	ግርማ, ክብር		machine		majesty, splendour; honour, glory	
+P096	ጡንቻማ		machine		muscular	
+P097	ደካማ		machine		weak	
+P097b	ደካማነት		machine		weakness	
+P098	ወፍራም		machine		fat	
+P099	ቀጭን, ከሲታ		machine		thin, skinny	
+P100	በጣም የከሳ, የመነመነ		machine		emaciated, very thin; wasted away	
+P101	የሚያነክስ, አንካሳ	አንካሳ ሰውን ለመጥራት ሲውል እንደ ስድብ ሊቆጠር ይችላል።	machine		limping; lame, crippled	
+P102	ዓይነ ስውር, ዕውር	ዕውር ሰውን ለመጥራት ሲውል ሊያስከፋ ይችላል፤ ጨዋው ቃል ዓይነ ስውር ነው።	machine		blind	
+P102b	ዓይነ ስውርነት		machine		blindness	
+P103	ሩቅ ማየት የማይችል		machine		unable to see far, short-sighted	
+P104	መናገር የተሳነው, ዲዳ	ዲዳ ሰውን ለመጥራት ሲውል ሊያስከፋ ይችላል (የሞኝነት ፍቺም ይሰጠዋል)።	machine		unable to speak, mute; dumb	
+P105	መላጣ, ራሰ በራ		machine		bald	
+P106	ስንፈተ ወሲብ ያለበት	የሕክምና አገላለጽ ነው፤ የዕለት ቃላቱ ጸያፍ ሊሆኑ ይችላሉ።	machine		impotent (sexually)	
+P107	በሕይወት ያለ, ሕያው		machine		alive, living	
+P108	የሞተ		machine		dead	
+P109	ወጣት		machine		young; youth	
+P110	አረጋዊ, በዕድሜ የገፋ		machine		elderly, aged	
+P111	ደስተኛ		machine		happy, joyful	
+P111b	ደስታ		machine		happiness, joy	
+P112	ያዘነ		machine		sad, sorrowful	
+P112b	ሐዘን		machine		sadness, grief	
+P113	የተናደደ		machine		angry, annoyed	
+P113b	ቁጣ, ንዴት		machine		anger, rage	
+P114	የፈራ		machine		was afraid, feared	
+P114b	ፍርሃት		machine		fear	
+P115	ኩሩ		machine		proud	
+P115b	ኩራት		machine		pride	
+P116	ቀናተኛ		machine		jealous	
+P116b	ቅናት		machine		jealousy, envy	
+P117	ዓይን አፋር		machine		shy	
+P117b	እፍረት		machine		shame, embarrassment	
+P118	ሰለቸው, ደበረው		machine		was bored, fed up	
+P119	እረፍት የሌለው, ቁንጥንጥ		machine		restless, fidgety	
+P120	ጉጉ		machine		was eager, longed for	
+P121	ለማወቅ የሚጓጓ		machine		curious, eager to know	
+P122	ብቻውን		machine		alone, by himself	
+P123	ደፋር, ጀግና		machine		brave, bold; hero	
+P123b	ጀግንነት		machine		bravery, heroism	
+P124	ደግ		machine		kind, generous	
+P124b	ደግነት		machine		kindness, generosity	
+P124c	ርኅራኄ, ሐዘኔታ		machine		compassion, mercy; sympathy	
+P125	ለጋስ		machine		generous	
+P126	ራስ ወዳድ		machine		selfish	
+P127	ሐቀኛ, ታማኝ		machine		faithful, loyal; honest	
+P128	ፍትሐዊ, ጻድቅ		machine		just, fair; righteous	
+P128b	ፍትሕ		machine		justice	
+P129	ሙሰኛ, ብልሹ		machine		corrupt (bribe-taking); corrupt, degenerate	
+P130	ክፉ		machine		evil, wicked	
+P131	ኃይለኛ, ቁጡ		machine		aggressive, fierce; hot-tempered	
+P132	ሰነፍ		machine		lazy	
+P132b	ስንፍና		machine		laziness	
+P133	ታጋሽ		machine		patient	
+P133b	ትዕግስት		machine		patience	
+P134	ትዕግስት የሌለው		machine		impatient	
+P135	ግትር, እልኸኛ		machine		stubborn, obstinate	
+P135b	ግትርነት		machine		stubbornness	
+P136	ጥበበኛ, አስተዋይ		machine		wise; perceptive, discerning	
+P137	ብልህ, ጎበዝ		machine		clever, intelligent; capable, smart	
+P138	ሞኝ		machine		foolish, stupid; fool	
+P138b	ሞኝነት		machine		foolishness	
+P139	ግራ የተጋባ		machine		was confused, perplexed	
+P140	የማያውቅ, አላዋቂ		machine		ignorant, not knowing	
+P141	የተካነ, ባለሙያ		machine		skilled, proficient; expert	
+P142	ቻለ		machine		was able, could	
+P142b	ችሎታ		machine		ability, skill	
+P143	አንደበተ ርቱዕ		machine		eloquent	
+P144	ዝም ያለ, ጸጥ ያለ		machine		silent, quiet	
+P145	ጥሩ		machine		good	
+P145b	ፍጹም		machine		perfect, complete	
+P145c	በደንብ		machine		well, thoroughly	
+P145d	ፍጹምነት		machine		perfection	
+P146	መጥፎ		machine		bad	
+P146b	በመጥፎ ሁኔታ, ክፉኛ		machine		badly, severely	
+P147	ትክክል		machine		correct, right	
+P148	የተሳሳተ, ስህተት		machine		wrong, mistaken; mistake, error	
+P149	ጥፋተኛ		machine		guilty	
+P150	ከጥፋት ነጻ, ንጹሕ		machine		free of guilt, innocent	
+P151	ቆንጆ		machine		beautiful, pretty	
+P152	አስቀያሚ		machine		ugly	
+P153	አስፈላጊ		machine		important, necessary	
+P154	አስቂኝ		machine		funny	
+P155	ቀላል		machine		easy; light	
+P156	ከባድ, አስቸጋሪ		machine		difficult, hard	
+P157	ሀብታም		machine		rich, wealthy	
+P158	ድሃ		machine		poor	
+P159	ውድ		machine		expensive; dear, precious	
+P160	ርካሽ, ዋጋው ቀላል		machine		cheap, inexpensive	
+P161	የጠፋ		machine		lost, missing	
+P162	ያልተገኘ, የቀረ		machine		not found; absent, left behind	
+P163	እዚህ ቅርብ		machine		near here	
+P164	እዚያ ቅርብ		machine		near there	
+P165	ሩቅ		machine		far, distant	
 Q001	አንድ		machine		one	
 Q001b	አንደኛ, የመጀመሪያ		machine		first (ordinal 'oneth'); the first, initial	
 Q001c	አንድ ጊዜ		machine		once; one time	
