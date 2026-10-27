@@ -2,7 +2,7 @@ ref	gloss	clarification	status	checked_by	back_translation	earlier
 A001	corps		machine		body	
 A002	peau		machine		skin	
 A002b	ride		machine		wrinkle	
-A003	cheveu, poil		machine		hair (single), body hair	
+A003	cheveu, poil	cheveu : poil de la tête ; poil : poil du corps.	machine		hair (of the head), body hair	
 A003b	poil (du corps)		machine		body hair	
 A003c	mèche de cheveux, touffe de cheveux		machine		lock of hair, tuft of hair	
 A004	os		machine		bone	
@@ -12,8 +12,8 @@ A006	tendon		machine		tendon
 A007	sang		machine		blood	
 A008	vaisseau sanguin, veine		machine		blood vessel, vein	
 A009	tête		machine		head	
-A009b	dessus		machine		top (upper side/surface)	
-A010	sommet du crâne		machine		crown/top of the head	
+A009b	dessus, partie supérieure		machine		top, upper part	
+A010	sommet du crâne		machine		crown of the head	
 A011	crâne		machine		skull	
 A012	cerveau		machine		brain	
 A013	front		machine		forehead	
@@ -25,34 +25,34 @@ A017	iris		machine		iris
 A018	sourcil		machine		eyebrow	
 A019	paupière		machine		eyelid	
 A020	cil		machine		eyelash	
-A021	larme		machine		tear (teardrop)	
+A021	larme		machine		tear (from the eye)	
 A022	oreille		machine		ear	
 A023	conduit auditif		machine		ear canal	
 A024	lobe de l'oreille		machine		earlobe	
-A025	cire d'oreille, cérumen		machine		earwax	
+A025	cire d'oreille, cérumen		machine		earwax, cerumen	
 A026	nez		machine		nose	
 A027	narine		machine		nostril	
 A028	arête du nez		machine		bridge of the nose	
 A029	morve		machine		snot	
 A030	joue		machine		cheek	
-A030a	haut de la joue, pommette		machine		cheekbone	
+A030a	haut de la joue, pommette		machine		upper cheek, cheekbone	
 A030b	bas de la joue		machine		lower cheek	
 A031	bouche		machine		mouth	
-A031b	pointe		machine		point; tip	
+A031b	pointe		machine		tip, point	
 A032	souffle		machine		breath	
 A033	lèvre		machine		lip	
 A034	gencive		machine		gum (of the mouth)	
 A035	dent		machine		tooth	
-A035b	tranchant		machine		cutting edge; blade edge	
+A035b	tranchant, bord		machine		cutting edge, blade (edge)	
 A036	molaire		machine		molar	
 A037	canine		machine		canine (tooth)	
 A038	incisive		machine		incisor	
 A038b	incisive inférieure		machine		lower incisor	
 A039	prémolaire		machine		premolar	
-A040	écart entre les dents de devant, dents du bonheur		machine		diastema (gap between teeth)	
+A040	écart entre les dents de devant, dents du bonheur	« dents du bonheur » : expression courante pour cet écart.	machine		gap between the front teeth	
 A041	langue		machine		tongue	
 A042	frein de la langue		machine		frenulum of the tongue	
-A043	palais		machine		palate; roof of the mouth	
+A043	palais		machine		palate	
 A044	luette		machine		uvula	
 A045	amygdale		machine		tonsil	
 A046	salive		machine		saliva	
@@ -62,10 +62,10 @@ A049	menton		machine		chin
 A050	moustache		machine		moustache	
 A051	barbe		machine		beard	
 A052	cou		machine		neck	
-A053	nuque		machine		nape (of the neck)	
+A053	nuque		machine		nape of the neck	
 A054	os du cou, vertèbres cervicales		machine		neck bone, cervical vertebrae	
 A055	gorge		machine		throat	
-A056	trachée		machine		trachea; windpipe	
+A056	trachée		machine		trachea	
 A057	pomme d'Adam		machine		Adam's apple	
 A058	épaule		machine		shoulder	
 A059	aisselle		machine		armpit	
@@ -74,37 +74,37 @@ A061	omoplate		machine		shoulder blade
 A062	poitrine		machine		chest	
 A063	clavicule		machine		collarbone	
 A064	cage thoracique		machine		ribcage	
-A065	sternum		machine		sternum; breastbone	
+A065	sternum		machine		sternum	
 A066	cœur		machine		heart	
 A067	poumon		machine		lung	
 A068	sein		machine		breast	
 A069	mamelon		machine		nipple	
 A070	lait maternel		machine		breast milk	
-A071	flanc		machine		flank; side (of the body)	
+A071	flanc, côté du corps		machine		flank, side of the body	
 A071b	côté (d'un objet)		machine		side (of an object)	
 A072	côte		machine		rib	
-A073	ventre		machine		belly; abdomen	
-A073b	milieu, intérieur		machine		middle; centre	
-A074	nombril		machine		navel; belly button	
-A075	entrailles		machine		entrails; guts	
+A073	ventre		machine		belly	
+A073b	milieu, intérieur		machine		middle, inside	
+A074	nombril		machine		navel	
+A075	entrailles		machine		entrails	
 A076	foie		machine		liver	
 A077	pancréas		machine		pancreas	
-A078	vésicule biliaire		machine		gallbladder	
+A078	vésicule biliaire		machine		gall bladder	
 A079	estomac		machine		stomach	
 A080	bile		machine		bile	
 A081	rate		machine		spleen	
-A082	intestins		machine		intestines; bowels	
+A082	intestins		machine		intestines	
 A082a	gros intestin		machine		large intestine	
 A082b	intestin grêle		machine		small intestine	
 A083	rein		machine		kidney	
 A084	vessie		machine		bladder	
-A085	utérus		machine		uterus; womb	
+A085	utérus		machine		uterus	
 A086	cordon ombilical		machine		umbilical cord	
-A087	dos		machine		back (of the body)	
-A087b	arrière (d'un objet)		machine		back; rear (of an object)	
+A087	dos		machine		back	
+A087b	arrière (d'un objet)		machine		back, rear (of an object)	
 A088	haut du dos		machine		upper back	
 A089	bas du dos		machine		lower back	
-A090	colonne vertébrale		machine		spine; backbone	
+A090	colonne vertébrale		machine		spine	
 A091	bras		machine		arm	
 A091a	haut du bras		machine		upper arm	
 A091b	avant-bras		machine		forearm	
@@ -115,50 +115,50 @@ A093b	pli du coude		machine		crook of the elbow
 A094	main		machine		hand	
 A095	paume		machine		palm (of the hand)	
 A096	doigt		machine		finger	
-A097	phalange		machine		phalanx (finger bone)	
+A097	os du doigt, phalange		machine		finger bone, phalanx	
 A098	pouce		machine		thumb	
 A099	index		machine		index finger	
 A100	majeur		machine		middle finger	
 A101	annulaire		machine		ring finger	
-A102	petit doigt		machine		little finger; pinky	
-A103	jointure (des doigts)		machine		knuckle (of the fingers)	
-A104	ongle		machine		fingernail; nail	
+A102	petit doigt		machine		little finger	
+A103	jointure (des doigts)		machine		knuckle	
+A104	ongle		machine		fingernail	
 A105	poing		machine		fist	
 A106	poignet		machine		wrist	
 A107	hanche		machine		hip	
 A108	os de la hanche		machine		hip bone	
 A109	taille (au-dessus des hanches)		machine		waist	
 A110	fesse		machine		buttock	
-A110b	dessous, partie inférieure		machine		underside; bottom (of something)	
-A111	coccyx		machine		coccyx; tailbone	
+A110b	dessous, partie inférieure		machine		underside, lower part	
+A111	coccyx		machine		coccyx	
 A112	anus		machine		anus	
-A113	excréments		machine		excrement; faeces	
+A113	excréments		machine		excrement	
 A114	pénis		machine		penis	
 A115	prépuce		machine		foreskin	
 A116	scrotum		machine		scrotum	
 A117	testicule		machine		testicle	
 A118	urine		machine		urine	
-A119	sperme		machine		sperm; semen	
+A119	sperme		machine		semen	
 A120	sexe de la femme, vagin		machine		female genitals, vagina	
 A121	clitoris		machine		clitoris	
 A122	jambe		machine		leg	
-A123	fémur		machine		femur; thighbone	
+A123	fémur		machine		femur	
 A124	cuisse		machine		thigh	
-A124a	muscle du devant de la cuisse, quadriceps		machine		quadriceps	
+A124a	muscle du devant de la cuisse, quadriceps		machine		front thigh muscle, quadriceps	
 A124b	intérieur de la cuisse		machine		inner thigh	
-A124c	muscles de l'arrière de la cuisse, ischio-jambiers		machine		hamstrings	
+A124c	muscles de l'arrière de la cuisse, ischio-jambiers		machine		back thigh muscles, hamstrings	
 A125	genou		machine		knee	
 A125a	devant du genou		machine		front of the knee	
-A125b	creux du genou, arrière du genou		machine		hollow of the knee, back of the knee	
-A126	tibia (devant de la jambe)		machine		shin	
-A127	tibia (os)		machine		tibia (bone); shinbone	
+A125b	creux du genou, arrière du genou		machine		back of the knee, hollow of the knee	
+A126	tibia (devant de la jambe)		machine		shin (front of the leg)	
+A127	tibia (os)		machine		shinbone, tibia	
 A128	mollet		machine		calf (of the leg)	
 A129	tendon d'Achille		machine		Achilles tendon	
 A130	pied		machine		foot	
 A131	cheville		machine		ankle	
-A132	os de la cheville, malléole		machine		ankle bone (malleolus)	
+A132	os de la cheville, malléole		machine		ankle bone, malleolus	
 A133	talon		machine		heel	
-A134	avant de la plante du pied		machine		forefoot	
+A134	avant de la plante du pied		machine		ball of the foot	
 A135	orteil		machine		toe	
 A136	gros orteil		machine		big toe	
 A137	petit orteil		machine		little toe	

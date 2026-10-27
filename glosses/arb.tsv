@@ -1,71 +1,71 @@
 ref	gloss	clarification	status	checked_by	back_translation	earlier
 A001	جسم		machine		body	
 A002	جلد		machine		skin	
-A002b	تجعيدة		machine		wrinkle, crease	
-A003	شَعْر		machine		hair	
+A002b	تجعيدة		machine		wrinkle	
+A003	شَعْر	شعر الرأس أو شعر الجسم.	machine		hair (of the head)	
 A003b	شعر الجسم		machine		body hair	
-A003c	خُصْلة شعر, قُنْزُعة	القُنْزُعة: خصلة من الشعر تُترك على الرأس المحلوق.	machine		lock of hair, tuft (of hair)	
+A003c	خُصْلة شعر, قُنْزُعة	القُنْزُعة: خصلة من الشعر تُترك على الرأس المحلوق.	machine		lock of hair, tuft (of hair on the crown)	
 A004	عظم		machine		bone	
 A004b	هيكل عظمي		machine		skeleton	
 A005	عضلة		machine		muscle	
-A006	وتر		machine		tendon	
+A006	وَتَر		machine		tendon, sinew	
 A007	دم		machine		blood	
-A008	عِرْق, وعاء دموي		machine		vein; blood vessel	
+A008	عِرْق, وعاء دموي	أيّ وعاء دموي: شريان أو وريد.	machine		vein, blood vessel	
 A009	رأس		machine		head	
-A009b	أعلى		machine		top, upper part	
+A009b	أعلى الشيء, سطح الشيء		machine		top of something, surface of something	
 A010	قمة الرأس		machine		crown of the head, top of the head	
 A011	جمجمة		machine		skull	
 A012	دماغ		machine		brain	
 A013	جبهة		machine		forehead	
 A014	وجه		machine		face	
-A014b	مقدمة		machine		front, fore part	
+A014b	مقدّمة الشيء		machine		front of something	
 A015	عين		machine		eye	
 A016	بؤبؤ		machine		pupil (of the eye)	
-A017	قزحية, الجزء الملوّن من العين		machine		iris (of the eye)	
+A017	قزحية, الجزء الملوّن من العين		machine		iris, coloured part of the eye	
 A018	حاجب		machine		eyebrow	
 A019	جفن		machine		eyelid	
 A020	رمش		machine		eyelash	
-A021	دمعة		machine		tear (drop)	
+A021	دمعة		machine		tear (teardrop)	
 A022	أذن		machine		ear	
 A023	قناة الأذن		machine		ear canal	
 A024	شحمة الأذن		machine		earlobe	
 A025	شمع الأذن		machine		earwax	
 A026	أنف		machine		nose	
 A027	منخر		machine		nostril	
-A028	قصبة الأنف		machine		bridge of the nose, nasal bone	
+A028	قصبة الأنف		machine		bridge of the nose	
 A029	مخاط		machine		mucus, snot	
 A030	خد		machine		cheek	
-A030a	أعلى الخد		machine		cheek, upper cheek, cheekbone area	
-A030b	أسفل الخد		machine		lower cheek, lower part of the cheek	
+A030a	أعلى الخد		machine		upper cheek, cheekbone area	
+A030b	أسفل الخد		machine		lower cheek	
 A031	فم		machine		mouth	
-A031b	طرف مدبّب		machine		edge, tip, end; extremity, limb	
+A031b	طرف مدبّب		machine		pointed end, sharp tip	
 A032	نَفَس		machine		breath	
 A033	شفة		machine		lip	
-A034	لثة		machine		gum(s)	
+A034	لثة		machine		gum (of the teeth)	
 A035	سن		machine		tooth	
-A035b	حد		machine		edge (of a blade), sharp edge	
+A035b	حافة حادة, حافة		machine		blade edge, sharp edge	
 A036	ضرس		machine		molar	
-A037	ناب		machine		canine tooth, eyetooth; fang	
+A037	ناب		machine		canine tooth, fang	
 A038	سن قاطعة		machine		incisor	
 A038b	سن قاطعة سفلية		machine		lower incisor	
 A039	ضرس أمامي, ضاحك		machine		premolar	
-A040	فرجة بين الأسنان الأمامية, فَلَج		machine		gap between the front teeth (diastema)	
+A040	فرجة بين الأسنان الأمامية, فَلَج		machine		gap between the front teeth, diastema	
 A041	لسان		machine		tongue	
 A042	لجام اللسان		machine		frenulum of the tongue	
-A043	حنك		machine		palate, roof of the mouth	
+A043	حَنَك, سقف الفم		machine		palate, roof of the mouth	
 A044	لهاة		machine		uvula	
-A045	لوزة		machine		tonsil	
+A045	لوزة الحلق		machine		tonsil	
 A046	لعاب		machine		saliva	
 A047	فك		machine		jaw	
 A048	عظم الفك		machine		jawbone, mandible	
-A049	ذقن		machine		chin	
+A049	ذقن	أسفل الوجه تحت الفم، لا اللحية.	machine		chin	
 A050	شارب		machine		moustache	
 A051	لحية		machine		beard	
 A052	رقبة		machine		neck	
-A053	قفا		machine		nape, back of the neck	
-A054	عَظْم الرقبة, فقرات العنق		machine		neck bone; cervical vertebrae	
-A055	حلق		machine		throat	
-A056	قصبة هوائية		machine		windpipe, trachea	
+A053	قفا		machine		nape of the neck, back of the neck	
+A054	عَظْم الرقبة, فقرات العنق		machine		neck bone, cervical vertebrae	
+A055	حَلْق		machine		throat	
+A056	قصبة هوائية		machine		trachea, windpipe	
 A057	تفاحة آدم		machine		Adam's apple	
 A058	كتف		machine		shoulder	
 A059	إبط		machine		armpit	
@@ -73,63 +73,63 @@ A060	مفصل الكتف		machine		shoulder joint
 A061	لوح الكتف		machine		shoulder blade, scapula	
 A062	صدر		machine		chest	
 A063	ترقوة		machine		collarbone, clavicle	
-A064	قفص صدري		machine		rib cage, thorax	
-A065	عظم القص		machine		breastbone, sternum	
+A064	قفص صدري		machine		ribcage, thorax	
+A065	عظم القص		machine		sternum, breastbone	
 A066	قلب		machine		heart	
 A067	رئة		machine		lung	
-A068	ثدي		machine		breast (esp. female)	
+A068	ثدي		machine		breast	
 A069	حلمة		machine		nipple	
-A070	حليب الأم		machine		breast milk	
+A070	حليب الأم		machine		breast milk, mother's milk	
 A071	جنب		machine		side (of the body), flank	
-A071b	جانب		machine		side	
+A071b	جانب الشيء		machine		side of something	
 A072	ضلع		machine		rib	
 A073	بطن		machine		belly, abdomen	
-A073b	منتصف, داخل		machine		middle, centre; waist	
+A073b	منتصف, داخل		machine		middle, inside	
 A074	سرة		machine		navel, belly button	
-A075	أحشاء		machine		viscera, innards, entrails	
+A075	أحشاء		machine		entrails, viscera, guts	
 A076	كبد		machine		liver	
 A077	بنكرياس		machine		pancreas	
-A078	مرارة		machine		gall bladder	
+A078	مرارة, كيس المرارة		machine		gallbladder	
 A079	معدة		machine		stomach	
-A080	صفراء		machine		bile (yellow bile)	
+A080	صفراء, عصارة صفراوية		machine		bile, yellow bile	
 A081	طحال		machine		spleen	
-A082	أمعاء		machine		intestines, bowels	
+A082	أمعاء		machine		intestines	
 A082a	أمعاء غليظة		machine		large intestine	
 A082b	أمعاء دقيقة		machine		small intestine	
-A083	كلية		machine		kidney	
+A083	كُلْية		machine		kidney	
 A084	مثانة		machine		bladder (urinary)	
 A085	رحم		machine		womb, uterus	
 A086	حبل سري		machine		umbilical cord	
 A087	ظهر		machine		back	
-A087b	جهة خلفية		machine		back	
+A087b	الجهة الخلفية للشيء		machine		back side of something, rear	
 A088	أعلى الظهر		machine		upper back	
 A089	أسفل الظهر		machine		lower back	
 A090	عمود فقري		machine		spine, backbone, spinal column	
 A091	ذراع		machine		arm	
 A091a	عضد		machine		upper arm	
 A091b	ساعد		machine		forearm	
-A092	عَظْم الذراع		machine		arm bone	
+A092	عَظْم الذراع	عظم العضد أو عظم الساعد.	machine		arm bone	
 A093	مرفق, كوع		machine		elbow	
-A093a	ظاهر المرفق, رأس المرفق		machine		back of the elbow, point of the elbow	
-A093b	باطن المرفق, ثنية المرفق		machine		inside of the elbow, crook of the elbow	
+A093a	ظاهر المرفق, رأس المرفق		machine		point of the elbow, outer elbow	
+A093b	باطن المرفق, ثنية المرفق		machine		inner elbow, crook of the elbow	
 A094	يد		machine		hand	
 A095	كف		machine		palm (of the hand)	
 A096	إصبع		machine		finger	
 A097	عظم الإصبع		machine		finger bone, phalanx	
 A098	إبهام		machine		thumb	
-A099	سبابة		machine		index finger, forefinger	
+A099	سبابة		machine		index finger	
 A100	إصبع وسطى		machine		middle finger	
 A101	بنصر		machine		ring finger	
 A102	خنصر		machine		little finger, pinky	
-A103	مفصل الإصبع		machine		knuckle, finger joint	
-A104	ظفر		machine		nail (fingernail or toenail)	
-A105	قبضة		machine		fist	
+A103	مفصل الإصبع		machine		finger joint, knuckle	
+A104	ظفر		machine		fingernail, nail	
+A105	قبضة اليد		machine		fist	
 A106	معصم		machine		wrist	
 A107	ورك		machine		hip	
-A108	عظم الورك		machine		hip bone, pelvic bone	
+A108	عظم الورك		machine		hip bone, pelvis	
 A109	خصر		machine		waist	
 A110	ردف		machine		buttock, rump	
-A110b	أسفل		machine		bottom, lower part	
+A110b	أسفل الشيء, قاع الشيء		machine		bottom of something, base	
 A111	عصعص		machine		tailbone, coccyx	
 A112	شرج		machine		anus	
 A113	براز		machine		faeces, excrement	
@@ -138,31 +138,31 @@ A115	قلفة		machine		foreskin, prepuce
 A116	صفن		machine		scrotum	
 A117	خصية		machine		testicle	
 A118	بول		machine		urine	
-A119	مني		machine		semen, sperm	
-A120	فَرْج, مَهْبِل		machine		vulva; vagina	
+A119	مني		machine		semen	
+A120	فَرْج, مَهْبِل		machine		vulva, vagina	
 A121	بظر		machine		clitoris	
 A122	رِجْل		machine		leg	
 A123	عظم الفخذ		machine		thigh bone, femur	
 A124	فخذ		machine		thigh	
-A124a	عضلة الفخذ الأمامية		machine		front thigh muscle, quadriceps	
+A124a	عضلة الفخذ الأمامية		machine		quadriceps, front thigh muscle	
 A124b	باطن الفخذ		machine		inner thigh	
-A124c	عضلات الفخذ الخلفية		machine		back thigh muscle, hamstring	
+A124c	عضلات الفخذ الخلفية		machine		hamstrings	
 A125	ركبة		machine		knee	
-A125a	مُقَدَّمة الركبة		machine		front of the knee; kneecap area	
-A125b	خَلْف الركبة, باطِن الركبة		machine		back of the knee; popliteal fossa	
-A126	مقدم الساق		machine		shin, shinbone (tibia)	
-A127	قصبة الساق		machine		leg bone, shank bone (tibia/fibula)	
+A125a	مُقَدَّمة الركبة		machine		front of the knee, kneecap area	
+A125b	خَلْف الركبة, باطِن الركبة		machine		back of the knee, hollow of the knee	
+A126	مقدم الساق		machine		shin, front of the lower leg	
+A127	قصبة الساق		machine		shinbone, tibia	
 A128	ربلة الساق		machine		calf (of the leg)	
 A129	وتر أخيل		machine		Achilles tendon	
 A130	قدم		machine		foot	
 A131	كاحل		machine		ankle	
-A132	عظم الكاحل البارز		machine		ankle bone (talus/malleolus)	
+A132	عظم الكاحل البارز		machine		ankle bone (protruding), malleolus	
 A133	كعب		machine		heel	
 A134	باطن مقدم القدم		machine		ball of the foot	
 A135	إصبع القدم		machine		toe	
 A136	إبهام القدم		machine		big toe	
 A137	خنصر القدم		machine		little toe	
-A138	باطن القدم		machine		sole of the foot	
+A138	باطن القدم		machine		sole (of the foot)	
 B001	شَخْص		machine		person	
 B001f	امرأة		machine		woman	
 B001m	رَجُل		machine		man	
