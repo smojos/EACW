@@ -745,3 +745,211 @@ E128	الأرملة دبوسية الذيل		machine		pin-tailed whydah
 E129	عصفور الدوري, عصفور	«عصفور» وحده يطلق على أي طائر صغير.	machine		sparrow	
 E130	الذُّعَرة		machine		wagtail	
 E131	الكناري أصفر الجبهة		machine		yellow-fronted canary	
+F001	سمكة		machine		fish	
+F002	قرموط, سلور	«قرموط» هو الاسم الشائع لسمك القرموط عمومًا في مصر والسودان.	machine		catfish	
+F003	سمكة رئوية (تعيش في الطين في موسم الجفاف)		machine		lungfish (lives in the mud during the dry season)	
+F004	ثعبان السمك, أنقليس		machine		eel	
+F005	جلد السمك		machine		fish skin	
+F006	حرشفة السمك		machine		fish scale	
+F007	زعنفة ظهرية		machine		dorsal fin	
+F008	زعنفة دهنية (زعنفة لحمية صغيرة خلف الزعنفة الظهرية)		machine		adipose fin (small fleshy fin behind the dorsal fin)	
+F009	زعنفة ذيلية, ذيل السمكة		machine		tail fin, caudal fin; fish's tail	
+F010	زعنفة صدرية (خلف الخياشيم مباشرة)		machine		pectoral fin (just behind the gills)	
+F011	عظم السمك, حسك السمك		machine		fish bone	
+F012	غطاء الخياشيم		machine		gill cover, operculum	
+F013	خيشوم (تحت غطاء الخياشيم)		machine		gill (under the gill cover)	
+F014	شارب السمكة (شارب القرموط)		machine		barbel (catfish whisker)	
+F015	معدة السمكة		machine		fish stomach	
+F016	مثانة هوائية (كيس الهواء في السمكة)		machine		swim bladder, air bladder	
+F017	كتلة البيض في بطن السمكة, بطارخ		machine		fish eggs, roe	
+F018	فرخ النيل	يُسمّى في مصر «قشر بياض» وفي السودان «عِجِل»؛ أما «بياض» وحده فاسم لسمكة قرموطية أخرى.	machine		Nile perch	
+F019	بلطي		machine		tilapia	
+F020	سمكة النمر (سمكة نهرية مفترسة ذات أسنان)		machine		tigerfish (toothed predatory river fish)	
+F021	سمكة خرطوم الفيل (ذات خطم طويل كالخرطوم)	لا يوجد اسم فصيح ثابت؛ ولهذه الأسماك أسماء محلية متفاوتة عند صيادي النيل.	machine		elephantfish, elephant-snout fish (long trunk-like snout)	
+F022	أبو بشير (سمكة نيلية بدائية تشبه الثعبان، على ظهرها صف من الزعانف الصغيرة)	«أبو بشير» اسم السمكة عند صيادي النيل في مصر والسودان، ومنه اسمها العلمي الشائع.	machine		Abu Bashir (a local Nile fish name)	
+F023	قرموط كهربائي, رعاد		machine		electric catfish	
+G001	ثعبان, حية		machine		snake	
+G002	ناب الثعبان		machine		snake's fang	
+G003	سم الثعبان		machine		snake venom	
+G004	حرشفة الثعبان		machine		snake scale	
+G005	بيضة الزواحف		machine		reptile egg	
+G006	ثعبان أبو منقار (ثعبان بني محمر ذو خطم معقوف كالمنقار)		machine		beaked snake (snake with a hooked, beak-like snout)	
+G007	ثعبان الرمل النحيل (سريع الحركة، وليس أفعى الرمل)		machine		sand snake (slender, fast-moving snake)	
+G008	أفعى	المقصود الأفعى بالمعنى الدقيق (الأفعوانيات)، لا كل حية سامة.	machine		viper	
+G009	كوبرا, صل		machine		cobra	
+G010	مامبا خضراء		machine		green mamba	
+G011	أفعى نفاخة		machine		puff adder	
+G012	أفعى وحيد القرن (أفعى غابات ذات قرون على الأنف)		machine		rhinoceros viper (forest viper with horns on the nose)	
+G013	أفعى مقرنة (أفعى صحراوية ذات قرنين فوق العينين)		machine		horned viper	
+G014	أصلة		machine		python	
+G015	تمساح		machine		crocodile	
+G016	سحلية		machine		lizard	
+G017	ورل		machine		monitor lizard	
+G018	سحلية أغامة (سحلية الصخور ذات الرأس الملون)		machine		agama lizard (rock lizard with a coloured head)	
+G019	سقنقور (سحلية ناعمة لامعة الحراشف)		machine		skink (smooth, shiny-scaled lizard)	
+G020	أبو بريص, وزغة		machine		gecko	
+G021	حرباء		machine		chameleon	
+G022	سلحفاة برية		machine		tortoise	
+G023	سلحفاة مائية كبيرة (نهرية أو بحرية)		machine		large aquatic turtle (river or sea)	
+G024	سلحفاة مياه عذبة صغيرة		machine		small freshwater turtle	
+G025	صدفة السلحفاة, درقة السلحفاة		machine		tortoise shell, turtle shell; carapace	
+G026	ضفدع الشجر		machine		tree frog	
+G027	ضفدع كبير (الضفدع الثور)		machine		large frog (bullfrog)	
+G028	علجوم (ضفدع بري خشن الجلد)		machine		toad	
+G029	شرغوف, أبو ذنيبة		machine		tadpole	
+G030	بيض الضفادع		machine		frog eggs, frogspawn	
+G031	كيس صوتي (كيس الحلق الذي ينفخه الضفدع عند النقيق)		machine		vocal sac (throat sac a frog inflates when croaking)	
+H001	حشرة		machine		insect	
+H002	قرن الاستشعار		machine		antenna (feeler)	
+H003	نحلة		machine		bee	
+H004	ملكة النحل		machine		queen bee	
+H005	سرب نحل, طرد نحل		machine		swarm of bees	
+H006	خلية نحل		machine		beehive	
+H007	شمع النحل		machine		beeswax	
+H008	عسل		machine		honey	
+H009	قرص العسل, شهد		machine		honeycomb	
+H010	إبرة اللسع, حمة		machine		stinger, sting	
+H011	دبور كبير, زنبور كبير		machine		large wasp, hornet	
+H012	زنبور أسود مخطط بالأبيض		machine		black wasp with white stripes	
+H013	زنبور, دبور		machine		wasp	
+H014	نملة		machine		ant	
+H015	نمل الجيش (نمل مهاجر لاسع)		machine		army ants (migrating stinging ants)	
+H016	نمل طائر, أرضة مجنحة	يشمل النمل والأرضة المجنحة وقت التطاير، وتؤكل أحيانًا.	machine		flying ants; winged termites	
+H017	أرضة, نمل أبيض		machine		termite	
+H018	تل النمل الأبيض, بيت الأرضة		machine		termite mound, termite hill	
+H019	ذبابة		machine		fly	
+H020	ذبابة الفاكهة		machine		fruit fly	
+H021	ذبابة الخيل, نعرة		machine		horsefly	
+H022	ذبابة تسي تسي		machine		tsetse fly	
+H023	بعوضة, ناموسة		machine		mosquito	
+H024	دودة الذباب, يرقة الذباب		machine		maggot (fly larva)	
+H025	جندب, نطاط		machine		grasshopper	
+H026	جرادة		machine		locust	
+H027	صرصار الليل, جدجد		machine		cricket	
+H028	فرس النبي		machine		praying mantis	
+H029	صرصور		machine		cockroach	
+H030	خنفساء أيار (خنفساء بنية تطير ليلًا)		machine		cockchafer, May beetle (brown night-flying beetle)	
+H031	جعل, خنفساء الروث		machine		dung beetle, scarab	
+H032	غمد جناح الخنفساء (غلافها الصلب)		machine		beetle's wing case, elytron (its hard covering)	
+H033	فراشة (تطير نهارًا)		machine		butterfly	
+H034	فراشة ليلية, عثة		machine		moth	
+H035	يسروع, يرقة الفراشة		machine		caterpillar	
+H036	دودة الموبان (يرقة صالحة للأكل تعيش على شجر الموبان)		machine		mopane worm (edible caterpillar living on mopane trees)	
+H037	شرنقة		machine		cocoon	
+H038	يعسوب (حشرة طائرة قرب الماء ذات أربعة أجنحة شفافة)	«اليعسوب» في الفصحى القديمة ملكة النحل أيضًا؛ والمقصود هنا الحشرة الطائرة.	machine		dragonfly	
+H039	يراعة, حباحب		machine		firefly	
+H040	برغوث		machine		flea	
+H041	قملة		machine		louse	
+H042	بقة الفراش		machine		bedbug	
+H043	قرادة		machine		tick	
+H044	حلم الدجاج (طفيلي دقيق يمتص دم الدجاج)	يسميه الناس «قمل الدجاج»، لكنه حلم لا قمل.	machine		poultry mite; chicken lice	
+H045	برغوث الرمل (يحفر في أصابع القدم)		machine		sand flea, jigger (burrows into the toes)	
+H046	عَلَقة (دودة تمتص الدم)		machine		leech	
+H047	دودة الدقيق		machine		mealworm	
+H048	دودة الأرض		machine		earthworm	
+H049	عنكبوت		machine		spider	
+H050	بيت العنكبوت, نسيج العنكبوت		machine		spider's web, cobweb	
+H051	عنكبوت كبير مشعر يعيش في جحر, رتيلاء	قد تُطلق «رتيلاء» عاميًّا على العنكبوت الجملي، والمقصود هنا العنكبوت الكبير المشعر.	machine		tarantula (large hairy ground-dwelling spider)	
+H052	عقرب		machine		scorpion	
+H053	حريش, أم أربعة وأربعين (سريعة لاسعة)		machine		centipede	
+H054	دودة ألفية الأرجل (بطيئة أسطوانية تلتف على نفسها)		machine		millipede	
+H055	حلزون, قوقع		machine		snail	
+H056	حلزون الشجر		machine		tree snail	
+H057	حلزون بري		machine		land snail	
+H058	حلزون مائي, قوقع الماء		machine		water snail, aquatic snail	
+H059	صدفة الحلزون, قوقعة		machine		snail shell	
+H060	سرطان, سلطعون		machine		crab	
+H061	جمبري, روبيان		machine		shrimp, prawn	
+H062	محارة (حيوان ذو صدفتين)		machine		oyster; shellfish, clam, mussel	
+H063	بلح البحر, محار المياه العذبة		machine		mussel; freshwater mussel	
+I001	الإله الأعلى, الإله الخالق	الكائن الأعلى خالق الكون، أيًّا كان دين المتكلم؛ ويقول المسلمون والمسيحيون العرب «الله».	machine		God, the Creator God	
+I002	إله أدنى, روح	إله أو روح أدنى منزلة من الإله الأعلى، كما في الديانات التقليدية.	machine		lesser god, spirit	
+I003	روح شريرة, شيطان		machine		evil spirit, devil	
+I004	روح, نفس		machine		soul, spirit	
+I005	شبح (طيف يُرى)		machine		ghost (an apparition that is seen)	
+I005b	روح الميت (لا تُرى)		machine		spirit of the dead (unseen)	
+I006	السماء (مسكن الإله أو الآلهة)	«الجنة» دار النعيم للموتى الصالحين قراءة أخرى، وهي مرتبطة بالأديان الإبراهيمية.	machine		heaven, the sky (dwelling of God); paradise	
+I007	عالم الأموات, العالم السفلي		machine		world of the dead, underworld	
+I008	مزار, مقام		machine		shrine	
+I009	مذبح		machine		altar	
+I010	ذبيحة, قربان (تقدمة للإله أو الأرواح)		machine		sacrifice, offering	
+I011	سكب الشراب قربانًا		machine		libation (pouring out a drink as an offering)	
+I012	جلسة تحضير الأرواح		machine		seance	
+I013	طقوس استجلاب المطر (التقليدية)	ليس المقصود صلاة الاستسقاء عند المسلمين، بل طقوس صنع المطر التقليدية.	machine		rain-making ritual; prayer for rain	
+I014	بَرَكة		machine		blessing	
+I015	لعنة		machine		curse	
+I016	حظ		machine		luck, fortune	
+I017	نبوءة		machine		prophecy	
+I018	رؤيا (رؤية غيبية)	«رؤيا» بالألف لا «رؤية» التي تعني البصر.	machine		vision (seeing the unseen)	
+I019	حلم		machine		dream	
+I020	علامة غيبية على ما سيحدث (فأل أو نذير)	الفأل غالبًا علامة خير، والنذير علامة شر.	machine		omen, portent	
+I021	محظور, مُحَرَّم عُرفًا		machine		taboo, forbidden thing	
+I022	تميمة, حِرز	يُسمّى في السودان وتشاد «حجابًا» أيضًا، لكن اللفظ يُفهم أولًا بمعنى غطاء الرأس.	machine		amulet, charm	
+I023	قُرْعة (للعرافة)		machine		lot (cast for divination)	
+I024	العين, الحسد		machine		the evil eye, envy	
+I025	سحر, شعوذة	«سحر» هو اللفظ المحايد؛ «شعوذة» فيها ازدراء.	machine		magic, sorcery, witchcraft	
+I026	دواء, علاج		machine		medicine, remedy, cure	
+I027	سم		machine		poison	
+I028	طقوس العلاج, حفل شفاء		machine		healing ritual, healing ceremony	
+I029	مرض		machine		illness, disease	
+I030	ألم, وجع		machine		pain, ache	
+I031	حمى (غير الملاريا)		machine		fever (other than malaria)	
+I032	عَرَق		machine		sweat	
+I033	زكام		machine		common cold, head cold	
+I034	سعال, كحة		machine		cough	
+I035	فُواق, حازوقة		machine		hiccup(s)	
+I036	بلغم		machine		phlegm, mucus	
+I037	صداع		machine		headache	
+I038	ألم البطن, مغص		machine		stomach ache, colic	
+I039	قيء		machine		vomit, vomiting	
+I040	إسهال		machine		diarrhoea	
+I041	حكة		machine		itch, itching	
+I042	طفح جلدي		machine		skin rash	
+I043	ملاريا		machine		malaria	
+I044	جذام		machine		leprosy	
+I045	داء الفيل (تورم الساقين الشديد)		machine		elephantiasis (severe swelling of the legs)	
+I046	سعفة, قوباء		machine		ringworm	
+I047	دراق, تضخم الغدة الدرقية		machine		goitre, enlarged thyroid	
+I048	دودة معوية, دودة البطن		machine		intestinal worm, stomach worm	
+I049	جنون, اختلال عقلي		machine		madness, insanity, mental disorder	
+I050	جرح		machine		wound	
+I051	حرق (إصابة في الجلد)		machine		burn (skin injury)	
+I052	أثر الضرب (انتفاخ على الجلد)		machine		welt, weal (swelling on the skin from a blow)	
+I053	كدمة		machine		bruise	
+I054	ندبة, أثر جرح		machine		scar	
+I055	بقعة في الجلد, عيب		machine		spot on the skin; blemish	
+I056	بثرة, حبة		machine		pimple, spot	
+I057	خراج, دمل		machine		abscess, boil	
+I058	تورم, انتفاخ		machine		swelling	
+I058b	ورم		machine		tumour	
+I058c	نتوء, بروز		machine		lump, protrusion	
+I059	فتق سري, سرة بارزة		machine		umbilical hernia, protruding navel	
+I060	صديد, قيح		machine		pus	
+I061	قرحة (جرح مفتوح في الجلد)		machine		ulcer, open sore	
+I062	حدبة		machine		hump, hunchback	
+I063	مرض نباتي, لفحة		machine		crop pest; blight	
+I064	طاعون البقر		machine		rinderpest, cattle plague	
+I065	حياة		machine		life	
+I066	ولادة		machine		birth, childbirth	
+I067	آلام الولادة, طلق		machine		labour pains, contractions	
+I068	حفل تسمية المولود, سماية		machine		naming ceremony for a newborn	
+I069	ختان		machine		circumcision	
+I069f	ختان الإناث, خفاض	«خفاض» هو اللفظ السوداني الشائع؛ ويُستعمل في الخطاب الطبي والحقوقي «تشويه الأعضاء التناسلية الأنثوية».	machine		female circumcision, FGM	
+I069m	ختان الذكور, طهور		machine		male circumcision	
+I070	بلوغ		machine		puberty	
+I071	طقوس بلوغ الفتيان		machine		boys' puberty rites, male initiation	
+I072	طقوس بلوغ الفتيات		machine		girls' puberty rites, female initiation	
+I073	الدورة الشهرية, حيض		machine		menstruation, menstrual period	
+I074	موت, وفاة		machine		death	
+I075	إجهاض تلقائي, سقط	«إجهاض» وحده قد يُفهم بمعنى الإجهاض المتعمَّد.	machine		miscarriage	
+I076	جثة, جثمان		machine		corpse, dead body	
+I077	قبر		machine		grave, tomb	
+I077b	مقبرة		machine		cemetery, graveyard	
+I078	جنازة		machine		funeral	
+I079	مكان التجمع (تحت شجرة مثلًا)		machine		gathering place (e.g. under a tree)	
+I080	وليمة, عيد		machine		feast, banquet; festival	
+I081	عرس, حفل زفاف		machine		wedding	
+I082	ما يدفعه العريس لأهل العروس (المهر العرفي)	المهر في الشرع حق للعروس نفسها؛ والمقصود هنا ما يُدفع لأهلها.	machine		bride price (paid to the bride's family)	
+I083	قانون		machine		law	
+I084	عادة, عرف		machine		custom, tradition	
+I085	محكمة عرفية, جلسة قضاء عرفي		machine		customary court, traditional court session	

@@ -745,3 +745,211 @@ E128	veuve dominicaine		machine		pin-tailed whydah
 E129	moineau		machine		sparrow	
 E130	bergeronnette		machine		wagtail	
 E131	serin du Mozambique		machine		yellow-fronted canary	
+F001	poisson		machine		fish	
+F002	poisson-chat, silure	En Afrique francophone, « silure » désigne tout grand poisson-chat ; au sens strict, le silure glane d’Europe.	machine		catfish, sheatfish	
+F003	protoptère, poisson qui s’enfouit dans la boue	Poisson qui survit à la saison sèche enfoui dans la boue.	machine		lungfish (Protopterus), mud fish	
+F004	anguille		machine		eel	
+F005	peau de poisson		machine		fish skin	
+F006	écaille de poisson		machine		fish scale	
+F007	nageoire dorsale		machine		dorsal fin	
+F008	nageoire adipeuse		machine		adipose fin	
+F009	nageoire caudale		machine		tail fin, caudal fin	
+F010	nageoire pectorale		machine		pectoral fin	
+F011	arête de poisson, arête centrale		machine		fish bone	
+F012	opercule, couvercle des branchies		machine		gill cover, operculum; gill	
+F013	branchie (sous l’opercule)		machine		gill	
+F014	barbillon (moustache du poisson-chat)		machine		barbel	
+F015	estomac de poisson		machine		fish stomach	
+F016	vessie natatoire		machine		swim bladder	
+F017	ovaire de poisson, œufs de poisson		machine		fish ovary, fish eggs (roe)	
+F018	perche du Nil, capitaine	« Capitaine » désigne la perche du Nil en Afrique francophone ; sur la côte, le nom s’applique aussi à d’autres poissons.	machine		Nile perch, capitaine	
+F019	tilapia		machine		tilapia	
+F020	poisson-tigre		machine		tigerfish	
+F021	poisson-éléphant, mormyre		machine		elephantfish, mormyrid	
+F022	polyptère, bichir		machine		bichir, polypterus	
+F023	poisson-chat électrique, silure électrique		machine		electric catfish	
+G001	serpent		machine		snake	
+G002	crochet à venin		machine		venom fang, poison fang	
+G003	venin		machine		venom	
+G004	écaille de serpent		machine		snake scale	
+G005	œuf de reptile		machine		reptile egg	
+G006	serpent à bec, rhamphiophis	Serpent au museau crochu.	machine		beaked snake, Rhamphiophis	
+G007	couleuvre des sables, psammophis		machine		sand snake, Psammophis	
+G008	vipère		machine		viper, adder	
+G009	cobra, naja		machine		cobra, naja	
+G010	mamba vert		machine		green mamba	
+G011	vipère heurtante		machine		puff adder	
+G012	vipère rhinocéros		machine		rhinoceros viper	
+G013	vipère à cornes, céraste		machine		horned viper, Cerastes	
+G014	python		machine		python	
+G015	crocodile		machine		crocodile	
+G016	lézard		machine		lizard	
+G017	varan		machine		monitor lizard	
+G018	agame, margouillat	« Margouillat » désigne l’agame en Afrique de l’Ouest et centrale, mais parfois le gecko ailleurs.	machine		agama, rainbow lizard	
+G019	scinque		machine		skink	
+G020	gecko		machine		gecko	
+G021	caméléon		machine		chameleon	
+G022	tortue terrestre		machine		tortoise	
+G023	grande tortue aquatique, tortue marine		machine		large water turtle, sea turtle	
+G024	petite tortue d’eau douce		machine		small freshwater turtle, terrapin	
+G025	carapace de tortue		machine		tortoise shell, turtle shell	
+G026	rainette		machine		tree frog	
+G027	grenouille-taureau, grosse grenouille		machine		bullfrog, big frog	
+G028	crapaud		machine		toad	
+G029	têtard		machine		tadpole	
+G030	frai de grenouille, œufs de grenouille		machine		frogspawn, frog eggs	
+G031	sac vocal		machine		vocal sac	
+H001	insecte		machine		insect	
+H002	antenne (d’insecte)		machine		antenna	
+H003	abeille		machine		bee	
+H004	reine des abeilles		machine		queen bee	
+H005	essaim d’abeilles		machine		swarm of bees	
+H006	ruche		machine		beehive	
+H007	cire d’abeille		machine		beeswax	
+H008	miel		machine		honey	
+H009	rayon de miel		machine		honeycomb	
+H010	dard d’insecte, aiguillon		machine		sting, stinger	
+H011	frelon		machine		hornet	
+H012	guêpe noire et blanche	Guêpe rayée noir et blanc.	machine		black and white wasp	
+H013	guêpe		machine		wasp	
+H014	fourmi		machine		ant	
+H015	fourmi magnan, fourmi légionnaire		machine		driver ant, army ant	
+H016	termite ailé, fourmi ailée		machine		winged termite, flying ant	
+H017	termite		machine		termite	
+H018	termitière		machine		termite mound, anthill	
+H019	mouche		machine		fly	
+H020	mouche du vinaigre, drosophile		machine		fruit fly, vinegar fly, Drosophila	
+H021	taon		machine		horsefly	
+H022	mouche tsé-tsé		machine		tsetse fly	
+H023	moustique		machine		mosquito	
+H024	asticot		machine		maggot	
+H025	sauterelle, criquet (non migrateur)	En français courant, « sauterelle » et « criquet » sont souvent confondus ; ici l’insecte isolé, ni le criquet en essaims ni le grillon.	machine		grasshopper, locust	
+H026	criquet migrateur (en essaims)	Criquet qui se déplace en essaims dévastateurs.	machine		migratory locust, desert locust	
+H027	grillon	Le grillon chante la nuit ; à ne pas confondre avec le criquet.	machine		cricket	
+H028	mante religieuse		machine		praying mantis	
+H029	cafard, blatte		machine		cockroach	
+H030	hanneton		machine		cockchafer, May beetle	
+H031	bousier		machine		dung beetle	
+H032	élytre		machine		elytron, wing case	
+H033	papillon		machine		butterfly	
+H034	papillon de nuit		machine		moth	
+H035	chenille		machine		caterpillar	
+H036	chenille du mopane	Chenille comestible qui vit sur l’arbre mopane.	machine		mopane worm	
+H037	cocon		machine		cocoon	
+H038	libellule		machine		dragonfly	
+H039	luciole, ver luisant		machine		firefly, glow-worm	
+H040	puce		machine		flea	
+H041	pou		machine		louse	
+H042	punaise de lit		machine		bedbug	
+H043	tique		machine		tick	
+H044	pou rouge des volailles (acarien)		machine		poultry red mite, chicken mite	
+H045	puce-chique, chique	« Chique » seul désigne aussi une chique de tabac.	machine		jigger, chigoe flea	
+H046	sangsue		machine		leech	
+H047	ver de farine		machine		mealworm	
+H048	ver de terre, lombric		machine		earthworm	
+H049	araignée		machine		spider	
+H050	toile d’araignée		machine		spider web, cobweb	
+H051	mygale	« Tarentule » désigne en français une autre araignée (lycose).	machine		tarantula, large hairy spider	
+H052	scorpion		machine		scorpion	
+H053	scolopendre, mille-pattes plat qui pique	En français courant, « mille-pattes » désigne aussi la scolopendre.	machine		centipede, scolopendra	
+H054	iule, mille-pattes rond qui s’enroule		machine		millipede	
+H055	escargot		machine		snail	
+H056	escargot arboricole		machine		tree snail	
+H057	escargot terrestre, achatine		machine		land snail, giant African snail (Achatina)	
+H058	escargot aquatique		machine		water snail	
+H059	coquille d’escargot		machine		snail shell	
+H060	crabe		machine		crab	
+H061	crevette		machine		shrimp, prawn	
+H062	palourde		machine		clam	
+H063	moule (coquillage)		machine		mussel	
+I001	Dieu, être suprême		machine		God, Supreme Being	
+I002	divinité secondaire, esprit		machine		lesser deity, spirit	
+I003	esprit mauvais, démon		machine		evil spirit, demon	
+I004	âme		machine		soul	
+I005	fantôme, revenant		machine		ghost, revenant	
+I005b	esprit d’un défunt		machine		spirit of a deceased person, ancestral spirit	
+I006	ciel (demeure de Dieu), paradis	Le ciel comme demeure de Dieu, non le ciel visible.	machine		heaven, paradise	
+I007	séjour des morts		machine		abode of the dead, underworld	
+I008	sanctuaire, lieu de culte		machine		shrine, place of worship	
+I009	autel		machine		altar	
+I010	sacrifice		machine		sacrifice	
+I011	libation		machine		libation	
+I012	consultation des esprits, séance pour parler avec les morts		machine		consulting the spirits, séance	
+I013	cérémonie de la pluie		machine		rain ceremony, rainmaking ritual	
+I014	bénédiction		machine		blessing	
+I015	malédiction		machine		curse	
+I016	chance		machine		luck	
+I017	prophétie		machine		prophecy	
+I018	vision (surnaturelle)	Au sens surnaturel, non la vue.	machine		vision	
+I019	rêve		machine		dream	
+I020	présage, augure		machine		omen, augury	
+I021	tabou, interdit		machine		taboo, prohibition	
+I022	amulette, talisman		machine		amulet, charm, talisman	
+I023	objets jetés pour la divination	Éviter « sort » seul : « jeter un sort » veut dire ensorceler.	machine		objects thrown for divination, divining lots	
+I024	mauvais œil		machine		evil eye	
+I025	sorcellerie		machine		witchcraft, sorcery	
+I026	remède, médicament		machine		medicine, remedy	
+I027	poison		machine		poison	
+I028	cérémonie de guérison		machine		healing ceremony	
+I029	maladie		machine		illness, disease	
+I030	douleur		machine		pain	
+I031	fièvre (autre que le paludisme)		machine		fever (other than malaria)	
+I032	sueur, transpiration		machine		sweat, perspiration	
+I033	rhume		machine		cold (illness), head cold	
+I034	toux		machine		cough	
+I035	hoquet		machine		hiccup	
+I036	glaire, mucosités de la gorge		machine		spit, sputum, phlegm	
+I037	mal de tête		machine		headache	
+I038	mal de ventre		machine		stomach ache, bellyache	
+I039	vomi, vomissure		machine		vomit	
+I040	diarrhée		machine		diarrhoea	
+I041	démangeaison		machine		itch, itching	
+I042	éruption cutanée, boutons		machine		skin rash, spots	
+I043	paludisme		machine		malaria	
+I044	lèpre		machine		leprosy	
+I045	éléphantiasis		machine		elephantiasis	
+I046	mycose de la peau, teigne (maladie de peau)		machine		ringworm, fungal skin infection	
+I047	goitre		machine		goitre	
+I048	ver intestinal		machine		intestinal worm	
+I049	folie, maladie mentale		machine		madness, mental illness	
+I050	plaie, blessure		machine		wound, sore	
+I051	brûlure		machine		burn	
+I052	zébrure, marque en relief laissée par un coup		machine		weal, welt (from a blow)	
+I053	bleu sur la peau, contusion		machine		bruise, contusion	
+I054	cicatrice		machine		scar	
+I055	tache sur la peau, imperfection		machine		skin blemish, spot on the skin	
+I056	bouton		machine		pimple, spot	
+I057	abcès		machine		abscess, boil	
+I058	enflure, gonflement		machine		swelling	
+I058b	tumeur		machine		tumour	
+I058c	bosse, grosseur		machine		lump, bump	
+I059	hernie ombilicale, nombril saillant		machine		umbilical hernia, protruding navel	
+I060	pus		machine		pus	
+I061	ulcère de la peau, plaie ouverte		machine		skin ulcer, open sore	
+I062	bosse dans le dos, bosse de bossu	« Bossu » peut être moqueur.	machine		hunchback's hump, hump on the back	
+I063	maladie des plantes		machine		plant disease, crop disease	
+I064	peste bovine		machine		rinderpest, cattle plague	
+I065	vie		machine		life	
+I066	naissance		machine		birth	
+I067	douleurs de l’accouchement, contractions		machine		labour pains, contractions	
+I068	cérémonie d’attribution du nom	« Baptême » s’emploie aussi en Afrique francophone, mais avec une couleur chrétienne.	machine		naming ceremony	
+I069	circoncision	Au sens général ; d’ordinaire celle des garçons.	machine		circumcision	
+I069f	excision, circoncision féminine	« Mutilations génitales féminines » est le terme officiel des organismes de santé.	machine		female circumcision, excision (FGM)	
+I069m	circoncision masculine		machine		male circumcision	
+I070	puberté, passage à l’âge adulte		machine		puberty, coming of age	
+I071	initiation des garçons		machine		boys' initiation	
+I072	initiation des filles		machine		girls' initiation	
+I073	règles, menstruation		machine		menstruation, period	
+I074	mort, décès		machine		death	
+I075	fausse couche		machine		miscarriage	
+I076	corps d’un défunt, cadavre		machine		corpse, body of the deceased	
+I077	tombe		machine		grave, tomb	
+I077b	cimetière		machine		cemetery, graveyard	
+I078	funérailles, obsèques		machine		funeral	
+I079	lieu de réunion	En Afrique francophone, on parle d’« arbre à palabres » pour le lieu de réunion sous un arbre.	machine		meeting place, gathering place	
+I080	fête, festin		machine		feast, festival, celebration	
+I081	cérémonie de mariage, noces		machine		wedding ceremony, wedding	
+I082	dot versée à la famille de la mariée, compensation matrimoniale	En Afrique francophone, la « dot » est versée à la famille de la mariée ; en France, c’est l’inverse.	machine		bride price, bridewealth	
+I083	loi		machine		law	
+I084	coutume, tradition		machine		custom, tradition	
+I085	jugement coutumier, palabre	« Palabre » au sens africain : assemblée qui règle un différend.	machine		customary trial, palaver (traditional dispute hearing)	

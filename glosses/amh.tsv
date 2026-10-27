@@ -745,3 +745,211 @@ E128	ጭራ ረጅም ትንሽ እህል በሊ ወፍ	ገላጭ ሐረግ ነ�
 E129	ድንቢጥ	ድንቢጥ ለሌሎች ትንንሽ ወፎችም ይውላል።	machine		sparrow	
 E130	ጭራ ነቅናቂ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		tail-wagging bird	
 E131	ቢጫ ግንባር ትንሽ ወፍ	ገላጭ ሐረግ ነው፤ በአማርኛ የተለመደ ስም የለውም።	machine		small yellow-fronted bird	
+F001	ዓሣ		machine		fish	
+F002	አምባዛ		machine		catfish	
+F003	ሳንባ ያለው ዓሣ, በበጋ በጭቃ ውስጥ የሚቀበር ዓሣ	በበጋ በጭቃ ውስጥ ተቀብሮ የሚቆይ ዓሣ።	machine		fish that has lungs	
+F004	ኢል, እባብ መሰል ዓሣ		machine		eel, snake-like fish	
+F005	የዓሣ ቆዳ		machine		fish skin	
+F006	የዓሣ ቅርፊት		machine		fish scale	
+F007	የዓሣ የጀርባ ክንፍ		machine		dorsal fin of a fish (lit. fish's back fin)	
+F008	ከጀርባ ክንፍ ኋላ ያለ ትንሽ ሥጋማ ክንፍ		machine		small fleshy fin behind the dorsal fin	
+F009	የዓሣ የጅራት ክንፍ		machine		fish tail	
+F010	ከመተንፈሻው ኋላ ያለ የዓሣ የጎን ክንፍ		machine		side fin of a fish	
+F011	የዓሣ አጥንት, የዓሣ እሾህ		machine		fish bone, fishbone (lit. fish thorn)	
+F012	የዓሣ መተንፈሻ ክዳን		machine		cover of the fish's breathing organ (gill cover)	
+F013	ከክዳኑ ሥር ያለ የዓሣ መተንፈሻ	ከክዳኑ ሥር ያለው።	machine		fish's breathing organ (gills)	
+F014	የአምባዛ ጢም, የዓሣ ጢም		machine		fish's whiskers (barbels)	
+F015	የዓሣ ጨጓራ		machine		fish stomach	
+F016	የዓሣ አየር ፊኛ		machine		fish air bladder (swim bladder)	
+F017	በዓሣ ሆድ ውስጥ ያለ እንቁላል	በዓሣ ሆድ ውስጥ ያለው የእንቁላል ክምር።	machine		fish egg(s), roe	
+F018	ናይል ፐርች	ትልቅ የወንዝና የሐይቅ ዓሣ።	machine		Nile perch (loan)	
+F019	ቆሮሶ		machine		tilapia (korosso)	
+F020	ነብር ዓሣ, ጥርሳም አዳኝ የወንዝ ዓሣ	ጥርሳም አዳኝ የወንዝ ዓሣ።	machine		leopard fish	
+F021	ኩምቢ ያለው ዓሣ		machine		fish with a trunk	
+F022	ቢኪር, ባለ ብዙ የጀርባ ክንፍ ዓሣ		machine		bichir (loan), fish with many dorsal fins	
+F023	የሚነዝር አምባዛ		machine		catfish that gives an electric shock (electric catfish)	
+G001	እባብ		machine		snake	
+G002	የእባብ ክራንቻ, የእባብ መርዝ ጥርስ		machine		fang	
+G003	የእባብ መርዝ		machine		snake venom	
+G004	የእባብ ቅርፊት		machine		snake scale(s)	
+G005	የተሳቢ እንስሳ እንቁላል		machine		reptile egg (lit. egg of a crawling animal)	
+G006	ምንቃር መሰል አፍንጫ ያለው እባብ		machine		snake with a beak-like nose	
+G007	የአሸዋ እባብ	ቀጭንና ፈጣን እባብ።	machine		sand snake	
+G008	እፉኝት		machine		viper, adder	
+G009	ኮብራ	አንገቱን የሚዘረጋ መርዛም እባብ።	machine		cobra (loan)	
+G010	አረንጓዴ ማምባ	አረንጓዴ መርዛም የዛፍ እባብ።	machine		green mamba (loan)	
+G011	ወፍራም እፉኝት		machine		fat viper	
+G012	አፍንጫው ላይ ቀንድ ያለው እፉኝት		machine		viper with a horn on its nose	
+G013	ከዓይኑ በላይ ቀንድ ያለው እፉኝት	የበረሃ እፉኝት።	machine		viper with a horn above its eye	
+G014	ዘንዶ, ጠምጥሞ የሚገድል ትልቅ እባብ		machine		python	
+G015	አዞ		machine		crocodile	
+G016	እንሽላሊት		machine		lizard	
+G017	ትልቅ የውሃ እንሽላሊት		machine		big water lizard	
+G018	ራሰ ቀይ የአለት እንሽላሊት	ራሱ ቀይ የሆነ እንሽላሊት።	machine		rock lizard	
+G019	ለስላሳ የሚያብረቀርቅ እንሽላሊት		machine		smooth shiny lizard	
+G020	የቤት እንሽላሊት		machine		house lizard	
+G021	እስስት		machine		chameleon	
+G022	የየብስ ኤሊ, ኤሊ		machine		tortoise, turtle	
+G023	ትልቅ የውሃ ኤሊ		machine		big water turtle	
+G024	ትንሽ የንጹሕ ውሃ ኤሊ		machine		small freshwater turtle	
+G025	የኤሊ ቅርፊት		machine		tortoise/turtle shell	
+G026	የዛፍ እንቁራሪት		machine		tree frog	
+G027	ትልቅ እንቁራሪት		machine		big frog	
+G028	ጉርጥ		machine		toad	
+G029	የእንቁራሪት እጭ		machine		frog larva (tadpole)	
+G030	የእንቁራሪት እንቁላል		machine		frog eggs (frogspawn)	
+G031	የእንቁራሪት የጉሮሮ ከረጢት		machine		frog's throat sac (vocal sac)	
+H001	ነፍሳት (እንደ ዝንብና ጉንዳን ያሉ)	ነፍሳት እዚህ ተባዮችን እንጂ ነፍሶችን አያመለክትም።	machine		insects	
+H002	የነፍሳት ቀንድ		machine		insect's horn (antenna)	
+H003	ንብ		machine		bee	
+H004	ንግሥት ንብ, የንብ አውራ	አውራ እዚህ የቀፎው መሪ ንግሥቲቱ ናት እንጂ ወንዱ ንብ (ድንጉላ) አይደለም።	machine		queen bee, lead bee	
+H005	የንብ መንጋ		machine		swarm of bees	
+H006	ቀፎ		machine		beehive	
+H007	ሰም		machine		wax, beeswax	
+H008	ማር		machine		honey	
+H009	የንብ እንጀራ		machine		honeycomb (lit. bee bread)	
+H010	መንደፊያ		machine		stinger (lit. stinging instrument)	
+H011	ትልቅ ተርብ		machine		big wasp	
+H012	ጥቁርና ነጭ ተርብ		machine		black-and-white wasp	
+H013	ተርብ		machine		wasp	
+H014	ጉንዳን		machine		ant	
+H015	ተጓዥ ጉንዳን	በሰልፍ የሚጓዝ ነካሽ ጉንዳን።	machine		travelling ant (army/driver ant)	
+H016	ክንፍ ያወጣ ምስጥ, በራሪ ጉንዳን		machine		termite that has grown wings, flying ant	
+H017	ምስጥ		machine		termite	
+H018	ኩይሳ		machine		termite mound	
+H019	ዝንብ		machine		fly	
+H020	የፍራፍሬ ዝንብ		machine		fruit fly	
+H021	የፈረስ ዝንብ		machine		horse fly	
+H022	የጻጻ ዝንብ		machine		tsetse fly	
+H023	ትንኝ		machine		mosquito	
+H024	የዝንብ እጭ, ትል		machine		fly larva, maggot/worm	
+H025	ፌንጣ		machine		grasshopper	
+H026	አንበጣ		machine		locust	
+H027	የሌሊት ፌንጣ	ሌሊት የሚንጫጫ ፌንጣ።	machine		night grasshopper (cricket)	
+H028	ጸሎተኛ ፌንጣ		machine		praying grasshopper (praying mantis)	
+H029	በረሮ		machine		cockroach	
+H030	ማታ የሚበር ቡናማ ጥንዚዛ		machine		brown beetle that flies at night	
+H031	የፋንድያ ጥንዚዛ		machine		dung beetle	
+H032	የጥንዚዛ ክንፍ ሽፋን		machine		beetle's wing cover	
+H033	ቢራቢሮ		machine		butterfly	
+H034	የእሳት እራት		machine		moth (lit. fire moth)	
+H035	አባ ጨጓሬ		machine		caterpillar	
+H036	የሚበላ አባ ጨጓሬ		machine		edible caterpillar	
+H037	የአባ ጨጓሬ ሽፋን		machine		caterpillar's covering (cocoon)	
+H038	የውሃ ተርብ	በውሃ ዳር የሚበር ረጅም ጭራ ያለው ነፍሳት።	machine		dragonfly (lit. water wasp)	
+H039	ብርሃን የሚያበራ ነፍሳት		machine		insect that gives off light (firefly)	
+H040	ቁንጫ		machine		flea	
+H041	ቅማል		machine		louse, lice	
+H042	ትኋን		machine		bedbug	
+H043	መዥገር		machine		tick	
+H044	ደም የሚመጥ የዶሮ ቅማል		machine		chicken louse	
+H045	እግር ውስጥ የሚገባ ቁንጫ		machine		flea that enters the foot (jigger)	
+H046	አልቅት		machine		leech	
+H047	የዱቄት ትል, የእህል ነቀዝ ትል		machine		weevil	
+H048	የመሬት ትል		machine		earthworm (lit. ground worm)	
+H049	ሸረሪት		machine		spider	
+H050	የሸረሪት ድር		machine		spider web	
+H051	ትልቅ ጸጉራም ሸረሪት		machine		big hairy spider	
+H052	ጊንጥ		machine		scorpion	
+H053	መቶ እግር	ጠፍጣፋ ነካሽ ባለ ብዙ እግር።	machine		centipede (lit. hundred-legs)	
+H054	ሺ እግር	ክብ፣ የሚጠቀለል ባለ ብዙ እግር።	machine		millipede (lit. thousand-legs)	
+H055	ቀንድ አውጣ		machine		snail	
+H056	የዛፍ ቀንድ አውጣ		machine		tree snail	
+H057	የየብስ ቀንድ አውጣ		machine		land snail	
+H058	የውሃ ቀንድ አውጣ		machine		water snail	
+H059	የቀንድ አውጣ ቅርፊት		machine		snail shell	
+H060	ሸርጣን		machine		crab	
+H061	ሽሪምፕ		machine		shrimp (loan)	
+H062	ክብ ባለ ሁለት ቅርፊት ዛጎል		machine		round two-shelled shell (round bivalve, clam)	
+H063	ሞላላ ጥቁር ባለ ሁለት ቅርፊት ዛጎል		machine		oval black two-shelled shell (mussel)	
+I001	ፈጣሪ, አምላክ	ክርስቲያኖች እግዚአብሔር፣ ሙስሊሞች አላህ ይላሉ።	machine		Creator, God	
+I002	ከፈጣሪ በታች ያለ መንፈስ, ታናሽ አምላክ	ቆሌ፣ ውቃቢና አድባር የሰው ወይም የቦታ ጠባቂ መንፈስ ናቸው፤ ዛር የሚሰፍር መንፈስ ነው።	machine		spirit, guardian spirit	
+I003	እርኩስ መንፈስ		machine		evil spirit, demon	
+I004	ነፍስ		machine		soul	
+I005	የሚታይ የሙት መንፈስ, ምትሃት		machine		visible ghost of a dead person, apparition	
+I005b	የማይታይ የሙት መንፈስ		machine		ghost, spirit of a dead person	
+I006	ሰማይ (የፈጣሪ መኖሪያ), ገነት	ክርስቲያኖች መንግሥተ ሰማያት፣ ሙስሊሞች ጀነት ይላሉ።	machine		the kingdom of heaven	
+I007	የሙታን ዓለም		machine		the world of the dead, underworld	
+I008	የአምልኮ ቦታ, መቅደስ		machine		place of worship, sanctuary	
+I009	መሠዊያ		machine		altar	
+I010	መሥዋዕት		machine		sacrifice	
+I011	የመጠጥ መሥዋዕት	ለመንፈስ ወይም ለሙታን መጠጥ በመሬት ላይ ማፍሰስ።	machine		drink offering, libation	
+I012	መናፍስትን የመጥራት ስብሰባ		machine		gathering for summoning spirits (seance)	
+I013	ዝናብ የማዝነብ ሥነ ሥርዓት		machine		rain-making ceremony	
+I014	ምርቃት, በረከት		machine		blessing, benediction	
+I015	እርግማን		machine		curse	
+I016	ዕድል		machine		luck, fortune, chance	
+I017	ትንቢት		machine		prophecy	
+I018	ራእይ		machine		vision	
+I019	ሕልም		machine		dream	
+I020	ቅድመ ምልክት, የሚመጣውን የሚጠቁም ምልክት		machine		omen, sign beforehand	
+I021	እርም		machine		taboo, forbidden thing	
+I022	ክታብ		machine		amulet (written charm)	
+I023	ዕጣ		machine		lot (as in drawing lots), one's lot/fate	
+I024	ክፉ ዓይን, ቡዳ	ቡዳ የሚለው ቃል የእጅ ሙያተኞችን ለመስደብም ስለሚውል በጥንቃቄ ይጠቀሙ።	machine		evil eye, buda	
+I025	መተት, ሰውን የሚጎዳ አስማት	ጥንቆላ (ሟርት) ወይም የባህል ሕክምና አይደለም፤ ሰውን ለመጉዳት የሚደረግ ነው።	machine		divination, sorcery	
+I026	መድኃኒት		machine		medicine	
+I027	መርዝ		machine		poison	
+I028	የፈውስ ሥነ ሥርዓት		machine		healing ceremony	
+I029	በሽታ		machine		disease	
+I030	ሕመም (የሚያም ስሜት)		machine		illness, pain	
+I031	ትኩሳት		machine		fever	
+I032	ላብ		machine		sweat	
+I033	ጉንፋን		machine		cold, flu	
+I034	ሳል		machine		cough	
+I035	ስቅታ		machine		hiccup(s)	
+I036	አክታ		machine		phlegm, sputum	
+I037	ራስ ምታት		machine		headache	
+I038	የሆድ ሕመም, የሆድ ቁርጠት		machine		stomach cramp, colic	
+I039	ትውከት		machine		vomit, vomiting	
+I040	ተቅማጥ		machine		diarrhoea	
+I041	ማሳከክ		machine		itching	
+I042	የቆዳ ሽፍታ		machine		skin rash	
+I043	ወባ		machine		malaria	
+I044	የሥጋ ደዌ, ቁምጥና	ቁምጥና የሚያንቋሽሽ ሊሆን ይችላል።	machine		leprosy	
+I045	ዝሆኔ		machine		elephantiasis	
+I046	ጭርት		machine		ringworm, scalp fungus (tinea)	
+I047	እንቅርት		machine		goitre	
+I048	የአንጀት ትል		machine		intestinal worm	
+I049	የአእምሮ ሕመም, እብደት	እብደት ለስድብም ይውላል።	machine		mental illness, madness	
+I050	ቁስል		machine		wound, sore	
+I051	የቃጠሎ ቁስል		machine		burn (wound)	
+I052	ሰንበር		machine		welt, weal (stripe from a blow)	
+I053	በምት የጠቆረ የቆዳ ምልክት		machine		blood clotting, blood clot	
+I054	ጠባሳ		machine		scar	
+I055	የቆዳ እንከን, በቆዳ ላይ ያለ ምልክት		machine		defect, blemish, flaw	
+I056	ብጉር		machine		pimple, acne	
+I057	እባጭ		machine		boil, abscess	
+I058	እብጠት		machine		swelling	
+I058b	ዕጢ, የሚያድግ እብጠት		machine		tumour	
+I058c	ጉብታ		machine		lump, hump	
+I059	የወጣ እምብርት		machine		protruding navel (umbilical hernia)	
+I060	መግል		machine		pus	
+I061	የማይድን ክፍት የቆዳ ቁስል, የቆላ ቁስል		machine		lowland sore	
+I062	የጀርባ ጉብጠት		machine		hump of the back, hunchback	
+I063	የሰብል በሽታ, ዋግ		machine		crop disease, rust/blight (wag)	
+I064	የከብት ቸነፈር	ከብቶችን የሚፈጅ ተላላፊ በሽታ፤ አሁን ጠፍቷል።	machine		cattle 'desta' disease (lit. cattle joy-disease)	
+I065	ሕይወት		machine		life	
+I066	ልደት, ወሊድ		machine		birth, childbirth	
+I067	ምጥ		machine		labour pains	
+I068	የስም ማውጣት ሥነ ሥርዓት		machine		naming ceremony	
+I069	ግርዛት		machine		circumcision	
+I069f	የሴት ልጅ ግርዛት		machine		female circumcision (of a girl)	
+I069m	የወንድ ልጅ ግርዛት		machine		male circumcision (of a boy)	
+I070	ጉርምስና		machine		adolescence, puberty	
+I071	የወንዶች የአቅመ አዳም ሥነ ሥርዓት		machine		men's coming-of-age ceremony	
+I072	የሴቶች የአቅመ ሔዋን ሥነ ሥርዓት		machine		women's coming-of-age ceremony	
+I073	የወር አበባ		machine		menstruation (period)	
+I074	ሞት		machine		death	
+I075	የጽንስ መጨንገፍ	ውርጃ ብዙ ጊዜ ሆን ተብሎ ማስወረድን ያመለክታል።	machine		miscarriage	
+I076	አስከሬን		machine		corpse	
+I077	መቃብር		machine		grave, tomb	
+I077b	የመቃብር ቦታ, መካነ መቃብር		machine		cemetery, graveyard	
+I078	ቀብር		machine		burial, funeral	
+I079	መሰብሰቢያ ቦታ		machine		meeting place, assembly place	
+I080	በዓል, ድግስ		machine		festival, feast	
+I081	ሰርግ		machine		wedding	
+I082	ለሙሽሪት ቤተሰብ የሚከፈል የጋብቻ ክፍያ	ጥሎሽ አይደለም፤ ጥሎሽ ለሙሽሪቷ ራሷ የሚሰጥ ነው።	machine		dowry given to the bride's family (bridewealth)	
+I083	ሕግ		machine		law	
+I084	ልማድ, ወግ		machine		custom, tradition	
+I085	የባህል ችሎት, ሽምግልና		machine		traditional court, mediation by elders	
