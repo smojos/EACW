@@ -313,7 +313,7 @@ B051m	male deaf person	NOUN	no
 B052	hunchback	NOUN	yes			
 B052f	female hunchback	NOUN	no			
 B052m	male hunchback	NOUN	no			
-B053	cripple	NOUN	yes			
+B053	cripple	NOUN	yes		physically disabled person, esp. unable to walk normally	
 B053f	female cripple	NOUN	no			
 B053m	male cripple	NOUN	no			
 B054	dwarf	NOUN	yes			
@@ -383,8 +383,8 @@ C013	paternal great grandparent	NOUN	no
 C013f	paternal great grandmother	NOUN	yes			
 C013m	paternal great grandfather	NOUN	yes			
 C014	paternal pibling	NOUN	no		father's sibling, aunt or uncle	
-C014f	paternal aunt	NOUN	yes			
-C014m	paternal uncle	NOUN	yes			
+C014f	paternal aunt	NOUN	yes		father's sister	
+C014m	paternal uncle	NOUN	yes		father's brother	
 C015	paternal cousin	NOUN	no		child of father's sibling; either (a) father's brother's child, or (b) father's sister's child	
 C015f	female paternal cousin	NOUN	yes			
 C015m	male paternal cousin	NOUN	yes			
@@ -395,8 +395,8 @@ C017	maternal great grandparent	NOUN	no
 C017f	maternal great grandmother	NOUN	yes			
 C017m	maternal great grandfather	NOUN	yes			
 C018	maternal pibling	NOUN	no		mother's sibling, aunt or uncle	
-C018f	maternal aunt	NOUN	yes			
-C018m	maternal uncle	NOUN	yes			
+C018f	maternal aunt	NOUN	yes		mother's sister	
+C018m	maternal uncle	NOUN	yes		mother's brother	
 C019	maternal cousin	NOUN	no		child of mother's sibling; either (a) mother's sister's child, or (b) mother's brother's child	
 C019f	female maternal cousin	NOUN	yes			
 C019m	male maternal cousin	NOUN	yes			
