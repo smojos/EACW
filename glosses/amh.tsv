@@ -259,9 +259,9 @@ B033m	ወንድ ጦረኛ		machine		male warrior
 B034	ምርኮኛ		machine		captive; prisoner of war	
 B034f	ሴት ምርኮኛ		machine		female captive	
 B034m	ወንድ ምርኮኛ		machine		male captive	
-B035	ባሪያ	ባሪያ is the standard word for slave but is also an ethnic slur in Ethiopia for darker-skinned peoples; no neutral alternative is established.	machine		slave	
-B035f	ሴት ባሪያ	ባሪያ is the standard word for slave but is also an ethnic slur in Ethiopia for darker-skinned peoples; no neutral alternative is established.	machine		female slave; slave woman	
-B035m	ወንድ ባሪያ	ባሪያ is the standard word for slave but is also an ethnic slur in Ethiopia for darker-skinned peoples; no neutral alternative is established.	machine		male slave	
+B035	ባሪያ	ባሪያ መደበኛው ቃል ነው፤ ነገር ግን በኢትዮጵያ ጠቆር ያለ የቆዳ ቀለም ላላቸው ሕዝቦች የሚሰጥ የዘር ስድብም ነው። የተለመደ ገለልተኛ አማራጭ ቃል የለም።	machine		slave	
+B035f	ሴት ባሪያ	ባሪያ መደበኛው ቃል ነው፤ ነገር ግን በኢትዮጵያ ጠቆር ያለ የቆዳ ቀለም ላላቸው ሕዝቦች የሚሰጥ የዘር ስድብም ነው። የተለመደ ገለልተኛ አማራጭ ቃል የለም።	machine		female slave; slave woman	
+B035m	ወንድ ባሪያ	ባሪያ መደበኛው ቃል ነው፤ ነገር ግን በኢትዮጵያ ጠቆር ያለ የቆዳ ቀለም ላላቸው ሕዝቦች የሚሰጥ የዘር ስድብም ነው። የተለመደ ገለልተኛ አማራጭ ቃል የለም።	machine		male slave	
 B036	መንገድ መሪ		machine		guide; pathfinder	
 B036f	ሴት መንገድ መሪ		machine		female guide	
 B036m	ወንድ መንገድ መሪ		machine		male guide	
@@ -355,33 +355,33 @@ C003m	ታላቅ ወንድም		machine		older brother
 C004	ታናሽ ወንድም ወይም እህት		machine		younger brother or sister; younger sibling	
 C004f	ታናሽ እህት		machine		younger sister	
 C004m	ታናሽ ወንድም		machine		younger brother	
-C005	የትዳር ጓደኛ, ባለቤት	ባለቤት 'የንብረት ባለቤት' ማለትም ነው	machine		spouse, husband/wife	
+C005	የትዳር ጓደኛ, ባለቤት (ባል ወይም ሚስት)		machine		spouse, husband/wife	
 C005f	ሚስት		machine		wife	
 C005m	ባል		machine		husband	
-C006	የትዳር ጓደኛ ተጋሪ	ከሌላ ሰው ጋር አንድ የትዳር ጓደኛ የሚጋራ (ጣውንት ወይም የሴቷ ሌላ ባል)	machine		co-wife	
+C006	የትዳር ጓደኛ ከሌላ ጋር የሚጋራ ሰው		machine		co-wife	
 C006f	ጣውንት	ጣውንት 'ተቀናቃኝ ሴት' የሚል ስሜትም አለው	machine		co-wife	
-C006m	የአንድ ሴት ሌላ ባል	ገላጭ ሐረግ፤ በአንድ ጊዜ ያለ ሌላ ባል እንጂ የቀድሞ ባል አይደለም	machine		a woman's other husband; co-husband	
-C007	ሙሽራ ወይም ሙሽሪት	Strictly 'groom'; here 'bride or groom'.	machine		bride or groom; newlywed	
+C006m	አንዲት ሚስት ከሌላ ባል ጋር የሚጋራ ባል		machine		a woman's other husband; co-husband	
+C007	ሙሽራ ወይም ሙሽሪት		machine		bride or groom; newlywed	
 C007f	ሙሽሪት		machine		bride	
 C007m	ሙሽራ		machine		bridegroom	
 C008	እጮኛ		machine		fiancé(e); betrothed	
 C008f	እጮኛ (ሴት)		machine		fiancée	
 C008m	እጮኛ (ወንድ)		machine		fiancé	
-C009	ልጅ	የራስ ልጅ (ዘር)፣ በዕድሜ ሕፃን ማለት አይደለም	machine		child	
-C009f	ሴት ልጅ	የራስ ሴት ልጅ (ዘር)፣ ልጃገረድ ማለት አይደለም	machine		daughter; girl	
-C009m	ወንድ ልጅ	የራስ ወንድ ልጅ (ዘር)፣ በዕድሜ ልጅ ማለት አይደለም	machine		son; boy	
+C009	የራስ ልጅ		machine		child	
+C009f	የራስ ሴት ልጅ		machine		daughter; girl	
+C009m	የራስ ወንድ ልጅ		machine		son; boy	
 C010	የልጅ ልጅ		machine		grandchild	
 C010f	ሴት የልጅ ልጅ		machine		granddaughter	
 C010m	ወንድ የልጅ ልጅ		machine		grandson	
-C011	ቅድመ አያት	ማንኛውም የቀድሞ ትውልድ አባት ወይም እናት፣ ቅድመ አያት ብቻ አይደለም	machine		great-grandparent; ancestor	
-C011f	ሴት ቅድመ አያት	ማንኛውም የቀድሞ ትውልድ አባት ወይም እናት፣ ቅድመ አያት ብቻ አይደለም	machine		great-grandmother; female ancestor	
-C011m	ወንድ ቅድመ አያት	ማንኛውም የቀድሞ ትውልድ አባት ወይም እናት፣ ቅድመ አያት ብቻ አይደለም	machine		great-grandfather; male ancestor	
+C011	ቅድመ አያት (ማንኛውም የቀድሞ ትውልድ)		machine		great-grandparent; ancestor	
+C011f	ሴት ቅድመ አያት (ማንኛውም የቀድሞ ትውልድ)		machine		great-grandmother; female ancestor	
+C011m	ወንድ ቅድመ አያት (ማንኛውም የቀድሞ ትውልድ)		machine		great-grandfather; male ancestor	
 C012	የአባት ወገን አያት		machine		paternal grandparent	
 C012f	የአባት እናት		machine		father's mother; paternal grandmother	
 C012m	የአባት አባት		machine		father's father; paternal grandfather	
-C013	የአባት አያት	የአባት አያት (ቅድመ አያት)፣ የአባት ወላጅ አይደለም	machine		father's grandparent; paternal great-grandparent	
-C013f	የአባት ሴት አያት	የአባት አያት (ሴት)፣ የአባት እናት አይደለም	machine		father's grandmother; paternal great-grandmother	
-C013m	የአባት ወንድ አያት	የአባት አያት (ወንድ)፣ የአባት አባት አይደለም	machine		father's grandfather; paternal great-grandfather	
+C013	የአባት አያት (ቅድመ አያት)		machine		father's grandparent; paternal great-grandparent	
+C013f	የአባት ሴት አያት (ቅድመ አያት)		machine		father's grandmother; paternal great-grandmother	
+C013m	የአባት ወንድ አያት (ቅድመ አያት)		machine		father's grandfather; paternal great-grandfather	
 C014	የአባት ወንድም ወይም እህት		machine		father's sibling; paternal uncle or aunt	
 C014f	የአባት እህት		machine		father's sister; paternal aunt	
 C014m	የአባት ወንድም		machine		father's brother; paternal uncle	
@@ -391,9 +391,9 @@ C015m	የአባት ወንድም ወይም እህት ወንድ ልጅ		machine		s
 C016	የእናት ወገን አያት		machine		maternal grandparent	
 C016f	የእናት እናት		machine		mother's mother; maternal grandmother	
 C016m	የእናት አባት		machine		mother's father; maternal grandfather	
-C017	የእናት አያት	የእናት አያት (ቅድመ አያት)፣ የእናት ወላጅ አይደለም	machine		mother's grandparent; maternal great-grandparent	
-C017f	የእናት ሴት አያት	የእናት አያት (ሴት)፣ የእናት እናት አይደለም	machine		mother's grandmother; maternal great-grandmother	
-C017m	የእናት ወንድ አያት	የእናት አያት (ወንድ)፣ የእናት አባት አይደለም	machine		mother's grandfather; maternal great-grandfather	
+C017	የእናት አያት (ቅድመ አያት)		machine		mother's grandparent; maternal great-grandparent	
+C017f	የእናት ሴት አያት (ቅድመ አያት)		machine		mother's grandmother; maternal great-grandmother	
+C017m	የእናት ወንድ አያት (ቅድመ አያት)		machine		mother's grandfather; maternal great-grandfather	
 C018	የእናት ወንድም ወይም እህት		machine		mother's sibling; maternal uncle or aunt	
 C018f	የእናት እህት		machine		mother's sister; maternal aunt	
 C018m	የእናት ወንድም		machine		mother's brother; maternal uncle	
@@ -419,11 +419,11 @@ C025	የሚስት ወንድም ወይም እህት ልጅ		machine		wife's sibli
 C025f	የሚስት ወንድም ወይም እህት ሴት ልጅ		machine		wife's sibling's daughter; niece by marriage	
 C025m	የሚስት ወንድም ወይም እህት ወንድ ልጅ		machine		wife's sibling's son; nephew by marriage	
 C026	የልጅ የትዳር ጓደኛ		machine		child's spouse; child-in-law	
-C026f	ምራት	የልጅ ሚስት (የወንድም ሚስት አይደለም)	machine		daughter-in-law	
-C026m	አማች	የልጅ ባል	machine		son-in-law	
-C027	ዘር	የአንድ ሰው ተከታይ ትውልድ (ልጅ፣ የልጅ ልጅ...)	machine		descendant, offspring	
-C027f	ሴት ዘር		machine		female descendant	
-C027m	ወንድ ዘር		machine		male descendant	
+C026f	ምራት (የልጅ ሚስት)		machine		daughter-in-law	
+C026m	አማች (የልጅ ባል)		machine		son-in-law	
+C027	ዘር (ልጅ፣ የልጅ ልጅ...)		machine		descendant, offspring	
+C027f	ሴት ዘር (ሴት ልጅ፣ የልጅ ልጅ...)		machine		female descendant	
+C027m	ወንድ ዘር (ወንድ ልጅ፣ የልጅ ልጅ...)		machine		male descendant	
 C028	ከጋብቻ ውጭ የተወለደ ልጅ, ዲቃላ	ዲቃላ እንደ ስድብም ያገለግላል፤ 'ክልስ' (የተቀላቀለ ዘር) ማለትም ነው	machine		child born out of wedlock, bastard	
 C028f	ከጋብቻ ውጭ የተወለደች ልጅ, ዲቃላ	ዲቃላ እንደ ስድብም ያገለግላል፤ 'ክልስ' (የተቀላቀለ ዘር) ማለትም ነው	machine		girl born out of wedlock, illegitimate daughter	
 C028m	ከጋብቻ ውጭ የተወለደ ወንድ ልጅ, ዲቃላ	ዲቃላ እንደ ስድብም ያገለግላል፤ 'ክልስ' (የተቀላቀለ ዘር) ማለትም ነው	machine		boy born out of wedlock, illegitimate son	

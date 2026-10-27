@@ -349,30 +349,30 @@ C001m	père		machine		father
 C002	frère ou sœur		machine		sibling (brother or sister)	
 C002f	sœur		machine		sister	
 C002m	frère		machine		brother	
-C003	frère ou sœur aîné(e)	plus âgé(e) que soi, pas forcément l'aîné(e) de tous	machine		older sibling (elder brother or sister)	
-C003f	sœur aînée, grande sœur	plus âgé(e) que soi, pas forcément l'aîné(e) de tous	machine		older sister, big sister	
-C003m	frère aîné, grand frère	plus âgé(e) que soi, pas forcément l'aîné(e) de tous	machine		older brother, big brother	
-C004	frère ou sœur cadet(te)	plus jeune que soi, pas forcément le (la) plus jeune de tous	machine		younger sibling (younger brother or sister)	
-C004f	sœur cadette, petite sœur	plus jeune que soi, pas forcément le (la) plus jeune de tous	machine		younger sister, little sister	
-C004m	frère cadet, petit frère	plus jeune que soi, pas forcément le (la) plus jeune de tous	machine		younger brother, little brother	
+C003	grand frère ou grande sœur		machine		older sibling (elder brother or sister)	
+C003f	grande sœur, sœur plus âgée		machine		older sister, big sister	
+C003m	grand frère, frère plus âgé		machine		older brother, big brother	
+C004	petit frère ou petite sœur		machine		younger sibling (younger brother or sister)	
+C004f	petite sœur, sœur plus jeune		machine		younger sister, little sister	
+C004m	petit frère, frère plus jeune		machine		younger brother, little brother	
 C005	conjoint, époux		machine		spouse	
 C005f	épouse, femme		machine		wife	
 C005m	mari, époux		machine		husband	
-C006	co-conjoint	personne qui partage le même conjoint (co-épouse ou co-époux)	machine		co-wife, co-spouse (fellow spouse in a polygamous marriage)	
+C006	co-conjoint, personne qui partage le même conjoint		machine		co-wife, co-spouse (fellow spouse in a polygamous marriage)	
 C006f	co-épouse		machine		co-wife	
-C006m	co-époux	homme qui partage la même épouse qu'un autre homme	machine		co-husband	
-C007	jeune marié(e)	la mariée ou le marié, le jour des noces	machine		newlywed	
+C006m	co-époux, autre mari de la même épouse		machine		co-husband	
+C007	mariée ou marié (le jour des noces)		machine		newlywed	
 C007f	mariée, jeune mariée		machine		bride, newlywed (woman)	
 C007m	marié, jeune marié		machine		bridegroom, newlywed (man)	
 C008	fiancé(e)		machine		fiancé(e), betrothed	
 C008f	fiancée		machine		fiancée, betrothed (woman)	
 C008m	fiancé		machine		fiancé, betrothed (man)	
 C009	enfant (fils ou fille)		machine		child (son or daughter)	
-C009f	fille	au sens de descendante (fille de quelqu'un), pas de jeune fille	machine		daughter	
+C009f	fille (enfant de quelqu'un)		machine		daughter	
 C009m	fils		machine		son	
 C010	petit-enfant		machine		grandchild	
-C010f	petite-fille	fille du fils ou de la fille, pas une fillette	machine		granddaughter	
-C010m	petit-fils		machine		grandson	
+C010f	petite-fille, fille du fils ou de la fille		machine		granddaughter	
+C010m	petit-fils, fils du fils ou de la fille		machine		grandson	
 C011	ancêtre		machine		ancestor	
 C011f	ancêtre (femme)		machine		ancestor (female), ancestress	
 C011m	ancêtre (homme)		machine		ancestor (male)	
@@ -382,27 +382,27 @@ C012m	grand-père paternel		machine		paternal grandfather
 C013	arrière-grand-parent paternel		machine		paternal great-grandparent	
 C013f	arrière-grand-mère paternelle		machine		paternal great-grandmother	
 C013m	arrière-grand-père paternel		machine		paternal great-grandfather	
-C014	oncle ou tante paternel(le)		machine		paternal uncle or aunt	
-C014f	tante paternelle	sœur du père (pas l'épouse d'un oncle)	machine		paternal aunt	
-C014m	oncle paternel	frère du père (pas le mari d'une tante)	machine		paternal uncle	
-C015	cousin(e) paternel(le)		machine		paternal cousin	
-C015f	cousine paternelle		machine		paternal cousin (female)	
-C015m	cousin paternel (homme)		machine		paternal cousin (male)	
+C014	oncle ou tante paternel(le), frère ou sœur du père		machine		paternal uncle or aunt	
+C014f	tante paternelle, sœur du père		machine		paternal aunt	
+C014m	oncle paternel, frère du père		machine		paternal uncle	
+C015	cousin(e) paternel(le), enfant du frère ou de la sœur du père		machine		paternal cousin	
+C015f	cousine paternelle, fille du frère ou de la sœur du père		machine		paternal cousin (female)	
+C015m	cousin paternel, fils du frère ou de la sœur du père		machine		paternal cousin (male)	
 C016	grand-parent maternel		machine		maternal grandparent	
 C016f	grand-mère maternelle		machine		maternal grandmother	
 C016m	grand-père maternel		machine		maternal grandfather	
 C017	arrière-grand-parent maternel		machine		maternal great-grandparent	
 C017f	arrière-grand-mère maternelle		machine		maternal great-grandmother	
 C017m	arrière-grand-père maternel		machine		maternal great-grandfather	
-C018	oncle ou tante maternel(le)		machine		maternal uncle or aunt	
-C018f	tante maternelle	sœur de la mère (pas l'épouse d'un oncle)	machine		maternal aunt	
-C018m	oncle maternel	frère de la mère (pas le mari d'une tante)	machine		maternal uncle	
-C019	cousin(e) maternel(le)		machine		maternal cousin	
-C019f	cousine maternelle		machine		maternal cousin (female)	
-C019m	cousin maternel (homme)		machine		maternal cousin (male)	
+C018	oncle ou tante maternel(le), frère ou sœur de la mère		machine		maternal uncle or aunt	
+C018f	tante maternelle, sœur de la mère		machine		maternal aunt	
+C018m	oncle maternel, frère de la mère		machine		maternal uncle	
+C019	cousin(e) maternel(le), enfant de la sœur ou du frère de la mère		machine		maternal cousin	
+C019f	cousine maternelle, fille de la sœur ou du frère de la mère		machine		maternal cousin (female)	
+C019m	cousin maternel, fils de la sœur ou du frère de la mère		machine		maternal cousin (male)	
 C020	beau-parent (parent du mari)		machine		parent-in-law (husband's parent)	
-C020f	belle-mère (mère du mari)	'belle-mère' signifie aussi « marâtre » ; ici la mère du mari	machine		mother-in-law (husband's mother)	
-C020m	beau-père (père du mari)	'beau-père' signifie aussi le mari de la mère ; ici le père du mari	machine		father-in-law (husband's father)	
+C020f	belle-mère (mère du mari)		machine		mother-in-law (husband's mother)	
+C020m	beau-père (père du mari)		machine		father-in-law (husband's father)	
 C021	frère ou sœur du mari		machine		husband's sibling, brother- or sister-in-law	
 C021f	belle-sœur (sœur du mari)		machine		sister-in-law (husband's sister)	
 C021m	beau-frère (frère du mari)		machine		brother-in-law (husband's brother)	
@@ -410,8 +410,8 @@ C022	neveu ou nièce du mari		machine		husband's nephew or niece
 C022f	nièce du mari		machine		husband's niece	
 C022m	neveu du mari		machine		husband's nephew	
 C023	beau-parent (parent de l'épouse)		machine		parent-in-law (wife's parent)	
-C023f	belle-mère (mère de l'épouse)	'belle-mère' signifie aussi « marâtre » ; ici la mère de l'épouse	machine		mother-in-law (wife's mother)	
-C023m	beau-père (père de l'épouse)	'beau-père' signifie aussi le mari de la mère ; ici le père de l'épouse	machine		father-in-law (wife's father)	
+C023f	belle-mère (mère de l'épouse)		machine		mother-in-law (wife's mother)	
+C023m	beau-père (père de l'épouse)		machine		father-in-law (wife's father)	
 C024	frère ou sœur de l'épouse		machine		wife's sibling, brother- or sister-in-law	
 C024f	belle-sœur (sœur de l'épouse)		machine		sister-in-law (wife's sister)	
 C024m	beau-frère (frère de l'épouse)		machine		brother-in-law (wife's brother)	
@@ -419,54 +419,54 @@ C025	neveu ou nièce de l'épouse		machine		wife's nephew or niece
 C025f	nièce de l'épouse		machine		wife's niece	
 C025m	neveu de l'épouse		machine		wife's nephew	
 C026	gendre ou belle-fille		machine		child-in-law (son-in-law or daughter-in-law)	
-C026f	belle-fille, bru	épouse du fils (et non fille du conjoint)	machine		daughter-in-law	
-C026m	gendre, beau-fils		machine		son-in-law	
+C026f	belle-fille (épouse du fils), bru		machine		daughter-in-law	
+C026m	gendre, beau-fils (mari de la fille)		machine		son-in-law	
 C027	descendant		machine		descendant	
 C027f	descendante		machine		descendant (female)	
 C027m	descendant (homme)		machine		descendant (male)	
 C028	enfant illégitime, bâtard	« bâtard » est injurieux	machine		illegitimate child, bastard	
 C028f	fille illégitime, bâtarde	« bâtarde » est injurieux	machine		illegitimate daughter	
 C028m	fils illégitime, bâtard	« bâtard » est injurieux	machine		illegitimate son, bastard	
-C029	membre de la famille, parent	parent au sens large, pas seulement père ou mère	machine		relative, family member, kinsman	
-C029f	parente	membre féminin de la famille	machine		relative (female), kinswoman	
-C029m	parent (homme)	membre masculin de la famille, pas le père	machine		relative (male), kinsman	
+C029	membre de la famille, parent (au sens large)		machine		relative, family member, kinsman	
+C029f	membre de la famille (femme), parente		machine		relative (female), kinswoman	
+C029m	membre de la famille (homme), parent		machine		relative (male), kinsman	
 C030	famille		machine		family	
 C031	clan		machine		clan	
 C032	peuple, ethnie		machine		people, ethnic group	
 C033	foule		machine		crowd	
 C034	ami		machine		friend	
-C034f	amie	au sens d'amitié, pas de petite amie	machine		friend (female)	
-C034m	ami (homme)	au sens d'amitié, pas de petit ami	machine		friend (male)	
-C035	homonyme	personne qui porte le même nom	machine		namesake	
-C035f	homonyme (femme)		machine		namesake (female)	
-C035m	homonyme (homme)		machine		namesake (male)	
-C036	connaissance	personne que l'on connaît, sans être un ami	machine		acquaintance	
-C036f	connaissance (femme)		machine		acquaintance (female)	
-C036m	connaissance (homme)		machine		acquaintance (male)	
+C034f	amie (au sens d'amitié)		machine		friend (female)	
+C034m	ami (homme, au sens d'amitié)		machine		friend (male)	
+C035	homonyme, personne qui porte le même nom		machine		namesake	
+C035f	homonyme, femme qui porte le même nom		machine		namesake (female)	
+C035m	homonyme, homme qui porte le même nom		machine		namesake (male)	
+C036	connaissance (personne que l'on connaît)		machine		acquaintance	
+C036f	connaissance (femme que l'on connaît)		machine		acquaintance (female)	
+C036m	connaissance (homme que l'on connaît)		machine		acquaintance (male)	
 C037	voisin		machine		neighbour	
 C037f	voisine		machine		neighbour (female)	
 C037m	voisin (homme)		machine		neighbour (male)	
 C038	invité, visiteur		machine		guest, visitor	
 C038f	invitée, visiteuse		machine		guest (female), visitor (female)	
 C038m	invité (homme), visiteur		machine		guest (male), visitor (male)	
-C039	hôte (qui reçoit)	celui qui accueille chez lui	machine		host (one who receives guests)	
-C039f	hôtesse (qui reçoit)	celle qui accueille chez elle	machine		hostess (one who receives guests)	
-C039m	hôte (homme qui reçoit)		machine		host (male, one who receives guests)	
-C040	inconnu, étranger	personne qu'on ne connaît pas	machine		stranger, unknown person	
+C039	hôte (qui reçoit chez soi)		machine		host (one who receives guests)	
+C039f	hôtesse (qui reçoit chez elle)		machine		hostess (one who receives guests)	
+C039m	hôte (homme qui reçoit chez lui)		machine		host (male, one who receives guests)	
+C040	inconnu, étranger		machine		stranger, unknown person	
 C040f	inconnue, étrangère		machine		stranger (female), unknown woman	
 C040m	inconnu (homme), étranger		machine		stranger (male), unknown man	
 C041	ennemi		machine		enemy	
 C041f	ennemie		machine		enemy (female)	
 C041m	ennemi (homme)		machine		enemy (male)	
-C042	étranger	personne d'un autre pays	machine		foreigner	
-C042f	étrangère		machine		foreigner (female)	
-C042m	étranger (homme)		machine		foreigner (male)	
+C042	étranger (d'un autre pays)		machine		foreigner	
+C042f	étrangère (d'un autre pays)		machine		foreigner (female)	
+C042m	étranger (homme d'un autre pays)		machine		foreigner (male)	
 C043	personne noire, Noir		machine		black person	
 C043f	femme noire, Noire		machine		black woman	
 C043m	homme noir, Noir		machine		black man	
-C044	personne au teint clair	personne à la peau claire, dite « rouge » dans certaines langues	machine		light-skinned person	
-C044f	femme au teint clair		machine		light-skinned woman	
-C044m	homme au teint clair		machine		light-skinned man	
+C044	personne au teint clair, dite « rouge »		machine		light-skinned person	
+C044f	femme au teint clair, dite « rouge »		machine		light-skinned woman	
+C044m	homme au teint clair, dit « rouge »		machine		light-skinned man	
 C045	personne blanche, Blanc		machine		white person	
 C045f	femme blanche, Blanche		machine		white woman	
 C045m	homme blanc, Blanc		machine		white man	
