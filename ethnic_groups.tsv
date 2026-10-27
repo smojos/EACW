@@ -1,0 +1,358 @@
+ref	gloss	word_class	default	sub	clarification	taxon
+CENG	English person	NOUN	no	A	speakers of English (ISO 639-3 eng)	
+CENGf	female English person	NOUN	no	A		
+CENGm	male English person	NOUN	no	A		
+CFRA	French person	NOUN	no	A	speakers of French (ISO 639-3 fra)	
+CFRAf	female French person	NOUN	no	A		
+CFRAm	male French person	NOUN	no	A		
+CPOR	Portuguese person	NOUN	no	A	speakers of Portuguese (ISO 639-3 por)	
+CPORf	female Portuguese person	NOUN	no	A		
+CPORm	male Portuguese person	NOUN	no	A		
+CDEU	German person	NOUN	no	A	speakers of German (ISO 639-3 deu)	
+CDEUf	female German person	NOUN	no	A		
+CDEUm	male German person	NOUN	no	A		
+CITA	Italian person	NOUN	no	A	speakers of Italian (ISO 639-3 ita)	
+CITAf	female Italian person	NOUN	no	A		
+CITAm	male Italian person	NOUN	no	A		
+CSPA	Spanish person	NOUN	no	A	speakers of Spanish (ISO 639-3 spa)	
+CSPAf	female Spanish person	NOUN	no	A		
+CSPAm	male Spanish person	NOUN	no	A		
+CNLD	Dutch person	NOUN	no	A	speakers of Dutch (ISO 639-3 nld)	
+CNLDf	female Dutch person	NOUN	no	A		
+CNLDm	male Dutch person	NOUN	no	A		
+CTUR	Turkish person	NOUN	no	N E	speakers of Turkish (ISO 639-3 tur)	
+CTURf	female Turkish person	NOUN	no	N E		
+CTURm	male Turkish person	NOUN	no	N E		
+CCMN	Chinese person	NOUN	no	A	speakers of Mandarin Chinese (ISO 639-3 cmn)	
+CCMNf	female Chinese person	NOUN	no	A		
+CCMNm	male Chinese person	NOUN	no	A		
+CGUJ	Gujarati person	NOUN	no	E S	speakers of Gujarati (ISO 639-3 guj); Indian communities of East and Southern Africa	
+CGUJf	female Gujarati person	NOUN	no	E S		
+CGUJm	male Gujarati person	NOUN	no	E S		
+CARA	Arab person	NOUN	no	N E C	speakers of Arabic (ISO 639-3 ara); all varieties of Arabic, including Sudanese and Chadian	
+CARAf	female Arab person	NOUN	no	N E C		
+CARAm	male Arab person	NOUN	no	N E C		
+CKAB	Kabyle person	NOUN	no	N	speakers of Kabyle (ISO 639-3 kab)	
+CKABf	female Kabyle person	NOUN	no	N		
+CKABm	male Kabyle person	NOUN	no	N		
+CTZM	Central Atlas Amazigh person	NOUN	no	N	speakers of Central Atlas Tamazight (ISO 639-3 tzm)	
+CTZMf	female Central Atlas Amazigh person	NOUN	no	N		
+CTZMm	male Central Atlas Amazigh person	NOUN	no	N		
+CSHI	Shilha person	NOUN	no	N	speakers of Tachelhit (ISO 639-3 shi); Tashelhit	
+CSHIf	female Shilha person	NOUN	no	N		
+CSHIm	male Shilha person	NOUN	no	N		
+CTMH	Tuareg person	NOUN	no	N W	speakers of Tamashek (ISO 639-3 tmh)	
+CTMHf	female Tuareg person	NOUN	no	N W		
+CTMHm	male Tuareg person	NOUN	no	N W		
+CBEJ	Beja person	NOUN	no	N E	speakers of Beja (ISO 639-3 bej)	
+CBEJf	female Beja person	NOUN	no	N E		
+CBEJm	male Beja person	NOUN	no	N E		
+CFIA	Nubian person	NOUN	no	N	speakers of Nobiin (ISO 639-3 fia); Nobiin; other Nubian groups have their own codes	
+CFIAf	female Nubian person	NOUN	no	N		
+CFIAm	male Nubian person	NOUN	no	N		
+CFVR	Fur person	NOUN	no	N C	speakers of Fur (ISO 639-3 fvr)	
+CFVRf	female Fur person	NOUN	no	N C		
+CFVRm	male Fur person	NOUN	no	N C		
+CZAG	Zaghawa person	NOUN	no	N C	speakers of Zaghawa (ISO 639-3 zag); Beria	
+CZAGf	female Zaghawa person	NOUN	no	N C		
+CZAGm	male Zaghawa person	NOUN	no	N C		
+CMLS	Masalit person	NOUN	no	N C	speakers of Masalit (ISO 639-3 mls)	
+CMLSf	female Masalit person	NOUN	no	N C		
+CMLSm	male Masalit person	NOUN	no	N C		
+CDIN	Dinka person	NOUN	no	E	speakers of Dinka (ISO 639-3 din)	
+CDINf	female Dinka person	NOUN	no	E		
+CDINm	male Dinka person	NOUN	no	E		
+CNUS	Nuer person	NOUN	no	E	speakers of Nuer (ISO 639-3 nus)	
+CNUSf	female Nuer person	NOUN	no	E		
+CNUSm	male Nuer person	NOUN	no	E		
+CSHK	Shilluk person	NOUN	no	E	speakers of Shilluk (ISO 639-3 shk); Chollo	
+CSHKf	female Shilluk person	NOUN	no	E		
+CSHKm	male Shilluk person	NOUN	no	E		
+CANU	Anuak person	NOUN	no	E	speakers of Anuak (ISO 639-3 anu)	
+CANUf	female Anuak person	NOUN	no	E		
+CANUm	male Anuak person	NOUN	no	E		
+CBFA	Bari person	NOUN	no	E	speakers of Bari (ISO 639-3 bfa)	
+CBFAf	female Bari person	NOUN	no	E		
+CBFAm	male Bari person	NOUN	no	E		
+CZNE	Zande person	NOUN	no	E C	speakers of Zande (ISO 639-3 zne); Azande	
+CZNEf	female Zande person	NOUN	no	E C		
+CZNEm	male Zande person	NOUN	no	E C		
+CACH	Acholi person	NOUN	no	E	speakers of Acoli (ISO 639-3 ach)	
+CACHf	female Acholi person	NOUN	no	E		
+CACHm	male Acholi person	NOUN	no	E		
+CLAJ	Lango person	NOUN	no	E	speakers of Lango (Uganda) (ISO 639-3 laj)	
+CLAJf	female Lango person	NOUN	no	E		
+CLAJm	male Lango person	NOUN	no	E		
+CTEO	Teso person	NOUN	no	E	speakers of Teso (ISO 639-3 teo); Iteso	
+CTEOf	female Teso person	NOUN	no	E		
+CTEOm	male Teso person	NOUN	no	E		
+CLUO	Luo person	NOUN	no	E	speakers of Luo (Kenya and Tanzania) (ISO 639-3 luo); Kenya and Tanzania	
+CLUOf	female Luo person	NOUN	no	E		
+CLUOm	male Luo person	NOUN	no	E		
+CAMH	Amhara person	NOUN	no	E	speakers of Amharic (ISO 639-3 amh)	
+CAMHf	female Amhara person	NOUN	no	E		
+CAMHm	male Amhara person	NOUN	no	E		
+CORM	Oromo person	NOUN	no	E	speakers of Oromo (ISO 639-3 orm)	
+CORMf	female Oromo person	NOUN	no	E		
+CORMm	male Oromo person	NOUN	no	E		
+CTIR	Tigrayan person	NOUN	no	E	speakers of Tigrinya (ISO 639-3 tir); Tigrinya speakers, Tigrayan or Tigrinya	
+CTIRf	female Tigrayan person	NOUN	no	E		
+CTIRm	male Tigrayan person	NOUN	no	E		
+CTIG	Tigre person	NOUN	no	E	speakers of Tigre (ISO 639-3 tig)	
+CTIGf	female Tigre person	NOUN	no	E		
+CTIGm	male Tigre person	NOUN	no	E		
+CSOM	Somali person	NOUN	no	E	speakers of Somali (ISO 639-3 som)	
+CSOMf	female Somali person	NOUN	no	E		
+CSOMm	male Somali person	NOUN	no	E		
+CAAR	Afar person	NOUN	no	E	speakers of Afar (ISO 639-3 aar)	
+CAARf	female Afar person	NOUN	no	E		
+CAARm	male Afar person	NOUN	no	E		
+CSID	Sidama person	NOUN	no	E	speakers of Sidamo (ISO 639-3 sid)	
+CSIDf	female Sidama person	NOUN	no	E		
+CSIDm	male Sidama person	NOUN	no	E		
+CWAL	Wolaytta person	NOUN	no	E	speakers of Wolaytta (ISO 639-3 wal)	
+CWALf	female Wolaytta person	NOUN	no	E		
+CWALm	male Wolaytta person	NOUN	no	E		
+CHDY	Hadiya person	NOUN	no	E	speakers of Hadiyya (ISO 639-3 hdy)	
+CHDYf	female Hadiya person	NOUN	no	E		
+CHDYm	male Hadiya person	NOUN	no	E		
+CSGW	Gurage person	NOUN	no	E	speakers of Sebat Bet Gurage (ISO 639-3 sgw); Sebat Bet; other Gurage groups have their own codes	
+CSGWf	female Gurage person	NOUN	no	E		
+CSGWm	male Gurage person	NOUN	no	E		
+CGUK	Gumuz person	NOUN	no	E	speakers of Gumuz (ISO 639-3 guk)	
+CGUKf	female Gumuz person	NOUN	no	E		
+CGUKm	male Gumuz person	NOUN	no	E		
+CWTI	Berta person	NOUN	no	E	speakers of Berta (ISO 639-3 wti)	
+CWTIf	female Berta person	NOUN	no	E		
+CWTIm	male Berta person	NOUN	no	E		
+CUDU	Uduk person	NOUN	no	E	speakers of Uduk (ISO 639-3 udu)	
+CUDUf	female Uduk person	NOUN	no	E		
+CUDUm	male Uduk person	NOUN	no	E		
+CMPE	Majang person	NOUN	no	E	speakers of Majang (ISO 639-3 mpe)	
+CMPEf	female Majang person	NOUN	no	E		
+CMPEm	male Majang person	NOUN	no	E		
+CSWA	Swahili person	NOUN	no	E C	speakers of Swahili (ISO 639-3 swa)	
+CSWAf	female Swahili person	NOUN	no	E C		
+CSWAm	male Swahili person	NOUN	no	E C		
+CKIK	Kikuyu person	NOUN	no	E	speakers of Kikuyu (ISO 639-3 kik)	
+CKIKf	female Kikuyu person	NOUN	no	E		
+CKIKm	male Kikuyu person	NOUN	no	E		
+CKAM	Kamba person	NOUN	no	E	speakers of Kamba (Kenya) (ISO 639-3 kam)	
+CKAMf	female Kamba person	NOUN	no	E		
+CKAMm	male Kamba person	NOUN	no	E		
+CGUZ	Gusii person	NOUN	no	E	speakers of Gusii (ISO 639-3 guz); Kisii	
+CGUZf	female Gusii person	NOUN	no	E		
+CGUZm	male Gusii person	NOUN	no	E		
+CMAS	Maasai person	NOUN	no	E	speakers of Masai (ISO 639-3 mas)	
+CMASf	female Maasai person	NOUN	no	E		
+CMASm	male Maasai person	NOUN	no	E		
+CKLN	Kalenjin person	NOUN	no	E	speakers of Kalenjin (ISO 639-3 kln)	
+CKLNf	female Kalenjin person	NOUN	no	E		
+CKLNm	male Kalenjin person	NOUN	no	E		
+CLUG	Ganda person	NOUN	no	E	speakers of Ganda (ISO 639-3 lug); Baganda	
+CLUGf	female Ganda person	NOUN	no	E		
+CLUGm	male Ganda person	NOUN	no	E		
+CNYN	Nyankole person	NOUN	no	E	speakers of Nyankole (ISO 639-3 nyn); Banyankole	
+CNYNf	female Nyankole person	NOUN	no	E		
+CNYNm	male Nyankole person	NOUN	no	E		
+CKIN	Rwanda person	NOUN	no	E C	speakers of Kinyarwanda (ISO 639-3 kin); Banyarwanda	
+CKINf	female Rwanda person	NOUN	no	E C		
+CKINm	male Rwanda person	NOUN	no	E C		
+CRUN	Rundi person	NOUN	no	E C	speakers of Rundi (ISO 639-3 run); Barundi	
+CRUNf	female Rundi person	NOUN	no	E C		
+CRUNm	male Rundi person	NOUN	no	E C		
+CSUK	Sukuma person	NOUN	no	E	speakers of Sukuma (ISO 639-3 suk)	
+CSUKf	female Sukuma person	NOUN	no	E		
+CSUKm	male Sukuma person	NOUN	no	E		
+CNYM	Nyamwezi person	NOUN	no	E	speakers of Nyamwezi (ISO 639-3 nym)	
+CNYMf	female Nyamwezi person	NOUN	no	E		
+CNYMm	male Nyamwezi person	NOUN	no	E		
+CHAU	Hausa person	NOUN	no	W C	speakers of Hausa (ISO 639-3 hau)	
+CHAUf	female Hausa person	NOUN	no	W C		
+CHAUm	male Hausa person	NOUN	no	W C		
+CYOR	Yoruba person	NOUN	no	W	speakers of Yoruba (ISO 639-3 yor)	
+CYORf	female Yoruba person	NOUN	no	W		
+CYORm	male Yoruba person	NOUN	no	W		
+CIBO	Igbo person	NOUN	no	W	speakers of Igbo (ISO 639-3 ibo)	
+CIBOf	female Igbo person	NOUN	no	W		
+CIBOm	male Igbo person	NOUN	no	W		
+CEFI	Efik person	NOUN	no	W	speakers of Efik (ISO 639-3 efi)	
+CEFIf	female Efik person	NOUN	no	W		
+CEFIm	male Efik person	NOUN	no	W		
+CTIV	Tiv person	NOUN	no	W	speakers of Tiv (ISO 639-3 tiv)	
+CTIVf	female Tiv person	NOUN	no	W		
+CTIVm	male Tiv person	NOUN	no	W		
+CNUP	Nupe person	NOUN	no	W	speakers of Nupe-Nupe-Tako (ISO 639-3 nup)	
+CNUPf	female Nupe person	NOUN	no	W		
+CNUPm	male Nupe person	NOUN	no	W		
+CBIN	Edo person	NOUN	no	W	speakers of Bini (ISO 639-3 bin); Bini	
+CBINf	female Edo person	NOUN	no	W		
+CBINm	male Edo person	NOUN	no	W		
+CIJC	Ijaw person	NOUN	no	W	speakers of Izon (ISO 639-3 ijc); Izon	
+CIJCf	female Ijaw person	NOUN	no	W		
+CIJCm	male Ijaw person	NOUN	no	W		
+CAKA	Akan person	NOUN	no	W	speakers of Akan (ISO 639-3 aka)	
+CAKAf	female Akan person	NOUN	no	W		
+CAKAm	male Akan person	NOUN	no	W		
+CEWE	Ewe person	NOUN	no	W	speakers of Ewe (ISO 639-3 ewe)	
+CEWEf	female Ewe person	NOUN	no	W		
+CEWEm	male Ewe person	NOUN	no	W		
+CGAA	Ga person	NOUN	no	W	speakers of Ga (ISO 639-3 gaa)	
+CGAAf	female Ga person	NOUN	no	W		
+CGAAm	male Ga person	NOUN	no	W		
+CDAG	Dagomba person	NOUN	no	W	speakers of Dagbani (ISO 639-3 dag)	
+CDAGf	female Dagomba person	NOUN	no	W		
+CDAGm	male Dagomba person	NOUN	no	W		
+CMOS	Mossi person	NOUN	no	W	speakers of Mossi (ISO 639-3 mos)	
+CMOSf	female Mossi person	NOUN	no	W		
+CMOSm	male Mossi person	NOUN	no	W		
+CDYU	Dyula person	NOUN	no	W	speakers of Dyula (ISO 639-3 dyu)	
+CDYUf	female Dyula person	NOUN	no	W		
+CDYUm	male Dyula person	NOUN	no	W		
+CBAM	Bambara person	NOUN	no	W	speakers of Bambara (ISO 639-3 bam); Bamana	
+CBAMf	female Bambara person	NOUN	no	W		
+CBAMm	male Bambara person	NOUN	no	W		
+CMNK	Mandinka person	NOUN	no	W	speakers of Mandinka (ISO 639-3 mnk)	
+CMNKf	female Mandinka person	NOUN	no	W		
+CMNKm	male Mandinka person	NOUN	no	W		
+CSNK	Soninke person	NOUN	no	W	speakers of Soninke (ISO 639-3 snk)	
+CSNKf	female Soninke person	NOUN	no	W		
+CSNKm	male Soninke person	NOUN	no	W		
+CWOL	Wolof person	NOUN	no	W	speakers of Wolof (ISO 639-3 wol)	
+CWOLf	female Wolof person	NOUN	no	W		
+CWOLm	male Wolof person	NOUN	no	W		
+CSRR	Serer person	NOUN	no	W	speakers of Serer (ISO 639-3 srr)	
+CSRRf	female Serer person	NOUN	no	W		
+CSRRm	male Serer person	NOUN	no	W		
+CDYO	Jola person	NOUN	no	W	speakers of Jola-Fonyi (ISO 639-3 dyo)	
+CDYOf	female Jola person	NOUN	no	W		
+CDYOm	male Jola person	NOUN	no	W		
+CTEM	Temne person	NOUN	no	W	speakers of Timne (ISO 639-3 tem)	
+CTEMf	female Temne person	NOUN	no	W		
+CTEMm	male Temne person	NOUN	no	W		
+CMEN	Mende person	NOUN	no	W	speakers of Mende (Sierra Leone) (ISO 639-3 men)	
+CMENf	female Mende person	NOUN	no	W		
+CMENm	male Mende person	NOUN	no	W		
+CKRI	Krio person	NOUN	no	W	speakers of Krio (ISO 639-3 kri)	
+CKRIf	female Krio person	NOUN	no	W		
+CKRIm	male Krio person	NOUN	no	W		
+CKPE	Kpelle person	NOUN	no	W	speakers of Kpelle (ISO 639-3 kpe)	
+CKPEf	female Kpelle person	NOUN	no	W		
+CKPEm	male Kpelle person	NOUN	no	W		
+CBCI	Baoulé person	NOUN	no	W	speakers of Baoulé (ISO 639-3 bci)	
+CBCIf	female Baoulé person	NOUN	no	W		
+CBCIm	male Baoulé person	NOUN	no	W		
+CFON	Fon person	NOUN	no	W	speakers of Fon (ISO 639-3 fon)	
+CFONf	female Fon person	NOUN	no	W		
+CFONm	male Fon person	NOUN	no	W		
+CDJE	Zarma person	NOUN	no	W	speakers of Zarma (ISO 639-3 dje); Djerma	
+CDJEf	female Zarma person	NOUN	no	W		
+CDJEm	male Zarma person	NOUN	no	W		
+CSES	Songhai person	NOUN	no	W	speakers of Koyraboro Senni Songhai (ISO 639-3 ses)	
+CSESf	female Songhai person	NOUN	no	W		
+CSESm	male Songhai person	NOUN	no	W		
+CKBP	Kabye person	NOUN	no	W	speakers of Kabiyè (ISO 639-3 kbp)	
+CKBPf	female Kabye person	NOUN	no	W		
+CKBPm	male Kabye person	NOUN	no	W		
+CSUS	Susu person	NOUN	no	W	speakers of Susu (ISO 639-3 sus)	
+CSUSf	female Susu person	NOUN	no	W		
+CSUSm	male Susu person	NOUN	no	W		
+CFUL	Fulani person	NOUN	no	W C N E	speakers of Fulah (ISO 639-3 ful); Fula, Peul	
+CFULf	female Fulani person	NOUN	no	W C N E		
+CFULm	male Fulani person	NOUN	no	W C N E		
+CKAU	Kanuri person	NOUN	no	W C	speakers of Kanuri (ISO 639-3 kau)	
+CKAUf	female Kanuri person	NOUN	no	W C		
+CKAUm	male Kanuri person	NOUN	no	W C		
+CLIN	Bangala person	NOUN	no	C	speakers of Lingala (ISO 639-3 lin); Lingala speakers; Lingala is mostly a lingua franca	
+CLINf	female Bangala person	NOUN	no	C		
+CLINm	male Bangala person	NOUN	no	C		
+CKON	Kongo person	NOUN	no	C S	speakers of Kongo (ISO 639-3 kon); Bakongo	
+CKONf	female Kongo person	NOUN	no	C S		
+CKONm	male Kongo person	NOUN	no	C S		
+CLUA	Luba-Kasai person	NOUN	no	C	speakers of Luba-Lulua (ISO 639-3 lua)	
+CLUAf	female Luba-Kasai person	NOUN	no	C		
+CLUAm	male Luba-Kasai person	NOUN	no	C		
+CLUB	Luba-Katanga person	NOUN	no	C S	speakers of Luba-Katanga (ISO 639-3 lub)	
+CLUBf	female Luba-Katanga person	NOUN	no	C S		
+CLUBm	male Luba-Katanga person	NOUN	no	C S		
+CSAG	Sango person	NOUN	no	C	speakers of Sango (ISO 639-3 sag)	
+CSAGf	female Sango person	NOUN	no	C		
+CSAGm	male Sango person	NOUN	no	C		
+CEWO	Ewondo person	NOUN	no	C	speakers of Ewondo (ISO 639-3 ewo)	
+CEWOf	female Ewondo person	NOUN	no	C		
+CEWOm	male Ewondo person	NOUN	no	C		
+CBUM	Bulu person	NOUN	no	C	speakers of Bulu (Cameroon) (ISO 639-3 bum)	
+CBUMf	female Bulu person	NOUN	no	C		
+CBUMm	male Bulu person	NOUN	no	C		
+CSBA	Ngambay person	NOUN	no	C	speakers of Ngambay (ISO 639-3 sba)	
+CSBAf	female Ngambay person	NOUN	no	C		
+CSBAm	male Ngambay person	NOUN	no	C		
+CAFR	Afrikaner person	NOUN	no	S	speakers of Afrikaans (ISO 639-3 afr)	
+CAFRf	female Afrikaner person	NOUN	no	S		
+CAFRm	male Afrikaner person	NOUN	no	S		
+CZUL	Zulu person	NOUN	no	S	speakers of Zulu (ISO 639-3 zul)	
+CZULf	female Zulu person	NOUN	no	S		
+CZULm	male Zulu person	NOUN	no	S		
+CXHO	Xhosa person	NOUN	no	S	speakers of Xhosa (ISO 639-3 xho)	
+CXHOf	female Xhosa person	NOUN	no	S		
+CXHOm	male Xhosa person	NOUN	no	S		
+CSOT	Sotho person	NOUN	no	S	speakers of Southern Sotho (ISO 639-3 sot); Basotho	
+CSOTf	female Sotho person	NOUN	no	S		
+CSOTm	male Sotho person	NOUN	no	S		
+CTSN	Tswana person	NOUN	no	S	speakers of Tswana (ISO 639-3 tsn)	
+CTSNf	female Tswana person	NOUN	no	S		
+CTSNm	male Tswana person	NOUN	no	S		
+CNSO	Pedi person	NOUN	no	S	speakers of Pedi (ISO 639-3 nso); Northern Sotho	
+CNSOf	female Pedi person	NOUN	no	S		
+CNSOm	male Pedi person	NOUN	no	S		
+CTSO	Tsonga person	NOUN	no	S	speakers of Tsonga (ISO 639-3 tso)	
+CTSOf	female Tsonga person	NOUN	no	S		
+CTSOm	male Tsonga person	NOUN	no	S		
+CVEN	Venda person	NOUN	no	S	speakers of Venda (ISO 639-3 ven)	
+CVENf	female Venda person	NOUN	no	S		
+CVENm	male Venda person	NOUN	no	S		
+CSSW	Swazi person	NOUN	no	S	speakers of Swati (ISO 639-3 ssw)	
+CSSWf	female Swazi person	NOUN	no	S		
+CSSWm	male Swazi person	NOUN	no	S		
+CNDE	Ndebele person	NOUN	no	S	speakers of North Ndebele (ISO 639-3 nde); North Ndebele	
+CNDEf	female Ndebele person	NOUN	no	S		
+CNDEm	male Ndebele person	NOUN	no	S		
+CSNA	Shona person	NOUN	no	S	speakers of Shona (ISO 639-3 sna)	
+CSNAf	female Shona person	NOUN	no	S		
+CSNAm	male Shona person	NOUN	no	S		
+CNYA	Chewa person	NOUN	no	S E	speakers of Chichewa (ISO 639-3 nya)	
+CNYAf	female Chewa person	NOUN	no	S E		
+CNYAm	male Chewa person	NOUN	no	S E		
+CBEM	Bemba person	NOUN	no	S C	speakers of Bemba (Zambia) (ISO 639-3 bem)	
+CBEMf	female Bemba person	NOUN	no	S C		
+CBEMm	male Bemba person	NOUN	no	S C		
+CTOI	Tonga person	NOUN	no	S	speakers of Tonga (Zambia) (ISO 639-3 toi); Zambia	
+CTOIf	female Tonga person	NOUN	no	S		
+CTOIm	male Tonga person	NOUN	no	S		
+CLOZ	Lozi person	NOUN	no	S	speakers of Lozi (ISO 639-3 loz)	
+CLOZf	female Lozi person	NOUN	no	S		
+CLOZm	male Lozi person	NOUN	no	S		
+CUMB	Ovimbundu person	NOUN	no	S	speakers of Umbundu (ISO 639-3 umb)	
+CUMBf	female Ovimbundu person	NOUN	no	S		
+CUMBm	male Ovimbundu person	NOUN	no	S		
+CKMB	Ambundu person	NOUN	no	S	speakers of Kimbundu (ISO 639-3 kmb)	
+CKMBf	female Ambundu person	NOUN	no	S		
+CKMBm	male Ambundu person	NOUN	no	S		
+CVMW	Makhuwa person	NOUN	no	S E	speakers of Makhuwa (ISO 639-3 vmw)	
+CVMWf	female Makhuwa person	NOUN	no	S E		
+CVMWm	male Makhuwa person	NOUN	no	S E		
+CSEH	Sena person	NOUN	no	S E	speakers of Sena (ISO 639-3 seh)	
+CSEHf	female Sena person	NOUN	no	S E		
+CSEHm	male Sena person	NOUN	no	S E		
+CYAO	Yao person	NOUN	no	S E	speakers of Yao (ISO 639-3 yao)	
+CYAOf	female Yao person	NOUN	no	S E		
+CYAOm	male Yao person	NOUN	no	S E		
+CHER	Herero person	NOUN	no	S	speakers of Herero (ISO 639-3 her)	
+CHERf	female Herero person	NOUN	no	S		
+CHERm	male Herero person	NOUN	no	S		
+CNAQ	Khoekhoe person	NOUN	no	S	speakers of Khoekhoe (ISO 639-3 naq); Nama and Damara	
+CNAQf	female Khoekhoe person	NOUN	no	S		
+CNAQm	male Khoekhoe person	NOUN	no	S		
+CMLG	Malagasy person	NOUN	no	E S	speakers of Malagasy (ISO 639-3 mlg)	
+CMLGf	female Malagasy person	NOUN	no	E S		
+CMLGm	male Malagasy person	NOUN	no	E S		
