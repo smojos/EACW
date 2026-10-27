@@ -2235,11 +2235,11 @@ V250	to uncover	VERB	yes
 V251	to stop up	VERB	yes		plug or block an opening	
 V252	to wrap	VERB	yes			
 V253	to unwrap	VERB	yes			
-V254	to pack in	VERB	yes			
+V254	to pack in	VERB	yes		put things into a container or bag, pressing them in	
 V255	to fill	VERB	yes			
 V256	to take out (from container)	VERB	yes			
 V257	to pour	VERB	yes			
-V258	to spill	VERB	yes			
+V258	to spill	VERB	yes		let a liquid fall out by accident	
 V259	to put on (clothing)	VERB	yes			
 V260	to take off (clothing)	VERB	yes			
 V261	to bathe	VERB	yes			
@@ -2266,7 +2266,7 @@ V281	to knead	VERB	yes
 V282	to shape (bread)	VERB	yes			
 V283	to pluck (feathers)	VERB	yes			
 V284	to cook	VERB	yes			
-V285	to boil	VERB	yes			
+V285	to boil	VERB	yes		either boil, (a) of a liquid, bubble with heat, or (b) cook something in boiling water	
 V286	to simmer	VERB	yes			
 V287	to stew	VERB	yes			
 V288	to roast	VERB	yes			
@@ -2278,7 +2278,7 @@ V293	to spoil (of food)	VERB	yes
 V294	to do	VERB	yes			
 V294b	work	NOUN	yes			
 V295	to make	VERB	yes			
-V295b	creation	NOUN	yes			
+V295b	creation	NOUN	yes		the act of making or creating, not the created world	
 V296	to build	VERB	yes			
 V297	to repair	VERB	yes			
 V298	to replace	VERB	yes			
@@ -2331,18 +2331,18 @@ V343	to stalk	VERB	yes
 V344	to chase	VERB	yes			
 V345	to set (trap)	VERB	yes			
 V346	to trap	VERB	yes			
-V347	to catch	VERB	yes			
-V348	to evade	VERB	yes			
+V347	to catch	VERB	yes		either catch, (a) something thrown, or (b) a fleeing person or animal	
+V348	to evade	VERB	yes		either evade, (a) dodge a blow or a thrown thing, or (b) keep out of someone's reach, elude	
 V349	to escape	VERB	yes			
-V350	to shoot	VERB	yes			
+V350	to shoot	VERB	yes		either shoot, (a) an arrow, or (b) a gun	
 V351	to fish	VERB	yes			
-V352	to change	VERB	yes			
+V352	to change	VERB	yes		either change, (a) make different, or (b) become different	
 V353	to destroy	VERB	yes			
-V354	to release	VERB	yes			
+V354	to release	VERB	yes		either release, (a) set free a captive or animal, or (b) let go of something held	
 V355	to make able	VERB	yes			
 V356	to enlarge	VERB	yes			
 V356b	to increase	VERB	yes		intransitive: become more or bigger	
-V357	to diminish	VERB	yes			
+V357	to diminish	VERB	yes		make less or smaller	
 V357b	to decrease	VERB	yes		intransitive: become less or smaller	
 V358	to lengthen	VERB	yes			
 V359	to shorten	VERB	yes			
@@ -2352,8 +2352,8 @@ V362	to flatten	VERB	yes
 V363	to straighten	VERB	yes			
 V364	to sharpen	VERB	yes			
 V365	to make smooth	VERB	yes			
-V366	to harden	VERB	yes			
-V367	to soften	VERB	yes			
+V366	to harden	VERB	yes		make hard	
+V367	to soften	VERB	yes		make soft	
 V368	to dry out (clothes)	VERB	yes			
 V369	to sprinkle	VERB	yes			
 V370	to plaster	VERB	yes		coat walls or floors with mud or dung	
@@ -2363,7 +2363,7 @@ V373	to wring out	VERB	yes
 V374	to light (fire)	VERB	yes			
 V375	to quench (fire)	VERB	yes			
 V376	to fan (fire)	VERB	yes			
-V377	to add	VERB	yes			
+V377	to add	VERB	yes		either add, (a) put more in, or (b) sum numbers	
 V378	to subtract	VERB	yes			
 V379	to reduce	VERB	yes			
 V380	to join together	VERB	yes			
@@ -2386,13 +2386,13 @@ V395	to sell	VERB	yes
 V396	to haggle	VERB	yes			
 V397	to pay	VERB	yes			
 V397b	payment	NOUN	yes			
-V398	to hire	VERB	yes			
+V398	to hire	VERB	yes		either hire, (a) employ a person for pay, or (b) rent an object	
 V399	to beg	VERB	yes			
 V400	to inherit	VERB	yes			
 V401	to steal	VERB	yes			
 V402	to think	VERB	yes			
-V403	to believe	VERB	yes			
-V404	to know	VERB	yes			
+V403	to believe	VERB	yes		either believe, (a) believe something or someone to be true, or (b) believe in (God, a faith)	
+V404	to know	VERB	yes		either know, (a) a fact, or (b) be acquainted with a person or place	
 V405	to doubt	VERB	yes			
 V406	to hope	VERB	yes			
 V407	to learn	VERB	yes			
@@ -2418,7 +2418,7 @@ V426	to smile	VERB	yes
 V427	to rejoice	VERB	yes			
 V428	to cry	VERB	yes		with tears	
 V429	to mourn	VERB	yes		wailing and weeping for the dead	
-V429b	mourning	NOUN	yes			
+V429b	mourning	NOUN	yes		the period of grief and mourning customs after a death	
 V430	to ululate	VERB	yes		high trilling cry made with the tongue	
 V431	to cause fear	VERB	yes			
 V432	to startle	VERB	yes			
@@ -2432,11 +2432,11 @@ V438	to respect	VERB	yes
 V438b	reverence	NOUN	yes		awe, especially toward God	
 V439	to honour	VERB	yes			
 V440	to suffer	VERB	yes			
-V441	to struggle	VERB	yes			
+V441	to struggle	VERB	yes		either struggle, (a) wrestle or fight physically, or (b) strive against a difficulty	
 V442	to say	VERB	yes			
 V443	to speak	VERB	yes			
 V443b	speech	NOUN	yes		a formal address, discourse	
-V444	to tell	VERB	yes			
+V444	to tell	VERB	yes		either tell, (a) narrate a story, or (b) inform someone of something	
 V445	to whisper	VERB	yes			
 V446	to yell	VERB	yes			
 V447	to chat	VERB	yes			
@@ -2476,7 +2476,7 @@ V474	to congratulate	VERB	yes
 V475	to boast	VERB	yes			
 V476	to lie	VERB	yes		tell a lie, not lie down	
 V477	to meet	VERB	yes			
-V477b	meeting	NOUN	yes			
+V477b	meeting	NOUN	yes		either meeting, (a) an encounter, or (c) a gathering held for discussion	
 V478	to accompany	VERB	yes			
 V479	to be together	VERB	yes			
 V480	to gather together	VERB	yes		assemble, of people	
@@ -2525,7 +2525,7 @@ V520	to be defeated	VERB	yes
 V521	to plunder	VERB	yes			
 V522	to spy on	VERB	yes			
 V523	to rape	VERB	yes			
-V524	to pray	VERB	yes			
+V524	to pray	VERB	yes		either pray, (a) perform ritual prayer, or (b) petition (God or spirits)	
 V525	to prophesy	VERB	yes			
 V526	to cast (spell)	VERB	yes			
 V527	to curse	VERB	yes			
@@ -2539,7 +2539,7 @@ V534	to condole	VERB	yes		comfort the bereaved
 V535	to marry	VERB	yes			
 V535b	marriage	NOUN	yes		the married state, not the wedding	
 V536	to be betrothed	VERB	yes		be engaged to marry	
-V537	to divorce	VERB	yes			
+V537	to divorce	VERB	yes		either divorce, (a) a husband divorcing his wife, or (b) a wife divorcing her husband	
 V538	to obstruct	VERB	yes			
 V539	to prevent	VERB	yes			
 V540	to forbid	VERB	yes			
@@ -2548,9 +2548,9 @@ V542	to abstain	VERB	yes
 V543	to start	VERB	yes			
 V543b	beginning	NOUN	yes			
 V544	to continue	VERB	yes			
-V545	to stop	VERB	yes			
+V545	to stop	VERB	yes		either stop, (a) cease moving or doing, or (b) make something stop	
 V546	to wait	VERB	yes			
 V547	to wait for	VERB	yes			
 V548	to spend time	VERB	yes			
-V549	to finish	VERB	yes			
+V549	to finish	VERB	yes		bring to an end, complete	
 V549b	end	NOUN	yes		conclusion of an event or period, not a tip	
