@@ -10,6 +10,7 @@ Each edition is named by its date. The newest is at the top.
 - **Redesignated:** D040 *anteater* is now **D040 *aardwolf*** (*Proteles cristata*, Hyaenidae; regions E S; Clarification *small termite-eating hyena; not the striped hyena (D080)*). The old item was another name for D039 *aardvark*: CAWL 1007 lists *anteater, aardvark, antbear* as one animal, and Africa has no true anteaters. CAWL 1007 is now linked to D039 alone. Made while the EACW has no other users (as is H012 below); later editions keep the rule that a gloss is never changed.
 - **Redesignated:** H012 *black jacket* (a North American wasp, *Vespula consobrina*) is now **H012 *mud wasp*** (*Sceliphron*, Eumeninae; Clarification *wasp that builds its nest of mud (mud dauber, potter wasp)*). CAWL 1144 *mud wasp* moved from H013 *wasp* to H012.
 - **(be) on the property items:** the 168 adjectives of section P read *(be) big*, *(be) red*, … (was *be big*): the item is the property, glossed as an adjective in other languages; *be* in parentheses for languages that say it with a verb. Josh, 27 October, while the EACW has no other users.
+- **Deleted:** P024b *last* (QUANT, *final, opposite of first*): with the property items glossed as adjectives, it was the same word as P024 *(be) last* in every language. It had no CAWL or Swadesh link. The next edition has **2,555 items, 2,273 default** (2,054 in the global base list). Josh, 27 October.
 - **Taxon corrected:** E105 *flappet lark*, *Mirafra rufocinnamomea* (was misspelled *Amirafra*).
 
 ## 2026-10-24

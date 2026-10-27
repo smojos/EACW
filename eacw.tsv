@@ -1674,7 +1674,6 @@ P022	(be) identical	ADJECTIVE	yes
 P023	(be) different	ADJECTIVE	yes			
 P023b	other	QUANT	yes			
 P024	(be) last	ADJECTIVE	yes			
-P024b	last	QUANT	yes		final, opposite of first	
 P025	(be) various	ADJECTIVE	yes		be of several kinds, assorted	
 P026	(be) flat	ADJECTIVE	yes			
 P027	(be) round	ADJECTIVE	yes			
