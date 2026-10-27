@@ -1646,3 +1646,218 @@ O013	ሁለቱም		machine		both
 O014	ግማሽ		machine		half	
 O014b	ቁራጭ		machine		piece	
 O015	ብቻ		machine		only	
+P001	ትልቅ		machine		big, large	
+P001b	መጠን		machine		size, amount	
+P002	ትንሽ		machine		small, little	
+P003	ረጅም		machine		long; tall	
+P004	አጭር		machine		short	
+P005	ከፍ ያለ		machine		high, raised, elevated	
+P006	ዝቅ ያለ		machine		low, lowered	
+P007	ጥልቅ		machine		deep	
+P008	ጥልቀት የሌለው		machine		shallow (lacking depth)	
+P009	ሰፊ		machine		wide, broad	
+P010	ጠባብ		machine		narrow	
+P011	ስስ, ቀጭን		machine		thin (flat object); thin, slender	
+P012	ከባድ		machine		heavy	
+P012b	ክብደት		machine		weight	
+P013	ቀላል (በክብደት)		machine		light (in weight)	
+P014	ብዙ		machine		many, much, a lot	
+P014b	የተትረፈረፈ, በብዛት ያለ		machine		abundant, plentiful; existing in large quantity	
+P015	ጥቂት		machine		few, a little	
+P016	በቂ		machine		enough, sufficient	
+P017	ያለቀ		machine		finished, ran out, was used up	
+P018	ብርቅ, እምብዛም የማይገኝ		machine		rare, scarce; seldom found	
+P019	እኩል		machine		equal	
+P020	የበለጠ		machine		exceeded, surpassed, was more/better	
+P021	ተመሳሳይ, ተቀራራቢ		machine		similar, alike; close to each other	
+P022	አንድ ዓይነት		machine		the same, identical (one kind)	
+P023	የተለየ		machine		different, distinct	
+P023b	ሌላ		machine		other, another	
+P024	የመጨረሻ		machine		became last	
+P024b	የመጨረሻ		machine		last, final	
+P025	የተለያየ, ልዩ ልዩ		machine		various, assorted, diverse	
+P026	ጠፍጣፋ, ለጥ ያለ		machine		flat, level	
+P027	ክብ		machine		round, circular	
+P028	ቀጥ ያለ		machine		straight, upright	
+P029	ጠማማ		machine		crooked, bent	
+P030	ውስጠ ባዶ		machine		hollow (empty inside)	
+P031	ጠንካራ (ለስላሳ ያልሆነ)		machine		hard (not soft)	
+P032	ለስላሳ		machine		soft	
+P033	ለስላሳ (ለማኘክ), ለጋ		machine		soft (to chew), tender	
+P034	ስለታም		machine		sharp	
+P035	ዱልዱም		machine		blunt, dull	
+P036	ሻካራ		machine		rough, coarse	
+P037	ልሙጥ, ለስላሳ		machine		smooth, soft	
+P038	የሚያዳልጥ		machine		slippery	
+P039	የሚጣበቅ, ዝልግልግ		machine		sticky, adhesive; viscous, slimy	
+P040	ክፍት		machine		open	
+P041	ዝግ		machine		closed, shut	
+P042	ጥብቅ		machine		tight	
+P043	ልል		machine		loose, slack	
+P044	ሙሉ		machine		full	
+P045	ባዶ		machine		empty	
+P046	የተቀደደ		machine		torn	
+P047	አዲስ		machine		new	
+P048	አሮጌ		machine		old (of things)	
+P049	የተበጣጠሰ (ልብስ)		machine		tattered, torn to shreds (clothing); ragged	
+P050	የተበላሸ		machine		spoiled, damaged, broken	
+P051	ንጹሕ		machine		clean, pure	
+P052	የቆሸሸ, ቆሻሻ		machine		dirty, soiled; dirt, filth	
+P053	እርጥብ		machine		wet, damp	
+P054	ደረቅ		machine		dry	
+P055	ሙቅ, ትኩስ		machine		hot, warm; fresh	
+P056	ቀዝቃዛ		machine		cold, cool	
+P057	የበሰለ (ፍሬ)		machine		cooked; ripe	
+P058	ያልበሰለ (ፍሬ)		machine		uncooked, raw; unripe	
+P059	የበሰበሰ		machine		rotten, decayed	
+P060	የተጨማደደ, የጠወለገ		machine		wrinkled, shrivelled; withered, wilted	
+P061	ለም		machine		fertile	
+P062	ጠፍ (መሬት)		machine		infertile, barren; wasteland	
+P063	ቀለም		machine		colour	
+P064	ቀይ		machine		red	
+P064a	ቀይ ነገር		machine		red thing, something red	
+P064b	በጣም ቀይ, ደም የመሰለ		machine		very red, blood-red	
+P065	ጥቁር		machine		black	
+P065a	ጥቁር ነገር		machine		black thing, something black	
+P065b	በጣም ጥቁር, ከሰል የመሰለ		machine		very black, coal-black	
+P065c	ጠቆር ያለ		machine		darkish, somewhat dark	
+P066	ነጭ		machine		white	
+P066a	ነጭ ነገር		machine		white thing, something white	
+P066b	በጣም ነጭ, ጥጥ የመሰለ		machine		very white, cotton-white	
+P066c	ፈካ ያለ		machine		light, pale (in shade)	
+P067	አረንጓዴ		machine		green	
+P067a	አረንጓዴ ነገር		machine		green thing, something green	
+P067b	በጣም አረንጓዴ, ልምልም ያለ		machine		very green, lush	
+P068	ቢጫ		machine		yellow	
+P069	ሰማያዊ		machine		blue	
+P070	ቡናማ		machine		brown	
+P071	ነጠብጣብ ያለው, ዥንጉርጉር		machine		spotted; speckled, variegated	
+P071b	በጣም ዥንጉርጉር		machine		very speckled, very spotted	
+P072	ባለ አንድ ቀለም		machine		of one colour, single-coloured	
+P073	ቡራቡሬ (ጥቁርና ነጭ)		machine		piebald, mottled (black and white)	
+P074	የሚጣፍጥ, ጣዕም ያለው		machine		tasty, delicious; flavourful	
+P075	ጣፋጭ (እንደ ስኳር)		machine		sweet (like sugar)	
+P076	ኮምጣጣ		machine		sour	
+P077	መራራ		machine		bitter	
+P078	ጨዋማ		machine		salty	
+P079	ገማ		machine		stank, smelled bad	
+P079b	መጥፎ ሽታ, ግማት		machine		bad smell, stench	
+P080	ጥሩ መዓዛ አለው		machine		has a good scent, smells nice	
+P080b	መዓዛ		machine		fragrance, aroma, scent	
+P081	ፈጣን		machine		fast, quick	
+P081b	ፍጥነት		machine		speed	
+P082	ቀርፋፋ, ዘገምተኛ		machine		slow, sluggish	
+P083	ሞቀው, ሙቀት ተሰማው		machine		felt hot; he felt warm	
+P084	ራበው		machine		was hungry (he)	
+P084b	ረሃብ		machine		hunger; famine	
+P085	ጠማው		machine		was thirsty (he)	
+P085b	ጥማት		machine		thirst	
+P086	የጠገበ		machine		was full, satiated	
+P087	የደከመ		machine		got tired, was weary	
+P087b	ድካም		machine		tiredness, fatigue	
+P088	እንቅልፍ እንቅልፍ አለው		machine		is sleepy, drowsy	
+P088b	ድብታ, የእንቅልፍ ስሜት		machine		drowsiness, sleepiness	
+P089	ያልተኛ, ነቅቶ ያለ		machine		not having slept; awake, alert	
+P090	የሰከረ		machine		drunk, intoxicated	
+P091	ራሱ ዞረ, አዞረው		machine		felt dizzy; was dizzy	
+P092	ራቁት		machine		naked	
+P093	ጤነኛ, ጤናማ		machine		healthy	
+P093b	ጤና		machine		health	
+P094	የታመመ, በሽተኛ		machine		fell ill, was sick	
+P095	አመመው		machine		it hurt him, felt pain	
+P096	ጠንካራ		machine		strong	
+P096b	ጥንካሬ, ጉልበት		machine		strength, power, energy	
+P096c	ኃያል		machine		mighty, powerful	
+P096d	ግርማ, ክብር		machine		majesty, splendour; honour, glory	
+P097	ጡንቻማ		machine		muscular	
+P098	ደካማ		machine		weak	
+P098b	ደካማነት		machine		weakness	
+P099	ወፍራም		machine		fat	
+P100	ቀጭን, ከሲታ		machine		thin, skinny	
+P101	በጣም የከሳ, የመነመነ		machine		emaciated, very thin; wasted away	
+P102	የሚያነክስ, አንካሳ	አንካሳ ሰውን ለመጥራት ሲውል እንደ ስድብ ሊቆጠር ይችላል።	machine		limping; lame, crippled	
+P103	ዓይነ ስውር, ዕውር	ዕውር ሰውን ለመጥራት ሲውል ሊያስከፋ ይችላል፤ ጨዋው ቃል ዓይነ ስውር ነው።	machine		blind	
+P103b	ዓይነ ስውርነት		machine		blindness	
+P104	ሩቅ ማየት የማይችል		machine		unable to see far, short-sighted	
+P105	መናገር የተሳነው, ዲዳ	ዲዳ ሰውን ለመጥራት ሲውል ሊያስከፋ ይችላል (የሞኝነት ፍቺም ይሰጠዋል)።	machine		unable to speak, mute; dumb	
+P106	መላጣ, ራሰ በራ		machine		bald	
+P107	ስንፈተ ወሲብ ያለበት	የሕክምና አገላለጽ ነው፤ የዕለት ቃላቱ ጸያፍ ሊሆኑ ይችላሉ።	machine		impotent (sexually)	
+P108	በሕይወት ያለ, ሕያው		machine		alive, living	
+P109	የሞተ		machine		dead	
+P110	ወጣት		machine		young; youth	
+P111	አረጋዊ, በዕድሜ የገፋ		machine		elderly, aged	
+P112	ደስተኛ		machine		happy, joyful	
+P112b	ደስታ		machine		happiness, joy	
+P113	ያዘነ		machine		sad, sorrowful	
+P113b	ሐዘን		machine		sadness, grief	
+P114	የተናደደ		machine		angry, annoyed	
+P114b	ቁጣ, ንዴት		machine		anger, rage	
+P115	የፈራ		machine		was afraid, feared	
+P115b	ፍርሃት		machine		fear	
+P116	ኩሩ		machine		proud	
+P116b	ኩራት		machine		pride	
+P117	ቀናተኛ		machine		jealous	
+P117b	ቅናት		machine		jealousy, envy	
+P118	ዓይን አፋር		machine		shy	
+P118b	እፍረት		machine		shame, embarrassment	
+P119	ሰለቸው, ደበረው		machine		was bored, fed up	
+P120	እረፍት የሌለው, ቁንጥንጥ		machine		restless, fidgety	
+P121	ጉጉ		machine		was eager, longed for	
+P122	ለማወቅ የሚጓጓ		machine		curious, eager to know	
+P123	ብቻውን		machine		alone, by himself	
+P124	ደፋር, ጀግና		machine		brave, bold; hero	
+P124b	ጀግንነት		machine		bravery, heroism	
+P125	ደግ		machine		kind, generous	
+P125b	ደግነት		machine		kindness, generosity	
+P125c	ርኅራኄ, ሐዘኔታ		machine		compassion, mercy; sympathy	
+P126	ለጋስ		machine		generous	
+P127	ራስ ወዳድ		machine		selfish	
+P128	ሐቀኛ, ታማኝ		machine		faithful, loyal; honest	
+P129	ፍትሐዊ, ጻድቅ		machine		just, fair; righteous	
+P129b	ፍትሕ		machine		justice	
+P130	ሙሰኛ, ብልሹ		machine		corrupt (bribe-taking); corrupt, degenerate	
+P131	ክፉ		machine		evil, wicked	
+P132	ኃይለኛ, ቁጡ		machine		aggressive, fierce; hot-tempered	
+P133	ሰነፍ		machine		lazy	
+P133b	ስንፍና		machine		laziness	
+P134	ታጋሽ		machine		patient	
+P134b	ትዕግስት		machine		patience	
+P135	ትዕግስት የሌለው		machine		impatient	
+P136	ግትር, እልኸኛ		machine		stubborn, obstinate	
+P136b	ግትርነት		machine		stubbornness	
+P137	ጥበበኛ, አስተዋይ		machine		wise; perceptive, discerning	
+P138	ብልህ, ጎበዝ		machine		clever, intelligent; capable, smart	
+P139	ሞኝ		machine		foolish, stupid; fool	
+P139b	ሞኝነት		machine		foolishness	
+P140	ግራ የተጋባ		machine		was confused, perplexed	
+P141	የማያውቅ, አላዋቂ		machine		ignorant, not knowing	
+P142	የተካነ, ባለሙያ		machine		skilled, proficient; expert	
+P143	ቻለ		machine		was able, could	
+P143b	ችሎታ		machine		ability, skill	
+P144	አንደበተ ርቱዕ		machine		eloquent	
+P145	ዝም ያለ, ጸጥ ያለ		machine		silent, quiet	
+P146	ጥሩ		machine		good	
+P146b	ፍጹም		machine		perfect, complete	
+P146c	በደንብ		machine		well, thoroughly	
+P146d	ፍጹምነት		machine		perfection	
+P147	መጥፎ		machine		bad	
+P147b	በመጥፎ ሁኔታ, ክፉኛ		machine		badly, severely	
+P148	ትክክል		machine		correct, right	
+P149	የተሳሳተ, ስህተት		machine		wrong, mistaken; mistake, error	
+P150	ጥፋተኛ		machine		guilty	
+P151	ከጥፋት ነጻ, ንጹሕ		machine		free of guilt, innocent	
+P152	ቆንጆ		machine		beautiful, pretty	
+P153	አስቀያሚ		machine		ugly	
+P154	አስፈላጊ		machine		important, necessary	
+P155	አስቂኝ		machine		funny	
+P156	ቀላል		machine		easy; light	
+P157	ከባድ, አስቸጋሪ		machine		difficult, hard	
+P158	ሀብታም		machine		rich, wealthy	
+P159	ድሃ		machine		poor	
+P160	ውድ		machine		expensive; dear, precious	
+P161	ርካሽ, ዋጋው ቀላል		machine		cheap, inexpensive	
+P162	የጠፋ		machine		lost, missing	
+P163	ያልተገኘ, የቀረ		machine		not found; absent, left behind	
+P164	እዚህ ቅርብ		machine		near here	
+P165	እዚያ ቅርብ		machine		near there	
+P166	ሩቅ		machine		far, distant	

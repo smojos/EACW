@@ -1646,3 +1646,218 @@ O013	كلاهما, الاثنان		machine		both
 O014	نصف		machine		half	
 O014b	قطعة		machine		piece	
 O015	فقط		machine		only	
+P001	كبير		machine		big, large	
+P001b	حجم, مقاس		machine		size, measurement	
+P002	صغير		machine		small, little	
+P003	طويل		machine		long, tall	
+P004	قصير		machine		short	
+P005	عالٍ, مرتفع		machine		high, elevated	
+P006	منخفض, واطئ		machine		low	
+P007	عميق		machine		deep	
+P008	ضحل		machine		shallow	
+P009	واسع, عريض		machine		wide, broad	
+P010	ضيّق		machine		narrow	
+P011	رقيق, رفيع		machine		thin, fine	
+P012	ثقيل		machine		heavy	
+P012b	وزن		machine		weight	
+P013	خفيف		machine		light (in weight)	
+P014	كثير, عديد		machine		many, much, numerous	
+P014b	وفير, غزير		machine		abundant, plentiful	
+P015	قليل		machine		few, little	
+P016	كافٍ		machine		enough, sufficient	
+P017	نافد, منتهٍ		machine		used up, run out, finished	
+P018	نادر, شحيح		machine		rare, scarce	
+P019	متساوٍ		machine		equal	
+P020	أكثر من, أكبر من		machine		more, bigger	
+P021	متشابه, مماثل		machine		similar, alike	
+P022	متطابق, مماثل تمامًا		machine		identical, exactly the same	
+P023	مختلف		machine		different	
+P023b	آخَر		machine		other, another	
+P024	أخير		machine		last, final	
+P024b	آخِر		machine		last	
+P025	متنوّع, مختلف الأنواع		machine		varied, of various kinds	
+P026	مسطّح, منبسط		machine		flat, level	
+P027	مستدير, دائري		machine		round, circular	
+P028	مستقيم		machine		straight	
+P029	أعوج, ملتوٍ		machine		crooked, bent, twisted	
+P030	أجوف, مجوّف		machine		hollow	
+P031	صلب, قاسٍ		machine		hard, solid	
+P032	ليّن, طريّ		machine		soft, pliable	
+P033	طريّ (سهل المضغ)		machine		soft, tender	
+P034	حادّ		machine		sharp	
+P035	غير حادّ, كليل		machine		blunt, dull	
+P036	خشن		machine		rough, coarse	
+P037	أملس, ناعم		machine		smooth	
+P038	زلِق		machine		slippery	
+P039	لزج, دبِق		machine		sticky, viscous	
+P040	مفتوح		machine		open	
+P041	مغلق		machine		closed, locked	
+P042	مشدود, ضيّق		machine		tight, taut	
+P043	مرتخٍ, فضفاض		machine		loose, slack, baggy	
+P044	ممتلئ, مليء		machine		full, filled	
+P045	فارغ		machine		empty	
+P046	ممزّق		machine		torn, ripped	
+P047	جديد		machine		new	
+P048	قديم		machine		old, ancient	
+P049	بالٍ, رثّ		machine		worn out, shabby, threadbare	
+P050	تالف, معطوب		machine		damaged, broken, out of order	
+P051	نظيف		machine		clean	
+P052	متّسخ, وسخ		machine		dirty	
+P053	مبلّل, مبتلّ		machine		wet, soaked	
+P054	جافّ, ناشف		machine		dry	
+P055	ساخن, حارّ	حارّ قد يعني أيضًا «لاذع الطعم»	machine		hot	
+P056	بارد		machine		cold	
+P057	ناضج		machine		ripe	
+P058	فِجّ, غير ناضج		machine		unripe, immature	
+P059	فاسد, متعفّن		machine		rotten, spoiled, mouldy	
+P060	ذابل, منكمش		machine		wilted, withered, shrunken	
+P061	خصب		machine		fertile	
+P062	مُجدِب, قاحل		machine		barren, arid	
+P063	لون		machine		colour	
+P064	أحمر		machine		red	
+P064a	شيء أحمر		machine		something red, a red thing	
+P064b	أحمر قانٍ	المقصود الكلمة التي تشدّد اللون، مثل «قانٍ» في «أحمر قانٍ»	machine		deep red, crimson	
+P065	أسود		machine		black	
+P065a	شيء أسود		machine		something black, a black thing	
+P065b	أسود حالك, أسود فاحم	المقصود الكلمة التي تشدّد اللون، مثل «حالك» في «أسود حالك»	machine		pitch black, jet black, coal black	
+P065c	داكن, غامق		machine		dark (of colour)	
+P066	أبيض		machine		white	
+P066a	شيء أبيض		machine		something white, a white thing	
+P066b	أبيض ناصع	المقصود الكلمة التي تشدّد اللون، مثل «ناصع» في «أبيض ناصع»	machine		brilliant white, pure white	
+P066c	فاتح اللون, باهت		machine		light, pale (of colour)	
+P067	أخضر		machine		green	
+P067a	شيء أخضر		machine		something green, a green thing	
+P067b	أخضر ناضر, أخضر يانع	المقصود الكلمة التي تشدّد اللون، مثل «ناضر» في «أخضر ناضر»	machine		lush green, fresh green	
+P068	أصفر		machine		yellow	
+P069	أزرق		machine		blue	
+P070	بُنّي		machine		brown	
+P071	مرقّط, مبقّع		machine		spotted, speckled	
+P071b	مرقّط جدًّا	المقصود الكلمة التي تشدّد «مرقّط» إن وُجدت في اللغة	machine		very spotted, heavily speckled	
+P072	ذو لون واحد, سادة		machine		single-coloured, plain	
+P073	أبلق		machine		piebald, pied (black and white)	
+P074	لذيذ, شهيّ		machine		delicious, tasty	
+P075	حلو		machine		sweet	
+P076	حامض		machine		sour	
+P077	مُرّ		machine		bitter	
+P078	مالح		machine		salty	
+P079	كريه الرائحة, نتن		machine		foul-smelling, stinking	
+P079b	رائحة كريهة, نتانة		machine		bad smell, stench	
+P080	طيّب الرائحة, عطِر		machine		fragrant, sweet-smelling	
+P080b	رائحة طيّبة, عبير		machine		pleasant smell, fragrance, scent	
+P081	سريع		machine		fast, quick	
+P081b	سرعة		machine		speed	
+P082	بطيء		machine		slow	
+P083	حرّان, شاعر بالحرّ		machine		feeling hot; he felt hot	
+P084	جائع, جوعان		machine		hungry	
+P084b	جوع		machine		hunger	
+P085	عطشان, ظمآن		machine		thirsty	
+P085b	عطش, ظمأ		machine		thirst	
+P086	شبعان		machine		full, satiated (after eating)	
+P087	مُتْعَب, تعبان		machine		tired	
+P087b	تعب, إرهاق		machine		tiredness, exhaustion, fatigue	
+P088	نعسان		machine		sleepy, drowsy	
+P088b	نعاس		machine		sleepiness, drowsiness	
+P089	مستيقظ, صاحٍ		machine		awake	
+P090	سكران, ثمل		machine		drunk	
+P091	دائخ, مصاب بالدوار		machine		dizzy	
+P092	عارٍ, عريان		machine		naked	
+P093	بصحة جيدة, معافى		machine		healthy, in good health, well	
+P093b	صحة, عافية		machine		health, wellness	
+P094	مريض		machine		sick, ill	
+P095	مريض, عليل		machine		sick, ailing	
+P096	قويّ		machine		strong	
+P096b	قوة		machine		strength, power	
+P096c	عظيم, مقتدر		machine		great, powerful, mighty	
+P096d	مجد, عظمة		machine		glory, greatness	
+P097	مفتول العضلات		machine		muscular, well-built	
+P098	ضعيف		machine		weak	
+P098b	ضعف		machine		weakness	
+P099	سمين, بدين		machine		fat, obese	
+P100	نحيف, نحيل		machine		thin, slim	
+P101	هزيل, ناحل		machine		emaciated, skinny, gaunt	
+P102	أعرج		machine		lame, limping	
+P103	أعمى, كفيف	«كفيف» ألطف من «أعمى»	machine		blind	
+P103b	عمى, فقدان البصر		machine		blindness, loss of sight	
+P104	قصير النظر		machine		short-sighted, near-sighted	
+P105	أبكم, أخرس		machine		mute, dumb	
+P106	أصلع		machine		bald	
+P107	عاجز جنسيًا, عِنّين		machine		(sexually) impotent	
+P108	حيّ		machine		alive, living	
+P109	ميّت		machine		dead	
+P110	شابّ, صغير السنّ		machine		young, youthful	
+P111	مُسِنّ, كبير السنّ		machine		elderly, old (in age)	
+P112	سعيد, فرحان		machine		happy, glad	
+P112b	سعادة, فرح		machine		happiness, joy	
+P113	حزين		machine		sad	
+P113b	حزن		machine		sadness, grief	
+P114	غاضب		machine		angry	
+P114b	غضب		machine		anger	
+P115	خائف		machine		afraid, scared	
+P115b	خوف		machine		fear	
+P116	فخور		machine		proud	
+P116b	فخر, اعتزاز		machine		pride	
+P117	غيور		machine		jealous	
+P117b	غيرة		machine		jealousy	
+P118	خجول		machine		shy, bashful	
+P118b	خجل, عار		machine		shyness, embarrassment, shame	
+P119	ضَجِر, شاعر بالملل		machine		bored, fed up	
+P120	متململ, لا يهدأ	لا يستقرّ في مكانه	machine		worried, anxious, troubled	
+P121	متحمّس, متلهّف		machine		excited, eager, enthusiastic	
+P122	فضولي, محبّ للاستطلاع		machine		curious, inquisitive	
+P123	وحيد, بمفرده		machine		alone, lonely, by oneself	
+P124	شجاع		machine		brave	
+P124b	شجاعة		machine		courage, bravery	
+P125	لطيف, طيّب		machine		kind, nice	
+P125b	لطف, طيبة		machine		kindness, goodness	
+P125c	شفقة, رحمة		machine		pity, mercy, compassion	
+P126	كريم		machine		generous	
+P127	أناني		machine		selfish	
+P128	صادق, أمين		machine		honest, truthful, trustworthy	
+P129	عادل		machine		fair, just	
+P129b	عدل, عدالة		machine		justice, fairness	
+P130	فاسد, مرتشٍ		machine		corrupt, bribe-taking	
+P131	شرير		machine		evil, wicked	
+P132	شرس, ضارٍ		machine		fierce, ferocious, vicious	
+P133	كسول, كسلان		machine		lazy	
+P133b	كسل		machine		laziness	
+P134	صبور		machine		patient	
+P134b	صبر		machine		patience	
+P135	نافد الصبر, قليل الصبر		machine		impatient	
+P136	عنيد		machine		stubborn	
+P136b	عناد		machine		stubbornness	
+P137	حكيم		machine		wise	
+P138	ذكيّ		machine		intelligent, clever	
+P139	أحمق, غبيّ		machine		foolish, stupid	
+P139b	حماقة, غباء		machine		foolishness, stupidity	
+P140	مرتبك, حائر		machine		confused, puzzled, perplexed	
+P141	جاهل		machine		ignorant	
+P142	ماهر, حاذق		machine		skilled, skilful, clever	
+P143	قادر		machine		able, capable	
+P143b	قدرة, استطاعة		machine		ability, capability	
+P144	فصيح, بليغ		machine		eloquent, articulate	
+P145	صامت, ساكت		machine		silent, quiet	
+P146	جيّد, حسن		machine		good, fine	
+P146b	كامل, مثالي		machine		complete, perfect, ideal	
+P146c	جيّدًا, كما ينبغي		machine		well, properly, as it should be	
+P146d	كمال		machine		perfection	
+P147	سيّئ, رديء		machine		bad, poor (in quality)	
+P147b	بشكل سيّئ, على نحو رديء		machine		badly, poorly	
+P148	صحيح, صائب		machine		correct, right	
+P149	خاطئ, مخطئ		machine		wrong, mistaken	
+P150	مذنب		machine		guilty	
+P151	بريء		machine		innocent	
+P152	جميل		machine		beautiful, pretty	
+P153	قبيح, دميم		machine		ugly	
+P154	مهمّ		machine		important	
+P155	مسلٍّ, مضحك		machine		entertaining, funny, amusing	
+P156	سهل		machine		easy	
+P157	صعب		machine		difficult, hard	
+P158	غنيّ		machine		rich, wealthy	
+P159	فقير		machine		poor	
+P160	غالٍ, مرتفع الثمن		machine		expensive, costly	
+P161	رخيص		machine		cheap	
+P162	ضائع, مفقود		machine		lost, missing	
+P163	غائب		machine		absent	
+P164	قريب من هنا		machine		near here, close by	
+P165	قريب من هناك		machine		near there, close to there	
+P166	بعيد		machine		far, distant	

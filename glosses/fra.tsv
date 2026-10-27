@@ -1646,3 +1646,218 @@ O013	les deux, tous les deux		machine		both
 O014	moitié		machine		half	
 O014b	morceau		machine		piece	
 O015	seulement		machine		only	
+P001	grand, gros		machine		be big, be large	
+P001b	taille, grandeur		machine		size, largeness	
+P002	petit		machine		be small	
+P003	grand (de taille)		machine		be tall (in stature)	
+P004	court, petit (de taille)		machine		be short, be small (in stature)	
+P005	haut		machine		be high	
+P006	bas		machine		be low	
+P007	profond		machine		be deep	
+P008	peu profond		machine		be shallow	
+P009	large		machine		be wide, be broad	
+P010	étroit		machine		be narrow	
+P011	mince (pas épais)		machine		be thin (not thick)	
+P012	lourd		machine		be heavy	
+P012b	poids		machine		weight	
+P013	léger		machine		be light (in weight)	
+P014	nombreux		machine		be many, be numerous	
+P014b	abondant		machine		be abundant, be plentiful	
+P015	peu nombreux		machine		be few	
+P016	suffisant, suffire		machine		suffice, be enough, be sufficient	
+P017	épuisé, fini (d'une provision)	Se dit d'une provision qui est finie.	machine		be used up, be finished	
+P018	rare		machine		be rare, be scarce	
+P019	égal		machine		be equal	
+P020	plus grand (que), dépasser		machine		exceed, be bigger than	
+P021	semblable, pareil		machine		be similar, resemble each other	
+P022	identique, le même		machine		be identical, be the same	
+P023	différent		machine		be different	
+P023b	autre		machine		other	
+P024	dernier (en ordre, en rang)		machine		be the last	
+P024b	dernier		machine		last	
+P025	varié, divers		machine		be varied, be diverse	
+P026	plat		machine		be flat	
+P027	rond		machine		be round	
+P028	droit		machine		be straight	
+P029	tordu, courbé		machine		be twisted, be bent, be curved	
+P030	creux		machine		be hollow	
+P031	dur		machine		be hard	
+P032	mou		machine		be soft	
+P033	tendre		machine		be tender	
+P034	tranchant, aiguisé		machine		be sharp (cutting), be sharpened	
+P035	émoussé		machine		be blunt, be dull (of a blade)	
+P036	rugueux		machine		be rough	
+P037	lisse		machine		be smooth	
+P038	glissant		machine		be slippery	
+P039	collant, gluant		machine		be sticky, be gooey	
+P040	ouvert		machine		be open	
+P041	fermé		machine		be closed, be shut	
+P042	serré		machine		be tight	
+P043	lâche, desserré		machine		be loose, be loosened	
+P044	plein		machine		be full	
+P045	vide		machine		be empty	
+P046	déchiré		machine		be torn	
+P047	neuf, nouveau		machine		be new, be brand new	
+P048	vieux, usé (pas neuf)		machine		be old, be worn out (not new)	
+P049	en lambeaux, en loques		machine		be in tatters, be in rags	
+P050	abîmé, endommagé		machine		be damaged, be spoiled	
+P051	propre		machine		be clean	
+P052	sale		machine		be dirty	
+P053	mouillé		machine		be wet	
+P054	sec		machine		be dry	
+P055	chaud (d'un objet)		machine		be hot, be warm (of an object)	
+P056	froid (d'un objet)		machine		be cold (of an object)	
+P057	mûr		machine		be ripe	
+P058	vert, pas mûr		machine		be unripe, be green	
+P059	pourri		machine		be rotten	
+P060	ratatiné, flétri		machine		be shrivelled, be withered	
+P061	fertile (sol)		machine		be fertile (soil)	
+P062	stérile, infertile (sol)		machine		be barren, be infertile (soil)	
+P063	couleur		machine		colour	
+P064	rouge		machine		be red	
+P064a	chose rouge		machine		red thing	
+P064b	très (rouge), tout rouge	Demander la forme intensive ou l'idéophone : « tout rouge ».	machine		very (red), bright red	
+P065	noir		machine		be black	
+P065a	chose noire		machine		black thing	
+P065b	très (noir), tout noir	Demander la forme intensive ou l'idéophone : « tout noir ».	machine		very (black), pitch black	
+P065c	foncé, sombre (de couleur)		machine		be dark (in colour)	
+P066	blanc		machine		be white	
+P066a	chose blanche		machine		white thing	
+P066b	très (blanc), tout blanc	Demander la forme intensive ou l'idéophone : « tout blanc ».	machine		very (white), pure white	
+P066c	clair, pâle (de couleur)		machine		be light, be pale (in colour)	
+P067	vert		machine		be green	
+P067a	chose verte		machine		green thing	
+P067b	très (vert), tout vert	Demander la forme intensive ou l'idéophone : « tout vert ».	machine		very (green), bright green	
+P068	jaune		machine		be yellow	
+P069	bleu		machine		be blue	
+P070	brun, marron		machine		be brown	
+P071	tacheté		machine		be spotted, be speckled	
+P071b	très (tacheté), tout tacheté	Demander la forme intensive ou l'idéophone : « tout tacheté ».	machine		very (spotted), all spotted	
+P072	d'une seule couleur, uni		machine		be of a single colour, be plain (solid-coloured)	
+P073	pie (noir et blanc)		machine		be piebald (black and white)	
+P074	savoureux, délicieux		machine		be tasty, be delicious	
+P075	sucré, doux		machine		be sweet	
+P076	acide, aigre		machine		be sour, be acidic	
+P077	amer		machine		be bitter	
+P078	salé		machine		be salty	
+P079	sentir mauvais, puer		machine		smell bad, stink	
+P079b	mauvaise odeur, puanteur		machine		bad smell, stench	
+P080	sentir bon		machine		smell good	
+P080b	arôme, bonne odeur		machine		aroma, pleasant smell	
+P081	rapide		machine		be fast, be quick	
+P081b	vitesse		machine		speed	
+P082	lent		machine		be slow	
+P083	avoir chaud		machine		be hot, feel hot (of a person)	
+P084	avoir faim		machine		be hungry	
+P084b	faim		machine		hunger	
+P085	avoir soif		machine		be thirsty	
+P085b	soif		machine		thirst	
+P086	rassasié		machine		be full (after eating), be satiated	
+P087	fatigué		machine		be tired	
+P087b	fatigue		machine		tiredness, fatigue	
+P088	avoir sommeil		machine		be sleepy	
+P088b	envie de dormir, somnolence		machine		desire to sleep, sleepiness, drowsiness	
+P089	éveillé, réveillé		machine		be awake, be woken up	
+P090	ivre, soûl		machine		be drunk, be intoxicated	
+P091	avoir la tête qui tourne, avoir le vertige		machine		be dizzy, have one's head spinning	
+P092	nu		machine		be naked	
+P093	en bonne santé		machine		be in good health, be healthy	
+P093b	santé		machine		health	
+P094	malade		machine		be sick, be ill	
+P095	malade, souffrant		machine		be sick, be unwell, be ailing	
+P096	fort		machine		be strong	
+P096b	force		machine		strength, force	
+P096c	puissant		machine		be powerful	
+P096d	gloire, splendeur		machine		glory, splendour	
+P097	musclé		machine		be muscular	
+P098	faible		machine		be weak	
+P098b	faiblesse		machine		weakness	
+P099	gros		machine		be fat	
+P100	maigre, mince		machine		be thin, be skinny	
+P101	très maigre, décharné		machine		be very thin, be emaciated	
+P102	qui boite, boiteux	« Boiteux » peut être perçu comme peu respectueux.	machine		limp, be lame	
+P103	aveugle		machine		be blind	
+P103b	cécité		machine		blindness	
+P104	myope		machine		be short-sighted, be near-sighted	
+P105	muet		machine		be mute, be dumb	
+P106	chauve		machine		be bald	
+P107	impuissant (sexuellement)		machine		be impotent (sexually)	
+P108	vivant, en vie		machine		be alive, be living	
+P109	mort		machine		be dead	
+P110	jeune		machine		be young	
+P111	vieux, âgé		machine		be old, be elderly, be aged	
+P112	heureux, content		machine		be happy, be glad, be pleased	
+P112b	bonheur, joie		machine		happiness, joy	
+P113	triste		machine		be sad	
+P113b	tristesse		machine		sadness	
+P114	en colère, fâché		machine		be angry, be annoyed	
+P114b	colère		machine		anger	
+P115	avoir peur		machine		be afraid, be scared	
+P115b	peur		machine		fear	
+P116	fier		machine		be proud	
+P116b	fierté, orgueil		machine		pride	
+P117	jaloux		machine		be jealous	
+P117b	jalousie		machine		jealousy	
+P118	timide		machine		be shy, be timid	
+P118b	honte		machine		shame	
+P119	s'ennuyer		machine		be bored	
+P120	agité		machine		be restless, be agitated	
+P121	impatient (de faire), enthousiaste		machine		be eager (to do), be enthusiastic	
+P122	curieux		machine		be curious	
+P123	seul		machine		be alone	
+P124	courageux		machine		be brave, be courageous	
+P124b	courage		machine		courage, bravery	
+P125	gentil, bon		machine		be kind, be good	
+P125b	gentillesse, bonté		machine		kindness, goodness	
+P125c	pitié, compassion		machine		pity, compassion	
+P126	généreux		machine		be generous	
+P127	égoïste		machine		be selfish	
+P128	honnête		machine		be honest	
+P129	juste		machine		be fair, be just	
+P129b	justice		machine		justice	
+P130	corrompu		machine		be corrupt	
+P131	méchant		machine		be wicked, be mean, be nasty	
+P132	féroce		machine		be fierce, be ferocious	
+P133	paresseux		machine		be lazy	
+P133b	paresse		machine		laziness	
+P134	patient		machine		be patient	
+P134b	patience		machine		patience	
+P135	impatient		machine		be impatient	
+P136	têtu, obstiné		machine		be stubborn, be obstinate	
+P136b	entêtement, obstination		machine		stubbornness, obstinacy	
+P137	sage		machine		be wise	
+P138	intelligent		machine		be intelligent, be clever	
+P139	bête, sot		machine		be stupid, be foolish	
+P139b	bêtise, sottise		machine		stupidity, foolishness	
+P140	confus, désorienté		machine		be confused, be disoriented	
+P141	ignorant		machine		be ignorant	
+P142	habile, doué		machine		be skilful, be talented	
+P143	capable, pouvoir		machine		be able, can	
+P143b	capacité		machine		ability, capacity	
+P144	éloquent		machine		be eloquent	
+P145	silencieux, se taire		machine		be quiet, be silent	
+P146	bon		machine		be good	
+P146b	parfait		machine		be perfect	
+P146c	bien, comme il faut		machine		well, properly	
+P146d	perfection		machine		perfection	
+P147	mauvais		machine		be bad	
+P147b	mal		machine		badly	
+P148	correct, juste		machine		be correct, be right	
+P149	faux, incorrect		machine		be false, be incorrect, be wrong	
+P150	coupable		machine		be guilty	
+P151	innocent		machine		be innocent	
+P152	beau		machine		be beautiful, be handsome	
+P153	laid		machine		be ugly	
+P154	important		machine		be important	
+P155	drôle, amusant		machine		be funny, be amusing	
+P156	facile		machine		be easy	
+P157	difficile		machine		be difficult, be hard	
+P158	riche		machine		be rich, be wealthy	
+P159	pauvre		machine		be poor	
+P160	cher, coûteux		machine		be expensive, cost a lot	
+P161	bon marché, pas cher		machine		be cheap, be inexpensive	
+P162	perdu, égaré		machine		be lost, be astray	
+P163	absent		machine		be absent	
+P164	proche (d'ici), tout près d'ici		machine		be near (here), be close to here	
+P165	proche de là-bas, près de là-bas	Près d'un endroit éloigné du locuteur.	machine		be near there, be close to over there	
+P166	éloigné, lointain		machine		be far, be distant	
