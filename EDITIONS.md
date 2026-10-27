@@ -4,7 +4,7 @@ Each edition is named by its date. The newest is at the top.
 
 ## Next edition (not yet released)
 
-- **Glosses in other languages** (`glosses/`): French, Arabic and Amharic for sections A and B, machine audited only so far.
+- **Glosses in other languages** (`glosses/`): French, Arabic and Amharic for sections A, B and C, machine audited only so far.
 - **Ethnic groups, ready to insert:** `ethnic_groups.tsv`, 119 groups in the C + ISO 639-3 pattern (CAMH *Amhara person*, CAMHf, CAMHm), 357 items, all hidden and **not counted in the list's totals**, each with its regional code and a Clarification naming the language its code comes from. One code per ethnonym: where one name covers several ISO languages, the macrolanguage code (CARA *Arab*, CSWA *Swahili*, CFUL *Fulani*).
 - Clarifications added after the first gloss pilot (section A in French, Amharic and Arabic): A003 *hair*, A008 *vein*, A054 *neckbone*, A092 *arm bone*, A120 *vagina*, A125a *outer knee*, A125b *inner knee*; and from section B: B016 *chief*, B026 *metalsmith*, B041 *mage*, B042 *priest*, B049m *impotent man*, B055 *giant*. No gloss or number changed.
 

@@ -343,3 +343,130 @@ B061m	أَرْمَل		machine		widower
 B062	يَتِيم		machine		orphan	
 B062f	يَتِيمة		machine		orphan (female); orphan girl	
 B062m	يَتِيم		machine		orphan (male); orphan boy	
+C001	أحد الوالدين		machine		one of the parents, a parent	
+C001f	أم		machine		mother	
+C001m	أب		machine		father	
+C002	أخ أو أخت		machine		brother or sister, sibling	
+C002f	أخت		machine		sister	
+C002m	أخ		machine		brother	
+C003	أخ أكبر أو أخت كبرى	Older than oneself, not necessarily the eldest (the definite form would read 'the eldest').	machine		older brother or older sister, elder sibling	
+C003f	أخت كبرى	Older than oneself, not necessarily the eldest (the definite form would read 'the eldest').	machine		older sister	
+C003m	أخ أكبر	Older than oneself, not necessarily the eldest (the definite form would read 'the eldest').	machine		older brother	
+C004	أخ أصغر أو أخت صغرى	Younger than oneself, not necessarily the youngest (the definite form would read 'the youngest').	machine		younger brother or younger sister, younger sibling	
+C004f	أخت صغرى	Younger than oneself, not necessarily the youngest (the definite form would read 'the youngest').	machine		younger sister	
+C004m	أخ أصغر	Younger than oneself, not necessarily the youngest (the definite form would read 'the youngest').	machine		younger brother	
+C005	زوج أو زوجة		machine		husband or wife, spouse	
+C005f	زوجة		machine		wife	
+C005m	زوج		machine		husband	
+C006	أحد الأزواج أو الزوجات لشخص واحد	In practice a co-wife (ضرّة); Arabic has no general word for co-spouses.	machine		co-wife	
+C006f	ضَرّة		machine		co-wife	
+C006m	زوج آخر للمرأة نفسها في آن واحد	Descriptive phrase: another husband of the same wife, at the same time.	machine		co-husband, another husband of the same woman	
+C007	عروس أو عريس		machine		bride or bridegroom, newlywed	
+C007f	عروس		machine		bride	
+C007m	عريس		machine		bridegroom, groom	
+C008	خطيب أو خطيبة	خطيب here is 'fiancé', not 'preacher'.	machine		fiance or fiancee, betrothed	
+C008f	خطيبة		machine		fiancee	
+C008m	خطيب	خطيب here is 'fiancé', not 'preacher'.	machine		fiance	
+C009	ابن أو ابنة, ولد	ولد here in the formal sense 'offspring' of either sex.	machine		son or daughter, child	
+C009f	ابنة		machine		daughter	
+C009m	ابن		machine		son	
+C010	حفيد أو حفيدة		machine		grandson or granddaughter, grandchild	
+C010f	حفيدة		machine		granddaughter	
+C010m	حفيد		machine		grandson	
+C011	سَلَف		machine		ancestor, forebear	
+C011f	سَلَف (امرأة), جَدّة	A female forebear of any generation; جدة alone is usually 'grandmother'.	machine		grandmother	
+C011m	سَلَف (رجل), جَدّ	A male forebear of any generation; جد alone is usually 'grandfather'.	machine		grandfather	
+C012	جَدّ أو جَدّة من جهة الأب		machine		paternal grandparent	
+C012f	جَدّة من جهة الأب		machine		paternal grandmother	
+C012m	جَدّ من جهة الأب		machine		paternal grandfather	
+C013	جَدّ الأب أو جَدّته		machine		paternal great-grandparent, father's grandparent	
+C013f	جَدّة الأب		machine		paternal great-grandmother, father's grandmother	
+C013m	جَدّ الأب		machine		paternal great-grandfather, father's grandfather	
+C014	عمّ أو عمّة		machine		paternal uncle or aunt, father's sibling	
+C014f	عمّة		machine		paternal aunt, father's sister	
+C014m	عمّ		machine		paternal uncle, father's brother	
+C015	ابن أو بنت العم أو العمة	Covers the children of the father's brother (عم) and of the father's sister (عمة).	machine		paternal cross/parallel cousin: child of father's brother or sister	
+C015f	بنت العم أو العمة		machine		paternal cousin (f.), daughter of father's brother or sister	
+C015m	ابن العم أو العمة		machine		paternal cousin (m.), son of father's brother or sister	
+C016	جَدّ أو جَدّة من جهة الأم		machine		maternal grandparent	
+C016f	جَدّة من جهة الأم		machine		maternal grandmother	
+C016m	جَدّ من جهة الأم		machine		maternal grandfather	
+C017	جَدّ الأم أو جَدّتها		machine		maternal great-grandparent, mother's grandparent	
+C017f	جَدّة الأم		machine		maternal great-grandmother, mother's grandmother	
+C017m	جَدّ الأم		machine		maternal great-grandfather, mother's grandfather	
+C018	خال أو خالة		machine		maternal uncle or aunt, mother's sibling	
+C018f	خالة		machine		maternal aunt, mother's sister	
+C018m	خال		machine		maternal uncle, mother's brother	
+C019	ابن أو بنت الخال أو الخالة	Covers the children of the mother's brother (خال) and of the mother's sister (خالة).	machine		maternal cousin: child of mother's brother or sister	
+C019f	بنت الخال أو الخالة		machine		maternal cousin (f.), daughter of mother's brother or sister	
+C019m	ابن الخال أو الخالة		machine		maternal cousin (m.), son of mother's brother or sister	
+C020	والد الزوج أو والدته, حَمو أو حماة	حمو / حماة are used for the parents of either spouse.	machine		parent-in-law (husband's parent)	
+C020f	أم الزوج, حماة	حماة is used for either spouse's mother.	machine		mother-in-law (husband's mother)	
+C020m	أبو الزوج, حَمو	حمو is used for either spouse's father.	machine		father-in-law (husband's father)	
+C021	أخو الزوج أو أخته		machine		brother-in-law or sister-in-law (husband's sibling)	
+C021f	أخت الزوج		machine		sister-in-law (husband's sister)	
+C021m	أخو الزوج		machine		brother-in-law (husband's brother)	
+C022	ابن أو بنت أخي الزوج أو أخته		machine		nephew or niece (husband's sibling's child)	
+C022f	بنت أخي الزوج أو أخته		machine		niece (husband's sibling's daughter)	
+C022m	ابن أخي الزوج أو أخته		machine		nephew (husband's sibling's son)	
+C023	والد الزوجة أو والدتها, حَمو أو حماة	حمو / حماة are used for the parents of either spouse.	machine		parent-in-law (wife's parent)	
+C023f	أم الزوجة, حماة	حماة is used for either spouse's mother.	machine		mother-in-law (wife's mother)	
+C023m	أبو الزوجة, حَمو	حمو is used for either spouse's father.	machine		father-in-law (wife's father)	
+C024	أخو الزوجة أو أختها		machine		brother-in-law or sister-in-law (wife's sibling)	
+C024f	أخت الزوجة		machine		sister-in-law (wife's sister)	
+C024m	أخو الزوجة, نسيب	نسيب is also an in-law by marriage in general.	machine		brother-in-law (wife's brother)	
+C025	ابن أو بنت أخي الزوجة أو أختها		machine		nephew or niece (wife's sibling's child)	
+C025f	بنت أخي الزوجة أو أختها		machine		niece (wife's sibling's daughter)	
+C025m	ابن أخي الزوجة أو أختها		machine		nephew (wife's sibling's son)	
+C026	زوجة الابن أو زوج الابنة		machine		child-in-law: daughter-in-law or son-in-law	
+C026f	كَنّة, زوجة الابن		machine		daughter-in-law (son's wife)	
+C026m	صِهر, زوج الابنة		machine		son-in-law (daughter's husband)	
+C027	سَليل		machine		descendant, offspring	
+C027f	سَليلة		machine		female descendant	
+C027m	سَليل (ذكر)		machine		male descendant	
+C028	طفل غير شرعي, ولد زنا	ولد زنا is the blunt legal term and also an insult.	machine		illegitimate child, bastard	
+C028f	بنت غير شرعية, بنت زنا	بنت زنا is blunt and also an insult.	machine		illegitimate daughter	
+C028m	ابن غير شرعي, ابن زنا	ابن زنا is blunt and also an insult.	machine		illegitimate son, bastard	
+C029	قريب, أحد الأقارب	قريب alone also means 'near'.	machine		relative, kinsman	
+C029f	قريبة, إحدى القريبات		machine		relative (f.), kinswoman	
+C029m	قريب (ذكر), أحد الأقارب		machine		relative (m.), kinsman	
+C030	عائلة, أسرة		machine		family, household	
+C031	عشيرة		machine		clan	
+C032	شعب, قوم		machine		people, nation, ethnic group	
+C033	حشد		machine		crowd, throng	
+C034	صديق		machine		friend	
+C034f	صديقة		machine		friend (f.), female friend	
+C034m	صديق (رجل)		machine		friend (m.), male friend	
+C035	سَمِيّ, من يحمل الاسم نفسه		machine		namesake, person with the same name	
+C035f	سَمِيّة, امرأة تحمل الاسم نفسه	سمية is also the girl's name Sumayya.	machine		namesake (f.)	
+C035m	سَمِيّ, رجل يحمل الاسم نفسه		machine		namesake (m.)	
+C036	أحد المعارف		machine		acquaintance	
+C036f	امرأة من المعارف		machine		acquaintance (f.)	
+C036m	رجل من المعارف		machine		acquaintance (m.)	
+C037	جار		machine		neighbour	
+C037f	جارة		machine		neighbour (f.)	
+C037m	جار (رجل)		machine		neighbour (m.)	
+C038	ضيف		machine		guest	
+C038f	ضيفة		machine		guest (f.)	
+C038m	ضيف (رجل)		machine		guest (m.)	
+C039	مُضيف, صاحب البيت		machine		host, householder	
+C039f	مُضيفة, صاحبة البيت	مضيفة alone often means 'flight attendant'.	machine		hostess, lady of the house	
+C039m	مُضيف (رجل), صاحب البيت		machine		host (m.), master of the house	
+C040	غريب	As a noun: an unknown person (not 'strange').	machine		stranger	
+C040f	غريبة (امرأة)	As a noun: an unknown person, not 'strange, odd'.	machine		stranger (f.), strange woman	
+C040m	غريب (رجل)	As a noun: an unknown person, not 'strange, odd'.	machine		stranger (m.), strange man	
+C041	عدوّ		machine		enemy	
+C041f	عدوّة		machine		enemy (f.)	
+C041m	عدوّ (رجل)		machine		enemy (m.)	
+C042	أجنبي		machine		foreigner	
+C042f	امرأة أجنبية		machine		foreign woman	
+C042m	رجل أجنبي		machine		foreign man	
+C043	شخص أسود البشرة	In Sudan dark skin is usually called أزرق 'blue' or أخضر 'green'; bare أسود can be pejorative there.	machine		black-skinned person, dark-skinned person	
+C043f	امرأة سوداء البشرة		machine		black-skinned woman, dark-skinned woman	
+C043m	رجل أسود البشرة		machine		black-skinned man, dark-skinned man	
+C044	شخص أحمر, فاتح البشرة	أحمر here describes light skin, not 'red-skinned'.	machine		red person, light-skinned person	
+C044f	امرأة حمراء, فاتحة البشرة		machine		red (light-skinned) woman	
+C044m	رجل أحمر, فاتح البشرة		machine		red (light-skinned) man	
+C045	شخص أبيض البشرة, خواجة	خواجة: a white foreigner, usually European.	machine		white-skinned person, white foreigner	
+C045f	امرأة بيضاء البشرة, خواجية	خواجية: a white foreign woman.	machine		white-skinned woman, white foreign woman	
+C045m	رجل أبيض البشرة, خواجة		machine		white-skinned man, white foreigner	
