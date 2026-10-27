@@ -4,7 +4,7 @@ A002	peau		machine		skin
 A002b	ride		machine		wrinkle	
 A003	cheveu, poil		machine		hair (single), body hair	
 A003b	poil (du corps)		machine		body hair	
-A003c	touffe (de cheveux)		machine		tuft (of hair)	
+A003c	mèche de cheveux, touffe de cheveux		machine		lock of hair, tuft of hair	
 A004	os		machine		bone	
 A004b	squelette		machine		skeleton	
 A005	muscle		machine		muscle	

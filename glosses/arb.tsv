@@ -4,7 +4,7 @@ A002	جلد		machine		skin
 A002b	تجعيدة		machine		wrinkle, crease	
 A003	شَعْر		machine		hair	
 A003b	شعر الجسم		machine		body hair	
-A003c	خصلة		machine		lock, tuft (of hair)	
+A003c	خُصْلة شعر, قُنْزُعة	القُنْزُعة: خصلة من الشعر تُترك على الرأس المحلوق.	machine		lock of hair, tuft (of hair)	
 A004	عظم		machine		bone	
 A004b	هيكل عظمي		machine		skeleton	
 A005	عضلة		machine		muscle	
@@ -110,8 +110,8 @@ A091a	عضد		machine		upper arm
 A091b	ساعد		machine		forearm	
 A092	عَظْم الذراع		machine		arm bone	
 A093	مرفق, كوع		machine		elbow	
-A093a	ظاهر المرفق		machine		point/back of the elbow	
-A093b	باطن المرفق		machine		crook/inside of the elbow	
+A093a	ظاهر المرفق, رأس المرفق		machine		back of the elbow, point of the elbow	
+A093b	باطن المرفق, ثنية المرفق		machine		inside of the elbow, crook of the elbow	
 A094	يد		machine		hand	
 A095	كف		machine		palm (of the hand)	
 A096	إصبع		machine		finger	

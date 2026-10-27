@@ -4,7 +4,7 @@ A002	ቆዳ		machine		skin
 A002b	መጨማደድ, ሽብሽብ		machine		wrinkle; crease, fold (of skin or cloth)	
 A003	ፀጉር		machine		hair	
 A003b	የሰውነት ጸጉር		machine		body hair	
-A003c	የጸጉር ዘለላ, ቁንጮ		machine		tuft of hair left on the crown of a shaved head	
+A003c	የተለየ የጸጉር ዘለላ, ቁንጮ	ቁንጮ፦ በተላጨ ራስ ላይ የሚቀር የጸጉር ዘለላ	machine		separate lock of hair, topknot	
 A004	አጥንት		machine		bone	
 A004b	አጽም		machine		skeleton; bones, remains (of the dead)	
 A005	ጡንቻ		machine		muscle	
@@ -110,8 +110,8 @@ A091a	የላይኛው ክንድ		machine		upper arm
 A091b	የታችኛው ክንድ		machine		forearm; arm	
 A092	የክንድ አጥንት		machine		arm bone	
 A093	ክርን		machine		elbow	
-A093a	የክርን ውጫዊ ክፍል		machine		outer part of the elbow (point of the elbow)	
-A093b	የክርን ውስጠኛ ክፍል		machine		inner part of the elbow, crook of the arm	
+A093a	የክርን ጫፍ, የክርን ውጫዊ ክፍል		machine		point of the elbow, outer part of the elbow	
+A093b	የክርን ውስጠኛ ክፍል, የክንድ መታጠፊያ		machine		inner part of the elbow, bend of the arm	
 A094	እጅ		machine		hand	
 A095	መዳፍ		machine		palm (of the hand)	
 A096	ጣት		machine		finger	
