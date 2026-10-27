@@ -10,7 +10,7 @@ A004b	skeleton	NOUN	yes
 A005	muscle	NOUN	yes			
 A006	tendon	NOUN	yes			
 A007	blood	NOUN	yes			
-A008	vein	NOUN	yes		or artery	
+A008	vein	NOUN	yes		either vessel, (a) artery, or (b) vein	
 A009	head	NOUN	yes			
 A009b	top	NOUN	no		upper part or surface of something	
 A010	pate	NOUN	yes		top of the head, crown	
@@ -108,7 +108,7 @@ A090	spine	NOUN	yes
 A091	arm	NOUN	yes			
 A091a	upper arm	NOUN	yes			
 A091b	forearm	NOUN	yes			
-A092	arm bone	NOUN	yes		either upper or lower	
+A092	arm bone	NOUN	yes		either arm, (a) upper, or (b) fore	
 A093	elbow	NOUN	yes			
 A093a	outer elbow	NOUN	yes			
 A093b	inner elbow	NOUN	yes			
