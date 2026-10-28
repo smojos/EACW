@@ -2,9 +2,11 @@
 
 Each edition is named by its date. The newest is at the top.
 
+**Conversion tables (from edition 2026-10-27 on):** every edition after 2026-10-27 comes with a conversion table from the edition before it, `conversions/<previous> to <this>.tsv`, even when nothing was renumbered (the table is then just its header), so that a database on any older edition can be upgraded progressively, edition by edition, to the latest release. Each table has two columns, `old` and `new`: a reference that changed is listed with its new one; a deleted item has `-`. **A deleted item's lemma:** an empty one is removed; one that holds data is never lost, but moved to the next available item number at the end of its section (as the researcher's own reference, outside the list). Items not listed keep their reference.
+
 ## Next edition (not yet released)
 
-Nothing yet.
+Nothing yet. When it is released, it needs `conversions/2026-10-27 to <its date>.tsv` (see *Conversion tables* above).
 
 ## 2026-10-27
 
