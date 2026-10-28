@@ -84,7 +84,7 @@ A single region takes the blank codes, the A codes and that region's letter.
 
 ## Editions
 
-Each release is an edition named by its date; [EDITIONS.md](EDITIONS.md) says what each one changed, so that a database built on an earlier edition can be brought up to date; `conversions/` holds the old-to-new reference tables. From edition 2026-10-27 on, every edition has one from the edition before it, so a database on any older edition can be upgraded step by step to the latest; a deleted item is `-`, and a lemma with data on it moves to the next available number at the end of its section (EDITIONS.md, *Conversion tables*).
+Each release is an edition named by its date; [EDITIONS.md](EDITIONS.md) says what each one changed, so that a database built on an earlier edition can be brought up to date; `conversions/` holds the old-to-new reference tables. From edition 2026-10-27 on, every edition has one from the edition before it, so a database on any older edition can be upgraded step by step to the latest; a deleted item is `-`, and a lemma with data on it moves to the next available number at the end of its section (EDITIONS.md, *Conversion tables*). The tables are plain text under CC BY 4.0, so any tool can apply them, not only Lemmatrix.
 
 ## Corrections and suggestions
 

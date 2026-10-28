@@ -2,7 +2,7 @@
 
 Each edition is named by its date. The newest is at the top.
 
-**Conversion tables (from edition 2026-10-27 on):** every edition after 2026-10-27 comes with a conversion table from the edition before it, `conversions/<previous> to <this>.tsv`, even when nothing was renumbered (the table is then just its header), so that a database on any older edition can be upgraded progressively, edition by edition, to the latest release. Each table has two columns, `old` and `new`: a reference that changed is listed with its new one; a deleted item has `-`. **A deleted item's lemma:** an empty one is removed; one that holds data is never lost, but moved to the next available item number at the end of its section (as the researcher's own reference, outside the list). Items not listed keep their reference.
+**Conversion tables (from edition 2026-10-27 on):** every edition after 2026-10-27 comes with a conversion table from the edition before it, `conversions/<previous> to <this>.tsv`, even when nothing was renumbered (the table is then just its header), so that a database on any older edition can be upgraded progressively, edition by edition, to the latest release. Each table has two columns, `old` and `new`: a reference that changed is listed with its new one; a deleted item has `-`. **A deleted item's lemma:** an empty one is removed; one that holds data is never lost, but moved to the next available item number at the end of its section (as the researcher's own reference, outside the list). Items not listed keep their reference. The tables are part of the dataset, plain tab-separated text under the same CC BY 4.0 licence, so the conversion is open: any program, script or spreadsheet can apply it, not only Lemmatrix.
 
 ## Next edition (not yet released)
 
